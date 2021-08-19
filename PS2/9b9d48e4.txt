@@ -1,0 +1,248 @@
+
+	Exporting Textures:
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   separatetrou
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   61      8-Bit   crok_vest_spec_01
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  255      8-Bit   mv_gs_tubbsface04
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  122      8-Bit   skin_spec_02
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   tubbs_mouth_teeth
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  255      8-Bit   eye_dkbrown
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   68      8-Bit   testshader01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   newshoe
+		Size 9472         Width 128     Height 64     MultiBitAlpha FALSE   nColors   68      8-Bit   mv_gs_tubbs_new_alha_e3
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_shirt01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_chest01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   28      8-Bit   mv_gs_tubbs_chain01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors  203      8-Bit   reflect_shiny_stripe_mod2
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_suitbody01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_suitarm01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbshand01
+		Size 66816        Width 256     Height 256    MultiBitAlpha TRUE    nColors  254      8-Bit   as_artfoyer_floor
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   14      4-Bit   reflect_shiny_stripesub_add
+
+		Total Size (254 k) (260672 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 735008   Collision Size 0        Total Size 735056    Tubbs_Body5
+		Render Size 5584     Collision Size 7160     Total Size 12792     Mesh_base
+
+		Total Render Size:    (723 k) (740592 bytes)
+		Total Collision Size: (6 k) (7160 bytes)
+		Total Size:           (730 k) (747752 bytes)
+
+	Exporting Animations:
+		Size 13788           tubbs_1meterclimb1008.hop
+		Size 14248           tubbs_2meterclimb1009.hop
+		Size 11416           tubbs_aim_round_corner_left_1206.hop
+		Size 13280           tubbs_aim_round_corner_left_back_1207.hop
+		Size 2512            tubbs_aim_round_corner_left_idle_1208.hop
+		Size 8968            tubbs_aim_round_corner_right_1209.hop
+		Size 13248           tubbs_aim_round_corner_right_back_1210.hop
+		Size 2396            tubbs_aim_round_corner_right_idle_1211.hop
+		Size 24528           tubbs_arrest_1089.hop
+		Size 25332           tubbs_Backward_Dive_1043.hop
+		Size 2920            tubbs_callforhelp1020.hop
+		Size 11080           tubbs_climb_down_1072.hop
+		Size 10612           tubbs_climb_up_1070.hop
+		Size 5196            tubbs_crouched_walk_1217.hop
+		Size 20536           tubbs_die_1106.hop
+		Size 12528           tubbs_disarm_1048.hop
+		Size 9392            tubbs_dismount_bottom_1075.hop
+		Size 15532           tubbs_dismount_top_1077.hop
+		Size 14520           tubbs_extended_idle_1061.hop
+		Size 1740            tubbs_fall1007.hop
+		Size 21184           tubbs_Forward_Dive_1040.hop
+		Size 10756           tubbs_free_1067.ANM
+		Size 12672           tubbs_Getup_1065.hop
+		Size 13540           tubbs_give_item_1066.hop
+		Size 12388           tubbs_heal_partner_1064.hop
+		Size 11488           tubbs_heavylanding1011.hop
+		Size 19896           tubbs_hit1019.ANM
+		Size 3572            tubbs_idle1005.hop
+		Size 2292            tubbs_idle_against_wall_1202.hop
+		Size 7576            tubbs_jump1014.ANM
+		Size 13264           tubbs_Kickdoor_1030.hop
+		Size 3912            tubbs_Kneel_Down_1046.hop
+		Size 2324            tubbs_Kneel_Idle_1045.hop
+		Size 6496            tubbs_Kneel_Stand_1047.hop
+		Size 24964           tubbs_Left_Dive_1042.hop
+		Size 6940            tubbs_lightlanding1010.hop
+		Size 3600            tubbs_look_round_corner_left_1201.hop
+		Size 3704            tubbs_look_round_corner_left_back_1200.hop
+		Size 2060            tubbs_look_round_corner_left_idle_1215.hop
+		Size 4420            tubbs_look_round_corner_right_1205.hop
+		Size 4416            tubbs_look_round_corner_right_back_1212.hop
+		Size 2112            tubbs_look_round_corner_right_idle_1216.hop
+		Size 10704           Tubbs_Manipulate_Switch_1103.hop
+		Size 9236            tubbs_mount_ladder_bottom_1071.hop
+		Size 16184           tubbs_mount_ladder_top_1076.hop
+		Size 12772           tubbs_normal_jump_1038.hop
+		Size 8016            tubbs_open_door_away_1068.hop
+		Size 19316           tubbs_open_door_toward_1069.ANM
+		Size 5852            Tubbs_pickup_1085.ANM
+		Size 3180            tubbs_pickup_table_down_1090.hop
+		Size 3940            tubbs_pickup_table_up_1091.hop
+		Size 5608            Tubbs_pickup_up_1092.hop
+		Size 20144           tubbs_Right_Dive_1041.hop
+		Size 17100           tubbs_roll_left_1062.hop
+		Size 11972           tubbs_roll_right_1063.hop
+		Size 12776           tubbs_run_unarmed_1060.hop
+		Size 5876            tubbs_shimmy_against_wall_left_1204.hop
+		Size 5460            tubbs_shimmy_against_wall_right_1203.hop
+		Size 2024            tubbs_slide_1073.hop
+		Size 7952            tubbs_slide_dismount_1074.hop
+		Size 7996            tubbs_sneak1006.hop
+		Size 6616            tubbs_stepdown_1013.hop
+		Size 7964            tubbs_stepup1012.hop
+		Size 5800            tubbs_strafe_Backward_1051.hop
+		Size 5500            tubbs_strafe_forward_1050.hop
+		Size 1740            tubbs_strafe_idle_1054.hop
+		Size 5420            tubbs_strafe_left_1052.hop
+		Size 5400            tubbs_strafe_Right_1053.hop
+		Size 9260            tubbs_turn_to_wall_1214.hop
+		Size 3692            tubbs_upperbody_aim_pistol_1094.ANM
+		Size 3484            tubbs_upperbody_aim_Rife_1102.ANM
+		Size 4244            tubbs_upperbody_aim_shotgun_1080.ANM
+		Size 3532            tubbs_upperbody_aim_uzi_1097.ANM
+		Size 8548            tubbs_upperbody_damage_1093.ANM
+		Size 3076            tubbs_upperbody_fire_pistol_1095.ANM
+		Size 2792            tubbs_upperbody_fire_shotgun_1079.ANM
+		Size 2236            tubbs_upperbody_fire_Uzi_1098.ANM
+		Size 2788            tubbs_upperbody_hold_pistol_1100.ANM
+		Size 5140            tubbs_upperbody_hold_Rifle_1101.ANM
+		Size 3732            tubbs_upperbody_hold_shotgun_1084.ANM
+		Size 3492            tubbs_upperbody_hold_Uzi_1099.ANM
+		Size 10416           tubbs_upperbody_holster_shotgun_1083.ANM
+		Size 11580           tubbs_upperbody_reload_automatic_1213.ANM
+		Size 6016            tubbs_upperbody_reload_pistol_1096.ANM
+		Size 8768            tubbs_upperbody_reload_shotgun_1081.ANM
+		Size 8268            tubbs_upperbody_unholster_shotgun_1082.ANM
+		Size 9316            tubbs_walk1001.hop
+
+		Total Anim Size:    (744 k) (762276 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 1: (6 k) (6148 bytes)
+
+				TotalSize: (6 k) (6564 bytes)
+
+		Size Of Asset Tree                     data (6        k) (6564         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (2        k) (2820         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (9 k) (9904 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Tubbs_Body5
+			Texture: separatetrou
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod2
+			Texture: mv_gs_tubbs_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbshand01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbs_chest01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbsface04
+			Texture: mv_gs_tubbs_shirt01
+			Texture: testshader01
+			Texture: newshoe
+			Texture: testshader01
+			Texture: mv_gs_tubbsface04
+			Texture: skin_spec_02
+			Texture: tubbs_mouth_teeth
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: mv_gs_tubbs_shirt01
+			Texture: mv_gs_tubbs_new_alha_e3
+
+		Geometry: Mesh_base
+			Texture: as_artfoyer_floor
+			Texture: reflect_shiny_stripesub_add
+
+
+	Texture -> Geometry Association:
+		Texture: separatetrou
+			Geometry: Tubbs_Body5
+
+		Texture: crok_vest_spec_01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbsface04
+			Geometry: Tubbs_Body5
+
+		Texture: skin_spec_02
+			Geometry: Tubbs_Body5
+
+		Texture: tubbs_mouth_teeth
+			Geometry: Tubbs_Body5
+
+		Texture: eye_dkbrown
+			Geometry: Tubbs_Body5
+
+		Texture: testshader01
+			Geometry: Tubbs_Body5
+
+		Texture: newshoe
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_new_alha_e3
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_shirt01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chest01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chain01
+			Geometry: Tubbs_Body5
+
+		Texture: reflect_shiny_stripe_mod2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitbody01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitarm01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbshand01
+			Geometry: Tubbs_Body5
+
+		Texture: as_artfoyer_floor
+			Geometry: Mesh_base
+
+		Texture: reflect_shiny_stripesub_add
+			Geometry: Mesh_base
+

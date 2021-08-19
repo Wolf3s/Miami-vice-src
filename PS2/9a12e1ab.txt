@@ -1,0 +1,1192 @@
+
+	Exporting Textures:
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors  129      8-Bit   smokey
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  130      8-Bit   foam_particle
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors    5      4-Bit   beach_wall_cream
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   chop_road02
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   chop_paving
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  160      8-Bit   chop_wall_cream
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_neck1w
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  248      8-Bit   skin_spec_02
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand02
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   54      8-Bit   testshader01
+		Size 4416         Width 64      Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   gal_palmbark
+		Size 4416         Width 64      Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   gal_palmtop
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   separatetrou
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   45      8-Bit   crok_vest_spec_01
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  255      8-Bit   mv_gs_tubbsface04
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  111      8-Bit   skin_spec_021
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   tubbs_mouth_teeth
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  252      8-Bit   eye_dkbrown
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   newshoe
+		Size 9472         Width 128     Height 64     MultiBitAlpha FALSE   nColors   51      8-Bit   mv_gs_tubbs_new_alha_e3
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_tubbs_shirt01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_chest01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   28      8-Bit   mv_gs_tubbs_chain01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors  197      8-Bit   reflect_shiny_stripe_mod2
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_suitbody01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_suitarm01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbshand01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth1
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors    7      4-Bit   spec2
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   beach_sand
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   beach_grass
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_beach_cliff03
+		Size 65792        Width 128     Height 128    MultiBitAlpha TRUE    nColors >  1024   32-Bit  chop_sea
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors   99      8-Bit   sea_foam
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  251      8-Bit   skydome
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   chop_lampost
+		Size 3328         Width 64      Height 32     MultiBitAlpha FALSE   nColors   23      8-Bit   chop_palm
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   chop_awning
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   chop_parasol
+		Size 16640        Width 64      Height 64     MultiBitAlpha FALSE   nColors  619      32-Bit  chop_noisegrad
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   49      8-Bit   chop_slats
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crockhandsb
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_jb_crockholster
+		Size 65792        Width 128     Height 128    MultiBitAlpha TRUE    nColors  938      32-Bit  mv_jb_crockglassb1
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  640      32-Bit  crock_hairb
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  256      8-Bit   crock15b
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crocktrews2b
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   17      8-Bit   subtlespec
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crockt02b
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crockarm02
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  254      8-Bit   mv_jb_crockshoe02
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  255      8-Bit   eyebl1
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  152      8-Bit   reflect_shiny_stripe_mod
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   reflect_shiny_stripe_add
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   chop_wind01
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  255      8-Bit   chop_shops
+		Size 1536         Width 16      Height 16     MultiBitAlpha TRUE    nColors   27      8-Bit   chop_neon01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   13      4-Bit   white_noise_dirt
+		Size 17664        Width 128     Height 128    MultiBitAlpha TRUE    nColors  125      8-Bit   chop_neon011
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   chop_dumpster
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   cardboard
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   osama bin liner
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors   11      4-Bit   as_mesh_fence_post
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors   32      8-Bit   railing
+		Size 448          Width 16      Height 16     MultiBitAlpha TRUE    nColors   13      4-Bit   chop_neon02
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  254      8-Bit   chop_wind03
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  207      8-Bit   chop_wind06
+		Size 17664        Width 128     Height 128    MultiBitAlpha TRUE    nColors  129      8-Bit   chop_neon03
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   14      4-Bit   manhole_quater
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  267      32-Bit  shadow2
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    1      4-Bit   as_black_railgallery
+		Size 4352         Width 32      Height 32     MultiBitAlpha TRUE    nColors  638      32-Bit  dirt
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   chop_patchb
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   chop_drain
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   chop_patcha
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   air_con2
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   14      4-Bit   00_ld_mv_daytona_body
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   10      4-Bit   00_ld_mv_daytona_black_leather
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   00_ld_mv_daytona_lights
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors   13      4-Bit   00_ld_mv_daytona_lights2
+		Size 2368         Width 64      Height 64     MultiBitAlpha TRUE    nColors   13      4-Bit   00_ld_mv_daytona_windows
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   00_ld_mv_daytona_interiortan
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors   14      4-Bit   00_ld_mv_daytona_chrome
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   00_ld_mv_daytona_wheels
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   28      8-Bit   00_ld_mv_daytona_spokes
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_beach_cliff02
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  211      8-Bit   beach_road
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   cb_radio
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   70      8-Bit   32x_generic
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   56      8-Bit   windows2
+		Size 16640        Width 64      Height 64     MultiBitAlpha FALSE   nColors >  1024   32-Bit  grille1
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors   16      4-Bit   red_lights
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   wheelporsche
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   wheel
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand01b
+		Size 16704        Width 128     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   bikini_briefs05
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm01b
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_foot01fb
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_body01fb
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_leg01fb
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm01w
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_body01f
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_leg01f
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_gs_generic_head_fb01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   47      8-Bit   lip_spec_01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_hair_fb01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   eyebrownl
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors    2      4-Bit   mv_gs_generic_eyelashes
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  230      8-Bit   skin_spec_0211
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtbody02
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_dea_trou
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm02w
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   mv_gs_genericshoe04
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtarm02s
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  253      8-Bit   mv_gs_joe02
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_dress01f
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_genericdressfrills01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_shoes01f
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_gs_generic_head_fw01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_hair_wb01
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtbody08
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtarm08s
+		Size 17664        Width 256     Height 64     MultiBitAlpha FALSE   nColors  100      8-Bit   cbcable
+		Size 65792        Width 128     Height 128    MultiBitAlpha FALSE   nColors >  1024   32-Bit  mv_gs_leigh02
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   23      8-Bit   mv_gs_leighalpha03
+
+		Total Size (1600 k) (1638656 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 11040    Collision Size 2384     Total Size 13472     PalmTree_base
+		Render Size 735008   Collision Size 0        Total Size 735056    Tubbs_Body5
+		Render Size 10272    Collision Size 4868     Total Size 15188     beach_beach
+		Render Size 9280     Collision Size 1044     Total Size 10372     chop_beach path
+		Render Size 800      Collision Size 812      Total Size 1660      chop sea
+		Render Size 448      Collision Size 396      Total Size 892       chop foam
+		Render Size 8896     Collision Size 0        Total Size 8944      skydome chopshop
+		Render Size 12880    Collision Size 752      Total Size 13680     choplampost
+		Render Size 88672    Collision Size 0        Total Size 88720     chop_palm
+		Render Size 2000     Collision Size 0        Total Size 2048      chop_awning
+		Render Size 15328    Collision Size 3144     Total Size 18520     chop_chair
+		Render Size 3936     Collision Size 1328     Total Size 5312      chop_table
+		Render Size 827888   Collision Size 0        Total Size 827936    Crockett_skin_2
+		Render Size 7552     Collision Size 292      Total Size 7892      chop_lowerwall
+		Render Size 14848    Collision Size 1656     Total Size 16552     chop_balcL
+		Render Size 18416    Collision Size 1080     Total Size 19544     chop_balcR
+		Render Size 6672     Collision Size 1472     Total Size 8192      chop_cent
+		Render Size 3920     Collision Size 0        Total Size 3968      chop_roofB
+		Render Size 41504    Collision Size 0        Total Size 41552     Chop_sidestreet
+		Render Size 2976     Collision Size 0        Total Size 3024      chop_shopsA
+		Render Size 4096     Collision Size 0        Total Size 4144      chop_shopsB
+		Render Size 19344    Collision Size 0        Total Size 19392     Chop_hotel sign
+		Render Size 22832    Collision Size 2060     Total Size 24940     chop_steps
+		Render Size 14736    Collision Size 752      Total Size 15536     chop_beds
+		Render Size 384      Collision Size 0        Total Size 432       chop_neon04
+		Render Size 384      Collision Size 0        Total Size 432       chop_neon05
+		Render Size 384      Collision Size 0        Total Size 432       chop_neon06
+		Render Size 6928     Collision Size 752      Total Size 7728      chop_dump
+		Render Size 1872     Collision Size 0        Total Size 1920      chop_dumpLid
+		Render Size 1360     Collision Size 0        Total Size 1408      Card_smallbox_open
+		Render Size 1312     Collision Size 0        Total Size 1360      card_smallbox_closed
+		Render Size 2880     Collision Size 752      Total Size 3680      chop_refuse
+		Render Size 14192    Collision Size 1332     Total Size 15572     mesh_railing
+		Render Size 384      Collision Size 0        Total Size 432       chop_neonstrip
+		Render Size 576      Collision Size 408      Total Size 1032      chop_door01
+		Render Size 992      Collision Size 292      Total Size 1332      chop_lowwind
+		Render Size 384      Collision Size 0        Total Size 432       chop_neon13
+		Render Size 384      Collision Size 0        Total Size 432       chop_neon08
+		Render Size 384      Collision Size 0        Total Size 432       chop_neon09
+		Render Size 384      Collision Size 0        Total Size 432       chop_neon10
+		Render Size 384      Collision Size 0        Total Size 432       chop_neon11
+		Render Size 384      Collision Size 0        Total Size 432       chop_neon12
+		Render Size 640      Collision Size 304      Total Size 992       chop_varibrick
+		Render Size 1392     Collision Size 0        Total Size 1440      Manhole
+		Render Size 384      Collision Size 292      Total Size 724       shadow_generic
+		Render Size 400      Collision Size 0        Total Size 448       dirt
+		Render Size 576      Collision Size 0        Total Size 624       chop_patchB
+		Render Size 1696     Collision Size 0        Total Size 1744      chop_drain
+		Render Size 448      Collision Size 0        Total Size 496       chop_patchA
+		Render Size 5328     Collision Size 0        Total Size 5376      AirCon2
+		Render Size 362992   Collision Size 0        Total Size 363040    daytona
+		Render Size 4208     Collision Size 2564     Total Size 6820      beach_road
+		Render Size 2144     Collision Size 2624     Total Size 4816      beach_road_curve
+		Render Size 2208     Collision Size 2684     Total Size 4940      beach_beach_curve
+		Render Size 2432     Collision Size 2852     Total Size 5332      Cb_radio_handset
+		Render Size 70544    Collision Size 82832    Total Size 153424    Esprit_WH
+		Render Size 94432    Collision Size 106276   Total Size 200756    Porsche911_WH
+		Render Size 33648    Collision Size 2536     Total Size 36232     Porsche911_WH2
+		Render Size 34000    Collision Size 2296     Total Size 36344     Esprit_WH2
+		Render Size 102608   Collision Size 0        Total Size 102656    Bikini_Tiger01B
+		Render Size 43968    Collision Size 0        Total Size 44016     Generic_head_BF01
+		Render Size 93008    Collision Size 0        Total Size 93056     GM_hawiian_shirt01
+		Render Size 34624    Collision Size 0        Total Size 34672     Generic_Head03
+		Render Size 82336    Collision Size 0        Total Size 82384     Dress_girl01
+		Render Size 44480    Collision Size 0        Total Size 44528     Generic_head_WF02
+		Render Size 93008    Collision Size 0        Total Size 93056     GM_peach_shirt01
+		Render Size 384      Collision Size 292      Total Size 724       CBcable
+		Render Size 42784    Collision Size 0        Total Size 42832     Generic_Head05
+
+		Total Render Size:    (2999 k) (3071968 bytes)
+		Total Collision Size: (225 k) (231128 bytes)
+		Total Size:           (3225 k) (3303096 bytes)
+
+	Exporting Animations:
+		Size 7400            Henchman_Aim_Round_Corner_Left_2216.hop
+		Size 1300            Henchman_Aim_Round_Corner_Left_Idle_2222.hop
+		Size 7444            Henchman_Aim_Round_Corner_Left_Stepback_2223.hop
+		Size 8624            Henchman_Aim_Round_Corner_Right_2217.hop
+		Size 1292            Henchman_Aim_Round_Corner_Right_Idle_2224.hop
+		Size 8764            Henchman_Aim_Round_Corner_Right_Stepback_2225.hop
+		Size 1836            Henchman_Aim_Sniper_Kneel_2277.hop
+		Size 1512            Henchman_Aim_Sniper_Standing_2276.hop
+		Size 4460            Henchman_Aim_Stand_to_kneel_2279.ANM
+		Size 6956            Henchman_Crouched_Run_2239.hop
+		Size 1436            Henchman_Cuffed_Idle_2238.hop
+		Size 15140           Henchman_damage_explosion_heavy_2282.hop
+		Size 17856           Tubbs_Idle_Look_9098.ANM
+		Size 1292            Henchman_damage_explosion_heavy_dead_2286.hop
+		Size 15636           Henchman_damage_explosion_light_2283.hop
+		Size 1292            Henchman_damage_explosion_light_dead_2285.hop
+		Size 17916           Henchman_damage_explosion_light_getup_2284.hop
+		Size 11792           Henchman_Damage_head_2220.hop
+		Size 10212           Henchman_Damage_Low_2270.hop
+		Size 1308            Henchman_Dead_2218.hop
+		Size 1360            Henchman_Dead_2266.hop
+		Size 11712           Henchman_Die_2206.hop
+		Size 12636           Henchman_Die_2265.hop
+		Size 14552           Henchman_die_back_2275.hop
+		Size 5060            Henchman_die_balcony_backward_fall_2288.hop
+		Size 19228           Henchman_die_balcony_backward_hit_2287.hop
+		Size 7356            Henchman_die_balcony_backward_land_2289.hop
+		Size 4736            Henchman_die_balcony_forward_fall_2291.hop
+		Size 21888           Henchman_die_balcony_forward_hit_2292.hop
+		Size 5880            Henchman_die_balcony_forward_land_2290.hop
+		Size 3512            Henchman_die_fall_backwards_fall_2294.hop
+		Size 10884           Henchman_die_fall_backwards_hit_2295.hop
+		Size 3560            Henchman_die_fall_backwards_land_2293.hop
+		Size 12480           Henchman_die_fall_forward_2272.hop
+		Size 1300            Henchman_die_fall_forward_fall_2273.hop
+		Size 73876           Crockett_Walk_Run_9081.ANM
+		Size 87944           Tubbs_Walk_Run_9082.ANM
+		Size 4444            Henchman_die_fall_forward_land_2271.hop
+		Size 11908           Crockett_Idle_Look_9083.ANM
+		Size 19384           Henchman_die_fall_to_knees_2274.hop
+		Size 19364           Henchman_dive_roll_left_2228.hop
+		Size 17996           Henchman_dive_roll_right_2227.hop
+		Size 6576            Henchman_extended_idle_2219.hop
+		Size 2380            Henchman_Fire_Sniper_rifle_2278.hop
+		Size 23384           Henchman_getting_cuffed_2234.hop
+		Size 7700            Henchman_Hands_Up_2235.hop
+		Size 2648            Henchman_Hands_Up_Idle_2236.hop
+		Size 7672            Henchman_Hands_Up_Pull_Gun_2237.hop
+		Size 2572            Henchman_Idle_2200.hop
+		Size 3600            Henchman_idle_against_wall_2226.hop
+		Size 6532            Henchman_Kick_Door_2229.hop
+		Size 3596            Henchman_Kneel_2203.hop
+		Size 5308            Henchman_Kneel_aim_to_stand_2281.ANM
+		Size 1304            Henchman_Kneel_Idle_2204.hop
+		Size 3676            Henchman_Kneel_Stand_2205.hop
+		Size 7040            Henchman_Run_2201.hop
+		Size 5492            Henchman_Sidestep_Left_2207.hop
+		Size 6744            Henchman_Sidestep_Right_2208.hop
+		Size 5084            henchman_solo_arrested_2240.hop
+		Size 1940            Henchman_solo_arrested_idle_2241.hop
+		Size 4512            Henchman_Strafe_Backward_2209.hop
+		Size 4956            Henchman_Strafe_Forward_2210.hop
+		Size 5072            Henchman_Strafe_Left_2211.hop
+		Size 5088            Henchman_Strafe_Right_2212.hop
+		Size 3440            Henchman_Upperbody_Aim_Rifle_2253.ANM
+		Size 3540            Henchman_Upperbody_Aim_Shotgun_2260.ANM
+		Size 1864            Henchman_Upperbody_Aim_Uzi_2215.ANM
+		Size 5888            Henchman_Upperbody_Damage_2264.ANM
+		Size 1732            henchman_upperbody_Fire_Rifle_2252.ANM
+		Size 2688            Henchman_Upperbody_Fire_Shotgun_2261.ANM
+		Size 1832            Henchman_Upperbody_Fire_Uzi_2213.ANM
+		Size 4092            Henchman_Upperbody_Hold_Rifle_2259.ANM
+		Size 3308            Henchman_Upperbody_Hold_Shotgun_2263.ANM
+		Size 6876            Henchman_Upperbody_look_2221.ANM
+		Size 6876            Henchman_Upperbody_look_2231.ANM
+		Size 11816           Henchman_Upperbody_Reload_Rifle_2251.ANM
+		Size 7840            Henchman_Upperbody_Reload_Shotgun_2262.ANM
+		Size 8744            Henchman_Upperbody_Reload_Uzi_2214.ANM
+		Size 10792           Henchman_Walk_2202.ANM
+		Size 21676           Tubbs_Explosion_9312.ANM
+		Size 26640           Crockett_Explosion_9313.ANM
+		Size 1864            Henchman_Upperbody_Hold_Uzi_2256.ANM
+		Size 44084           CROCKETT_DRIVING_9074.ANM
+		Size 53452           Tubbs_Driving_9280.ANM
+		Size 54592           Crockett_Driving_9366.ANM
+		Size 53768           tubbs_driving_9367.ANM
+		Size 13596           WAlk_3003.ANM
+		Size 2712            crockett_talking_9368.VNM
+		Size 1772            tubbs_talking_9369.VNM
+		Size 2912            Sit_3007.ANM
+		Size 2696            male_sitting_9394.ANM
+
+		Total Anim Size:    (975 k) (998496 bytes)
+
+	Exporting Sound FX:
+		SFX Size 50448       nChannels 1       Frequency 22050       8 Bit           daytona pull up and stop.wav
+		SFX Size 37856       nChannels 1       Frequency 22050       8 Bit           daytona start and off.wav
+
+		Total Sound Size:    (86 k) (88304 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (1 k) (1104 bytes)
+			Hull: Storage:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 2: (0 k) (392 bytes)
+				Bone, Morph, AnimInstance Data 0: (0 k) (224 bytes)
+
+				TotalSize: (0 k) (708 bytes)
+
+			Hull: road 6:
+				Asset Tree: nLeaves 50, nBranches 49: (9 k) (10088 bytes)
+				StaticInstances 593: (74 k) (75904 bytes)
+				DynamicInstances 15: (2 k) (2940 bytes)
+				Bone, Morph, AnimInstance Data 593: (30 k) (31340 bytes)
+				StaticLights 1: (0 k) (48 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 2: (0 k) (344 bytes)
+				DynamicSFX 2: (0 k) (272 bytes)
+
+				TotalSize: (118 k) (120992 bytes)
+
+			Hull: road 23:
+				Asset Tree: nLeaves 5, nBranches 3: (0 k) (796 bytes)
+				StaticInstances 44: (5 k) (5632 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 44: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (6 k) (6484 bytes)
+
+			Hull: skydome Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (112 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (0 k) (584 bytes)
+
+			Hull: side_street:
+				Asset Tree: nLeaves 7, nBranches 6: (1 k) (1316 bytes)
+				StaticInstances 60: (7 k) (7680 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 60: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (8 k) (9052 bytes)
+
+		Size Of Asset Tree                     data (134      k) (137820       bytes) - Save Game (1        k) (1080        bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (16       k) (17048        bytes) - Save Game (0        k) (20          bytes)
+		Size Of Process Object                 data (0        k) (108          bytes) - Save Game (0        k) (12          bytes)
+		Size Of Portal Data                    data (0        k) (424          bytes) - Save Game (0        k) (16          bytes)
+		Size Of Nav Mesh                       data (74       k) (76720        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (4        k) (4232         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (3        k) (3216         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		4 User Data elements
+		4 User Data Pointer Fixups
+		Sizeof user data (0 k) (112 bytes)
+
+
+		Total size in PUB (235 k) (240928 bytes)
+
+
+		Editor Assets Save Game Size (1 k) (1128 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (1 k) (1128 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: PalmTree_base
+			Texture: gal_palmbark
+			Texture: gal_palmtop
+
+		Geometry: Tubbs_Body5
+			Texture: separatetrou
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod2
+			Texture: mv_gs_tubbs_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbshand01
+			Texture: skin_spec_021
+			Texture: mv_gs_tubbs_chest01
+			Texture: skin_spec_021
+			Texture: mv_gs_tubbsface04
+			Texture: mv_gs_tubbs_shirt01
+			Texture: testshader01
+			Texture: newshoe
+			Texture: testshader01
+			Texture: mv_gs_tubbsface04
+			Texture: skin_spec_021
+			Texture: tubbs_mouth_teeth
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: mv_gs_tubbs_shirt01
+			Texture: mv_gs_tubbs_new_alha_e3
+
+		Geometry: beach_beach
+			Texture: beach_sand
+			Texture: beach_grass
+			Texture: mv_beach_cliff03
+
+		Geometry: chop_beach path
+			Texture: chop_paving
+
+		Geometry: chop sea
+			Texture: chop_sea
+
+		Geometry: chop foam
+			Texture: sea_foam
+
+		Geometry: skydome chopshop
+			Texture: skydome
+
+		Geometry: choplampost
+			Texture: chop_lampost
+
+		Geometry: chop_palm
+			Texture: chop_palm
+
+		Geometry: chop_awning
+			Texture: chop_awning
+
+		Geometry: chop_chair
+			Texture: chop_noisegrad
+			Texture: chop_slats
+
+		Geometry: chop_table
+			Texture: chop_noisegrad
+			Texture: chop_parasol
+			Texture: chop_slats
+
+		Geometry: Crockett_skin_2
+			Texture: mv_jb_crockhandsb
+			Texture: skin_spec_021
+			Texture: mv_jb_crockshoe02
+			Texture: mv_jb_crockarm02
+			Texture: skin_spec_021
+			Texture: eyebl1
+			Texture: testshader01
+			Texture: mv_jb_crockshoe02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_jb_crockt02b
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_crocktrews2b
+			Texture: subtlespec
+			Texture: crock15b
+			Texture: skin_spec_021
+			Texture: mv_jb_crockholster
+			Texture: spec2
+			Texture: mv_jb_crockholster
+			Texture: reflect_shiny_stripe_add
+			Texture: mouth_teeth1
+			Texture: crock_hairb
+			Texture: skin_spec_021
+			Texture: mv_jb_crockglassb1
+			Texture: mv_jb_crockglassb1
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: chop_lowerwall
+			Texture: beach_wall_cream
+
+		Geometry: chop_balcL
+			Texture: beach_wall_cream
+			Texture: chop_wind01
+
+		Geometry: chop_balcR
+			Texture: beach_wall_cream
+			Texture: chop_wind01
+
+		Geometry: chop_cent
+			Texture: beach_wall_cream
+
+		Geometry: chop_roofB
+			Texture: beach_wall_cream
+
+		Geometry: Chop_sidestreet
+			Texture: chop_road02
+			Texture: chop_paving
+
+		Geometry: chop_shopsA
+			Texture: chop_shops
+
+		Geometry: chop_shopsB
+			Texture: chop_shops
+
+		Geometry: Chop_hotel sign
+			Texture: beach_wall_cream
+			Texture: chop_neon01
+
+		Geometry: chop_steps
+			Texture: beach_wall_cream
+
+		Geometry: chop_beds
+			Texture: white_noise_dirt
+			Texture: mv_beach_cliff03
+
+		Geometry: chop_neon04
+			Texture: chop_neon011
+
+		Geometry: chop_neon05
+			Texture: chop_neon011
+
+		Geometry: chop_neon06
+			Texture: chop_neon011
+
+		Geometry: chop_dump
+			Texture: chop_dumpster
+
+		Geometry: chop_dumpLid
+			Texture: chop_dumpster
+
+		Geometry: Card_smallbox_open
+			Texture: cardboard
+
+		Geometry: card_smallbox_closed
+			Texture: cardboard
+
+		Geometry: chop_refuse
+			Texture: osama bin liner
+
+		Geometry: mesh_railing
+			Texture: as_mesh_fence_post
+			Texture: railing
+
+		Geometry: chop_neonstrip
+			Texture: chop_neon02
+
+		Geometry: chop_door01
+			Texture: chop_wind03
+
+		Geometry: chop_lowwind
+			Texture: chop_wind06
+
+		Geometry: chop_neon13
+			Texture: chop_neon03
+
+		Geometry: chop_neon08
+			Texture: chop_neon03
+
+		Geometry: chop_neon09
+			Texture: chop_neon03
+
+		Geometry: chop_neon10
+			Texture: chop_neon03
+
+		Geometry: chop_neon11
+			Texture: chop_neon03
+
+		Geometry: chop_neon12
+			Texture: chop_neon03
+
+		Geometry: chop_varibrick
+			Texture: chop_wall_cream
+
+		Geometry: Manhole
+			Texture: manhole_quater
+
+		Geometry: shadow_generic
+			Texture: shadow2
+
+		Geometry: dirt
+			Texture: dirt
+
+		Geometry: chop_patchB
+			Texture: chop_patchb
+
+		Geometry: chop_drain
+			Texture: chop_drain
+
+		Geometry: chop_patchA
+			Texture: chop_patcha
+
+		Geometry: AirCon2
+			Texture: air_con2
+
+		Geometry: daytona
+			Texture: 00_ld_mv_daytona_body
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_wheels
+			Texture: 00_ld_mv_daytona_interiortan
+			Texture: 00_ld_mv_daytona_lights2
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_black_leather
+			Texture: 00_ld_mv_daytona_lights
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_chrome
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_windows
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_spokes
+
+		Geometry: beach_road
+			Texture: mv_beach_cliff02
+			Texture: beach_road
+
+		Geometry: beach_road_curve
+			Texture: beach_road
+			Texture: mv_beach_cliff02
+
+		Geometry: beach_beach_curve
+			Texture: beach_sand
+
+		Geometry: Cb_radio_handset
+			Texture: cb_radio
+
+		Geometry: Esprit_WH
+			Texture: windows2
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_chrome
+			Texture: spec2
+			Texture: grille1
+			Texture: spec2
+			Texture: red_lights
+			Texture: spec2
+			Texture: as_black_railgallery
+			Texture: wheelporsche
+			Texture: wheel
+
+		Geometry: Porsche911_WH
+			Texture: windows2
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_chrome
+			Texture: spec2
+			Texture: grille1
+			Texture: spec2
+			Texture: red_lights
+			Texture: spec2
+			Texture: as_black_railgallery
+			Texture: wheelporsche
+			Texture: wheel
+
+		Geometry: Porsche911_WH2
+			Texture: 32x_generic
+			Texture: spec2
+
+		Geometry: Esprit_WH2
+			Texture: 32x_generic
+			Texture: spec2
+
+		Geometry: Bikini_Tiger01B
+			Texture: mv_gs_genericwhand01b
+			Texture: skin_spec_021
+			Texture: bikini_briefs05
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_generic_full_arm01b
+			Texture: skin_spec_021
+			Texture: mv_gs_generic_foot01fb
+			Texture: skin_spec_021
+			Texture: mv_gs_generic_body01fb
+			Texture: skin_spec_021
+			Texture: mv_gs_generic_leg01fb
+			Texture: skin_spec_021
+
+		Geometry: Generic_head_BF01
+			Texture: mv_gs_generic_head_fb01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_head_fb01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_hair_fb01
+			Texture: testshader01
+			Texture: eyebrownl
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+
+		Geometry: GM_hawiian_shirt01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_0211
+			Texture: mv_gs_gshirtbody02
+			Texture: mv_dea_trou
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_0211
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_0211
+			Texture: mv_gs_genericshoe04
+			Texture: mv_gs_gshirtarm02s
+
+		Geometry: Generic_Head03
+			Texture: mv_gs_joe02
+			Texture: skin_spec_02
+			Texture: eyebl1
+			Texture: lip_spec_01
+
+		Geometry: Dress_girl01
+			Texture: mv_gs_generic_dress01f
+			Texture: mv_gs_generic_shoes01f
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_leg01f
+			Texture: skin_spec_021
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_021
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_021
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_021
+			Texture: mv_gs_genericdressfrills01
+
+		Geometry: Generic_head_WF02
+			Texture: mv_gs_generic_head_fw01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_gs_generic_hair_wb01
+			Texture: eyebl1
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_head_fw01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+
+		Geometry: GM_peach_shirt01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_0211
+			Texture: mv_gs_gshirtbody08
+			Texture: mv_dea_trou
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_0211
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_0211
+			Texture: mv_gs_genericshoe04
+			Texture: mv_gs_gshirtarm08s
+
+		Geometry: CBcable
+			Texture: cbcable
+
+		Geometry: Generic_Head05
+			Texture: mv_gs_leigh02
+			Texture: skin_spec_02
+			Texture: eyebl1
+			Texture: lip_spec_01
+			Texture: mv_gs_leigh02
+			Texture: mv_gs_leighalpha03
+
+
+	Texture -> Geometry Association:
+		Texture: smokey
+
+		Texture: foam_particle
+
+		Texture: beach_wall_cream
+			Geometry: chop_lowerwall
+			Geometry: chop_balcL
+			Geometry: chop_balcR
+			Geometry: chop_cent
+			Geometry: chop_roofB
+			Geometry: Chop_hotel sign
+			Geometry: chop_steps
+
+		Texture: chop_road02
+			Geometry: Chop_sidestreet
+
+		Texture: chop_paving
+			Geometry: chop_beach path
+			Geometry: Chop_sidestreet
+
+		Texture: chop_wall_cream
+			Geometry: chop_varibrick
+
+		Texture: mv_gs_generic_neck1w
+			Geometry: GM_hawiian_shirt01
+			Geometry: GM_peach_shirt01
+
+		Texture: skin_spec_02
+			Geometry: Generic_head_BF01
+			Geometry: Generic_Head03
+			Geometry: Generic_head_WF02
+			Geometry: Generic_Head05
+
+		Texture: mv_gs_genericwhand02
+			Geometry: GM_hawiian_shirt01
+			Geometry: GM_peach_shirt01
+
+		Texture: testshader01
+			Geometry: Tubbs_Body5
+			Geometry: Crockett_skin_2
+			Geometry: Generic_head_BF01
+
+		Texture: gal_palmbark
+			Geometry: PalmTree_base
+
+		Texture: gal_palmtop
+			Geometry: PalmTree_base
+
+		Texture: separatetrou
+			Geometry: Tubbs_Body5
+
+		Texture: crok_vest_spec_01
+			Geometry: Tubbs_Body5
+			Geometry: Crockett_skin_2
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_tubbsface04
+			Geometry: Tubbs_Body5
+
+		Texture: skin_spec_021
+			Geometry: Tubbs_Body5
+			Geometry: Crockett_skin_2
+			Geometry: Bikini_Tiger01B
+			Geometry: Dress_girl01
+
+		Texture: tubbs_mouth_teeth
+			Geometry: Tubbs_Body5
+
+		Texture: eye_dkbrown
+			Geometry: Tubbs_Body5
+
+		Texture: newshoe
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_new_alha_e3
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_shirt01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chest01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chain01
+			Geometry: Tubbs_Body5
+			Geometry: Generic_head_WF02
+
+		Texture: reflect_shiny_stripe_mod2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitbody01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitarm01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbshand01
+			Geometry: Tubbs_Body5
+
+		Texture: mouth_teeth1
+			Geometry: Crockett_skin_2
+
+		Texture: spec2
+			Geometry: Crockett_skin_2
+			Geometry: daytona
+			Geometry: Esprit_WH
+			Geometry: Porsche911_WH
+			Geometry: Porsche911_WH2
+			Geometry: Esprit_WH2
+
+		Texture: beach_sand
+			Geometry: beach_beach
+			Geometry: beach_beach_curve
+
+		Texture: beach_grass
+			Geometry: beach_beach
+
+		Texture: mv_beach_cliff03
+			Geometry: beach_beach
+			Geometry: chop_beds
+
+		Texture: chop_sea
+			Geometry: chop sea
+
+		Texture: sea_foam
+			Geometry: chop foam
+
+		Texture: skydome
+			Geometry: skydome chopshop
+
+		Texture: chop_lampost
+			Geometry: choplampost
+
+		Texture: chop_palm
+			Geometry: chop_palm
+
+		Texture: chop_awning
+			Geometry: chop_awning
+
+		Texture: chop_parasol
+			Geometry: chop_table
+
+		Texture: chop_noisegrad
+			Geometry: chop_chair
+			Geometry: chop_table
+
+		Texture: chop_slats
+			Geometry: chop_chair
+			Geometry: chop_table
+
+		Texture: mv_jb_crockhandsb
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockholster
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockglassb1
+			Geometry: Crockett_skin_2
+
+		Texture: crock_hairb
+			Geometry: Crockett_skin_2
+
+		Texture: crock15b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crocktrews2b
+			Geometry: Crockett_skin_2
+
+		Texture: subtlespec
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockt02b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockarm02
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockshoe02
+			Geometry: Crockett_skin_2
+
+		Texture: eyebl1
+			Geometry: Crockett_skin_2
+			Geometry: Generic_Head03
+			Geometry: Generic_head_WF02
+			Geometry: Generic_Head05
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Crockett_skin_2
+			Geometry: Generic_head_WF02
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Crockett_skin_2
+
+		Texture: chop_wind01
+			Geometry: chop_balcL
+			Geometry: chop_balcR
+
+		Texture: chop_shops
+			Geometry: chop_shopsA
+			Geometry: chop_shopsB
+
+		Texture: chop_neon01
+			Geometry: Chop_hotel sign
+
+		Texture: white_noise_dirt
+			Geometry: chop_beds
+
+		Texture: chop_neon011
+			Geometry: chop_neon04
+			Geometry: chop_neon05
+			Geometry: chop_neon06
+
+		Texture: chop_dumpster
+			Geometry: chop_dump
+			Geometry: chop_dumpLid
+
+		Texture: cardboard
+			Geometry: Card_smallbox_open
+			Geometry: card_smallbox_closed
+
+		Texture: osama bin liner
+			Geometry: chop_refuse
+
+		Texture: as_mesh_fence_post
+			Geometry: mesh_railing
+
+		Texture: railing
+			Geometry: mesh_railing
+
+		Texture: chop_neon02
+			Geometry: chop_neonstrip
+
+		Texture: chop_wind03
+			Geometry: chop_door01
+
+		Texture: chop_wind06
+			Geometry: chop_lowwind
+
+		Texture: chop_neon03
+			Geometry: chop_neon13
+			Geometry: chop_neon08
+			Geometry: chop_neon09
+			Geometry: chop_neon10
+			Geometry: chop_neon11
+			Geometry: chop_neon12
+
+		Texture: manhole_quater
+			Geometry: Manhole
+
+		Texture: shadow2
+			Geometry: shadow_generic
+
+		Texture: as_black_railgallery
+			Geometry: Esprit_WH
+			Geometry: Porsche911_WH
+
+		Texture: dirt
+			Geometry: dirt
+
+		Texture: chop_patchb
+			Geometry: chop_patchB
+
+		Texture: chop_drain
+			Geometry: chop_drain
+
+		Texture: chop_patcha
+			Geometry: chop_patchA
+
+		Texture: air_con2
+			Geometry: AirCon2
+
+		Texture: 00_ld_mv_daytona_body
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_black_leather
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_lights
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_lights2
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_windows
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_interiortan
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_chrome
+			Geometry: daytona
+			Geometry: Esprit_WH
+			Geometry: Porsche911_WH
+
+		Texture: 00_ld_mv_daytona_wheels
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_spokes
+			Geometry: daytona
+
+		Texture: mv_beach_cliff02
+			Geometry: beach_road
+			Geometry: beach_road_curve
+
+		Texture: beach_road
+			Geometry: beach_road
+			Geometry: beach_road_curve
+
+		Texture: cb_radio
+			Geometry: Cb_radio_handset
+
+		Texture: 32x_generic
+			Geometry: Porsche911_WH2
+			Geometry: Esprit_WH2
+
+		Texture: windows2
+			Geometry: Esprit_WH
+			Geometry: Porsche911_WH
+
+		Texture: grille1
+			Geometry: Esprit_WH
+			Geometry: Porsche911_WH
+
+		Texture: red_lights
+			Geometry: Esprit_WH
+			Geometry: Porsche911_WH
+
+		Texture: wheelporsche
+			Geometry: Esprit_WH
+			Geometry: Porsche911_WH
+
+		Texture: wheel
+			Geometry: Esprit_WH
+			Geometry: Porsche911_WH
+
+		Texture: mv_gs_genericwhand01b
+			Geometry: Bikini_Tiger01B
+
+		Texture: bikini_briefs05
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_generic_full_arm01b
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_generic_foot01fb
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_generic_body01fb
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_generic_leg01fb
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_genericwhand01
+			Geometry: Dress_girl01
+
+		Texture: mv_gs_generic_full_arm01w
+			Geometry: Dress_girl01
+
+		Texture: mv_gs_generic_body01f
+			Geometry: Dress_girl01
+
+		Texture: mv_gs_generic_leg01f
+			Geometry: Dress_girl01
+
+		Texture: mv_gs_generic_head_fb01
+			Geometry: Generic_head_BF01
+
+		Texture: lip_spec_01
+			Geometry: Generic_head_BF01
+			Geometry: Generic_Head03
+			Geometry: Dress_girl01
+			Geometry: Generic_head_WF02
+			Geometry: Generic_Head05
+
+		Texture: mv_gs_generic_hair_fb01
+			Geometry: Generic_head_BF01
+
+		Texture: eyebrownl
+			Geometry: Generic_head_BF01
+
+		Texture: mv_gs_generic_eyelashes
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_WF02
+
+		Texture: skin_spec_0211
+			Geometry: GM_hawiian_shirt01
+			Geometry: GM_peach_shirt01
+
+		Texture: mv_gs_gshirtbody02
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_dea_trou
+			Geometry: GM_hawiian_shirt01
+			Geometry: GM_peach_shirt01
+
+		Texture: mv_gs_generic_full_arm02w
+			Geometry: GM_hawiian_shirt01
+			Geometry: GM_peach_shirt01
+
+		Texture: mv_gs_genericshoe04
+			Geometry: GM_hawiian_shirt01
+			Geometry: GM_peach_shirt01
+
+		Texture: mv_gs_gshirtarm02s
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_gs_joe02
+			Geometry: Generic_Head03
+
+		Texture: mv_gs_generic_dress01f
+			Geometry: Dress_girl01
+
+		Texture: mv_gs_genericdressfrills01
+			Geometry: Dress_girl01
+
+		Texture: mv_gs_generic_shoes01f
+			Geometry: Dress_girl01
+
+		Texture: mv_gs_generic_head_fw01
+			Geometry: Generic_head_WF02
+
+		Texture: mv_gs_generic_hair_wb01
+			Geometry: Generic_head_WF02
+
+		Texture: mv_gs_gshirtbody08
+			Geometry: GM_peach_shirt01
+
+		Texture: mv_gs_gshirtarm08s
+			Geometry: GM_peach_shirt01
+
+		Texture: cbcable
+			Geometry: CBcable
+
+		Texture: mv_gs_leigh02
+			Geometry: Generic_Head05
+
+		Texture: mv_gs_leighalpha03
+			Geometry: Generic_Head05
+

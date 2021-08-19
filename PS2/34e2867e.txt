@@ -1,0 +1,168 @@
+
+	Exporting Textures:
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   coat_bum
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   59      8-Bit   silvia_coat_spec01
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sylvia_suit_skin
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  193      8-Bit   skin_spec_02
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_sylvia_suit_boots
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   48      8-Bit   testshader01
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   coat_top
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_sylvia_suit_hand
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  251      8-Bit   mv_jbgs_sylvia_face02
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   30      8-Bit   mv_jb_sylviahair
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_sylvia_suit_hairbun
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   eyebrownl
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   coat_sleave
+		Size 576          Width 32      Height 16     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sylvia_suit_pants
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   49      8-Bit   lip_spec_01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   furbits
+		Size 2368         Width 128     Height 32     MultiBitAlpha FALSE   nColors   16      4-Bit   coat_belt
+		Size 3328         Width 64      Height 32     MultiBitAlpha FALSE   nColors  124      8-Bit   fur_alpha
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   coat_buckle
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors  144      8-Bit   spec3
+
+		Total Size (225 k) (230720 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 272256   Collision Size 0        Total Size 272304    Sylvia_coat
+
+		Total Render Size:    (265 k) (272256 bytes)
+		Total Collision Size: (0 k) (0 bytes)
+		Total Size:           (265 k) (272256 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (6 k) (6680 bytes)
+
+				TotalSize: (6 k) (6968 bytes)
+
+		Size Of Asset Tree                     data (6        k) (6968         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (7 k) (7488 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Sylvia_coat
+			Texture: coat_bum
+			Texture: silvia_coat_spec01
+			Texture: mv_gs_sylvia_suit_pants
+			Texture: coat_sleave
+			Texture: silvia_coat_spec01
+			Texture: mv_jbgs_sylvia_face02
+			Texture: lip_spec_01
+			Texture: coat_belt
+			Texture: lip_spec_01
+			Texture: furbits
+			Texture: eyebrownl
+			Texture: testshader01
+			Texture: mv_gs_sylvia_suit_hairbun
+			Texture: coat_top
+			Texture: silvia_coat_spec01
+			Texture: mv_gs_sylvia_suit_skin
+			Texture: skin_spec_02
+			Texture: mv_gs_sylvia_suit_boots
+			Texture: testshader01
+			Texture: mv_jb_sylvia_suit_hand
+			Texture: skin_spec_02
+			Texture: coat_buckle
+			Texture: spec3
+			Texture: mv_jbgs_sylvia_face02
+			Texture: skin_spec_02
+			Texture: mouth_teeth
+			Texture: mv_jb_sylviahair
+			Texture: fur_alpha
+
+
+	Texture -> Geometry Association:
+		Texture: coat_bum
+			Geometry: Sylvia_coat
+
+		Texture: silvia_coat_spec01
+			Geometry: Sylvia_coat
+
+		Texture: mv_gs_sylvia_suit_skin
+			Geometry: Sylvia_coat
+
+		Texture: skin_spec_02
+			Geometry: Sylvia_coat
+
+		Texture: mv_gs_sylvia_suit_boots
+			Geometry: Sylvia_coat
+
+		Texture: testshader01
+			Geometry: Sylvia_coat
+
+		Texture: coat_top
+			Geometry: Sylvia_coat
+
+		Texture: mv_jb_sylvia_suit_hand
+			Geometry: Sylvia_coat
+
+		Texture: mv_jbgs_sylvia_face02
+			Geometry: Sylvia_coat
+
+		Texture: mouth_teeth
+			Geometry: Sylvia_coat
+
+		Texture: mv_jb_sylviahair
+			Geometry: Sylvia_coat
+
+		Texture: mv_gs_sylvia_suit_hairbun
+			Geometry: Sylvia_coat
+
+		Texture: eyebrownl
+			Geometry: Sylvia_coat
+
+		Texture: coat_sleave
+			Geometry: Sylvia_coat
+
+		Texture: mv_gs_sylvia_suit_pants
+			Geometry: Sylvia_coat
+
+		Texture: lip_spec_01
+			Geometry: Sylvia_coat
+
+		Texture: furbits
+			Geometry: Sylvia_coat
+
+		Texture: coat_belt
+			Geometry: Sylvia_coat
+
+		Texture: fur_alpha
+			Geometry: Sylvia_coat
+
+		Texture: coat_buckle
+			Geometry: Sylvia_coat
+
+		Texture: spec3
+			Geometry: Sylvia_coat
+

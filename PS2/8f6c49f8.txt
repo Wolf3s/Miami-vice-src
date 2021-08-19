@@ -1,0 +1,136 @@
+
+	Exporting Textures:
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_neck1w
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  169      8-Bit   skin_spec_02
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_security_guard_shirt_body01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_security_guard_trou01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm02w
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand02
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   mv_gs_genericshoe01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   55      8-Bit   assasin_spec_01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_security_guard_shirt_arm01
+		Size 576          Width 32      Height 16     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_nametag
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   48      8-Bit   testshader01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_policeradio
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  217      8-Bit   mv_gs_policebelt01
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_policecuffs01
+		Size 1344         Width 128     Height 16     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_security_guard_tie
+
+		Total Size (82 k) (84160 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 109904   Collision Size 0        Total Size 109952    Gallery_security04
+
+		Total Render Size:    (107 k) (109904 bytes)
+		Total Collision Size: (0 k) (0 bytes)
+		Total Size:           (107 k) (109904 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (4 k) (4512 bytes)
+
+				TotalSize: (4 k) (4800 bytes)
+
+		Size Of Asset Tree                     data (4        k) (4800         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (5 k) (5320 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Gallery_security04
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_security_guard_shirt_body01
+			Texture: mv_gs_security_guard_trou01
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: assasin_spec_01
+			Texture: mv_gs_security_guard_shirt_arm01
+			Texture: mv_gs_nametag
+			Texture: testshader01
+			Texture: mv_gs_policeradio
+			Texture: testshader01
+			Texture: mv_gs_policebelt01
+			Texture: testshader01
+			Texture: mv_gs_policecuffs01
+			Texture: testshader01
+			Texture: mv_gs_security_guard_tie
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_generic_neck1w
+			Geometry: Gallery_security04
+
+		Texture: skin_spec_02
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_security_guard_shirt_body01
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_security_guard_trou01
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_generic_full_arm02w
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_genericshoe01
+			Geometry: Gallery_security04
+
+		Texture: assasin_spec_01
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_security_guard_shirt_arm01
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_nametag
+			Geometry: Gallery_security04
+
+		Texture: testshader01
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_policeradio
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_policebelt01
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_policecuffs01
+			Geometry: Gallery_security04
+
+		Texture: mv_gs_security_guard_tie
+			Geometry: Gallery_security04
+

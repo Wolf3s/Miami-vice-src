@@ -1,0 +1,722 @@
+
+	Exporting Textures:
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors    2      4-Bit   flame2
+		Size 65792        Width 128     Height 128    MultiBitAlpha TRUE    nColors  434      32-Bit  water
+		Size 262400       Width 256     Height 256    MultiBitAlpha FALSE   nColors >  1024   32-Bit  marble_tile~b
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  128      8-Bit   faceflag1
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  116      8-Bit   FAB
+		Size 65792        Width 128     Height 128    MultiBitAlpha FALSE   nColors >  1024   32-Bit  gunclip
+		Size 65792        Width 128     Height 128    MultiBitAlpha FALSE   nColors >  1024   32-Bit  Key
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   m10
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   swes2
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  158      8-Bit   psg
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   beretta92
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  235      8-Bit   SHGUN
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  226      8-Bit   12gauge
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   magnum440
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   m16
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  202      8-Bit   m16_32
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   12      4-Bit   m79
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   brenten2
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors    5      4-Bit   Gal_artblk_8
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   60      8-Bit   Gal_spec_8
+		Size 65792        Width 128     Height 128    MultiBitAlpha FALSE   nColors >  1024   32-Bit  m60
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_neck1w
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   47      8-Bit   skin_spec_01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sleavless02
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jbgs_gentrou2
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm02w
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand02
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericshoe03
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  122      8-Bit   Door_cabin
+		Size 65792        Width 128     Height 128    MultiBitAlpha FALSE   nColors  634      32-Bit  marble_tile
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   metal_horiz_tile
+		Size 448          Width 8       Height 8      MultiBitAlpha TRUE    nColors    1      4-Bit   beach_glass_windows
+
+		Total Size (792 k) (811200 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 384      Collision Size 0        Total Size 432       water
+		Render Size 14768    Collision Size 11468    Total Size 26284     srairs00
+		Render Size 24048    Collision Size 25136    Total Size 49232     stairs03
+		Render Size 8656     Collision Size 6972     Total Size 15676     srairs02
+		Render Size 10576    Collision Size 8580     Total Size 19204     stairs01
+		Render Size 15584    Collision Size 18068    Total Size 33700     room4a
+		Render Size 9088     Collision Size 10160    Total Size 19296     Floor
+		Render Size 24128    Collision Size 26472    Total Size 50648     Pool
+		Render Size 7488     Collision Size 7448     Total Size 14984     Doorway
+		Render Size 1104     Collision Size 1156     Total Size 2308      Back Wall
+		Render Size 30512    Collision Size 29132    Total Size 59692     room2
+		Render Size 15168    Collision Size 14228    Total Size 29444     room1
+		Render Size 6688     Collision Size 8040     Total Size 14776     corridor4
+		Render Size 4752     Collision Size 5372     Total Size 10172     corridor3
+		Render Size 3824     Collision Size 4272     Total Size 8144      corridor2
+		Render Size 1104     Collision Size 1244     Total Size 2396      corridor1
+		Render Size 50144    Collision Size 54252    Total Size 104444    centralroom
+		Render Size 55232    Collision Size 60856    Total Size 116136    centralroom02
+		Render Size 44960    Collision Size 51616    Total Size 96624     centralroom01
+		Render Size 38064    Collision Size 43700    Total Size 81812     centralroom03
+		Render Size 5408     Collision Size 4424     Total Size 9880      room5
+		Render Size 544      Collision Size 752      Total Size 1344      monkblok
+		Render Size 3216     Collision Size 2956     Total Size 6220      FirstAid
+		Render Size 1856     Collision Size 1772     Total Size 3676      Gunclip
+		Render Size 3616     Collision Size 3824     Total Size 7488      key
+		Render Size 15680    Collision Size 16128    Total Size 31856     ouzi
+		Render Size 9216     Collision Size 11824    Total Size 21088     SmithWes01
+		Render Size 13376    Collision Size 19872    Total Size 33296     PSG1
+		Render Size 13408    Collision Size 18144    Total Size 31600     berrettasd
+		Render Size 14016    Collision Size 16600    Total Size 30664     shotgun
+		Render Size 10432    Collision Size 16056    Total Size 26536     remington
+		Render Size 8464     Collision Size 10944    Total Size 19456     magnum440
+		Render Size 17168    Collision Size 17216    Total Size 34432     mac10
+		Render Size 12992    Collision Size 16364    Total Size 29404     swat
+		Render Size 12256    Collision Size 15640    Total Size 27944     m16
+		Render Size 9248     Collision Size 11532    Total Size 20828     m79b
+		Render Size 11680    Collision Size 15020    Total Size 26748     bren 
+		Render Size 10496    Collision Size 13164    Total Size 23708     berretta
+		Render Size 17712    Collision Size 24180    Total Size 41940     sculpt2
+		Render Size 3904     Collision Size 5148     Total Size 9100      sculpt2_D1
+		Render Size 7264     Collision Size 10500    Total Size 17812     sculpt2_D2
+		Render Size 2624     Collision Size 3436     Total Size 6108      sculpt2_D3
+		Render Size 2256     Collision Size 2720     Total Size 5024      sculpt2_D4
+		Render Size 1168     Collision Size 1556     Total Size 2772      sculpt2_D5
+		Render Size 2448     Collision Size 2916     Total Size 5412      sculpt2_D6
+		Render Size 11472    Collision Size 13640    Total Size 25160     M60
+		Render Size 88464    Collision Size 64176    Total Size 152688    Juan_Henchman_01
+		Render Size 832      Collision Size 752      Total Size 1632      Door_Cabin
+		Render Size 752      Collision Size 752      Total Size 1552      1-1-1_box
+		Render Size 7712     Collision Size 788      Total Size 8548      metal_ladder
+		Render Size 384      Collision Size 292      Total Size 724       GlassPane
+		Render Size 480      Collision Size 500      Total Size 1028      GlassShard01
+		Render Size 528      Collision Size 624      Total Size 1200      GlassShard02
+		Render Size 480      Collision Size 536      Total Size 1064      GlassShard03
+		Render Size 528      Collision Size 640      Total Size 1216      GlassShard04
+		Render Size 432      Collision Size 344      Total Size 824       GlassShard05
+		Render Size 464      Collision Size 484      Total Size 996       GlassShard06
+		Render Size 480      Collision Size 520      Total Size 1048      GlassShard07
+		Render Size 480      Collision Size 572      Total Size 1100      GlassShard08
+		Render Size 464      Collision Size 484      Total Size 996       GlassShard09
+		Render Size 448      Collision Size 432      Total Size 928       GlassShard10
+		Render Size 640      Collision Size 828      Total Size 1516      GlassShard11
+		Render Size 544      Collision Size 676      Total Size 1268      GlassShard12
+		Render Size 528      Collision Size 604      Total Size 1180      GlassShard13
+		Render Size 544      Collision Size 692      Total Size 1284      GlassShard14
+		Render Size 480      Collision Size 536      Total Size 1064      GlassShard15
+		Render Size 432      Collision Size 380      Total Size 860       GlassShard16
+		Render Size 464      Collision Size 448      Total Size 960       GlassShard17
+		Render Size 464      Collision Size 484      Total Size 996       GlassShard18
+		Render Size 448      Collision Size 432      Total Size 928       GlassShard19
+		Render Size 544      Collision Size 656      Total Size 1248      GlassShard20
+		Render Size 464      Collision Size 484      Total Size 996       GlassShard21
+		Render Size 480      Collision Size 500      Total Size 1028      GlassShard22
+		Render Size 496      Collision Size 604      Total Size 1148      GlassShard23
+		Render Size 480      Collision Size 536      Total Size 1064      GlassShard24
+		Render Size 496      Collision Size 552      Total Size 1096      GlassShard25
+		Render Size 464      Collision Size 484      Total Size 996       GlassShard26
+		Render Size 496      Collision Size 516      Total Size 1060      GlassShard27
+		Render Size 464      Collision Size 484      Total Size 996       GlassShard28
+		Render Size 464      Collision Size 484      Total Size 996       GlassShard29
+		Render Size 496      Collision Size 536      Total Size 1080      GlassShard30
+		Render Size 464      Collision Size 484      Total Size 996       GlassShard31
+		Render Size 384      Collision Size 292      Total Size 724       GlassShard32
+
+		Total Render Size:    (685 k) (701856 bytes)
+		Total Collision Size: (730 k) (748088 bytes)
+		Total Size:           (1415 k) (1449944 bytes)
+
+	Exporting Animations:
+
+		Total Anim Size:    (0 k) (0 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (2 k) (2708 bytes)
+			Hull: Hull_00:
+				Asset Tree: nLeaves 3, nBranches 1: (0 k) (388 bytes)
+				StaticInstances 6: (0 k) (768 bytes)
+				DynamicInstances 16: (3 k) (3136 bytes)
+				Bone, Morph, AnimInstance Data 6: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 4: (0 k) (304 bytes)
+
+				TotalSize: (4 k) (4596 bytes)
+
+			Hull: PickUpRoom:
+				Asset Tree: nLeaves 17, nBranches 10: (2 k) (2684 bytes)
+				StaticInstances 19: (2 k) (2432 bytes)
+				DynamicInstances 101: (19 k) (19796 bytes)
+				Bone, Morph, AnimInstance Data 19: (8 k) (9024 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 2: (0 k) (136 bytes)
+
+				TotalSize: (33 k) (34072 bytes)
+
+			Hull: PickUpCorridor:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 11: (1 k) (1408 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 11: (0 k) (0 bytes)
+
+				TotalSize: (1 k) (1704 bytes)
+
+			Hull: StaircaseRoom:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 9: (1 k) (1152 bytes)
+				DynamicInstances 4: (0 k) (784 bytes)
+				Bone, Morph, AnimInstance Data 9: (0 k) (0 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 4: (0 k) (272 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+
+				TotalSize: (2 k) (2580 bytes)
+
+			Hull: StaircaseCorridor:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+
+				TotalSize: (0 k) (492 bytes)
+
+			Hull: WaterBox:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (416 bytes)
+
+			Hull: PoolRoom:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 9: (1 k) (1152 bytes)
+				DynamicInstances 35: (6 k) (6860 bytes)
+				Bone, Morph, AnimInstance Data 9: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 2: (0 k) (152 bytes)
+
+				TotalSize: (8 k) (8460 bytes)
+
+			Hull: PoolEntrance:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (220 bytes)
+
+			Hull: PoolCorridor:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (220 bytes)
+
+			Hull: ClimbRoom:
+				Asset Tree: nLeaves 3, nBranches 2: (0 k) (500 bytes)
+				StaticInstances 4: (0 k) (512 bytes)
+				DynamicInstances 14: (2 k) (2744 bytes)
+				Bone, Morph, AnimInstance Data 4: (0 k) (0 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 2: (0 k) (136 bytes)
+				StaticAABBTriggers 1: (0 k) (52 bytes)
+				DynamicAABBTriggers 0: (0 k) (0 bytes)
+
+				TotalSize: (3 k) (3944 bytes)
+
+			Hull: ClimbRoomCorridor:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+
+				TotalSize: (0 k) (296 bytes)
+
+			Hull: BLOCK ROOM:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 5: (0 k) (640 bytes)
+				DynamicInstances 5: (0 k) (980 bytes)
+				Bone, Morph, AnimInstance Data 5: (0 k) (0 bytes)
+
+				TotalSize: (1 k) (1916 bytes)
+
+			Hull: Additional_Left:
+				Asset Tree: nLeaves 6, nBranches 3: (0 k) (888 bytes)
+				StaticInstances 15: (1 k) (1920 bytes)
+				DynamicInstances 4: (0 k) (784 bytes)
+				Bone, Morph, AnimInstance Data 15: (17 k) (18048 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 12: (0 k) (912 bytes)
+
+				TotalSize: (22 k) (22552 bytes)
+
+			Hull: Additional_Right:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 2: (0 k) (256 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 2: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (348 bytes)
+
+		Size Of Asset Tree                     data (79       k) (81816        bytes) - Save Game (8        k) (8828        bytes)
+		Size Of Points And Point Group         data (0        k) (280          bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (180          bytes) - Save Game (0        k) (20          bytes)
+		Size Of Portal Data                    data (4        k) (4472         bytes) - Save Game (0        k) (168         bytes)
+		Size Of Nav Mesh                       data (8        k) (8192         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (576          bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		95 User Data elements
+		116 User Data Pointer Fixups
+		Sizeof user data (4 k) (4464 bytes)
+
+
+		Total size in PUB (100 k) (103280 bytes)
+
+
+		Editor Assets Save Game Size (8 k) (9016 bytes)
+		User Data Save Game Size (0 k) (224 bytes)
+		Save Game Total size (9 k) (9240 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: water
+			Texture: water
+
+		Geometry: srairs00
+			Texture: marble_tile~b
+
+		Geometry: stairs03
+			Texture: marble_tile~b
+
+		Geometry: srairs02
+			Texture: marble_tile~b
+
+		Geometry: stairs01
+			Texture: marble_tile~b
+
+		Geometry: room4a
+			Texture: marble_tile~b
+
+		Geometry: Floor
+			Texture: marble_tile~b
+
+		Geometry: Pool
+			Texture: marble_tile~b
+
+		Geometry: Doorway
+			Texture: marble_tile~b
+
+		Geometry: Back Wall
+			Texture: marble_tile~b
+
+		Geometry: room2
+			Texture: marble_tile~b
+			Texture: faceflag1
+
+		Geometry: room1
+			Texture: marble_tile~b
+
+		Geometry: corridor4
+			Texture: marble_tile~b
+
+		Geometry: corridor3
+			Texture: marble_tile~b
+
+		Geometry: corridor2
+			Texture: marble_tile~b
+
+		Geometry: corridor1
+			Texture: marble_tile~b
+
+		Geometry: centralroom
+			Texture: marble_tile~b
+
+		Geometry: centralroom02
+			Texture: marble_tile~b
+
+		Geometry: centralroom01
+			Texture: marble_tile~b
+
+		Geometry: centralroom03
+			Texture: marble_tile~b
+
+		Geometry: room5
+			Texture: marble_tile~b
+
+		Geometry: FirstAid
+			Texture: FAB
+
+		Geometry: Gunclip
+			Texture: gunclip
+
+		Geometry: key
+			Texture: Key
+
+		Geometry: ouzi
+			Texture: m10
+
+		Geometry: SmithWes01
+			Texture: swes2
+
+		Geometry: PSG1
+			Texture: psg
+
+		Geometry: berrettasd
+			Texture: beretta92
+
+		Geometry: shotgun
+			Texture: SHGUN
+
+		Geometry: remington
+			Texture: 12gauge
+
+		Geometry: magnum440
+			Texture: magnum440
+
+		Geometry: mac10
+			Texture: m10
+
+		Geometry: swat
+			Texture: m16
+			Texture: m16_32
+
+		Geometry: m16
+			Texture: m16
+			Texture: m16_32
+
+		Geometry: m79b
+			Texture: m79
+
+		Geometry: bren 
+			Texture: brenten2
+
+		Geometry: berretta
+			Texture: beretta92
+
+		Geometry: sculpt2
+			Texture: Gal_artblk_8
+			Texture: Gal_spec_8
+
+		Geometry: sculpt2_D1
+			Texture: Gal_artblk_8
+			Texture: Gal_spec_8
+
+		Geometry: sculpt2_D2
+			Texture: Gal_artblk_8
+			Texture: Gal_spec_8
+
+		Geometry: sculpt2_D3
+			Texture: Gal_artblk_8
+			Texture: Gal_spec_8
+
+		Geometry: sculpt2_D4
+			Texture: Gal_artblk_8
+			Texture: Gal_spec_8
+
+		Geometry: sculpt2_D5
+			Texture: Gal_artblk_8
+			Texture: Gal_spec_8
+
+		Geometry: sculpt2_D6
+			Texture: Gal_artblk_8
+			Texture: Gal_spec_8
+
+		Geometry: M60
+			Texture: m60
+
+		Geometry: Juan_Henchman_01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_01
+			Texture: mv_gs_sleavless02
+			Texture: mv_jbgs_gentrou2
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_01
+			Texture: mv_gs_genericshoe03
+
+		Geometry: Door_Cabin
+			Texture: Door_cabin
+
+		Geometry: 1-1-1_box
+			Texture: marble_tile
+
+		Geometry: metal_ladder
+			Texture: metal_horiz_tile
+
+		Geometry: GlassPane
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard01
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard02
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard03
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard04
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard05
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard06
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard07
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard08
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard09
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard10
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard11
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard12
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard13
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard14
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard15
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard16
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard17
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard18
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard19
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard20
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard21
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard22
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard23
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard24
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard25
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard26
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard27
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard28
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard29
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard30
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard31
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard32
+			Texture: beach_glass_windows
+
+
+	Texture -> Geometry Association:
+		Texture: flame2
+
+		Texture: water
+			Geometry: water
+
+		Texture: marble_tile~b
+			Geometry: srairs00
+			Geometry: stairs03
+			Geometry: srairs02
+			Geometry: stairs01
+			Geometry: room4a
+			Geometry: Floor
+			Geometry: Pool
+			Geometry: Doorway
+			Geometry: Back Wall
+			Geometry: room2
+			Geometry: room1
+			Geometry: corridor4
+			Geometry: corridor3
+			Geometry: corridor2
+			Geometry: corridor1
+			Geometry: centralroom
+			Geometry: centralroom02
+			Geometry: centralroom01
+			Geometry: centralroom03
+			Geometry: room5
+
+		Texture: faceflag1
+			Geometry: room2
+
+		Texture: FAB
+			Geometry: FirstAid
+
+		Texture: gunclip
+			Geometry: Gunclip
+
+		Texture: Key
+			Geometry: key
+
+		Texture: m10
+			Geometry: ouzi
+			Geometry: mac10
+
+		Texture: swes2
+			Geometry: SmithWes01
+
+		Texture: psg
+			Geometry: PSG1
+
+		Texture: beretta92
+			Geometry: berrettasd
+			Geometry: berretta
+
+		Texture: SHGUN
+			Geometry: shotgun
+
+		Texture: 12gauge
+			Geometry: remington
+
+		Texture: magnum440
+			Geometry: magnum440
+
+		Texture: m16
+			Geometry: swat
+			Geometry: m16
+
+		Texture: m16_32
+			Geometry: swat
+			Geometry: m16
+
+		Texture: m79
+			Geometry: m79b
+
+		Texture: brenten2
+			Geometry: bren 
+
+		Texture: Gal_artblk_8
+			Geometry: sculpt2
+			Geometry: sculpt2_D1
+			Geometry: sculpt2_D2
+			Geometry: sculpt2_D3
+			Geometry: sculpt2_D4
+			Geometry: sculpt2_D5
+			Geometry: sculpt2_D6
+
+		Texture: Gal_spec_8
+			Geometry: sculpt2
+			Geometry: sculpt2_D1
+			Geometry: sculpt2_D2
+			Geometry: sculpt2_D3
+			Geometry: sculpt2_D4
+			Geometry: sculpt2_D5
+			Geometry: sculpt2_D6
+
+		Texture: m60
+			Geometry: M60
+
+		Texture: mv_gs_generic_neck1w
+			Geometry: Juan_Henchman_01
+
+		Texture: skin_spec_01
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_sleavless02
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_jbgs_gentrou2
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_generic_full_arm02w
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_genericshoe03
+			Geometry: Juan_Henchman_01
+
+		Texture: Door_cabin
+			Geometry: Door_Cabin
+
+		Texture: marble_tile
+			Geometry: 1-1-1_box
+
+		Texture: metal_horiz_tile
+			Geometry: metal_ladder
+
+		Texture: beach_glass_windows
+			Geometry: GlassPane
+			Geometry: GlassShard01
+			Geometry: GlassShard02
+			Geometry: GlassShard03
+			Geometry: GlassShard04
+			Geometry: GlassShard05
+			Geometry: GlassShard06
+			Geometry: GlassShard07
+			Geometry: GlassShard08
+			Geometry: GlassShard09
+			Geometry: GlassShard10
+			Geometry: GlassShard11
+			Geometry: GlassShard12
+			Geometry: GlassShard13
+			Geometry: GlassShard14
+			Geometry: GlassShard15
+			Geometry: GlassShard16
+			Geometry: GlassShard17
+			Geometry: GlassShard18
+			Geometry: GlassShard19
+			Geometry: GlassShard20
+			Geometry: GlassShard21
+			Geometry: GlassShard22
+			Geometry: GlassShard23
+			Geometry: GlassShard24
+			Geometry: GlassShard25
+			Geometry: GlassShard26
+			Geometry: GlassShard27
+			Geometry: GlassShard28
+			Geometry: GlassShard29
+			Geometry: GlassShard30
+			Geometry: GlassShard31
+			Geometry: GlassShard32
+
