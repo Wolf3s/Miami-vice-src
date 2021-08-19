@@ -1,0 +1,973 @@
+
+	Exporting Textures:
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0000
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0004
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0008
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0012
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0016
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0020
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0024
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  252      8-Bit   b2f0028
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0032
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   b2f0036
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  255      8-Bit   b2f0040
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   b2f0044
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0048
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0052
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   b2f0056
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b2f0060
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  251      8-Bit   b2f0064
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   b2f0068
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   b0245
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   f2b0172
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   f2b0176
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   f2b0180
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0184
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   f2b0188
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   f2b0192
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   f2b0196
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  252      8-Bit   f2b0200
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0204
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0208
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0212
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0216
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0220
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0224
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0228
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0232
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   f2b0236
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0240
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   f2b0244
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   f0070
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors  114      8-Bit   Muzzle1
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  480      32-Bit  smoke1
+		Size 4352         Width 32      Height 32     MultiBitAlpha TRUE    nColors  267      32-Bit  material
+		Size 17664        Width 128     Height 128    MultiBitAlpha TRUE    nColors   77      8-Bit   damage
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  426      32-Bit  beretta
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  454      32-Bit  bren10
+		Size 65792        Width 128     Height 128    MultiBitAlpha TRUE    nColors  686      32-Bit  health
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  547      32-Bit  generade_launcher
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  582      32-Bit  m16_ar
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  492      32-Bit  m16_mg
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  592      32-Bit  m16_smg
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors  232      8-Bit   mac10
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  440      32-Bit  magnum440
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  405      32-Bit  pumpaction_shotgun
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  429      32-Bit  sawnoff_shotgun
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors  188      8-Bit   silenced_beretta
+		Size 65792        Width 128     Height 128    MultiBitAlpha TRUE    nColors  537      32-Bit  Main
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  531      32-Bit  sniper_rifle
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors  236      8-Bit   sw_45
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors  246      8-Bit   uzi
+		Size 2368         Width 64      Height 64     MultiBitAlpha TRUE    nColors   12      4-Bit   follow
+		Size 2368         Width 64      Height 64     MultiBitAlpha TRUE    nColors   15      4-Bit   idle
+		Size 2368         Width 64      Height 64     MultiBitAlpha TRUE    nColors   16      4-Bit   inactive
+		Size 2368         Width 64      Height 64     MultiBitAlpha TRUE    nColors   15      4-Bit   takecover
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   under attack
+		Size 4352         Width 32      Height 32     MultiBitAlpha TRUE    nColors  355      32-Bit  Backup
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   bad
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors    2      4-Bit   blank
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   door_locked
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   Door_NoWay
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   Door_sturdy
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   Door_unlocked
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   22      8-Bit   using item
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   Grabbed
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors  182      8-Bit   clip
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  436      32-Bit  evidence
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  403      32-Bit  firstaid
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  464      32-Bit  key
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors  186      8-Bit   swipe_card
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors  145      8-Bit   Concrete
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   12      4-Bit   cross
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   jump
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   ladder
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   reload
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   collectable
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   11      4-Bit   friendly
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   11      4-Bit   unfriendly
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   reload2
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   triangle
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   notcollectable
+		Size 2368         Width 64      Height 64     MultiBitAlpha TRUE    nColors   14      4-Bit   MoveOff
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   71      8-Bit   gunflash
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  358      32-Bit  debris
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  357      32-Bit  Blood
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors    4      4-Bit   shard
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   99      8-Bit   Glass
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   93      8-Bit   Metal
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   13      4-Bit   wood2
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors  127      8-Bit   Light1
+		Size 2368         Width 64      Height 64     MultiBitAlpha TRUE    nColors    7      4-Bit   Ricochet2
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  255      8-Bit   Xbox_A
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  256      8-Bit   Xbox_B
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  256      8-Bit   Xbox_X
+		Size 16640        Width 64      Height 64     MultiBitAlpha FALSE   nColors  257      32-Bit  Xbox_Y
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  504      32-Bit  van
+		Size 33024        Width 128     Height 64     MultiBitAlpha TRUE    nColors  822      32-Bit  cuffs
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors  205      8-Bit   drugs
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors  109      8-Bit   grenadedirt
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  231      8-Bit   grenadefire
+		Size 17664        Width 128     Height 128    MultiBitAlpha TRUE    nColors  119      8-Bit   grenadesmoke
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors    2      4-Bit   shard2
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors    2      4-Bit   shard1
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  250      8-Bit   Rock
+		Size 448          Width 16      Height 16     MultiBitAlpha TRUE    nColors    1      4-Bit   healthredtransparent
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    1      4-Bit   healthred
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors  253      8-Bit   Bullet_case
+		Size 1408         Width 8       Height 8      MultiBitAlpha TRUE    nColors   20      8-Bit   bullet
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors    2      4-Bit   red2
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   beretta92
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   brenten2
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   13      4-Bit   m79
+		Size 65792        Width 128     Height 128    MultiBitAlpha FALSE   nColors >  1024   32-Bit  m16
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   m10
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   magnum4401
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  240      8-Bit   12gauge
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  226      8-Bit   shgun
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   psg
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   swes2
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  242      8-Bit   mv_gs_mattf01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  226      8-Bit   skin_spec_02
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  249      8-Bit   eyebl
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   46      8-Bit   lip_spec_01
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  254      8-Bit   mv_gs_mathew01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_mathew_hair01
+		Size 3328         Width 64      Height 32     MultiBitAlpha FALSE   nColors   30      8-Bit   mv_gs_mathew_alpha01
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  253      8-Bit   mv_gs_joe02
+		Size 65792        Width 128     Height 128    MultiBitAlpha TRUE    nColors  804      32-Bit  mv_jb_crockglassb
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   reflect_shiny_stripe_add
+		Size 65792        Width 128     Height 128    MultiBitAlpha FALSE   nColors >  1024   32-Bit  mv_gs_leigh02
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   23      8-Bit   mv_gs_leighalpha03
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  248      8-Bit   mv_gs_davewestface01
+		Size 9472         Width 128     Height 64     MultiBitAlpha FALSE   nColors   64      8-Bit   westalpha copy
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   m60
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_gs_generic_head_fb01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_hair_fb01
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   57      8-Bit   testshader01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   eyebrownl
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors    2      4-Bit   mv_gs_generic_eyelashes
+		Size 17664        Width 128     Height 128    MultiBitAlpha TRUE    nColors   34      8-Bit   mv_gs_saraalpha03
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_sarahair
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_gs_generic_head_fw03
+		Size 65792        Width 128     Height 128    MultiBitAlpha FALSE   nColors  444      32-Bit  eyehz
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_hair_w01
+		Size 16640        Width 128     Height 32     MultiBitAlpha FALSE   nColors >  1024   32-Bit  mv_gs_generic_hairalpha_fw03
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_gs_generic_head_fw01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   28      8-Bit   mv_gs_tubbs_chain01
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  153      8-Bit   reflect_shiny_stripe_mod
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_hair_wb01
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_gs_generic_head_fw02
+		Size 16640        Width 64      Height 64     MultiBitAlpha FALSE   nColors >  1024   32-Bit  eye_brown
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_hair_wb01_black
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_hairunder_wb01
+		Size 9472         Width 128     Height 64     MultiBitAlpha FALSE   nColors   26      8-Bit   mv_gs_generic_haira02lpha01
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_gs_sara02
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    1      4-Bit   scope_black
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   scope_specular
+		Size 448          Width 8       Height 8      MultiBitAlpha TRUE    nColors    1      4-Bit   scope
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    4      4-Bit   grenade
+		Size 2304         Width 32      Height 16     MultiBitAlpha TRUE    nColors  280      32-Bit  projectile21
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   uzi1
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors   12      4-Bit   wood
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   11      4-Bit   concrete1
+		Size 448          Width 8       Height 8      MultiBitAlpha TRUE    nColors    1      4-Bit   as_glass_foyer
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   50      8-Bit   spec1
+		Size 2368         Width 64      Height 64     MultiBitAlpha TRUE    nColors   13      4-Bit   direction
+
+		Total Size (1811 k) (1855104 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 2832     Collision Size 4996     Total Size 7876      jackieimpact.L00
+		Render Size 2832     Collision Size 4996     Total Size 7876      jackieimpact.L001
+		Render Size 1104     Collision Size 0        Total Size 1152      OBJ_PICKUP_AIR_SMALL
+		Render Size 3264     Collision Size 8172     Total Size 11484     healthpickup_large
+		Render Size 3424     Collision Size 8184     Total Size 11656     healthpickup_medium
+		Render Size 576      Collision Size 720      Total Size 1344      bullet_case
+		Render Size 2784     Collision Size 6020     Total Size 8852      Bullet
+		Render Size 3040     Collision Size 4708     Total Size 7796      target
+		Render Size 12800    Collision Size 0        Total Size 12848     berretta
+		Render Size 13280    Collision Size 0        Total Size 13328     bren 
+		Render Size 10528    Collision Size 0        Total Size 10576     m79b
+		Render Size 14704    Collision Size 0        Total Size 14752     m16
+		Render Size 14368    Collision Size 0        Total Size 14416     swat
+		Render Size 19168    Collision Size 0        Total Size 19216     mac10
+		Render Size 17728    Collision Size 0        Total Size 17776     ouzi
+		Render Size 10048    Collision Size 0        Total Size 10096     magnum440
+		Render Size 11984    Collision Size 0        Total Size 12032     remington
+		Render Size 15264    Collision Size 0        Total Size 15312     shotgun
+		Render Size 16048    Collision Size 18568    Total Size 34664     berrettasd
+		Render Size 15136    Collision Size 0        Total Size 15184     PSG1
+		Render Size 11248    Collision Size 0        Total Size 11296     SmithWes01
+		Render Size 30528    Collision Size 0        Total Size 30576     Generic_head01
+		Render Size 37312    Collision Size 0        Total Size 37360     Generic_Head02
+		Render Size 34624    Collision Size 0        Total Size 34672     Generic_Head03
+		Render Size 44384    Collision Size 0        Total Size 44432     Generic_Head04
+		Render Size 42784    Collision Size 0        Total Size 42832     Generic_Head05
+		Render Size 44160    Collision Size 0        Total Size 44208     Generic_Head06
+		Render Size 13024    Collision Size 0        Total Size 13072     M60
+		Render Size 43968    Collision Size 0        Total Size 44016     Generic_head_BF01
+		Render Size 42800    Collision Size 0        Total Size 42848     Generic_head_BF02
+		Render Size 42544    Collision Size 0        Total Size 42592     Generic_head_WF01
+		Render Size 44480    Collision Size 0        Total Size 44528     Generic_head_WF02
+		Render Size 42464    Collision Size 0        Total Size 42512     Generic_head_WF03
+		Render Size 46480    Collision Size 0        Total Size 46528     Generic_head_WF04
+		Render Size 43072    Collision Size 0        Total Size 43120     Generic_head_WF05
+		Render Size 17872    Collision Size 0        Total Size 17920     scope
+		Render Size 1360     Collision Size 2268     Total Size 3676      Grenade
+		Render Size 848      Collision Size 984      Total Size 1880      Projectile2
+		Render Size 18304    Collision Size 0        Total Size 18352     Uzi_9mm
+		Render Size 864      Collision Size 0        Total Size 912       wood
+		Render Size 752      Collision Size 0        Total Size 800       Concrete
+		Render Size 752      Collision Size 0        Total Size 800       glass
+		Render Size 992      Collision Size 0        Total Size 1040      Sculptshard3
+		Render Size 992      Collision Size 0        Total Size 1040      Sculptshard1
+		Render Size 912      Collision Size 0        Total Size 960       Sculptshard2
+		Render Size 992      Collision Size 0        Total Size 1040      Direction_helper
+
+		Total Render Size:    (780 k) (799424 bytes)
+		Total Collision Size: (58 k) (59616 bytes)
+		Total Size:           (838 k) (859040 bytes)
+
+	Exporting Sound FX:
+		SFX Size 1632        nChannels 1       Frequency 22050       16 Bit          0004.wav
+
+		Total Sound Size:    (1 k) (1632 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Inventory:
+				Asset Tree: nLeaves 9, nBranches 6: (1 k) (1500 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 60: (11 k) (11760 bytes)
+				Bone, Morph, AnimInstance Data 0: (1 k) (1456 bytes)
+				FXInstances 24: (4 k) (4128 bytes)
+				DynamicSFX 2: (0 k) (272 bytes)
+
+				TotalSize: (61 k) (62684 bytes)
+
+		Size Of Asset Tree                     data (61       k) (62684        bytes) - Save Game (3        k) (3576        bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (3        k) (3652         bytes) - Save Game (0        k) (180         bytes)
+		Size Of Process Object                 data (1        k) (1188         bytes) - Save Game (0        k) (132         bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (10       k) (10788        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		14 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (336 bytes)
+
+
+		Total size in PUB (77 k) (79148 bytes)
+
+
+		Editor Assets Save Game Size (3 k) (3888 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (3 k) (3888 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: OBJ_PICKUP_AIR_SMALL
+			Texture: Rock
+
+		Geometry: healthpickup_large
+			Texture: healthredtransparent
+
+		Geometry: healthpickup_medium
+			Texture: healthred
+			Texture: healthredtransparent
+
+		Geometry: bullet_case
+			Texture: Bullet_case
+
+		Geometry: Bullet
+			Texture: bullet
+
+		Geometry: target
+			Texture: red2
+
+		Geometry: berretta
+			Texture: beretta92
+
+		Geometry: bren 
+			Texture: brenten2
+
+		Geometry: m79b
+			Texture: m79
+
+		Geometry: m16
+			Texture: m16
+
+		Geometry: swat
+			Texture: m16
+
+		Geometry: mac10
+			Texture: m10
+
+		Geometry: ouzi
+			Texture: m10
+
+		Geometry: magnum440
+			Texture: magnum4401
+
+		Geometry: remington
+			Texture: 12gauge
+
+		Geometry: shotgun
+			Texture: shgun
+
+		Geometry: berrettasd
+			Texture: beretta92
+
+		Geometry: PSG1
+			Texture: psg
+
+		Geometry: SmithWes01
+			Texture: swes2
+
+		Geometry: Generic_head01
+			Texture: mv_gs_mattf01
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+
+		Geometry: Generic_Head02
+			Texture: mv_gs_mathew01
+			Texture: skin_spec_02
+			Texture: mv_gs_mathew_hair01
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_mathew_alpha01
+
+		Geometry: Generic_Head03
+			Texture: mv_gs_joe02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+
+		Geometry: Generic_Head04
+			Texture: mv_gs_joe02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_jb_crockglassb
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: Generic_Head05
+			Texture: mv_gs_leigh02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_leigh02
+			Texture: mv_gs_leighalpha03
+
+		Geometry: Generic_Head06
+			Texture: mv_gs_davewestface01
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: westalpha copy
+			Texture: skin_spec_02
+
+		Geometry: M60
+			Texture: m60
+
+		Geometry: Generic_head_BF01
+			Texture: mv_gs_generic_head_fb01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_head_fb01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_hair_fb01
+			Texture: testshader01
+			Texture: eyebrownl
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+
+		Geometry: Generic_head_BF02
+			Texture: mv_gs_generic_head_fb01
+			Texture: skin_spec_02
+			Texture: eyebrownl
+			Texture: lip_spec_01
+			Texture: mv_gs_sarahair
+			Texture: mv_gs_generic_head_fb01
+			Texture: lip_spec_01
+			Texture: mv_gs_saraalpha03
+			Texture: mv_gs_generic_eyelashes
+
+		Geometry: Generic_head_WF01
+			Texture: mv_gs_generic_head_fw03
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_hair_w01
+			Texture: testshader01
+			Texture: eyehz
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_head_fw03
+			Texture: mv_gs_generic_head_fw03
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+			Texture: mv_gs_generic_hairalpha_fw03
+
+		Geometry: Generic_head_WF02
+			Texture: mv_gs_generic_head_fw01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_gs_generic_hair_wb01
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_head_fw01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+
+		Geometry: Generic_head_WF03
+			Texture: mv_gs_generic_head_fw02
+			Texture: skin_spec_02
+			Texture: eye_brown
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_hair_wb01_black
+			Texture: mv_gs_generic_head_fw02
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+
+		Geometry: Generic_head_WF04
+			Texture: mv_gs_generic_head_fw01
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_hairunder_wb01
+			Texture: testshader01
+			Texture: mv_gs_generic_head_fw01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+			Texture: mv_gs_generic_haira02lpha01
+
+		Geometry: Generic_head_WF05
+			Texture: mv_gs_sara02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_sarahair
+			Texture: testshader01
+			Texture: mv_gs_sara02
+			Texture: lip_spec_01
+			Texture: mv_gs_saraalpha03
+
+		Geometry: scope
+			Texture: scope_black
+			Texture: scope_specular
+			Texture: scope
+			Texture: lip_spec_01
+
+		Geometry: Grenade
+			Texture: grenade
+
+		Geometry: Projectile2
+			Texture: projectile21
+
+		Geometry: Uzi_9mm
+			Texture: uzi1
+
+		Geometry: wood
+			Texture: wood
+
+		Geometry: Concrete
+			Texture: concrete1
+
+		Geometry: glass
+			Texture: as_glass_foyer
+
+		Geometry: Sculptshard3
+			Texture: as_black_railgallery
+			Texture: spec1
+
+		Geometry: Sculptshard1
+			Texture: as_black_railgallery
+			Texture: spec1
+
+		Geometry: Sculptshard2
+			Texture: as_black_railgallery
+			Texture: spec1
+
+		Geometry: Direction_helper
+			Texture: direction
+
+
+	Texture -> Geometry Association:
+		Texture: as_black_railgallery
+			Geometry: Sculptshard3
+			Geometry: Sculptshard1
+			Geometry: Sculptshard2
+
+		Texture: b2f0000
+
+		Texture: b2f0004
+
+		Texture: b2f0008
+
+		Texture: b2f0012
+
+		Texture: b2f0016
+
+		Texture: b2f0020
+
+		Texture: b2f0024
+
+		Texture: b2f0028
+
+		Texture: b2f0032
+
+		Texture: b2f0036
+
+		Texture: b2f0040
+
+		Texture: b2f0044
+
+		Texture: b2f0048
+
+		Texture: b2f0052
+
+		Texture: b2f0056
+
+		Texture: b2f0060
+
+		Texture: b2f0064
+
+		Texture: b2f0068
+
+		Texture: b0245
+
+		Texture: f2b0172
+
+		Texture: f2b0176
+
+		Texture: f2b0180
+
+		Texture: f2b0184
+
+		Texture: f2b0188
+
+		Texture: f2b0192
+
+		Texture: f2b0196
+
+		Texture: f2b0200
+
+		Texture: f2b0204
+
+		Texture: f2b0208
+
+		Texture: f2b0212
+
+		Texture: f2b0216
+
+		Texture: f2b0220
+
+		Texture: f2b0224
+
+		Texture: f2b0228
+
+		Texture: f2b0232
+
+		Texture: f2b0236
+
+		Texture: f2b0240
+
+		Texture: f2b0244
+
+		Texture: f0070
+
+		Texture: Muzzle1
+
+		Texture: smoke1
+
+		Texture: material
+
+		Texture: damage
+
+		Texture: beretta
+
+		Texture: bren10
+
+		Texture: health
+
+		Texture: generade_launcher
+
+		Texture: m16_ar
+
+		Texture: m16_mg
+
+		Texture: m16_smg
+
+		Texture: mac10
+
+		Texture: magnum440
+
+		Texture: pumpaction_shotgun
+
+		Texture: sawnoff_shotgun
+
+		Texture: silenced_beretta
+
+		Texture: Main
+
+		Texture: sniper_rifle
+
+		Texture: sw_45
+
+		Texture: uzi
+
+		Texture: follow
+
+		Texture: idle
+
+		Texture: inactive
+
+		Texture: takecover
+
+		Texture: under attack
+
+		Texture: Backup
+
+		Texture: bad
+
+		Texture: blank
+
+		Texture: door_locked
+
+		Texture: Door_NoWay
+
+		Texture: Door_sturdy
+
+		Texture: Door_unlocked
+
+		Texture: using item
+
+		Texture: Grabbed
+
+		Texture: clip
+
+		Texture: evidence
+
+		Texture: firstaid
+
+		Texture: key
+
+		Texture: swipe_card
+
+		Texture: Concrete
+
+		Texture: cross
+
+		Texture: jump
+
+		Texture: ladder
+
+		Texture: reload
+
+		Texture: collectable
+
+		Texture: friendly
+
+		Texture: unfriendly
+
+		Texture: reload2
+
+		Texture: triangle
+
+		Texture: notcollectable
+
+		Texture: MoveOff
+
+		Texture: gunflash
+
+		Texture: debris
+
+		Texture: Blood
+
+		Texture: shard
+
+		Texture: Glass
+
+		Texture: Metal
+
+		Texture: wood2
+
+		Texture: Light1
+
+		Texture: Ricochet2
+
+		Texture: Xbox_A
+
+		Texture: Xbox_B
+
+		Texture: Xbox_X
+
+		Texture: Xbox_Y
+
+		Texture: van
+
+		Texture: cuffs
+
+		Texture: drugs
+
+		Texture: grenadedirt
+
+		Texture: grenadefire
+
+		Texture: grenadesmoke
+
+		Texture: shard2
+
+		Texture: shard1
+
+		Texture: Rock
+			Geometry: OBJ_PICKUP_AIR_SMALL
+
+		Texture: healthredtransparent
+			Geometry: healthpickup_large
+			Geometry: healthpickup_medium
+
+		Texture: healthred
+			Geometry: healthpickup_medium
+
+		Texture: Bullet_case
+			Geometry: bullet_case
+
+		Texture: bullet
+			Geometry: Bullet
+
+		Texture: red2
+			Geometry: target
+
+		Texture: beretta92
+			Geometry: berretta
+			Geometry: berrettasd
+
+		Texture: brenten2
+			Geometry: bren 
+
+		Texture: m79
+			Geometry: m79b
+
+		Texture: m16
+			Geometry: m16
+			Geometry: swat
+
+		Texture: m10
+			Geometry: mac10
+			Geometry: ouzi
+
+		Texture: magnum4401
+			Geometry: magnum440
+
+		Texture: 12gauge
+			Geometry: remington
+
+		Texture: shgun
+			Geometry: shotgun
+
+		Texture: psg
+			Geometry: PSG1
+
+		Texture: swes2
+			Geometry: SmithWes01
+
+		Texture: mv_gs_mattf01
+			Geometry: Generic_head01
+
+		Texture: skin_spec_02
+			Geometry: Generic_head01
+			Geometry: Generic_Head02
+			Geometry: Generic_Head03
+			Geometry: Generic_Head04
+			Geometry: Generic_Head05
+			Geometry: Generic_Head06
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_BF02
+			Geometry: Generic_head_WF01
+			Geometry: Generic_head_WF02
+			Geometry: Generic_head_WF03
+			Geometry: Generic_head_WF04
+			Geometry: Generic_head_WF05
+
+		Texture: eyebl
+			Geometry: Generic_head01
+			Geometry: Generic_Head02
+			Geometry: Generic_Head03
+			Geometry: Generic_Head04
+			Geometry: Generic_Head05
+			Geometry: Generic_Head06
+			Geometry: Generic_head_WF02
+			Geometry: Generic_head_WF04
+			Geometry: Generic_head_WF05
+
+		Texture: lip_spec_01
+			Geometry: Generic_head01
+			Geometry: Generic_Head02
+			Geometry: Generic_Head03
+			Geometry: Generic_Head04
+			Geometry: Generic_Head05
+			Geometry: Generic_Head06
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_BF02
+			Geometry: Generic_head_WF01
+			Geometry: Generic_head_WF02
+			Geometry: Generic_head_WF03
+			Geometry: Generic_head_WF04
+			Geometry: Generic_head_WF05
+			Geometry: scope
+
+		Texture: mv_gs_mathew01
+			Geometry: Generic_Head02
+
+		Texture: mv_gs_mathew_hair01
+			Geometry: Generic_Head02
+
+		Texture: mv_gs_mathew_alpha01
+			Geometry: Generic_Head02
+
+		Texture: mv_gs_joe02
+			Geometry: Generic_Head03
+			Geometry: Generic_Head04
+
+		Texture: mv_jb_crockglassb
+			Geometry: Generic_Head04
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Generic_Head04
+
+		Texture: mv_gs_leigh02
+			Geometry: Generic_Head05
+
+		Texture: mv_gs_leighalpha03
+			Geometry: Generic_Head05
+
+		Texture: mv_gs_davewestface01
+			Geometry: Generic_Head06
+
+		Texture: westalpha copy
+			Geometry: Generic_Head06
+
+		Texture: m60
+			Geometry: M60
+
+		Texture: mv_gs_generic_head_fb01
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_BF02
+
+		Texture: mv_gs_generic_hair_fb01
+			Geometry: Generic_head_BF01
+
+		Texture: testshader01
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_WF01
+			Geometry: Generic_head_WF04
+			Geometry: Generic_head_WF05
+
+		Texture: eyebrownl
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_BF02
+
+		Texture: mv_gs_generic_eyelashes
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_BF02
+			Geometry: Generic_head_WF01
+			Geometry: Generic_head_WF02
+			Geometry: Generic_head_WF03
+			Geometry: Generic_head_WF04
+
+		Texture: mv_gs_saraalpha03
+			Geometry: Generic_head_BF02
+			Geometry: Generic_head_WF05
+
+		Texture: mv_gs_sarahair
+			Geometry: Generic_head_BF02
+			Geometry: Generic_head_WF05
+
+		Texture: mv_gs_generic_head_fw03
+			Geometry: Generic_head_WF01
+
+		Texture: eyehz
+			Geometry: Generic_head_WF01
+
+		Texture: mv_gs_generic_hair_w01
+			Geometry: Generic_head_WF01
+
+		Texture: mv_gs_generic_hairalpha_fw03
+			Geometry: Generic_head_WF01
+
+		Texture: mv_gs_generic_head_fw01
+			Geometry: Generic_head_WF02
+			Geometry: Generic_head_WF04
+
+		Texture: mv_gs_tubbs_chain01
+			Geometry: Generic_head_WF02
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Generic_head_WF02
+
+		Texture: mv_gs_generic_hair_wb01
+			Geometry: Generic_head_WF02
+
+		Texture: mv_gs_generic_head_fw02
+			Geometry: Generic_head_WF03
+
+		Texture: eye_brown
+			Geometry: Generic_head_WF03
+
+		Texture: mv_gs_generic_hair_wb01_black
+			Geometry: Generic_head_WF03
+
+		Texture: mv_gs_generic_hairunder_wb01
+			Geometry: Generic_head_WF04
+
+		Texture: mv_gs_generic_haira02lpha01
+			Geometry: Generic_head_WF04
+
+		Texture: mv_gs_sara02
+			Geometry: Generic_head_WF05
+
+		Texture: scope_black
+			Geometry: scope
+
+		Texture: scope_specular
+			Geometry: scope
+
+		Texture: scope
+			Geometry: scope
+
+		Texture: grenade
+			Geometry: Grenade
+
+		Texture: projectile21
+			Geometry: Projectile2
+
+		Texture: uzi1
+			Geometry: Uzi_9mm
+
+		Texture: wood
+			Geometry: wood
+
+		Texture: concrete1
+			Geometry: Concrete
+
+		Texture: as_glass_foyer
+			Geometry: glass
+
+		Texture: spec1
+			Geometry: Sculptshard3
+			Geometry: Sculptshard1
+			Geometry: Sculptshard2
+
+		Texture: direction
+			Geometry: Direction_helper
+

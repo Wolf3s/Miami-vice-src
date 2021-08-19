@@ -1,0 +1,159 @@
+
+	Exporting Textures:
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_dress01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   39      8-Bit   crok_vest_spec_01
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  250      8-Bit   mv_gs_gina_leg01f
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  193      8-Bit   skin_spec_02
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm01w
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_ginawhand01
+		Size 34048        Width 128     Height 256    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_gs_gina_body01f
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gina_shoes01
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_ginabeltbit01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   reflect_shiny_stripe_add
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_gs_gina_face_01
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors    2      4-Bit   mv_gs_generic_eyelashes
+		Size 16640        Width 64      Height 64     MultiBitAlpha FALSE   nColors >  1024   32-Bit  eye_darkbrown
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   49      8-Bit   lip_spec_01
+		Size 16704        Width 128     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   gina_mega_hair_base
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  152      8-Bit   reflect_shiny_stripe_mod
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors   30      8-Bit   mv_gs_ginahairalpha01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth
+
+		Total Size (256 k) (262720 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 287696   Collision Size 0        Total Size 287744    Gina
+
+		Total Render Size:    (280 k) (287696 bytes)
+		Total Collision Size: (0 k) (0 bytes)
+		Total Size:           (280 k) (287696 bytes)
+
+	Exporting Animations:
+		Size 5520            Idle_7002.ANM
+
+		Total Anim Size:    (5 k) (5520 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (4 k) (5088 bytes)
+
+				TotalSize: (5 k) (5376 bytes)
+
+		Size Of Asset Tree                     data (5        k) (5376         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (68           bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (5 k) (5964 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Gina
+			Texture: mv_gs_dress01
+			Texture: crok_vest_spec_01
+			Texture: eye_darkbrown
+			Texture: lip_spec_01
+			Texture: mouth_teeth
+			Texture: gina_mega_hair_base
+			Texture: mv_gs_ginabeltbit01
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_gs_ginabeltbit01
+			Texture: reflect_shiny_stripe_add
+			Texture: mv_gs_gina_face_01
+			Texture: skin_spec_02
+			Texture: mv_gs_gina_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_gina_leg01f
+			Texture: skin_spec_02
+			Texture: mv_gs_gina_shoes01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_ginawhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_gina_face_01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+			Texture: mv_gs_ginahairalpha01
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_dress01
+			Geometry: Gina
+
+		Texture: crok_vest_spec_01
+			Geometry: Gina
+
+		Texture: mv_gs_gina_leg01f
+			Geometry: Gina
+
+		Texture: skin_spec_02
+			Geometry: Gina
+
+		Texture: mv_gs_generic_full_arm01w
+			Geometry: Gina
+
+		Texture: mv_gs_ginawhand01
+			Geometry: Gina
+
+		Texture: mv_gs_gina_body01f
+			Geometry: Gina
+
+		Texture: mv_gs_gina_shoes01
+			Geometry: Gina
+
+		Texture: mv_gs_ginabeltbit01
+			Geometry: Gina
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Gina
+
+		Texture: mv_gs_gina_face_01
+			Geometry: Gina
+
+		Texture: mv_gs_generic_eyelashes
+			Geometry: Gina
+
+		Texture: eye_darkbrown
+			Geometry: Gina
+
+		Texture: lip_spec_01
+			Geometry: Gina
+
+		Texture: gina_mega_hair_base
+			Geometry: Gina
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Gina
+
+		Texture: mv_gs_ginahairalpha01
+			Geometry: Gina
+
+		Texture: mouth_teeth
+			Geometry: Gina
+

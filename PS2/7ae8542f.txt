@@ -1,0 +1,1284 @@
+
+	Exporting Textures:
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  480      32-Bit  smoke1
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  358      32-Bit  debris
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   17      8-Bit   moon
+		Size 832          Width 32      Height 32     MultiBitAlpha TRUE    nColors   14      4-Bit   star
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors  127      8-Bit   Light1
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   13      4-Bit   roofsurface
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   13      4-Bit   creamwall
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   metal
+		Size 9472         Width 128     Height 64     MultiBitAlpha FALSE   nColors   80      8-Bit   windowsnew
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   20      8-Bit   helivent
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    1      4-Bit   black
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   barrelld
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   grill
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   grill2
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   cratebacklo
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   metal_pipe
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   doordocks
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors   13      4-Bit   00black
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   00panelsside
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   00panelsbottom
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   00panels
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   crate_drugs
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   crate_canvastop1
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   crate_canvas1
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors   11      4-Bit   as_mesh_fence_post
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors   32      8-Bit   railing
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   wood_plank2
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   fanvent_low
+		Size 33024        Width 64      Height 128    MultiBitAlpha TRUE    nColors  807      32-Bit  waterdamage
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   18      8-Bit   gantry
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_neck1w
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  226      8-Bit   skin_spec_02
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitbody04
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_trou01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitarm04
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand02
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   mv_gs_genericshoe01
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   57      8-Bit   testshader01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sleavless04
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors  187      8-Bit   mv_gs_default_spec01
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitbody01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_trou02
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitarm01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gsuitvest02
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitbody02
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jbgs_gentrou3
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitarm02
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gsuitvesto_04
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_gen_suitbody05
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_trou05
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitarm05
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtfront03
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtfront01
+		Size 1344         Width 128     Height 16     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_tie01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_juan_shirt01
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  254      8-Bit   mv_gs_juanshoe01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   46      8-Bit   lip_spec_01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_juancross01
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  153      8-Bit   reflect_shiny_stripe_mod
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  252      8-Bit   mv_gs_juanface
+		Size 16704        Width 128     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_juanhair01
+		Size 3328         Width 64      Height 32     MultiBitAlpha FALSE   nColors   23      8-Bit   mv_gs_juanhair_alpha01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   eyegreenl
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_juan_suitbody01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   45      8-Bit   crok_vest_spec_01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   mv_gs_juan_suitarm01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_juanhand01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   mv_gs_juan_suittrou01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_juan_chest01
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_juanhair_alpha02
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtbody02
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_dea_trou
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm02w
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   mv_gs_genericshoe04
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtarm02s
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   grainymetal
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   high_voltagebox
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   chop_drain
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors   16      4-Bit   oxytank
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   oxygauge
+		Size 576          Width 32      Height 16     MultiBitAlpha FALSE   nColors   13      4-Bit   beam
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors   16      4-Bit   newspaper
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   black_metal2
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   brickwall
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    1      4-Bit   whitealpha8x8
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  105      8-Bit   downlight
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   skyline
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors   15      4-Bit   warning_light_orange
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    1      4-Bit   as_black_railgallery
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  563      32-Bit  muck1
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors    1      4-Bit   chevron_yellow
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  265      32-Bit  shadow2
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   14      4-Bit   reflect_shiny_stripesub_add
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   13      4-Bit   00jetrangerred1
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  323      32-Bit  sob_helirotar
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   13      4-Bit   steelfacedirt1
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crockhandsb
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_jb_crockholster
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors    7      4-Bit   spec2
+		Size 65792        Width 128     Height 128    MultiBitAlpha TRUE    nColors  804      32-Bit  mv_jb_crockglassb
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  640      32-Bit  crock_hairb
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  255      8-Bit   crock15b
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crocktrews2b
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   19      8-Bit   subtlespec
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crockt02b
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crockarm02
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  254      8-Bit   mv_jb_crockshoe02
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  249      8-Bit   eyebl
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   reflect_shiny_stripe_add
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   separatetrou
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  253      8-Bit   mv_gs_tubbsface04
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   tubbs_mouth_teeth
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   eye_dkbrown
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   newshoe
+		Size 9472         Width 128     Height 64     MultiBitAlpha FALSE   nColors   53      8-Bit   mv_gs_tubbs_new_alha_e3
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   mv_gs_tubbs_shirt01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_chest01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   28      8-Bit   mv_gs_tubbs_chain01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors  199      8-Bit   reflect_shiny_stripe_mod2
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_suitbody01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_suitarm01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbshand01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   magnum440
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   13      4-Bit   m79
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   crate1
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  248      8-Bit   mv_gs_davewestface01
+		Size 9472         Width 128     Height 64     MultiBitAlpha FALSE   nColors   64      8-Bit   westalpha copy
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   safetyposter
+		Size 9472         Width 128     Height 64     MultiBitAlpha FALSE   nColors   94      8-Bit   brokenwall1
+		Size 9472         Width 128     Height 64     MultiBitAlpha FALSE   nColors  108      8-Bit   brokenwall2
+		Size 17664        Width 256     Height 64     MultiBitAlpha TRUE    nColors   89      8-Bit   skyline1
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  122      8-Bit   clouds
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  242      8-Bit   roof_sky
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   roof_city3
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  254      8-Bit   building
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   70      8-Bit   neon2
+
+		Total Size (1530 k) (1567360 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 39632    Collision Size 39712    Total Size 79392     Roof_Helipad
+		Render Size 83072    Collision Size 51848    Total Size 134968    Rooftop
+		Render Size 32896    Collision Size 900      Total Size 33844     Barrel3
+		Render Size 11056    Collision Size 752      Total Size 11856     Roof_vent
+		Render Size 13328    Collision Size 1168     Total Size 14544     Oiltank
+		Render Size 9120     Collision Size 752      Total Size 9920      Door_dock
+		Render Size 9760     Collision Size 752      Total Size 10560     Crate_drugs
+		Render Size 1136     Collision Size 696      Total Size 1880      Crate_canvas
+		Render Size 1792     Collision Size 0        Total Size 1840      ariel
+		Render Size 12640    Collision Size 752      Total Size 13440     Brick
+		Render Size 10944    Collision Size 1428     Total Size 12420     mesh_gate
+		Render Size 48912    Collision Size 1332     Total Size 50292     mesh_railing
+		Render Size 4544     Collision Size 1560     Total Size 6152      PLANK2
+		Render Size 3856     Collision Size 0        Total Size 3904      Fanvent
+		Render Size 1616     Collision Size 0        Total Size 1664      waterdamage
+		Render Size 6304     Collision Size 752      Total Size 7104      Gantry
+		Render Size 56912    Collision Size 1712     Total Size 58672     metalstep
+		Render Size 9504     Collision Size 1412     Total Size 10964     metal_walkway_noside
+		Render Size 23728    Collision Size 1980     Total Size 25756     metal_walkway
+		Render Size 87632    Collision Size 0        Total Size 87680     Juan_Henchman_05
+		Render Size 87632    Collision Size 0        Total Size 87680     Juan_Henchman_01
+		Render Size 89552    Collision Size 0        Total Size 89600     Juan_Henchman_02
+		Render Size 91216    Collision Size 0        Total Size 91264     Juan_Henchman_04
+		Render Size 91856    Collision Size 0        Total Size 91904     Ortegas_henchman_06
+		Render Size 93264    Collision Size 0        Total Size 93312     Ortegas_henchman_01
+		Render Size 978800   Collision Size 0        Total Size 978848    Juan
+		Render Size 93008    Collision Size 0        Total Size 93056     GM_hawiian_shirt01
+		Render Size 14928    Collision Size 14756    Total Size 29732     Extractor_fan
+		Render Size 6992     Collision Size 732      Total Size 7772      Power_box
+		Render Size 1056     Collision Size 0        Total Size 1104      chop_drain
+		Render Size 2896     Collision Size 1380     Total Size 4324      Hut1
+		Render Size 2768     Collision Size 752      Total Size 3568      oxy_tank
+		Render Size 8144     Collision Size 752      Total Size 8944      oxy_gauge
+		Render Size 1440     Collision Size 0        Total Size 1488      Electric_wireCasing
+		Render Size 944      Collision Size 0        Total Size 992       trash2
+		Render Size 928      Collision Size 0        Total Size 976       newspaper
+		Render Size 4816     Collision Size 0        Total Size 4864      safetylight
+		Render Size 9744     Collision Size 0        Total Size 9792      orange_light
+		Render Size 22560    Collision Size 1168     Total Size 23776     exhaust_pipe_long
+		Render Size 480      Collision Size 0        Total Size 528       Muck1
+		Render Size 640      Collision Size 0        Total Size 688       chevron_yellow
+		Render Size 736      Collision Size 0        Total Size 784       shadow_generic
+		Render Size 81760    Collision Size 0        Total Size 81808     jetranger_skinned
+		Render Size 825200   Collision Size 0        Total Size 825248    Crockett_skin_2
+		Render Size 735008   Collision Size 0        Total Size 735056    Tubbs_Body5
+		Render Size 10048    Collision Size 11556    Total Size 21652     magnum440
+		Render Size 10528    Collision Size 12336    Total Size 22912     m79b
+		Render Size 8592     Collision Size 3796     Total Size 12436     cratelong
+		Render Size 44160    Collision Size 0        Total Size 44208     Generic_Head06
+		Render Size 464      Collision Size 0        Total Size 512       Safety1
+		Render Size 448      Collision Size 0        Total Size 496       Brokenwall1
+		Render Size 496      Collision Size 0        Total Size 544       Brokenwall2
+		Render Size 832      Collision Size 764      Total Size 1644      Camera_collision_box
+		Render Size 832      Collision Size 764      Total Size 1644      movement_collision_box
+		Render Size 6032     Collision Size 0        Total Size 6080      inner
+		Render Size 2400     Collision Size 0        Total Size 2448      clouds
+		Render Size 18048    Collision Size 20188    Total Size 38284     Buildings_rooftop
+		Render Size 22528    Collision Size 0        Total Size 22576     Buildings_rooftop2
+		Render Size 10288    Collision Size 0        Total Size 10336     city_skydomenew
+		Render Size 5584     Collision Size 0        Total Size 5632      Buildings_3dnew
+		Render Size 384      Collision Size 292      Total Size 724       windowlight
+		Render Size 9552     Collision Size 1780     Total Size 11380     metalstep_end
+		Render Size 9552     Collision Size 1964     Total Size 11564     metalstep_start
+		Render Size 3296     Collision Size 764      Total Size 4108      exhaust_pipe_bend
+		Render Size 4048     Collision Size 1796     Total Size 5892      exhaust_pipe_tee
+		Render Size 5536     Collision Size 1044     Total Size 6628      metalrail_sml
+
+		Total Render Size:    (3797 k) (3888400 bytes)
+		Total Collision Size: (179 k) (184092 bytes)
+		Total Size:           (3977 k) (4072492 bytes)
+
+	Exporting Animations:
+		Size 3804            juan_aim_idle_2032.ANM
+		Size 9892            Juan_Crouch_Aim_To_Down_2015.ANM
+		Size 12172           Juan_Crouch_Down_2010.ANM
+		Size 5704            Juan_crouch_fire_2014.ANM
+		Size 10764           Juan_Crouch_Idle_2011.ANM
+		Size 10176           Juan_crouch_to_aim_2013.ANM
+		Size 11772           Juan_Crouch_up_2012.ANM
+		Size 25372           Juan_Damage_Heavy_2027.ANM
+		Size 20636           Juan_Damage_Light_2008.ANM
+		Size 3048            Juan_Fire_2016.ANM
+		Size 25588           Juan_Getup_2033.ANM
+		Size 8700            Juan_Idle2002.ANM
+		Size 6840            Juan_Idle_Damaged_2018.ANM
+		Size 7088            Juan_Left_Aim_Round_Corner_2020.ANM
+		Size 7980            Juan_Left_Aim_Round_Corner_Back_2021.ANM
+		Size 2688            Juan_Left_Aim_Round_Corner_Fire_2023.ANM
+		Size 2148            Juan_Left_Aim_Round_Corner_Idle_2022.ANM
+		Size 11656           Juan_Reload_2019.ANM
+		Size 8888            Juan_Right_Aim_Round_Corner_2024.ANM
+		Size 9012            Juan_Right_Aim_Round_Corner_Back_2025.ANM
+		Size 2440            Juan_Right_Aim_Round_Corner_Fire_2026.ANM
+		Size 10580           Juan_Run_2028.ANM
+		Size 11036           Juan_sidestep_left_2029.ANM
+		Size 12980           Juan_sidestep_right_2030.ANM
+		Size 23556           Juan_Summon_Henchman_2031.ANM
+		Size 18564           Juan_Taunt_2009.ANM
+		Size 17904           Juan_Turn_To_Wall_2017.ANM
+		Size 11088           Juan_walk2000.ANM
+		Size 7400            Henchman_Aim_Round_Corner_Left_2216.hop
+		Size 1300            Henchman_Aim_Round_Corner_Left_Idle_2222.hop
+		Size 7444            Henchman_Aim_Round_Corner_Left_Stepback_2223.hop
+		Size 8624            Henchman_Aim_Round_Corner_Right_2217.hop
+		Size 1292            Henchman_Aim_Round_Corner_Right_Idle_2224.hop
+		Size 8764            Henchman_Aim_Round_Corner_Right_Stepback_2225.hop
+		Size 1836            Henchman_Aim_Sniper_Kneel_2277.hop
+		Size 1512            Henchman_Aim_Sniper_Standing_2276.hop
+		Size 4460            Henchman_Aim_Stand_to_kneel_2279.ANM
+		Size 6956            Henchman_Crouched_Run_2239.hop
+		Size 1436            Henchman_Cuffed_Idle_2238.hop
+		Size 15140           Henchman_damage_explosion_heavy_2282.hop
+		Size 1292            Henchman_damage_explosion_heavy_dead_2286.hop
+		Size 15636           Henchman_damage_explosion_light_2283.hop
+		Size 1292            Henchman_damage_explosion_light_dead_2285.hop
+		Size 17916           Henchman_damage_explosion_light_getup_2284.hop
+		Size 11792           Henchman_Damage_head_2220.hop
+		Size 10212           Henchman_Damage_Low_2270.hop
+		Size 1308            Henchman_Dead_2218.hop
+		Size 1360            Henchman_Dead_2266.hop
+		Size 13204           Henchman_Die_2206.hop
+		Size 12636           Henchman_Die_2265.hop
+		Size 14552           Henchman_die_back_2275.hop
+		Size 5060            Henchman_die_balcony_backward_fall_2288.hop
+		Size 19228           Henchman_die_balcony_backward_hit_2287.hop
+		Size 7356            Henchman_die_balcony_backward_land_2289.hop
+		Size 4736            Henchman_die_balcony_forward_fall_2291.hop
+		Size 21888           Henchman_die_balcony_forward_hit_2292.hop
+		Size 5880            Henchman_die_balcony_forward_land_2290.hop
+		Size 3512            Henchman_die_fall_backwards_fall_2294.hop
+		Size 10884           Henchman_die_fall_backwards_hit_2295.hop
+		Size 3560            Henchman_die_fall_backwards_land_2293.hop
+		Size 12480           Henchman_die_fall_forward_2272.hop
+		Size 1300            Henchman_die_fall_forward_fall_2273.hop
+		Size 4444            Henchman_die_fall_forward_land_2271.hop
+		Size 19384           Henchman_die_fall_to_knees_2274.hop
+		Size 18336           Henchman_Dive_For_Cover_2304.hop
+		Size 19364           Henchman_dive_roll_left_2228.hop
+		Size 17996           Henchman_dive_roll_right_2227.hop
+		Size 6576            Henchman_extended_idle_2219.hop
+		Size 2380            Henchman_Fire_Sniper_rifle_2278.hop
+		Size 23384           Henchman_getting_cuffed_2234.hop
+		Size 7700            Henchman_Hands_Up_2235.hop
+		Size 2648            Henchman_Hands_Up_Idle_2236.hop
+		Size 7672            Henchman_Hands_Up_Pull_Gun_2237.hop
+		Size 2572            Henchman_Idle_2200.hop
+		Size 3600            Henchman_idle_against_wall_2226.hop
+		Size 3564            Henchman_idle_sitting_asleep_2301.hop
+		Size 14096           Henchman_idle_sitting_asleep_wakeup_2302.hop
+		Size 1764            Henchman_Idle_Sitting_Desk_2300.hop
+		Size 8520            Henchman_Idle_Smoking_2296.hop
+		Size 10880           Henchman_Idle_Smoking_Turn_Round_2297.ANM
+		Size 20216           Henchman_Jump_Over_Crate_2303.hop
+		Size 6532            Henchman_Kick_Door_2229.hop
+		Size 3596            Henchman_Kneel_2203.hop
+		Size 5308            Henchman_Kneel_aim_to_stand_2281.ANM
+		Size 1304            Henchman_Kneel_Idle_2204.hop
+		Size 3676            Henchman_Kneel_Stand_2205.hop
+		Size 4568            Henchman_Push_button_2402.hop
+		Size 7040            Henchman_Run_2201.hop
+		Size 5492            Henchman_Sidestep_Left_2207.hop
+		Size 6744            Henchman_Sidestep_Right_2208.hop
+		Size 23548           Henchman_Slide_Down_Ladder_2305.hop
+		Size 5084            henchman_solo_arrested_2240.hop
+		Size 1940            Henchman_solo_arrested_idle_2241.hop
+		Size 4512            Henchman_Strafe_Backward_2209.hop
+		Size 4956            Henchman_Strafe_Forward_2210.hop
+		Size 5072            Henchman_Strafe_Left_2211.hop
+		Size 5088            Henchman_Strafe_Right_2212.hop
+		Size 5340            Henchman_Straffe_idle_2307.ANM
+		Size 8116            Henchman_Turn_2403.hop
+		Size 11660           Henchman_Turn_Desk_Over_Into_Duck_2299.hop
+		Size 3440            Henchman_Upperbody_Aim_Rifle_2253.ANM
+		Size 3540            Henchman_Upperbody_Aim_Shotgun_2260.ANM
+		Size 1864            Henchman_Upperbody_Aim_Uzi_2215.ANM
+		Size 5888            Henchman_Upperbody_Damage_2264.ANM
+		Size 3272            Henchman_Upperbody_equip_2400.ANM
+		Size 1732            henchman_upperbody_Fire_Rifle_2252.ANM
+		Size 2688            Henchman_Upperbody_Fire_Shotgun_2261.ANM
+		Size 1832            Henchman_Upperbody_Fire_Uzi_2213.ANM
+		Size 4092            Henchman_Upperbody_Hold_Rifle_2259.ANM
+		Size 3308            Henchman_Upperbody_Hold_Shotgun_2263.ANM
+		Size 1864            Henchman_Upperbody_Hold_Uzi_2256.ANM
+		Size 6876            Henchman_Upperbody_look_2221.ANM
+		Size 6876            Henchman_Upperbody_look_2231.ANM
+		Size 11816           Henchman_Upperbody_Reload_Rifle_2251.ANM
+		Size 7840            Henchman_Upperbody_Reload_Shotgun_2262.ANM
+		Size 8744            Henchman_Upperbody_Reload_Uzi_2214.ANM
+		Size 3616            Henchman_Upperbody_ukequip_2401.ANM
+		Size 10792           Henchman_Walk_2202.ANM
+		Size 103936          Juan_Die_9353.ANM
+		Size 296             Copter_blades_9354.ANM
+		Size 14596           Crockett_final_scene_9360.ANM
+		Size 29144           Tubbs_final_scene_9355.ANM
+		Size 7340            Henchman_Fire_Grenade_2420.ANM
+		Size 7192            Juan_Straffe_Backward_2038.ANM
+		Size 8412            Juan_Straffe_Forward_2037.ANM
+		Size 7392            Juan_Straffe_Left_2036.ANM
+		Size 8376            Juan_Straffe_Right_2035.ANM
+		Size 13808           Henchman_Die_Chest_2423.hop
+		Size 1400            Henchman_Die_Chest_Dead_2424.hop
+		Size 22452           Henchman_Die_Knees_2421.hop
+		Size 1348            Henchman_Die_Knees_Dead_2422.hop
+		Size 7340            Henchman_Fire_Grenade_2420.ANM
+		Size 38824           Crockett_rooftop_dive_9369.ANM
+		Size 12016           Crockett_Open_Door_Silent_Away_0127.hop
+		Size 19208           crockett_rooftop_9399.ANM
+		Size 2400            Juan_dead_loop_9800.ANM
+		Size 22452           Henchman_Die_Knees_2421.hop
+		Size 1348            Henchman_Die_Knees_Dead_2422.hop
+
+		Total Anim Size:    (1278 k) (1309356 bytes)
+
+	Exporting Sound FX:
+		SFX Size 28976       nChannels 1       Frequency 22050       16 Bit          0178.wav
+		SFX Size 15744       nChannels 1       Frequency 22050       16 Bit          0175.wav
+		SFX Size 6576        nChannels 1       Frequency 22050       16 Bit          0134.wav
+		SFX Size 9712        nChannels 1       Frequency 22050       16 Bit          body fall on metal floor.wav
+		SFX Size 35712       nChannels 1       Frequency 22050       16 Bit          hovering_helicopter.wav
+		SFX Size 141664      nChannels 1       Frequency 22050       16 Bit          strong_wind.wav
+		SFX Size 10336       nChannels 1       Frequency 22050       16 Bit          gunscrape.wav
+
+		Total Sound Size:    (242 k) (248720 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (744 bytes)
+			Hull: Rooftop:
+				Asset Tree: nLeaves 104, nBranches 88: (18 k) (19424 bytes)
+				StaticInstances 862: (107 k) (110336 bytes)
+				DynamicInstances 55: (10 k) (10780 bytes)
+				Bone, Morph, AnimInstance Data 862: (154 k) (158348 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 14: (1 k) (1064 bytes)
+				StaticLights 14: (0 k) (672 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 17: (2 k) (2924 bytes)
+				DynamicSFX 7: (0 k) (952 bytes)
+
+				TotalSize: (303 k) (311208 bytes)
+
+			Hull: skydome:
+				Asset Tree: nLeaves 7, nBranches 4: (1 k) (1092 bytes)
+				StaticInstances 26: (3 k) (3328 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 26: (0 k) (0 bytes)
+				FXInstances 15: (2 k) (2580 bytes)
+
+				TotalSize: (6 k) (7000 bytes)
+
+			Hull: Storage:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 8: (1 k) (1568 bytes)
+				Bone, Morph, AnimInstance Data 0: (37 k) (38172 bytes)
+
+				TotalSize: (38 k) (39832 bytes)
+
+		Size Of Asset Tree                     data (349      k) (358040       bytes) - Save Game (4        k) (4660        bytes)
+		Size Of Points And Point Group         data (5        k) (5344         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (26       k) (27036        bytes) - Save Game (0        k) (80          bytes)
+		Size Of Process Object                 data (2        k) (2268         bytes) - Save Game (0        k) (252         bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (66       k) (68396        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (3        k) (3072         bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (4        k) (4492         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (8        k) (8348         bytes) - Save Game (5        k) (5440        bytes)
+		Size Of Animation Banks                data (22       k) (23184        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		80 User Data elements
+		20 User Data Pointer Fixups
+		Sizeof user data (4 k) (4584 bytes)
+
+
+		Total size in PUB (493 k) (505716 bytes)
+
+
+		Editor Assets Save Game Size (10 k) (10432 bytes)
+		User Data Save Game Size (0 k) (624 bytes)
+		Save Game Total size (10 k) (11056 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Roof_Helipad
+			Texture: roofsurface
+			Texture: creamwall
+			Texture: metal
+			Texture: windowsnew
+			Texture: helivent
+
+		Geometry: Rooftop
+			Texture: roofsurface
+			Texture: creamwall
+			Texture: windowsnew
+
+		Geometry: Barrel3
+			Texture: barrelld
+
+		Geometry: Roof_vent
+			Texture: grill
+			Texture: grill2
+
+		Geometry: Oiltank
+			Texture: cratebacklo
+			Texture: metal_pipe
+
+		Geometry: Door_dock
+			Texture: doordocks
+
+		Geometry: Crate_drugs
+			Texture: crate_drugs
+
+		Geometry: Crate_canvas
+			Texture: crate_canvas1
+			Texture: crate_canvastop1
+
+		Geometry: ariel
+			Texture: black
+
+		Geometry: Brick
+			Texture: creamwall
+
+		Geometry: mesh_gate
+			Texture: as_mesh_fence_post
+			Texture: railing
+
+		Geometry: mesh_railing
+			Texture: as_mesh_fence_post
+			Texture: railing
+
+		Geometry: PLANK2
+			Texture: wood_plank2
+
+		Geometry: Fanvent
+			Texture: fanvent_low
+
+		Geometry: waterdamage
+			Texture: waterdamage
+
+		Geometry: Gantry
+			Texture: gantry
+
+		Geometry: metalstep
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: metal_walkway_noside
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: metal_walkway
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: Juan_Henchman_05
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody04
+			Texture: mv_gs_generic_trou01
+			Texture: mv_gs_gen_suitarm04
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_sleavless04
+
+		Geometry: Juan_Henchman_01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody01
+			Texture: mv_gs_generic_trou02
+			Texture: mv_gs_gen_suitarm01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gsuitvest02
+
+		Geometry: Juan_Henchman_02
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody02
+			Texture: mv_jbgs_gentrou3
+			Texture: mv_gs_gen_suitarm02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gsuitvesto_04
+
+		Geometry: Juan_Henchman_04
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody05
+			Texture: mv_gs_generic_trou05
+			Texture: mv_gs_gen_suitarm05
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gshirtfront03
+
+		Geometry: Ortegas_henchman_06
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody01
+			Texture: mv_gs_generic_trou01
+			Texture: mv_gs_gen_suitarm01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: mv_gs_default_spec01
+			Texture: mv_gs_gshirtfront03
+
+		Geometry: Ortegas_henchman_01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody02
+			Texture: mv_gs_generic_trou02
+			Texture: mv_gs_gen_suitarm02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: mv_gs_default_spec01
+			Texture: mv_gs_gshirtfront01
+			Texture: mv_gs_generic_tie01
+			Texture: mv_gs_default_spec01
+
+		Geometry: Juan
+			Texture: mv_gs_juan_shirt01
+			Texture: testshader01
+			Texture: mv_gs_juan_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juan_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juanhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_juanface
+			Texture: mv_gs_juan_suittrou01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juan_chest01
+			Texture: skin_spec_02
+			Texture: eyegreenl
+			Texture: lip_spec_01
+			Texture: mv_gs_juanhair01
+			Texture: mv_gs_juanshoe01
+			Texture: lip_spec_01
+			Texture: mv_gs_juancross01
+			Texture: reflect_shiny_stripe_mod
+			Texture: mouth_teeth
+			Texture: mv_gs_juanface
+			Texture: skin_spec_02
+			Texture: mv_gs_juanhair_alpha01
+			Texture: mv_gs_juanhair_alpha02
+
+		Geometry: GM_hawiian_shirt01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gshirtbody02
+			Texture: mv_dea_trou
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe04
+			Texture: mv_gs_gshirtarm02s
+
+		Geometry: Extractor_fan
+			Texture: grainymetal
+
+		Geometry: Power_box
+			Texture: high_voltagebox
+
+		Geometry: chop_drain
+			Texture: chop_drain
+
+		Geometry: Hut1
+			Texture: roofsurface
+			Texture: creamwall
+
+		Geometry: oxy_tank
+			Texture: oxytank
+
+		Geometry: oxy_gauge
+			Texture: oxygauge
+
+		Geometry: Electric_wireCasing
+			Texture: beam
+
+		Geometry: trash2
+			Texture: newspaper
+
+		Geometry: newspaper
+			Texture: newspaper
+
+		Geometry: safetylight
+			Texture: black_metal2
+			Texture: brickwall
+			Texture: whitealpha8x8
+			Texture: downlight
+
+		Geometry: orange_light
+			Texture: warning_light_orange
+			Texture: warning_light_orange
+			Texture: as_black_railgallery
+
+		Geometry: exhaust_pipe_long
+			Texture: metal_pipe
+
+		Geometry: Muck1
+			Texture: muck1
+
+		Geometry: chevron_yellow
+			Texture: chevron_yellow
+
+		Geometry: shadow_generic
+			Texture: shadow2
+
+		Geometry: jetranger_skinned
+			Texture: 00panels
+			Texture: 00panelsside
+			Texture: 00panelsbottom
+			Texture: steelfacedirt1
+			Texture: reflect_shiny_stripesub_add
+			Texture: 00black
+			Texture: reflect_shiny_stripesub_add
+			Texture: 00jetrangerred1
+			Texture: sob_helirotar
+
+		Geometry: Crockett_skin_2
+			Texture: mv_jb_crockhandsb
+			Texture: skin_spec_02
+			Texture: mv_jb_crockshoe02
+			Texture: mv_jb_crockarm02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: testshader01
+			Texture: mv_jb_crockshoe02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_jb_crockt02b
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_crocktrews2b
+			Texture: subtlespec
+			Texture: mv_jb_crockholster
+			Texture: reflect_shiny_stripe_add
+			Texture: crock15b
+			Texture: skin_spec_02
+			Texture: mouth_teeth
+			Texture: mv_jb_crockholster
+			Texture: spec2
+			Texture: mv_jb_crockglassb
+			Texture: crock_hairb
+			Texture: skin_spec_02
+			Texture: crock_hairb
+			Texture: mv_jb_crockglassb
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: Tubbs_Body5
+			Texture: separatetrou
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod2
+			Texture: mv_gs_tubbs_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbshand01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbs_chest01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbsface04
+			Texture: mv_gs_tubbs_shirt01
+			Texture: testshader01
+			Texture: newshoe
+			Texture: testshader01
+			Texture: mv_gs_tubbsface04
+			Texture: skin_spec_02
+			Texture: tubbs_mouth_teeth
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: mv_gs_tubbs_shirt01
+			Texture: mv_gs_tubbs_new_alha_e3
+
+		Geometry: magnum440
+			Texture: magnum440
+
+		Geometry: m79b
+			Texture: m79
+
+		Geometry: cratelong
+			Texture: crate1
+
+		Geometry: Generic_Head06
+			Texture: mv_gs_davewestface01
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: westalpha copy
+			Texture: skin_spec_02
+
+		Geometry: Safety1
+			Texture: safetyposter
+
+		Geometry: Brokenwall1
+			Texture: brokenwall1
+
+		Geometry: Brokenwall2
+			Texture: brokenwall2
+
+		Geometry: Camera_collision_box
+			Texture: as_black_railgallery
+
+		Geometry: movement_collision_box
+			Texture: as_black_railgallery
+
+		Geometry: inner
+			Texture: skyline1
+
+		Geometry: clouds
+			Texture: clouds
+
+		Geometry: Buildings_rooftop
+			Texture: skyline
+
+		Geometry: Buildings_rooftop2
+			Texture: skyline
+
+		Geometry: city_skydomenew
+			Texture: roof_sky
+			Texture: roof_city3
+
+		Geometry: Buildings_3dnew
+			Texture: roofsurface
+			Texture: building
+
+		Geometry: windowlight
+			Texture: neon2
+
+		Geometry: metalstep_end
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: metalstep_start
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: exhaust_pipe_bend
+			Texture: metal_pipe
+
+		Geometry: exhaust_pipe_tee
+			Texture: metal_pipe
+
+		Geometry: metalrail_sml
+			Texture: metal_pipe
+
+
+	Texture -> Geometry Association:
+		Texture: smoke1
+
+		Texture: debris
+
+		Texture: moon
+
+		Texture: star
+
+		Texture: Light1
+
+		Texture: roofsurface
+			Geometry: Roof_Helipad
+			Geometry: Rooftop
+			Geometry: Hut1
+			Geometry: Buildings_3dnew
+
+		Texture: creamwall
+			Geometry: Roof_Helipad
+			Geometry: Rooftop
+			Geometry: Brick
+			Geometry: Hut1
+
+		Texture: metal
+			Geometry: Roof_Helipad
+			Geometry: metalstep
+			Geometry: metal_walkway_noside
+			Geometry: metal_walkway
+			Geometry: metalstep_end
+			Geometry: metalstep_start
+
+		Texture: windowsnew
+			Geometry: Roof_Helipad
+			Geometry: Rooftop
+
+		Texture: helivent
+			Geometry: Roof_Helipad
+
+		Texture: black
+			Geometry: ariel
+
+		Texture: barrelld
+			Geometry: Barrel3
+
+		Texture: grill
+			Geometry: Roof_vent
+
+		Texture: grill2
+			Geometry: Roof_vent
+
+		Texture: cratebacklo
+			Geometry: Oiltank
+
+		Texture: metal_pipe
+			Geometry: Oiltank
+			Geometry: metalstep
+			Geometry: metal_walkway_noside
+			Geometry: metal_walkway
+			Geometry: exhaust_pipe_long
+			Geometry: metalstep_end
+			Geometry: metalstep_start
+			Geometry: exhaust_pipe_bend
+			Geometry: exhaust_pipe_tee
+			Geometry: metalrail_sml
+
+		Texture: doordocks
+			Geometry: Door_dock
+
+		Texture: 00black
+			Geometry: jetranger_skinned
+
+		Texture: 00panelsside
+			Geometry: jetranger_skinned
+
+		Texture: 00panelsbottom
+			Geometry: jetranger_skinned
+
+		Texture: 00panels
+			Geometry: jetranger_skinned
+
+		Texture: crate_drugs
+			Geometry: Crate_drugs
+
+		Texture: crate_canvastop1
+			Geometry: Crate_canvas
+
+		Texture: crate_canvas1
+			Geometry: Crate_canvas
+
+		Texture: as_mesh_fence_post
+			Geometry: mesh_gate
+			Geometry: mesh_railing
+
+		Texture: railing
+			Geometry: mesh_gate
+			Geometry: mesh_railing
+
+		Texture: wood_plank2
+			Geometry: PLANK2
+
+		Texture: fanvent_low
+			Geometry: Fanvent
+
+		Texture: waterdamage
+			Geometry: waterdamage
+
+		Texture: gantry
+			Geometry: Gantry
+
+		Texture: mv_gs_generic_neck1w
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_04
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_01
+			Geometry: GM_hawiian_shirt01
+
+		Texture: skin_spec_02
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_04
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_01
+			Geometry: Juan
+			Geometry: GM_hawiian_shirt01
+			Geometry: Crockett_skin_2
+			Geometry: Tubbs_Body5
+			Geometry: Generic_Head06
+
+		Texture: mv_gs_gen_suitbody04
+			Geometry: Juan_Henchman_05
+
+		Texture: mv_gs_generic_trou01
+			Geometry: Juan_Henchman_05
+			Geometry: Ortegas_henchman_06
+
+		Texture: mv_gs_gen_suitarm04
+			Geometry: Juan_Henchman_05
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_04
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_01
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_gs_genericshoe01
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_04
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_01
+
+		Texture: testshader01
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_04
+			Geometry: Juan
+			Geometry: Crockett_skin_2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_sleavless04
+			Geometry: Juan_Henchman_05
+
+		Texture: mv_gs_default_spec01
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_gs_gen_suitbody01
+			Geometry: Juan_Henchman_01
+			Geometry: Ortegas_henchman_06
+
+		Texture: mv_gs_generic_trou02
+			Geometry: Juan_Henchman_01
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_gs_gen_suitarm01
+			Geometry: Juan_Henchman_01
+			Geometry: Ortegas_henchman_06
+
+		Texture: mv_gs_gsuitvest02
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_gen_suitbody02
+			Geometry: Juan_Henchman_02
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_jbgs_gentrou3
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_gen_suitarm02
+			Geometry: Juan_Henchman_02
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_gs_gsuitvesto_04
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_gen_suitbody05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_generic_trou05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gen_suitarm05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gshirtfront03
+			Geometry: Juan_Henchman_04
+			Geometry: Ortegas_henchman_06
+
+		Texture: mv_gs_gshirtfront01
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_gs_generic_tie01
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_gs_juan_shirt01
+			Geometry: Juan
+
+		Texture: mv_gs_juanshoe01
+			Geometry: Juan
+
+		Texture: lip_spec_01
+			Geometry: Juan
+			Geometry: Generic_Head06
+
+		Texture: mouth_teeth
+			Geometry: Juan
+			Geometry: Crockett_skin_2
+
+		Texture: mv_gs_juancross01
+			Geometry: Juan
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Juan
+			Geometry: Crockett_skin_2
+
+		Texture: mv_gs_juanface
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair_alpha01
+			Geometry: Juan
+
+		Texture: eyegreenl
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suitbody01
+			Geometry: Juan
+
+		Texture: crok_vest_spec_01
+			Geometry: Juan
+			Geometry: Crockett_skin_2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_juan_suitarm01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhand01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suittrou01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_chest01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair_alpha02
+			Geometry: Juan
+
+		Texture: mv_gs_gshirtbody02
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_dea_trou
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_gs_generic_full_arm02w
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_gs_genericshoe04
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_gs_gshirtarm02s
+			Geometry: GM_hawiian_shirt01
+
+		Texture: grainymetal
+			Geometry: Extractor_fan
+
+		Texture: high_voltagebox
+			Geometry: Power_box
+
+		Texture: chop_drain
+			Geometry: chop_drain
+
+		Texture: oxytank
+			Geometry: oxy_tank
+
+		Texture: oxygauge
+			Geometry: oxy_gauge
+
+		Texture: beam
+			Geometry: Electric_wireCasing
+
+		Texture: newspaper
+			Geometry: trash2
+			Geometry: newspaper
+
+		Texture: black_metal2
+			Geometry: safetylight
+
+		Texture: brickwall
+			Geometry: safetylight
+
+		Texture: whitealpha8x8
+			Geometry: safetylight
+
+		Texture: downlight
+			Geometry: safetylight
+
+		Texture: skyline
+			Geometry: Buildings_rooftop
+			Geometry: Buildings_rooftop2
+
+		Texture: warning_light_orange
+			Geometry: orange_light
+
+		Texture: as_black_railgallery
+			Geometry: orange_light
+			Geometry: Camera_collision_box
+			Geometry: movement_collision_box
+
+		Texture: muck1
+			Geometry: Muck1
+
+		Texture: chevron_yellow
+			Geometry: chevron_yellow
+
+		Texture: shadow2
+			Geometry: shadow_generic
+
+		Texture: reflect_shiny_stripesub_add
+			Geometry: jetranger_skinned
+
+		Texture: 00jetrangerred1
+			Geometry: jetranger_skinned
+
+		Texture: sob_helirotar
+			Geometry: jetranger_skinned
+
+		Texture: steelfacedirt1
+			Geometry: jetranger_skinned
+
+		Texture: mv_jb_crockhandsb
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockholster
+			Geometry: Crockett_skin_2
+
+		Texture: spec2
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockglassb
+			Geometry: Crockett_skin_2
+
+		Texture: crock_hairb
+			Geometry: Crockett_skin_2
+
+		Texture: crock15b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crocktrews2b
+			Geometry: Crockett_skin_2
+
+		Texture: subtlespec
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockt02b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockarm02
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockshoe02
+			Geometry: Crockett_skin_2
+
+		Texture: eyebl
+			Geometry: Crockett_skin_2
+			Geometry: Generic_Head06
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Crockett_skin_2
+
+		Texture: separatetrou
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbsface04
+			Geometry: Tubbs_Body5
+
+		Texture: tubbs_mouth_teeth
+			Geometry: Tubbs_Body5
+
+		Texture: eye_dkbrown
+			Geometry: Tubbs_Body5
+
+		Texture: newshoe
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_new_alha_e3
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_shirt01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chest01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chain01
+			Geometry: Tubbs_Body5
+
+		Texture: reflect_shiny_stripe_mod2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitbody01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitarm01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbshand01
+			Geometry: Tubbs_Body5
+
+		Texture: magnum440
+			Geometry: magnum440
+
+		Texture: m79
+			Geometry: m79b
+
+		Texture: crate1
+			Geometry: cratelong
+
+		Texture: mv_gs_davewestface01
+			Geometry: Generic_Head06
+
+		Texture: westalpha copy
+			Geometry: Generic_Head06
+
+		Texture: safetyposter
+			Geometry: Safety1
+
+		Texture: brokenwall1
+			Geometry: Brokenwall1
+
+		Texture: brokenwall2
+			Geometry: Brokenwall2
+
+		Texture: skyline1
+			Geometry: inner
+
+		Texture: clouds
+			Geometry: clouds
+
+		Texture: roof_sky
+			Geometry: city_skydomenew
+
+		Texture: roof_city3
+			Geometry: city_skydomenew
+
+		Texture: building
+			Geometry: Buildings_3dnew
+
+		Texture: neon2
+			Geometry: windowlight
+
