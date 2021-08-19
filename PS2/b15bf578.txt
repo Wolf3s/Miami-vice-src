@@ -1,0 +1,587 @@
+
+	Exporting Textures:
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors    7      4-Bit   walltop
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors    5      4-Bit   wallbot
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    3      4-Bit   skirting_black
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors    7      4-Bit   floor
+		Size 2368         Width 64      Height 64     MultiBitAlpha TRUE    nColors   13      4-Bit   window1
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   61      8-Bit   spec1
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   14      4-Bit   map_large
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   map_small
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   pin_board
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors    6      4-Bit   lightstrip
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   brief_chair1
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors   28      8-Bit   leather_office
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  244      8-Bit   filing_cabinet
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crockhandsb
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  122      8-Bit   skin_spec_02
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_jb_crockholster
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors    7      4-Bit   spec2
+		Size 65792        Width 128     Height 128    MultiBitAlpha TRUE    nColors  982      32-Bit  mv_jb_crockglassb
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  640      32-Bit  crock_hairb
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  256      8-Bit   crock15b
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crocktrews2b
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   25      8-Bit   subtlespec
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crockt02b
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   61      8-Bit   crok_vest_spec_01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_crockarm02
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  253      8-Bit   mv_jb_crockshoe02
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  255      8-Bit   eyebl
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   68      8-Bit   testshader01
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  153      8-Bit   reflect_shiny_stripe_mod
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   reflect_shiny_stripe_add
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   separatetrou
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  255      8-Bit   mv_gs_tubbsface04
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   tubbs_mouth_teeth
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  251      8-Bit   eye_dkbrown
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   newshoe
+		Size 9472         Width 128     Height 64     MultiBitAlpha FALSE   nColors   68      8-Bit   mv_gs_tubbs_new_alha_e3
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_shirt01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_chest01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   28      8-Bit   mv_gs_tubbs_chain01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors  202      8-Bit   reflect_shiny_stripe_mod2
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_suitbody01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbs_suitarm01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_tubbshand01
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  252      8-Bit   beach_sunset_blue
+		Size 1344         Width 32      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   photo
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   photo3
+		Size 1344         Width 32      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   photo2
+		Size 9472         Width 64      Height 128    MultiBitAlpha FALSE   nColors  253      8-Bit   poster1
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   91      8-Bit   table
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   locker
+		Size 3328         Width 64      Height 32     MultiBitAlpha FALSE   nColors   34      8-Bit   blinds
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    1      4-Bit   chevron_yellow
+		Size 17664        Width 128     Height 128    MultiBitAlpha TRUE    nColors   29      8-Bit   plant_leaf01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   lecorbusierhotel
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors   11      4-Bit   cup
+		Size 448          Width 16      Height 8      MultiBitAlpha FALSE   nColors    7      4-Bit   ciggy
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   13      4-Bit   creamwall
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  126      8-Bit   matrix_printer
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   printout
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  252      8-Bit   mv_gs_cstilloface02
+		Size 16640        Width 64      Height 64     MultiBitAlpha FALSE   nColors  268      32-Bit  skin_spec_021
+		Size 131328       Width 256     Height 128    MultiBitAlpha FALSE   nColors  375      32-Bit  mv_gs_cstillo_hair01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   28      8-Bit   mv_gs_tachea01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_castillo_suitbody01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_castillo_suitarm01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_castillo_trou01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_cstilloshirt01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_cstilloshoes01
+		Size 1344         Width 128     Height 16     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_castillo_tie
+		Size 832          Width 64      Height 16     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_cstillobelt01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_hand_front01
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors   30      8-Bit   hair2
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   phone_black
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   lecorbusier1
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors    6      4-Bit   chair_chrome1
+		Size 17664        Width 256     Height 64     MultiBitAlpha FALSE   nColors  113      8-Bit   cbcable
+
+		Total Size (1058 k) (1084096 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 57520    Collision Size 50204    Total Size 107772    Castillos_office
+		Render Size 10064    Collision Size 3160     Total Size 13272     plain_chair
+		Render Size 8416     Collision Size 4820     Total Size 13284     Leather_chair
+		Render Size 6576     Collision Size 660      Total Size 7284      filing_cabinet_large
+		Render Size 827888   Collision Size 0        Total Size 827936    Crockett_skin_2
+		Render Size 735008   Collision Size 0        Total Size 735056    Tubbs_Body5
+		Render Size 3568     Collision Size 524      Total Size 4140      Cabinet_drawer
+		Render Size 1952     Collision Size 1556     Total Size 3556      windows
+		Render Size 6656     Collision Size 10636    Total Size 17340     skydome beachhouse
+		Render Size 432      Collision Size 292      Total Size 772       poster
+		Render Size 416      Collision Size 292      Total Size 756       poster2
+		Render Size 464      Collision Size 292      Total Size 804       poster3
+		Render Size 400      Collision Size 292      Total Size 740       poster4
+		Render Size 9504     Collision Size 7756     Total Size 17308     police_table
+		Render Size 1776     Collision Size 660      Total Size 2484      Locker
+		Render Size 5136     Collision Size 4276     Total Size 9460      blind_closed
+		Render Size 448      Collision Size 396      Total Size 892       chevron_yellow
+		Render Size 9248     Collision Size 1324     Total Size 10620     plant
+		Render Size 2592     Collision Size 3640     Total Size 6280      cup
+		Render Size 1488     Collision Size 2716     Total Size 4252      ashtray
+		Render Size 928      Collision Size 1108     Total Size 2084      ciggy
+		Render Size 3584     Collision Size 3284     Total Size 6916      printer
+		Render Size 384      Collision Size 292      Total Size 724       Printout
+		Render Size 269760   Collision Size 0        Total Size 269808    Castillio01
+		Render Size 1600     Collision Size 2068     Total Size 3716      Phone_Main
+		Render Size 6080     Collision Size 8244     Total Size 14372     Phone_handset
+		Render Size 12896    Collision Size 1508     Total Size 14452     Le_corbusier_longnew
+		Render Size 384      Collision Size 292      Total Size 724       CBcable
+
+		Total Render Size:    (1938 k) (1985168 bytes)
+		Total Collision Size: (107 k) (110292 bytes)
+		Total Size:           (2046 k) (2095460 bytes)
+
+	Exporting Animations:
+		Size 353588          Castillo_9295.ANM
+		Size 66556           Crockett_3_9306.ANM
+		Size 35252           Tubbs_3_9307.ANM
+		Size 7836            Castillio_Talking_9352.VNM
+		Size 3916            Tubbs_Talking_9358.VNM
+		Size 4008            Crockett_Talking_9361.VNM
+
+		Total Anim Size:    (460 k) (471156 bytes)
+
+	Exporting Sound FX:
+		SFX Size 75552       nChannels 1       Frequency 22050       8 Bit           phone ring a.wav
+
+		Total Sound Size:    (73 k) (75552 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (564 bytes)
+			Hull: Hull01:
+				Asset Tree: nLeaves 5, nBranches 7: (1 k) (1244 bytes)
+				StaticInstances 77: (9 k) (9856 bytes)
+				DynamicInstances 5: (0 k) (980 bytes)
+				Bone, Morph, AnimInstance Data 77: (17 k) (18144 bytes)
+				StaticLights 9: (0 k) (432 bytes)
+				DynamicSFX 1: (0 k) (136 bytes)
+
+				TotalSize: (30 k) (30792 bytes)
+
+			Hull: sky:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (220 bytes)
+
+		Size Of Asset Tree                     data (30       k) (31012        bytes) - Save Game (0        k) (256         bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (12       k) (12468        bytes) - Save Game (0        k) (20          bytes)
+		Size Of Process Object                 data (0        k) (36           bytes) - Save Game (0        k) (4           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (244          bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		0 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (0 bytes)
+
+
+		Total size in PUB (43 k) (44452 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (280 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (280 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Castillos_office
+			Texture: walltop
+			Texture: wallbot
+			Texture: skirting_black
+			Texture: floor
+			Texture: map_large
+			Texture: map_small
+			Texture: pin_board
+			Texture: lightstrip
+
+		Geometry: plain_chair
+			Texture: brief_chair1
+
+		Geometry: Leather_chair
+			Texture: leather_office
+
+		Geometry: filing_cabinet_large
+			Texture: filing_cabinet
+
+		Geometry: Crockett_skin_2
+			Texture: mv_jb_crockhandsb
+			Texture: skin_spec_02
+			Texture: mv_jb_crockshoe02
+			Texture: mv_jb_crockarm02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: testshader01
+			Texture: mv_jb_crockshoe02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_jb_crockt02b
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_crocktrews2b
+			Texture: subtlespec
+			Texture: crock15b
+			Texture: skin_spec_02
+			Texture: mv_jb_crockholster
+			Texture: spec2
+			Texture: mv_jb_crockholster
+			Texture: reflect_shiny_stripe_add
+			Texture: mouth_teeth
+			Texture: crock_hairb
+			Texture: skin_spec_02
+			Texture: mv_jb_crockglassb
+			Texture: mv_jb_crockglassb
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: Tubbs_Body5
+			Texture: separatetrou
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod2
+			Texture: mv_gs_tubbs_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbshand01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbs_chest01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbsface04
+			Texture: mv_gs_tubbs_shirt01
+			Texture: testshader01
+			Texture: newshoe
+			Texture: testshader01
+			Texture: mv_gs_tubbsface04
+			Texture: skin_spec_02
+			Texture: tubbs_mouth_teeth
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: mv_gs_tubbs_shirt01
+			Texture: mv_gs_tubbs_new_alha_e3
+
+		Geometry: Cabinet_drawer
+			Texture: filing_cabinet
+
+		Geometry: windows
+			Texture: window1
+			Texture: spec1
+
+		Geometry: skydome beachhouse
+			Texture: beach_sunset_blue
+
+		Geometry: poster
+			Texture: photo
+
+		Geometry: poster2
+			Texture: photo3
+
+		Geometry: poster3
+			Texture: photo2
+
+		Geometry: poster4
+			Texture: poster1
+
+		Geometry: police_table
+			Texture: table
+
+		Geometry: Locker
+			Texture: locker
+
+		Geometry: blind_closed
+			Texture: blinds
+
+		Geometry: chevron_yellow
+			Texture: chevron_yellow
+
+		Geometry: plant
+			Texture: lecorbusierhotel
+			Texture: plant_leaf01
+
+		Geometry: cup
+			Texture: cup
+
+		Geometry: ashtray
+			Texture: creamwall
+
+		Geometry: ciggy
+			Texture: ciggy
+
+		Geometry: printer
+			Texture: matrix_printer
+
+		Geometry: Printout
+			Texture: printout
+
+		Geometry: Castillio01
+			Texture: mv_gs_cstilloface02
+			Texture: skin_spec_021
+			Texture: mv_gs_castillo_tie
+			Texture: subtlespec
+			Texture: mv_gs_cstilloshoes01
+			Texture: testshader01
+			Texture: mv_gs_cstillobelt01
+			Texture: testshader01
+			Texture: mv_gs_hand_front01
+			Texture: skin_spec_021
+			Texture: mv_gs_cstilloshirt01
+			Texture: mv_gs_castillo_trou01
+			Texture: subtlespec
+			Texture: mv_gs_castillo_suitarm01
+			Texture: subtlespec
+			Texture: mouth_teeth
+			Texture: mv_gs_cstillo_hair01
+			Texture: skin_spec_021
+			Texture: mv_gs_castillo_suitbody01
+			Texture: subtlespec
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: hair2
+			Texture: mv_gs_tachea01
+
+		Geometry: Phone_Main
+			Texture: phone_black
+
+		Geometry: Phone_handset
+			Texture: phone_black
+
+		Geometry: Le_corbusier_longnew
+			Texture: lecorbusier1
+			Texture: chair_chrome1
+
+		Geometry: CBcable
+			Texture: cbcable
+
+
+	Texture -> Geometry Association:
+		Texture: walltop
+			Geometry: Castillos_office
+
+		Texture: wallbot
+			Geometry: Castillos_office
+
+		Texture: skirting_black
+			Geometry: Castillos_office
+
+		Texture: floor
+			Geometry: Castillos_office
+
+		Texture: window1
+			Geometry: windows
+
+		Texture: spec1
+			Geometry: windows
+
+		Texture: map_large
+			Geometry: Castillos_office
+
+		Texture: map_small
+			Geometry: Castillos_office
+
+		Texture: pin_board
+			Geometry: Castillos_office
+
+		Texture: lightstrip
+			Geometry: Castillos_office
+
+		Texture: brief_chair1
+			Geometry: plain_chair
+
+		Texture: leather_office
+			Geometry: Leather_chair
+
+		Texture: filing_cabinet
+			Geometry: filing_cabinet_large
+			Geometry: Cabinet_drawer
+
+		Texture: mv_jb_crockhandsb
+			Geometry: Crockett_skin_2
+
+		Texture: skin_spec_02
+			Geometry: Crockett_skin_2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_jb_crockholster
+			Geometry: Crockett_skin_2
+
+		Texture: spec2
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockglassb
+			Geometry: Crockett_skin_2
+
+		Texture: crock_hairb
+			Geometry: Crockett_skin_2
+
+		Texture: mouth_teeth
+			Geometry: Crockett_skin_2
+			Geometry: Castillio01
+
+		Texture: crock15b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crocktrews2b
+			Geometry: Crockett_skin_2
+
+		Texture: subtlespec
+			Geometry: Crockett_skin_2
+			Geometry: Castillio01
+
+		Texture: mv_jb_crockt02b
+			Geometry: Crockett_skin_2
+
+		Texture: crok_vest_spec_01
+			Geometry: Crockett_skin_2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_jb_crockarm02
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockshoe02
+			Geometry: Crockett_skin_2
+
+		Texture: eyebl
+			Geometry: Crockett_skin_2
+
+		Texture: testshader01
+			Geometry: Crockett_skin_2
+			Geometry: Tubbs_Body5
+			Geometry: Castillio01
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Crockett_skin_2
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Crockett_skin_2
+
+		Texture: separatetrou
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbsface04
+			Geometry: Tubbs_Body5
+
+		Texture: tubbs_mouth_teeth
+			Geometry: Tubbs_Body5
+
+		Texture: eye_dkbrown
+			Geometry: Tubbs_Body5
+			Geometry: Castillio01
+
+		Texture: newshoe
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_new_alha_e3
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_shirt01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chest01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chain01
+			Geometry: Tubbs_Body5
+
+		Texture: reflect_shiny_stripe_mod2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitbody01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitarm01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbshand01
+			Geometry: Tubbs_Body5
+
+		Texture: beach_sunset_blue
+			Geometry: skydome beachhouse
+
+		Texture: photo
+			Geometry: poster
+
+		Texture: photo3
+			Geometry: poster2
+
+		Texture: photo2
+			Geometry: poster3
+
+		Texture: poster1
+			Geometry: poster4
+
+		Texture: table
+			Geometry: police_table
+
+		Texture: locker
+			Geometry: Locker
+
+		Texture: blinds
+			Geometry: blind_closed
+
+		Texture: chevron_yellow
+			Geometry: chevron_yellow
+
+		Texture: plant_leaf01
+			Geometry: plant
+
+		Texture: lecorbusierhotel
+			Geometry: plant
+
+		Texture: cup
+			Geometry: cup
+
+		Texture: ciggy
+			Geometry: ciggy
+
+		Texture: creamwall
+			Geometry: ashtray
+
+		Texture: matrix_printer
+			Geometry: printer
+
+		Texture: printout
+			Geometry: Printout
+
+		Texture: mv_gs_cstilloface02
+			Geometry: Castillio01
+
+		Texture: skin_spec_021
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstillo_hair01
+			Geometry: Castillio01
+
+		Texture: mv_gs_tachea01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_suitbody01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_suitarm01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_trou01
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstilloshirt01
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstilloshoes01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_tie
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstillobelt01
+			Geometry: Castillio01
+
+		Texture: mv_gs_hand_front01
+			Geometry: Castillio01
+
+		Texture: hair2
+			Geometry: Castillio01
+
+		Texture: phone_black
+			Geometry: Phone_Main
+			Geometry: Phone_handset
+
+		Texture: lecorbusier1
+			Geometry: Le_corbusier_longnew
+
+		Texture: chair_chrome1
+			Geometry: Le_corbusier_longnew
+
+		Texture: cbcable
+			Geometry: CBcable
+
