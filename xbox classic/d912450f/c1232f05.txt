@@ -1,0 +1,745 @@
+
+	Exporting Sound FX:
+		SFX Size 1612        nChannels 1       Frequency 22050       16 Bit          0004.wav
+
+		Total Sound Size:    (1 k) (1612 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Inventory:
+				Asset Tree: nLeaves 11, nBranches 6: (1 k) (1684 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 60: (11 k) (11760 bytes)
+				Bone, Morph, AnimInstance Data 0: (1 k) (1456 bytes)
+				FXInstances 24: (4 k) (4128 bytes)
+				DynamicSFX 2: (0 k) (272 bytes)
+
+				TotalSize: (61 k) (62868 bytes)
+
+		Size Of Asset Tree                     data (61       k) (62868        bytes) - Save Game (3        k) (3576        bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (3        k) (3652         bytes) - Save Game (0        k) (180         bytes)
+		Size Of Process Object                 data (1        k) (1188         bytes) - Save Game (0        k) (132         bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (10       k) (10788        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		14 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (336 bytes)
+
+
+		Total size in PUB (77 k) (79332 bytes)
+
+
+		Editor Assets Save Game Size (3 k) (3888 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (3 k) (3888 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: OBJ_PICKUP_AIR_SMALL
+			Texture: Rock
+
+		Geometry: healthpickup_large
+			Texture: healthredtransparent
+
+		Geometry: healthpickup_medium
+			Texture: healthred
+			Texture: healthredtransparent
+
+		Geometry: bullet_case
+			Texture: Bullet_case
+
+		Geometry: Bullet
+			Texture: bullet
+
+		Geometry: target
+			Texture: red2
+
+		Geometry: berretta
+			Texture: beretta92
+
+		Geometry: bren 
+			Texture: brenten2
+
+		Geometry: m79b
+			Texture: m79
+
+		Geometry: m16
+			Texture: m16
+
+		Geometry: swat
+			Texture: m16
+
+		Geometry: mac10
+			Texture: m10
+
+		Geometry: ouzi
+			Texture: m10
+
+		Geometry: magnum440
+			Texture: magnum4401
+
+		Geometry: remington
+			Texture: 12gauge
+
+		Geometry: shotgun
+			Texture: shgun
+
+		Geometry: berrettasd
+			Texture: beretta92
+
+		Geometry: PSG1
+			Texture: psg
+
+		Geometry: SmithWes01
+			Texture: swes2
+
+		Geometry: Generic_head01
+			Texture: mv_gs_mattf01
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+
+		Geometry: Generic_Head02
+			Texture: mv_gs_mathew01
+			Texture: skin_spec_02
+			Texture: mv_gs_mathew_hair01
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_mathew_alpha01
+
+		Geometry: Generic_Head03
+			Texture: mv_gs_joe02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+
+		Geometry: Generic_Head04
+			Texture: mv_gs_joe02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_jb_crockglassb
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: Generic_Head05
+			Texture: mv_gs_leigh02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_leigh02
+			Texture: mv_gs_leighalpha03
+
+		Geometry: Generic_Head06
+			Texture: mv_gs_davewestface01
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: westalpha copy
+			Texture: skin_spec_02
+
+		Geometry: M60
+			Texture: m60
+
+		Geometry: Generic_head_BF01
+			Texture: mv_gs_generic_head_fb01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_head_fb01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_hair_fb01
+			Texture: testshader01
+			Texture: eyebrownl
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+
+		Geometry: Generic_head_BF02
+			Texture: mv_gs_generic_head_fb01
+			Texture: skin_spec_02
+			Texture: eyebrownl
+			Texture: lip_spec_01
+			Texture: mv_gs_sarahair
+			Texture: mv_gs_generic_head_fb01
+			Texture: lip_spec_01
+			Texture: mv_gs_saraalpha03
+			Texture: mv_gs_generic_eyelashes
+
+		Geometry: Generic_head_WF01
+			Texture: mv_gs_generic_head_fw03
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_hair_w01
+			Texture: testshader01
+			Texture: eyehz
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_head_fw03
+			Texture: mv_gs_generic_head_fw03
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+			Texture: mv_gs_generic_hairalpha_fw03
+
+		Geometry: Generic_head_WF02
+			Texture: mv_gs_generic_head_fw01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_gs_generic_hair_wb01
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_head_fw01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+
+		Geometry: Generic_head_WF03
+			Texture: mv_gs_generic_head_fw02
+			Texture: skin_spec_02
+			Texture: eye_brown
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_hair_wb01_black
+			Texture: mv_gs_generic_head_fw02
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+
+		Geometry: Generic_head_WF04
+			Texture: mv_gs_generic_head_fw01
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_hairunder_wb01
+			Texture: testshader01
+			Texture: mv_gs_generic_head_fw01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_eyelashes
+			Texture: mv_gs_generic_haira02lpha01
+
+		Geometry: Generic_head_WF05
+			Texture: mv_gs_sara02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_sarahair
+			Texture: testshader01
+			Texture: mv_gs_sara02
+			Texture: lip_spec_01
+			Texture: mv_gs_saraalpha03
+
+		Geometry: scope
+			Texture: scope_black
+			Texture: scope_specular
+			Texture: scope
+			Texture: lip_spec_01
+
+		Geometry: Grenade
+			Texture: grenade
+
+		Geometry: Projectile2
+			Texture: projectile21
+
+		Geometry: Uzi_9mm
+			Texture: uzi1
+
+		Geometry: wood
+			Texture: wood
+
+		Geometry: Concrete
+			Texture: concrete1
+
+		Geometry: glass
+			Texture: as_glass_foyer
+
+		Geometry: Sculptshard3
+			Texture: as_black_railgallery
+			Texture: spec1
+
+		Geometry: Sculptshard1
+			Texture: as_black_railgallery
+			Texture: spec1
+
+		Geometry: Sculptshard2
+			Texture: as_black_railgallery
+			Texture: spec1
+
+		Geometry: Direction_helper
+			Texture: direction
+
+
+	Texture -> Geometry Association:
+		Texture: as_black_railgallery
+			Geometry: Sculptshard3
+			Geometry: Sculptshard1
+			Geometry: Sculptshard2
+
+		Texture: b2f0000
+
+		Texture: b2f0004
+
+		Texture: b2f0008
+
+		Texture: b2f0012
+
+		Texture: b2f0016
+
+		Texture: b2f0020
+
+		Texture: b2f0024
+
+		Texture: b2f0028
+
+		Texture: b2f0032
+
+		Texture: b2f0036
+
+		Texture: b2f0040
+
+		Texture: b2f0044
+
+		Texture: b2f0048
+
+		Texture: b2f0052
+
+		Texture: b2f0056
+
+		Texture: b2f0060
+
+		Texture: b2f0064
+
+		Texture: b2f0068
+
+		Texture: b0245
+
+		Texture: f2b0172
+
+		Texture: f2b0176
+
+		Texture: f2b0180
+
+		Texture: f2b0184
+
+		Texture: f2b0188
+
+		Texture: f2b0192
+
+		Texture: f2b0196
+
+		Texture: f2b0200
+
+		Texture: f2b0204
+
+		Texture: f2b0208
+
+		Texture: f2b0212
+
+		Texture: f2b0216
+
+		Texture: f2b0220
+
+		Texture: f2b0224
+
+		Texture: f2b0228
+
+		Texture: f2b0232
+
+		Texture: f2b0236
+
+		Texture: f2b0240
+
+		Texture: f2b0244
+
+		Texture: f0070
+
+		Texture: Muzzle1
+
+		Texture: smoke1
+
+		Texture: material
+
+		Texture: damage
+
+		Texture: beretta
+
+		Texture: bren10
+
+		Texture: health
+
+		Texture: generade_launcher
+
+		Texture: m16_ar
+
+		Texture: m16_mg
+
+		Texture: m16_smg
+
+		Texture: mac10
+
+		Texture: magnum440
+
+		Texture: pumpaction_shotgun
+
+		Texture: sawnoff_shotgun
+
+		Texture: silenced_beretta
+
+		Texture: Main
+
+		Texture: sniper_rifle
+
+		Texture: sw_45
+
+		Texture: uzi
+
+		Texture: follow
+
+		Texture: idle
+
+		Texture: inactive
+
+		Texture: takecover
+
+		Texture: under attack
+
+		Texture: Backup
+
+		Texture: bad
+
+		Texture: blank
+
+		Texture: door_locked
+
+		Texture: Door_NoWay
+
+		Texture: Door_sturdy
+
+		Texture: Door_unlocked
+
+		Texture: using item
+
+		Texture: Grabbed
+
+		Texture: clip
+
+		Texture: evidence
+
+		Texture: firstaid
+
+		Texture: key
+
+		Texture: swipe_card
+
+		Texture: Concrete
+
+		Texture: cross
+
+		Texture: jump
+
+		Texture: ladder
+
+		Texture: reload
+
+		Texture: collectable
+
+		Texture: friendly
+
+		Texture: unfriendly
+
+		Texture: reload2
+
+		Texture: triangle
+
+		Texture: notcollectable
+
+		Texture: MoveOff
+
+		Texture: gunflash
+
+		Texture: debris
+
+		Texture: Blood
+
+		Texture: shard
+
+		Texture: Glass
+
+		Texture: Metal
+
+		Texture: wood2
+
+		Texture: Light1
+
+		Texture: Ricochet2
+
+		Texture: Xbox_A
+
+		Texture: Xbox_B
+
+		Texture: Xbox_X
+
+		Texture: Xbox_Y
+
+		Texture: van
+
+		Texture: cuffs
+
+		Texture: drugs
+
+		Texture: grenadedirt
+
+		Texture: grenadefire
+
+		Texture: grenadesmoke
+
+		Texture: shard2
+
+		Texture: shard1
+
+		Texture: return
+
+		Texture: esc
+
+		Texture: Rock
+			Geometry: OBJ_PICKUP_AIR_SMALL
+
+		Texture: healthredtransparent
+			Geometry: healthpickup_large
+			Geometry: healthpickup_medium
+
+		Texture: healthred
+			Geometry: healthpickup_medium
+
+		Texture: Bullet_case
+			Geometry: bullet_case
+
+		Texture: bullet
+			Geometry: Bullet
+
+		Texture: red2
+			Geometry: target
+
+		Texture: beretta92
+			Geometry: berretta
+			Geometry: berrettasd
+
+		Texture: brenten2
+			Geometry: bren 
+
+		Texture: m79
+			Geometry: m79b
+
+		Texture: m16
+			Geometry: m16
+			Geometry: swat
+
+		Texture: m10
+			Geometry: mac10
+			Geometry: ouzi
+
+		Texture: magnum4401
+			Geometry: magnum440
+
+		Texture: 12gauge
+			Geometry: remington
+
+		Texture: shgun
+			Geometry: shotgun
+
+		Texture: psg
+			Geometry: PSG1
+
+		Texture: swes2
+			Geometry: SmithWes01
+
+		Texture: mv_gs_mattf01
+			Geometry: Generic_head01
+
+		Texture: skin_spec_02
+			Geometry: Generic_head01
+			Geometry: Generic_Head02
+			Geometry: Generic_Head03
+			Geometry: Generic_Head04
+			Geometry: Generic_Head05
+			Geometry: Generic_Head06
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_BF02
+			Geometry: Generic_head_WF01
+			Geometry: Generic_head_WF02
+			Geometry: Generic_head_WF03
+			Geometry: Generic_head_WF04
+			Geometry: Generic_head_WF05
+
+		Texture: eyebl
+			Geometry: Generic_head01
+			Geometry: Generic_Head02
+			Geometry: Generic_Head03
+			Geometry: Generic_Head04
+			Geometry: Generic_Head05
+			Geometry: Generic_Head06
+			Geometry: Generic_head_WF02
+			Geometry: Generic_head_WF04
+			Geometry: Generic_head_WF05
+
+		Texture: lip_spec_01
+			Geometry: Generic_head01
+			Geometry: Generic_Head02
+			Geometry: Generic_Head03
+			Geometry: Generic_Head04
+			Geometry: Generic_Head05
+			Geometry: Generic_Head06
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_BF02
+			Geometry: Generic_head_WF01
+			Geometry: Generic_head_WF02
+			Geometry: Generic_head_WF03
+			Geometry: Generic_head_WF04
+			Geometry: Generic_head_WF05
+			Geometry: scope
+
+		Texture: mv_gs_mathew01
+			Geometry: Generic_Head02
+
+		Texture: mv_gs_mathew_hair01
+			Geometry: Generic_Head02
+
+		Texture: mv_gs_mathew_alpha01
+			Geometry: Generic_Head02
+
+		Texture: mv_gs_joe02
+			Geometry: Generic_Head03
+			Geometry: Generic_Head04
+
+		Texture: mv_jb_crockglassb
+			Geometry: Generic_Head04
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Generic_Head04
+
+		Texture: mv_gs_leigh02
+			Geometry: Generic_Head05
+
+		Texture: mv_gs_leighalpha03
+			Geometry: Generic_Head05
+
+		Texture: mv_gs_davewestface01
+			Geometry: Generic_Head06
+
+		Texture: westalpha copy
+			Geometry: Generic_Head06
+
+		Texture: m60
+			Geometry: M60
+
+		Texture: mv_gs_generic_head_fb01
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_BF02
+
+		Texture: mv_gs_generic_hair_fb01
+			Geometry: Generic_head_BF01
+
+		Texture: testshader01
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_WF01
+			Geometry: Generic_head_WF04
+			Geometry: Generic_head_WF05
+
+		Texture: eyebrownl
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_BF02
+
+		Texture: mv_gs_generic_eyelashes
+			Geometry: Generic_head_BF01
+			Geometry: Generic_head_BF02
+			Geometry: Generic_head_WF01
+			Geometry: Generic_head_WF02
+			Geometry: Generic_head_WF03
+			Geometry: Generic_head_WF04
+
+		Texture: mv_gs_saraalpha03
+			Geometry: Generic_head_BF02
+			Geometry: Generic_head_WF05
+
+		Texture: mv_gs_sarahair
+			Geometry: Generic_head_BF02
+			Geometry: Generic_head_WF05
+
+		Texture: mv_gs_generic_head_fw03
+			Geometry: Generic_head_WF01
+
+		Texture: eyehz
+			Geometry: Generic_head_WF01
+
+		Texture: mv_gs_generic_hair_w01
+			Geometry: Generic_head_WF01
+
+		Texture: mv_gs_generic_hairalpha_fw03
+			Geometry: Generic_head_WF01
+
+		Texture: mv_gs_generic_head_fw01
+			Geometry: Generic_head_WF02
+			Geometry: Generic_head_WF04
+
+		Texture: mv_gs_tubbs_chain01
+			Geometry: Generic_head_WF02
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Generic_head_WF02
+
+		Texture: mv_gs_generic_hair_wb01
+			Geometry: Generic_head_WF02
+
+		Texture: mv_gs_generic_head_fw02
+			Geometry: Generic_head_WF03
+
+		Texture: eye_brown
+			Geometry: Generic_head_WF03
+
+		Texture: mv_gs_generic_hair_wb01_black
+			Geometry: Generic_head_WF03
+
+		Texture: mv_gs_generic_hairunder_wb01
+			Geometry: Generic_head_WF04
+
+		Texture: mv_gs_generic_haira02lpha01
+			Geometry: Generic_head_WF04
+
+		Texture: mv_gs_sara02
+			Geometry: Generic_head_WF05
+
+		Texture: scope_black
+			Geometry: scope
+
+		Texture: scope_specular
+			Geometry: scope
+
+		Texture: scope
+			Geometry: scope
+
+		Texture: grenade
+			Geometry: Grenade
+
+		Texture: projectile21
+			Geometry: Projectile2
+
+		Texture: uzi1
+			Geometry: Uzi_9mm
+
+		Texture: wood
+			Geometry: wood
+
+		Texture: concrete1
+			Geometry: Concrete
+
+		Texture: as_glass_foyer
+			Geometry: glass
+
+		Texture: spec1
+			Geometry: Sculptshard3
+			Geometry: Sculptshard1
+			Geometry: Sculptshard2
+
+		Texture: direction
+			Geometry: Direction_helper
+
