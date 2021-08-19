@@ -1,0 +1,43 @@
+
+	Exporting Sound FX:
+		SFX Size 6616        nChannels 1       Frequency 22050       16 Bit          Male_Security_Incidental_G0001a.wav
+		SFX Size 25264       nChannels 1       Frequency 22050       16 Bit          Male_Security_Incidental_G0002a.wav
+		SFX Size 40924       nChannels 1       Frequency 22050       16 Bit          Male_Security_Incidental_G0003a.wav
+		SFX Size 39340       nChannels 1       Frequency 22050       16 Bit          Male_Security_Incidental_G0004a.wav
+		SFX Size 15580       nChannels 1       Frequency 22050       16 Bit          Male_Security_Incidental_G0005a.wav
+		SFX Size 28144       nChannels 1       Frequency 22050       16 Bit          Male_Security_Incidental_G0006a.wav
+
+		Total Sound Size:    (152 k) (155868 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (192 bytes)
+		Size Of Asset Tree                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		0 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (0 bytes)
+
+
+		Total size in PUB (0 k) (320 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (0 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (0 bytes)
+
+
+	Geometry -> Texture Association:
+
+	Texture -> Geometry Association:
