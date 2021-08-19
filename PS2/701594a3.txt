@@ -1,0 +1,172 @@
+
+	Exporting Textures:
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sylvia_suit_skirt
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   35      8-Bit   silvia_suit_spec01
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sylvia_suit_skin
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_sylvia_suit_boots
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   48      8-Bit   testshader01
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sylvia_suit_top
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_sylvia_suit_hand
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  251      8-Bit   mv_jbgs_sylvia_face02
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   30      8-Bit   mv_jb_sylviahair
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_sylvia_suit_hairbun
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   eyebrownl
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sylvia_suit_arms
+		Size 576          Width 32      Height 16     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sylvia_suit_pants
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   49      8-Bit   lip_spec_01
+
+		Total Size (226 k) (232064 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 746240   Collision Size 0        Total Size 746288    Sylvia_mesh
+
+		Total Render Size:    (728 k) (746240 bytes)
+		Total Collision Size: (0 k) (0 bytes)
+		Total Size:           (728 k) (746240 bytes)
+
+	Exporting Animations:
+		Size 4184            Aim_Idle_5004.ANM
+		Size 7616            aim_over_crate_fire_5023.ANM
+		Size 9392            aim_over_crate_to_crouch_5024.ANM
+		Size 8088            Aim_Round_Corner_5007.ANM
+		Size 6624            Aim_Round_Corner_left_back_5009.ANM
+		Size 3768            Aim_Round_Corner_left_idle_5029.ANM
+		Size 9980            Aim_Round_Corner_Right_5008.ANM
+		Size 5940            Aim_Round_Corner_right_back_5010.ANM
+		Size 5056            Aim_Round_Corner_Right_idle_5027.ANM
+		Size 8712            crouch_down_5026.ANM
+		Size 8628            Crouch_Idle_5020.ANM
+		Size 10704           crouch_to_aim_over_crate_5022.ANM
+		Size 9056            crouch_up_5025.ANM
+		Size 17888           extended_Idle_5036.ANM
+		Size 20872           Getup_5019.ANM
+		Size 22680           heavy_damage_5018.ANM
+		Size 10492           Idle_5002.ANM
+		Size 8124            Idle_Exhausted_5005.ANM
+		Size 17196           light_damage_5017.ANM
+		Size 13840           Run_5001.ANM
+		Size 5224            shimmy_idle_5028.ANM
+		Size 10640           Sidestep_left_5012.ANM
+		Size 12472           sidestep_right_5013.ANM
+		Size 20236           summon_henchman_5015.ANM
+		Size 40736           Taunt_5006.ANM
+		Size 18780           Turn_To_Wall_5003.ANM
+		Size 4176            Upperbody_aim_5032.ANM
+		Size 2152            Upperbody_fire_5034.ANM
+		Size 2236            Upperbody_fire_left_5030.ANM
+		Size 2296            Upperbody_fire_right_5031.ANM
+		Size 12180           Upperbody_reload_5033.ANM
+		Size 16428           Walk_5000.ANM
+		Size 8172            walk_backwards_5035.ANM
+
+		Total Anim Size:    (356 k) (364568 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (6 k) (6664 bytes)
+
+				TotalSize: (6 k) (6952 bytes)
+
+		Size Of Asset Tree                     data (6        k) (6952         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (1        k) (1092         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (8 k) (8564 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Sylvia_mesh
+			Texture: mv_gs_sylvia_suit_skirt
+			Texture: silvia_suit_spec01
+			Texture: mv_gs_sylvia_suit_arms
+			Texture: silvia_suit_spec01
+			Texture: eyebrownl
+			Texture: testshader01
+			Texture: mv_gs_sylvia_suit_hairbun
+			Texture: mv_gs_sylvia_suit_pants
+			Texture: mv_jbgs_sylvia_face02
+			Texture: mouth_teeth
+			Texture: mv_gs_sylvia_suit_boots
+			Texture: testshader01
+			Texture: mv_gs_sylvia_suit_skin
+			Texture: mv_jb_sylvia_suit_hand
+			Texture: mv_jbgs_sylvia_face02
+			Texture: lip_spec_01
+			Texture: mv_gs_sylvia_suit_top
+			Texture: silvia_suit_spec01
+			Texture: mv_jb_sylviahair
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_sylvia_suit_skirt
+			Geometry: Sylvia_mesh
+
+		Texture: silvia_suit_spec01
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_skin
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_boots
+			Geometry: Sylvia_mesh
+
+		Texture: testshader01
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_top
+			Geometry: Sylvia_mesh
+
+		Texture: mv_jb_sylvia_suit_hand
+			Geometry: Sylvia_mesh
+
+		Texture: mv_jbgs_sylvia_face02
+			Geometry: Sylvia_mesh
+
+		Texture: mouth_teeth
+			Geometry: Sylvia_mesh
+
+		Texture: mv_jb_sylviahair
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_hairbun
+			Geometry: Sylvia_mesh
+
+		Texture: eyebrownl
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_arms
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_pants
+			Geometry: Sylvia_mesh
+
+		Texture: lip_spec_01
+			Geometry: Sylvia_mesh
+

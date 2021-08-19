@@ -1,0 +1,205 @@
+
+	Exporting Textures:
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_neck1w
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  254      8-Bit   skin_spec_02
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtbody07
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jbgs_gentrou2
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm02w
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericshoe01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors  242      8-Bit   mv_gs_default_spec01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand02
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors  111      8-Bit   skin_spec_01x
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtarm07s
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sleavless02
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jbgs_gentrou3
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericshoe03
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sleavless04
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   mv_gs_genericshoe04
+		Size 448          Width 32      Height 8      MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_watch01
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   68      8-Bit   testshader01
+		Size 66816        Width 256     Height 256    MultiBitAlpha TRUE    nColors  254      8-Bit   as_artfoyer_floor
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   14      4-Bit   reflect_shiny_stripesub_add
+
+		Total Size (186 k) (190720 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 90800    Collision Size 0        Total Size 90848     Juan_hit_team01
+		Render Size 93344    Collision Size 0        Total Size 93392     Juan_hit_team02
+		Render Size 88336    Collision Size 0        Total Size 88384     Juan_hit_team03
+		Render Size 90448    Collision Size 0        Total Size 90496     Juan_hit_team04
+		Render Size 5584     Collision Size 7160     Total Size 12792     Mesh_base
+
+		Total Render Size:    (359 k) (368512 bytes)
+		Total Collision Size: (6 k) (7160 bytes)
+		Total Size:           (366 k) (375672 bytes)
+
+	Exporting Animations:
+		Size 2572            Henchman_Idle_2200.hop
+
+		Total Anim Size:    (2 k) (2572 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 4: (0 k) (784 bytes)
+				Bone, Morph, AnimInstance Data 1: (17 k) (18048 bytes)
+
+				TotalSize: (18 k) (19052 bytes)
+
+		Size Of Asset Tree                     data (18       k) (19052        bytes) - Save Game (0        k) (176         bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (188          bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		4 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (80 bytes)
+
+
+		Total size in PUB (19 k) (19820 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (176 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (176 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Juan_hit_team01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gshirtbody07
+			Texture: mv_jbgs_gentrou2
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: mv_gs_default_spec01
+
+		Geometry: Juan_hit_team02
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gshirtbody07
+			Texture: mv_jbgs_gentrou2
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: skin_spec_01x
+			Texture: mv_gs_gshirtarm07s
+
+		Geometry: Juan_hit_team03
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_sleavless02
+			Texture: mv_jbgs_gentrou3
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe03
+
+		Geometry: Juan_hit_team04
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_sleavless04
+			Texture: mv_jbgs_gentrou2
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe04
+			Texture: mv_gs_generic_watch01
+			Texture: testshader01
+
+		Geometry: Mesh_base
+			Texture: as_artfoyer_floor
+			Texture: reflect_shiny_stripesub_add
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_generic_neck1w
+			Geometry: Juan_hit_team01
+			Geometry: Juan_hit_team02
+			Geometry: Juan_hit_team03
+			Geometry: Juan_hit_team04
+
+		Texture: skin_spec_02
+			Geometry: Juan_hit_team01
+			Geometry: Juan_hit_team02
+			Geometry: Juan_hit_team03
+			Geometry: Juan_hit_team04
+
+		Texture: mv_gs_gshirtbody07
+			Geometry: Juan_hit_team01
+			Geometry: Juan_hit_team02
+
+		Texture: mv_jbgs_gentrou2
+			Geometry: Juan_hit_team01
+			Geometry: Juan_hit_team02
+			Geometry: Juan_hit_team04
+
+		Texture: mv_gs_generic_full_arm02w
+			Geometry: Juan_hit_team01
+			Geometry: Juan_hit_team02
+			Geometry: Juan_hit_team03
+			Geometry: Juan_hit_team04
+
+		Texture: mv_gs_genericshoe01
+			Geometry: Juan_hit_team01
+			Geometry: Juan_hit_team02
+
+		Texture: mv_gs_default_spec01
+			Geometry: Juan_hit_team01
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Juan_hit_team02
+			Geometry: Juan_hit_team03
+			Geometry: Juan_hit_team04
+
+		Texture: skin_spec_01x
+			Geometry: Juan_hit_team02
+
+		Texture: mv_gs_gshirtarm07s
+			Geometry: Juan_hit_team02
+
+		Texture: mv_gs_sleavless02
+			Geometry: Juan_hit_team03
+
+		Texture: mv_jbgs_gentrou3
+			Geometry: Juan_hit_team03
+
+		Texture: mv_gs_genericshoe03
+			Geometry: Juan_hit_team03
+
+		Texture: mv_gs_sleavless04
+			Geometry: Juan_hit_team04
+
+		Texture: mv_gs_genericshoe04
+			Geometry: Juan_hit_team04
+
+		Texture: mv_gs_generic_watch01
+			Geometry: Juan_hit_team04
+
+		Texture: testshader01
+			Geometry: Juan_hit_team04
+
+		Texture: as_artfoyer_floor
+			Geometry: Mesh_base
+
+		Texture: reflect_shiny_stripesub_add
+			Geometry: Mesh_base
+
