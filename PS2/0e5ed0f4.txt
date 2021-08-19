@@ -1,0 +1,106 @@
+
+	Exporting Textures:
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand01b
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   90      8-Bit   skin_spec_02
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_bikinitop04f
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   55      8-Bit   assasin_spec_01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm01b
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_foot01fb
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_body01fb
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_leg01fb
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   bikini_briefs04
+
+		Total Size (83 k) (85696 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 103792   Collision Size 0        Total Size 103840    Bikini_Green01B
+
+		Total Render Size:    (101 k) (103792 bytes)
+		Total Collision Size: (0 k) (0 bytes)
+		Total Size:           (101 k) (103792 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (4 k) (4864 bytes)
+
+				TotalSize: (5 k) (5152 bytes)
+
+		Size Of Asset Tree                     data (5        k) (5152         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (5 k) (5672 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Bikini_Green01B
+			Texture: mv_gs_genericwhand01b
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_bikinitop04f
+			Texture: assasin_spec_01
+			Texture: mv_gs_generic_full_arm01b
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_foot01fb
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_body01fb
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_leg01fb
+			Texture: skin_spec_02
+			Texture: bikini_briefs04
+			Texture: assasin_spec_01
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_genericwhand01b
+			Geometry: Bikini_Green01B
+
+		Texture: skin_spec_02
+			Geometry: Bikini_Green01B
+
+		Texture: mv_gs_generic_bikinitop04f
+			Geometry: Bikini_Green01B
+
+		Texture: assasin_spec_01
+			Geometry: Bikini_Green01B
+
+		Texture: mv_gs_generic_full_arm01b
+			Geometry: Bikini_Green01B
+
+		Texture: mv_gs_generic_foot01fb
+			Geometry: Bikini_Green01B
+
+		Texture: mv_gs_generic_body01fb
+			Geometry: Bikini_Green01B
+
+		Texture: mv_gs_generic_leg01fb
+			Geometry: Bikini_Green01B
+
+		Texture: bikini_briefs04
+			Geometry: Bikini_Green01B
+
