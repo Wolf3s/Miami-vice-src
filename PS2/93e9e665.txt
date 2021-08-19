@@ -1,0 +1,166 @@
+
+	Exporting Textures:
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  252      8-Bit   mv_gs_cstilloface02
+		Size 16640        Width 64      Height 64     MultiBitAlpha FALSE   nColors  268      32-Bit  skin_spec_02
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth
+		Size 131328       Width 256     Height 128    MultiBitAlpha FALSE   nColors  375      32-Bit  mv_gs_cstillo_hair01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   28      8-Bit   mv_gs_tachea01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_castillo_suitbody01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   25      8-Bit   subtlespec
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_castillo_suitarm01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_castillo_trou01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_cstilloshirt01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_cstilloshoes01
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   68      8-Bit   testshader01
+		Size 1344         Width 128     Height 16     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_castillo_tie
+		Size 832          Width 64      Height 16     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_cstillobelt01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_hand_front01
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors   30      8-Bit   hair2
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  255      8-Bit   eye_dkbrown
+		Size 66816        Width 256     Height 256    MultiBitAlpha TRUE    nColors  254      8-Bit   as_artfoyer_floor
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   14      4-Bit   reflect_shiny_stripesub_add
+
+		Total Size (348 k) (356736 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 269760   Collision Size 0        Total Size 269808    Castillio01
+		Render Size 5584     Collision Size 7160     Total Size 12792     Mesh_base
+
+		Total Render Size:    (268 k) (275344 bytes)
+		Total Collision Size: (6 k) (7160 bytes)
+		Total Size:           (275 k) (282504 bytes)
+
+	Exporting Animations:
+		Size 6500            Idle_7008.ANM
+
+		Total Anim Size:    (6 k) (6500 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 1: (6 k) (6396 bytes)
+
+				TotalSize: (6 k) (6812 bytes)
+
+		Size Of Asset Tree                     data (6        k) (6812         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (68           bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (7 k) (7400 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Castillio01
+			Texture: mv_gs_cstilloface02
+			Texture: skin_spec_02
+			Texture: mv_gs_castillo_tie
+			Texture: subtlespec
+			Texture: mv_gs_cstilloshoes01
+			Texture: testshader01
+			Texture: mv_gs_cstillobelt01
+			Texture: testshader01
+			Texture: mv_gs_hand_front01
+			Texture: skin_spec_02
+			Texture: mv_gs_cstilloshirt01
+			Texture: mv_gs_castillo_trou01
+			Texture: subtlespec
+			Texture: mv_gs_castillo_suitarm01
+			Texture: subtlespec
+			Texture: mouth_teeth
+			Texture: mv_gs_cstillo_hair01
+			Texture: skin_spec_02
+			Texture: mv_gs_castillo_suitbody01
+			Texture: subtlespec
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: hair2
+			Texture: mv_gs_tachea01
+
+		Geometry: Mesh_base
+			Texture: as_artfoyer_floor
+			Texture: reflect_shiny_stripesub_add
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_cstilloface02
+			Geometry: Castillio01
+
+		Texture: skin_spec_02
+			Geometry: Castillio01
+
+		Texture: mouth_teeth
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstillo_hair01
+			Geometry: Castillio01
+
+		Texture: mv_gs_tachea01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_suitbody01
+			Geometry: Castillio01
+
+		Texture: subtlespec
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_suitarm01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_trou01
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstilloshirt01
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstilloshoes01
+			Geometry: Castillio01
+
+		Texture: testshader01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_tie
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstillobelt01
+			Geometry: Castillio01
+
+		Texture: mv_gs_hand_front01
+			Geometry: Castillio01
+
+		Texture: hair2
+			Geometry: Castillio01
+
+		Texture: eye_dkbrown
+			Geometry: Castillio01
+
+		Texture: as_artfoyer_floor
+			Geometry: Mesh_base
+
+		Texture: reflect_shiny_stripesub_add
+			Geometry: Mesh_base
+

@@ -1,0 +1,152 @@
+
+	Exporting Textures:
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand02
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  193      8-Bit   skin_spec_02
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_jb_manual04
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   30      8-Bit   manuel_tash
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  246      8-Bit   eyebl
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   48      8-Bit   testshader01
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  196      8-Bit   mv_jb_manushoes
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   39      8-Bit   crok_vest_spec_01
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_manujacket
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_manutrou
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth
+		Size 832          Width 128     Height 8      MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_manubelt
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  152      8-Bit   reflect_shiny_stripe_mod
+
+		Total Size (228 k) (233536 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 244304   Collision Size 0        Total Size 244352    Ortega
+
+		Total Render Size:    (238 k) (244304 bytes)
+		Total Collision Size: (0 k) (0 bytes)
+		Total Size:           (238 k) (244304 bytes)
+
+	Exporting Animations:
+		Size 7824            aim_5511.ANM
+		Size 8216            aim_over_crate_down_5515.ANM
+		Size 4672            aim_over_crate_fire_5514.ANM
+		Size 7496            aim_over_crate_up_5513.ANM
+		Size 12332           Aim_round_corner_left_5519.ANM
+		Size 11360           Aim_round_corner_left_back_5520.ANM
+		Size 3596            Aim_round_corner_left_fire_5521.ANM
+		Size 11748           Aim_round_corner_right_5522.ANM
+		Size 14884           Aim_round_corner_right_back_5524.ANM
+		Size 1976            Aim_round_corner_right_fire_5523.ANM
+		Size 10228           crouch_down_5503.ANM
+		Size 12296           crouch_idle_5505.ANM
+		Size 11252           crouch_up_5506.ANM
+		Size 22472           damage_heavy_5508.ANM
+		Size 17104           damage_light_5509.ANM
+		Size 4972            fire_5507.ANM
+		Size 22936           getup_5510.ANM
+		Size 12500           Idle_5502.ANM
+		Size 9024            idle_damaged_5512.ANM
+		Size 15260           reload_5504.ANM
+		Size 11480           Run_5501.ANM
+		Size 10048           sidestep_left_5517.ANM
+		Size 12196           sidestep_Right_5518.ANM
+		Size 15196           turn_to_wall_5516.ANM
+		Size 12740           Walk_5500.ANM
+
+		Total Anim Size:    (277 k) (283808 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (4 k) (4540 bytes)
+
+				TotalSize: (4 k) (4828 bytes)
+
+		Size Of Asset Tree                     data (4        k) (4828         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (836          bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (6 k) (6184 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Ortega
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_jb_manutrou
+			Texture: mv_jb_manujacket
+			Texture: mouth_teeth
+			Texture: mv_jb_manushoes
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_manual04
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: testshader01
+			Texture: mv_jb_manubelt
+			Texture: reflect_shiny_stripe_mod
+			Texture: manuel_tash
+			Texture: skin_spec_02
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_genericwhand02
+			Geometry: Ortega
+
+		Texture: skin_spec_02
+			Geometry: Ortega
+
+		Texture: mv_jb_manual04
+			Geometry: Ortega
+
+		Texture: manuel_tash
+			Geometry: Ortega
+
+		Texture: eyebl
+			Geometry: Ortega
+
+		Texture: testshader01
+			Geometry: Ortega
+
+		Texture: mv_jb_manushoes
+			Geometry: Ortega
+
+		Texture: crok_vest_spec_01
+			Geometry: Ortega
+
+		Texture: mv_jb_manujacket
+			Geometry: Ortega
+
+		Texture: mv_jb_manutrou
+			Geometry: Ortega
+
+		Texture: mouth_teeth
+			Geometry: Ortega
+
+		Texture: mv_jb_manubelt
+			Geometry: Ortega
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Ortega
+
