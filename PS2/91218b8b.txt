@@ -1,0 +1,109 @@
+
+	Exporting Textures:
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand01b
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   90      8-Bit   skin_spec_02
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_top09f
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm01b
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  217      8-Bit   mv_gs_policebelt01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   49      8-Bit   lip_spec_01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_shoes01f
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_body01fb
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_trou01f
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   14      4-Bit   reflect_shiny_noise_add
+
+		Total Size (111 k) (114112 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 99664    Collision Size 0        Total Size 99712     Hooker_PurpleB
+
+		Total Render Size:    (97 k) (99664 bytes)
+		Total Collision Size: (0 k) (0 bytes)
+		Total Size:           (97 k) (99664 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (4 k) (4864 bytes)
+
+				TotalSize: (5 k) (5152 bytes)
+
+		Size Of Asset Tree                     data (5        k) (5152         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (5 k) (5672 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Hooker_PurpleB
+			Texture: mv_gs_genericwhand01b
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_top09f
+			Texture: mv_gs_generic_full_arm01b
+			Texture: skin_spec_02
+			Texture: mv_gs_policebelt01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_shoes01f
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_body01fb
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_trou01f
+			Texture: reflect_shiny_noise_add
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_genericwhand01b
+			Geometry: Hooker_PurpleB
+
+		Texture: skin_spec_02
+			Geometry: Hooker_PurpleB
+
+		Texture: mv_gs_generic_top09f
+			Geometry: Hooker_PurpleB
+
+		Texture: mv_gs_generic_full_arm01b
+			Geometry: Hooker_PurpleB
+
+		Texture: mv_gs_policebelt01
+			Geometry: Hooker_PurpleB
+
+		Texture: lip_spec_01
+			Geometry: Hooker_PurpleB
+
+		Texture: mv_gs_generic_shoes01f
+			Geometry: Hooker_PurpleB
+
+		Texture: mv_gs_generic_body01fb
+			Geometry: Hooker_PurpleB
+
+		Texture: mv_gs_generic_trou01f
+			Geometry: Hooker_PurpleB
+
+		Texture: reflect_shiny_noise_add
+			Geometry: Hooker_PurpleB
+
