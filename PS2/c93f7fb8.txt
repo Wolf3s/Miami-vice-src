@@ -1,0 +1,81 @@
+
+	Exporting Textures:
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  130      8-Bit   foam_particle
+		Size 17664        Width 128     Height 128    MultiBitAlpha TRUE    nColors  186      8-Bit   fendwatertop
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   13      4-Bit   fendwater
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors  101      8-Bit   sea_foam
+
+		Total Size (52 k) (53312 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 12016    Collision Size 16424    Total Size 28488     fendtop_sea
+		Render Size 11936    Collision Size 0        Total Size 11984     fend1_sea
+		Render Size 3184     Collision Size 0        Total Size 3232      fend_waves
+
+		Total Render Size:    (26 k) (27136 bytes)
+		Total Collision Size: (16 k) (16424 bytes)
+		Total Size:           (42 k) (43560 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: front_end_Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 5: (0 k) (640 bytes)
+				DynamicInstances 3: (0 k) (588 bytes)
+				Bone, Morph, AnimInstance Data 5: (0 k) (0 bytes)
+				FXInstances 8: (1 k) (1376 bytes)
+
+				TotalSize: (2 k) (2696 bytes)
+
+		Size Of Asset Tree                     data (2        k) (2696         bytes) - Save Game (0        k) (420         bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (288          bytes) - Save Game (0        k) (32          bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (64           bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (5        k) (5212         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		0 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (0 bytes)
+
+
+		Total size in PUB (8 k) (8760 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (452 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (452 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: fendtop_sea
+			Texture: fendwatertop
+
+		Geometry: fend1_sea
+			Texture: fendwater
+
+		Geometry: fend_waves
+			Texture: sea_foam
+
+
+	Texture -> Geometry Association:
+		Texture: foam_particle
+
+		Texture: fendwatertop
+			Geometry: fendtop_sea
+
+		Texture: fendwater
+			Geometry: fend1_sea
+
+		Texture: sea_foam
+			Geometry: fend_waves
+

@@ -1,0 +1,1594 @@
+
+	Exporting Textures:
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors  129      8-Bit   smokey
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors  127      8-Bit   Light1
+		Size 960          Width 64      Height 64     MultiBitAlpha TRUE    nColors    9      4-Bit   sparks
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   17      8-Bit   moon
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   13      4-Bit   floor1
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   docks_ground
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors    7      4-Bit   spec2
+		Size 9472         Width 128     Height 64     MultiBitAlpha TRUE    nColors   80      8-Bit   windowsnew_alpha
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   metal_pipe
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   50      8-Bit   spec1
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   wallbrick
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   10      4-Bit   wall2
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   galvroof
+		Size 2368         Width 64      Height 64     MultiBitAlpha TRUE    nColors   15      4-Bit   glass2
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   metal
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors    9      4-Bit   wallplain
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   concreteslab1
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_neck1w
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  226      8-Bit   skin_spec_02
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitbody01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_trou02
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitarm01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand02
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   mv_gs_genericshoe01
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   57      8-Bit   testshader01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gsuitvest02
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors  187      8-Bit   mv_gs_default_spec01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth1
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors   13      4-Bit   key
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    1      4-Bit   as_black_railgallery
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   13      4-Bit   druggate
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   wheel
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  253      8-Bit   truck_side
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   cratebacklo
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   truck_window
+		Size 16640        Width 64      Height 64     MultiBitAlpha FALSE   nColors >  1024   32-Bit  grille1
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   metal1
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors   15      4-Bit   warning_light_orange
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   12      4-Bit   whitebits
+		Size 4352         Width 32      Height 32     MultiBitAlpha TRUE    nColors  434      32-Bit  as_light_cover
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   13      4-Bit   wire
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    1      4-Bit   whitealpha8x8
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   grill
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors   15      4-Bit   donotenter
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   cardboard
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors    1      4-Bit   addlight
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   crate1
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   air_con3
+		Size 4352         Width 32      Height 32     MultiBitAlpha TRUE    nColors  638      32-Bit  dirt
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   coveyor
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   coveyorend
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   13      4-Bit   conveyor_crusher
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   docks_door
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors   13      4-Bit   barrel
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   20      8-Bit   poster1
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   11      4-Bit   silvertable
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   13      4-Bit   table_env
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   96      8-Bit   drug_powder
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   wallplainbot
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   wood_plank2
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   14      4-Bit   manhole_quater
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   ibm
+		Size 4352         Width 32      Height 32     MultiBitAlpha TRUE    nColors  362      32-Bit  disk
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors    1      4-Bit   chevron_yellow
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  265      32-Bit  shadow2
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   brief_chair
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   crate_canvas1
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   crate_canvastop1
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  252      8-Bit   crate_canvas2
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   scaffold1
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors   11      4-Bit   cup
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   crate_drugs
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   15      4-Bit   crate_filler
+		Size 448          Width 8       Height 8      MultiBitAlpha FALSE   nColors    1      4-Bit   darkgrey
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  105      8-Bit   downlight
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  247      8-Bit   mv_gs_assasinshirtbody02
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  153      8-Bit   reflect_shiny_stripe_mod
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_assasinshirtarm02
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_assasintrou01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   66      8-Bit   assasin_spec_01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_assasinshoe01
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_gs_assasinface01
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  249      8-Bit   eyebl1
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   46      8-Bit   lip_spec_01
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_assasinhairalpha
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jbgs_gentrou3
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm02w
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericshoe03
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  255      8-Bit   control_panel_new
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   control_panel_vent
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   28      8-Bit   nightsky
+		Size 65792        Width 128     Height 128    MultiBitAlpha TRUE    nColors  584      32-Bit  busy_clouds02
+		Size 65792        Width 128     Height 128    MultiBitAlpha TRUE    nColors  584      32-Bit  busy_clouds01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   Swipe_card
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitbody04
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_trou01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitarm04
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sleavless04
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitbody02
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitarm02
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gsuitvesto_04
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_gen_suitbody05
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_trou05
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gen_suitarm05
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtfront03
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sleavless01
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_sleavless03
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_dea_trou
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_dea_trou_rip
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtbody02
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   mv_gs_genericshoe04
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_gshirtarm02s
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors   11      4-Bit   as_mesh_fence_post
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors   32      8-Bit   railing
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   osama bin liner
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   chop_dumpster
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   24      8-Bit   keepout
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   fanvent_low
+		Size 16640        Width 64      Height 64     MultiBitAlpha TRUE    nColors  563      32-Bit  muck1
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors    9      4-Bit   drugs_vatmat
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   92      8-Bit   metalspec
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors   13      4-Bit   drugs_vatglass
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   grainymetal
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   high_voltagebox
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   14      4-Bit   drugs_cabinet
+		Size 576          Width 32      Height 16     MultiBitAlpha FALSE   nColors   14      4-Bit   drug_container
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors    9      4-Bit   powermetal
+		Size 33024        Width 64      Height 128    MultiBitAlpha TRUE    nColors  807      32-Bit  waterdamage
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors   13      4-Bit   pushbutton
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   22      8-Bit   alphanumbers
+		Size 3328         Width 64      Height 32     MultiBitAlpha TRUE    nColors   81      8-Bit   exit_light
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_drgw_trou
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_drgw_jacket
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_drgw_tshirt
+		Size 448          Width 16      Height 16     MultiBitAlpha FALSE   nColors   13      4-Bit   beach_fence_black
+		Size 5376         Width 64      Height 64     MultiBitAlpha TRUE    nColors   82      8-Bit   env1
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   chop_drain
+
+		Total Size (1251 k) (1281600 bytes)
+
+		Total Size Save By Compression (1 k) (1408 bytes)
+
+	Exporting Geometry:
+		Render Size 67184    Collision Size 17116    Total Size 84348     10_hanger6
+		Render Size 70304    Collision Size 7916     Total Size 78268     11_hanger7
+		Render Size 672      Collision Size 752      Total Size 1472      door
+		Render Size 87632    Collision Size 0        Total Size 87680     Juan_Henchman_01
+		Render Size 3872     Collision Size 4016     Total Size 7936      key
+		Render Size 832      Collision Size 752      Total Size 1632      1-1-1_box
+		Render Size 21792    Collision Size 4580     Total Size 26420     08_hanger53_int
+		Render Size 19952    Collision Size 5628     Total Size 25628     08_hanger5_int
+		Render Size 17728    Collision Size 5068     Total Size 22844     08_hanger51_int
+		Render Size 33632    Collision Size 10284    Total Size 43964     06_fence3b
+		Render Size 6688     Collision Size 1892     Total Size 8628      08_hanger52
+		Render Size 50528    Collision Size 16996    Total Size 67572     09_hanger5b
+		Render Size 37312    Collision Size 0        Total Size 37360     Truck_wheel
+		Render Size 29392    Collision Size 1464     Total Size 30904     trailer
+		Render Size 119728   Collision Size 9988     Total Size 129764    Truck_Cab
+		Render Size 63312    Collision Size 1712     Total Size 65072     metalstep
+		Render Size 1392     Collision Size 1388     Total Size 2828      metal_pillar
+		Render Size 15968    Collision Size 604      Total Size 16620     metal_support
+		Render Size 11056    Collision Size 2004     Total Size 13108     metal_walkway_sml
+		Render Size 22816    Collision Size 2452     Total Size 25316     metalcorner
+		Render Size 25952    Collision Size 1008     Total Size 27008     metalrail
+		Render Size 5168     Collision Size 1044     Total Size 6260      metalrail_sml
+		Render Size 15168    Collision Size 1412     Total Size 16628     metal_walkway_noside
+		Render Size 7952     Collision Size 752      Total Size 8752      orange_light
+		Render Size 6048     Collision Size 604      Total Size 6700      Lamp_post
+		Render Size 15392    Collision Size 0        Total Size 15440     StripLight_hung
+		Render Size 1216     Collision Size 0        Total Size 1264      Grill
+		Render Size 512      Collision Size 0        Total Size 560       Donotenter_sign
+		Render Size 9984     Collision Size 1228     Total Size 11260     cardboard_box
+		Render Size 7904     Collision Size 0        Total Size 7952      Docklights
+		Render Size 2848     Collision Size 764      Total Size 3660      crate_wood1m
+		Render Size 8448     Collision Size 4428     Total Size 12924     AirCon3
+		Render Size 416      Collision Size 292      Total Size 756       dirt
+		Render Size 4896     Collision Size 1792     Total Size 6736      Drug_crusher
+		Render Size 1696     Collision Size 752      Total Size 2496      Door_Docks
+		Render Size 4064     Collision Size 764      Total Size 4876      exhaust_pipe_bend
+		Render Size 80112    Collision Size 1168     Total Size 81328     exhaust_pipe_long
+		Render Size 23616    Collision Size 900      Total Size 24564     Barrel2
+		Render Size 400      Collision Size 0        Total Size 448       Poster_health
+		Render Size 16448    Collision Size 2092     Total Size 18588     Drugs_table
+		Render Size 4448     Collision Size 0        Total Size 4496      Drug_Vial
+		Render Size 3136     Collision Size 0        Total Size 3184      card_smallbox_closed
+		Render Size 1472     Collision Size 0        Total Size 1520      Card_smallbox_open
+		Render Size 1648     Collision Size 1500     Total Size 3196      Card_tube
+		Render Size 2848     Collision Size 0        Total Size 2896      Drug_bowl
+		Render Size 1456     Collision Size 0        Total Size 1504      Drug_powder
+		Render Size 10240    Collision Size 812      Total Size 11100     Mopbucket
+		Render Size 2032     Collision Size 0        Total Size 2080      Manhole
+		Render Size 2320     Collision Size 2012     Total Size 4380      PC_case
+		Render Size 448      Collision Size 292      Total Size 788       5_disk
+		Render Size 1456     Collision Size 1420     Total Size 2924      PC_keyboard
+		Render Size 2640     Collision Size 2984     Total Size 5672      PC_monitor
+		Render Size 896      Collision Size 396      Total Size 1340      chevron_yellow
+		Render Size 448      Collision Size 292      Total Size 788       shadow_generic
+		Render Size 2160     Collision Size 1776     Total Size 3984      trailer_storage
+		Render Size 10048    Collision Size 3160     Total Size 13256     plain_chair
+		Render Size 2976     Collision Size 696      Total Size 3720      Crate_canvas
+		Render Size 2176     Collision Size 696      Total Size 2920      Crate_canvas2
+		Render Size 14352    Collision Size 3524     Total Size 17924     Girder2
+		Render Size 1952     Collision Size 0        Total Size 2000      doorframe1x2
+		Render Size 3984     Collision Size 1700     Total Size 5732      doorframe2x2
+		Render Size 3200     Collision Size 3640     Total Size 6888      cup
+		Render Size 2976     Collision Size 1524     Total Size 4548      crateopen_drugs
+		Render Size 4000     Collision Size 752      Total Size 4800      Crate_drugs
+		Render Size 4192     Collision Size 752      Total Size 4992      Block_factory
+		Render Size 1088     Collision Size 0        Total Size 1136      lightrays
+		Render Size 169888   Collision Size 0        Total Size 169936    Assasin02
+		Render Size 14176    Collision Size 1316     Total Size 15540     console
+		Render Size 8896     Collision Size 0        Total Size 8944      skydome drugfactory
+		Render Size 6768     Collision Size 0        Total Size 6816      clouds
+		Render Size 768      Collision Size 0        Total Size 816       squareglare
+		Render Size 944      Collision Size 752      Total Size 1744      Swipe_card
+		Render Size 87632    Collision Size 0        Total Size 87680     Juan_Henchman_05
+		Render Size 89552    Collision Size 0        Total Size 89600     Juan_Henchman_02
+		Render Size 91216    Collision Size 0        Total Size 91264     Juan_Henchman_04
+		Render Size 91856    Collision Size 0        Total Size 91904     Ortegas_henchman_06
+		Render Size 88336    Collision Size 0        Total Size 88384     GM_sleaveless01
+		Render Size 90064    Collision Size 0        Total Size 90112     GM_sleaveless02
+		Render Size 93008    Collision Size 0        Total Size 93056     GM_hawiian_shirt01
+		Render Size 14192    Collision Size 1332     Total Size 15572     mesh_railing
+		Render Size 9728     Collision Size 1428     Total Size 11204     mesh_gate
+		Render Size 384      Collision Size 292      Total Size 724       Drugs_window
+		Render Size 2000     Collision Size 752      Total Size 2800      chop_refuse
+		Render Size 4752     Collision Size 752      Total Size 5552      chop_dump
+		Render Size 2384     Collision Size 1888     Total Size 4320      chop_dumpLid
+		Render Size 416      Collision Size 292      Total Size 756       Keepout_stencil
+		Render Size 3296     Collision Size 696      Total Size 4040      Fanvent
+		Render Size 480      Collision Size 0        Total Size 528       Muck1
+		Render Size 38352    Collision Size 23224    Total Size 61624     Drug_vat
+		Render Size 16480    Collision Size 14756    Total Size 31284     Extractor_fan
+		Render Size 6528     Collision Size 732      Total Size 7308      Power_box
+		Render Size 1120     Collision Size 996      Total Size 2164      Cabinet_closed
+		Render Size 4416     Collision Size 3740     Total Size 8204      Cabinet_open
+		Render Size 11584    Collision Size 7264     Total Size 18896     Drug_shelf
+		Render Size 12960    Collision Size 2464     Total Size 15472     Drug_container
+		Render Size 63152    Collision Size 54348    Total Size 117548    PowerGenerator
+		Render Size 1424     Collision Size 0        Total Size 1472      waterdamage
+		Render Size 4176     Collision Size 4872     Total Size 9096      PushButton
+		Render Size 2832     Collision Size 716      Total Size 3596      metal_walkway_nosides
+		Render Size 400      Collision Size 0        Total Size 448       number05
+		Render Size 2544     Collision Size 0        Total Size 2592      exitlight
+		Render Size 103488   Collision Size 0        Total Size 103536    Drug_Worker
+		Render Size 832      Collision Size 764      Total Size 1644      movement_collision_box
+		Render Size 928      Collision Size 764      Total Size 1740      Camera_collision_box
+		Render Size 10832    Collision Size 1780     Total Size 12660     metalstep_end
+		Render Size 10832    Collision Size 1964     Total Size 12844     metalstep_start
+		Render Size 27808    Collision Size 1852     Total Size 29708     Drugs_table_static
+		Render Size 1168     Collision Size 936      Total Size 2152      chop_pane
+		Render Size 2608     Collision Size 696      Total Size 3352      chop_drain
+
+		Total Render Size:    (2152 k) (2203824 bytes)
+		Total Collision Size: (266 k) (272908 bytes)
+		Total Size:           (2418 k) (2476732 bytes)
+
+	Exporting Animations:
+		Size 7400            Henchman_Aim_Round_Corner_Left_2216.hop
+		Size 1300            Henchman_Aim_Round_Corner_Left_Idle_2222.hop
+		Size 7444            Henchman_Aim_Round_Corner_Left_Stepback_2223.hop
+		Size 8624            Henchman_Aim_Round_Corner_Right_2217.hop
+		Size 1292            Henchman_Aim_Round_Corner_Right_Idle_2224.hop
+		Size 8764            Henchman_Aim_Round_Corner_Right_Stepback_2225.hop
+		Size 1836            Henchman_Aim_Sniper_Kneel_2277.hop
+		Size 1512            Henchman_Aim_Sniper_Standing_2276.hop
+		Size 4460            Henchman_Aim_Stand_to_kneel_2279.ANM
+		Size 6956            Henchman_Crouched_Run_2239.hop
+		Size 1436            Henchman_Cuffed_Idle_2238.hop
+		Size 15140           Henchman_damage_explosion_heavy_2282.hop
+		Size 1292            Henchman_damage_explosion_heavy_dead_2286.hop
+		Size 15636           Henchman_damage_explosion_light_2283.hop
+		Size 1292            Henchman_damage_explosion_light_dead_2285.hop
+		Size 17916           Henchman_damage_explosion_light_getup_2284.hop
+		Size 11792           Henchman_Damage_head_2220.hop
+		Size 10248           Henchman_Damage_Low_2270.hop
+		Size 1308            Henchman_Dead_2218.hop
+		Size 1360            Henchman_Dead_2266.hop
+		Size 13204           Henchman_Die_2206.hop
+		Size 12636           Henchman_Die_2265.hop
+		Size 14552           Henchman_die_back_2275.hop
+		Size 5060            Henchman_die_balcony_backward_fall_2288.hop
+		Size 19228           Henchman_die_balcony_backward_hit_2287.hop
+		Size 7356            Henchman_die_balcony_backward_land_2289.hop
+		Size 4788            Henchman_die_balcony_forward_fall_2291.hop
+		Size 21888           Henchman_die_balcony_forward_hit_2292.hop
+		Size 5880            Henchman_die_balcony_forward_land_2290.hop
+		Size 3512            Henchman_die_fall_backwards_fall_2294.hop
+		Size 10884           Henchman_die_fall_backwards_hit_2295.hop
+		Size 3560            Henchman_die_fall_backwards_land_2293.hop
+		Size 12480           Henchman_die_fall_forward_2272.hop
+		Size 1300            Henchman_die_fall_forward_fall_2273.hop
+		Size 4444            Henchman_die_fall_forward_land_2271.hop
+		Size 19384           Henchman_die_fall_to_knees_2274.hop
+		Size 18336           Henchman_Dive_For_Cover_2304.hop
+		Size 19364           Henchman_dive_roll_left_2228.hop
+		Size 17996           Henchman_dive_roll_right_2227.hop
+		Size 6576            Henchman_extended_idle_2219.hop
+		Size 2380            Henchman_Fire_Sniper_rifle_2278.hop
+		Size 23384           Henchman_getting_cuffed_2234.hop
+		Size 7700            Henchman_Hands_Up_2235.hop
+		Size 2648            Henchman_Hands_Up_Idle_2236.hop
+		Size 7632            Henchman_Hands_Up_Pull_Gun_2237.hop
+		Size 2572            Henchman_Idle_2200.hop
+		Size 3592            Henchman_idle_against_wall_2226.hop
+		Size 3564            Henchman_idle_sitting_asleep_2301.hop
+		Size 14092           Henchman_idle_sitting_asleep_wakeup_2302.hop
+		Size 1764            Henchman_Idle_Sitting_Desk_2300.hop
+		Size 8520            Henchman_Idle_Smoking_2296.hop
+		Size 10880           Henchman_Idle_Smoking_Turn_Round_2297.ANM
+		Size 20216           Henchman_Jump_Over_Crate_2303.hop
+		Size 6532            Henchman_Kick_Door_2229.hop
+		Size 3596            Henchman_Kneel_2203.hop
+		Size 5308            Henchman_Kneel_aim_to_stand_2281.ANM
+		Size 1304            Henchman_Kneel_Idle_2204.hop
+		Size 3676            Henchman_Kneel_Stand_2205.hop
+		Size 7040            Henchman_Run_2201.hop
+		Size 5492            Henchman_Sidestep_Left_2207.hop
+		Size 6744            Henchman_Sidestep_Right_2208.hop
+		Size 23548           Henchman_Slide_Down_Ladder_2305.hop
+		Size 5084            henchman_solo_arrested_2240.hop
+		Size 1940            Henchman_solo_arrested_idle_2241.hop
+		Size 4512            Henchman_Strafe_Backward_2209.hop
+		Size 4956            Henchman_Strafe_Forward_2210.hop
+		Size 5072            Henchman_Strafe_Left_2211.hop
+		Size 5088            Henchman_Strafe_Right_2212.hop
+		Size 5340            Henchman_Straffe_idle_2307.ANM
+		Size 11660           Henchman_Turn_Desk_Over_Into_Duck_2299.hop
+		Size 3440            Henchman_Upperbody_Aim_Rifle_2253.ANM
+		Size 3540            Henchman_Upperbody_Aim_Shotgun_2260.ANM
+		Size 1864            Henchman_Upperbody_Aim_Uzi_2215.ANM
+		Size 5888            Henchman_Upperbody_Damage_2264.ANM
+		Size 1732            henchman_upperbody_Fire_Rifle_2252.ANM
+		Size 2688            Henchman_Upperbody_Fire_Shotgun_2261.ANM
+		Size 1832            Henchman_Upperbody_Fire_Uzi_2213.ANM
+		Size 4092            Henchman_Upperbody_Hold_Rifle_2259.ANM
+		Size 3308            Henchman_Upperbody_Hold_Shotgun_2263.ANM
+		Size 1864            Henchman_Upperbody_Hold_Uzi_2256.ANM
+		Size 6876            Henchman_Upperbody_look_2221.ANM
+		Size 6876            Henchman_Upperbody_look_2231.ANM
+		Size 11816           Henchman_Upperbody_Reload_Rifle_2251.ANM
+		Size 7840            Henchman_Upperbody_Reload_Shotgun_2262.ANM
+		Size 8744            Henchman_Upperbody_Reload_Uzi_2214.ANM
+		Size 10792           Henchman_Walk_2202.ANM
+		Size 3272            Henchman_Upperbody_equip_2400.ANM
+		Size 3616            Henchman_Upperbody_ukequip_2401.ANM
+		Size 22452           Henchman_Die_Knees_2421.hop
+		Size 1348            Henchman_Die_Knees_Dead_2422.hop
+		Size 7400            Henchman_Aim_Round_Corner_Left_2216.hop
+		Size 1300            Henchman_Aim_Round_Corner_Left_Idle_2222.hop
+		Size 7444            Henchman_Aim_Round_Corner_Left_Stepback_2223.hop
+		Size 8624            Henchman_Aim_Round_Corner_Right_2217.hop
+		Size 1292            Henchman_Aim_Round_Corner_Right_Idle_2224.hop
+		Size 8764            Henchman_Aim_Round_Corner_Right_Stepback_2225.hop
+		Size 1836            Henchman_Aim_Sniper_Kneel_2277.hop
+		Size 1512            Henchman_Aim_Sniper_Standing_2276.hop
+		Size 4460            Henchman_Aim_Stand_to_kneel_2279.ANM
+		Size 6956            Henchman_Crouched_Run_2239.hop
+		Size 1436            Henchman_Cuffed_Idle_2238.hop
+		Size 15140           Henchman_damage_explosion_heavy_2282.hop
+		Size 1292            Henchman_damage_explosion_heavy_dead_2286.hop
+		Size 15636           Henchman_damage_explosion_light_2283.hop
+		Size 1292            Henchman_damage_explosion_light_dead_2285.hop
+		Size 17916           Henchman_damage_explosion_light_getup_2284.hop
+		Size 15064           Henchman_Damage_Fly_Back_2309.hop
+		Size 11792           Henchman_Damage_head_2220.hop
+		Size 10248           Henchman_Damage_Low_2270.hop
+		Size 1308            Henchman_Dead_2218.hop
+		Size 1360            Henchman_Dead_2266.hop
+		Size 13204           Henchman_Die_2206.hop
+		Size 12636           Henchman_Die_2265.hop
+		Size 14552           Henchman_die_back_2275.hop
+		Size 5060            Henchman_die_balcony_backward_fall_2288.hop
+		Size 19228           Henchman_die_balcony_backward_hit_2287.hop
+		Size 7356            Henchman_die_balcony_backward_land_2289.hop
+		Size 4788            Henchman_die_balcony_forward_fall_2291.hop
+		Size 21888           Henchman_die_balcony_forward_hit_2292.hop
+		Size 5880            Henchman_die_balcony_forward_land_2290.hop
+		Size 13808           Henchman_Die_Chest_2423.hop
+		Size 1400            Henchman_Die_Chest_Dead_2424.hop
+		Size 3512            Henchman_die_fall_backwards_fall_2294.hop
+		Size 10884           Henchman_die_fall_backwards_hit_2295.hop
+		Size 3560            Henchman_die_fall_backwards_land_2293.hop
+		Size 12480           Henchman_die_fall_forward_2272.hop
+		Size 1300            Henchman_die_fall_forward_fall_2273.hop
+		Size 4444            Henchman_die_fall_forward_land_2271.hop
+		Size 19384           Henchman_die_fall_to_knees_2274.hop
+		Size 18336           Henchman_Dive_For_Cover_2304.hop
+		Size 19364           Henchman_dive_roll_left_2228.hop
+		Size 17996           Henchman_dive_roll_right_2227.hop
+		Size 6576            Henchman_extended_idle_2219.hop
+		Size 7340            Henchman_Fire_Grenade_2420.ANM
+		Size 2380            Henchman_Fire_Sniper_rifle_2278.hop
+		Size 23384           Henchman_getting_cuffed_2234.hop
+		Size 7700            Henchman_Hands_Up_2235.hop
+		Size 2648            Henchman_Hands_Up_Idle_2236.hop
+		Size 7632            Henchman_Hands_Up_Pull_Gun_2237.hop
+		Size 2572            Henchman_Idle_2200.hop
+		Size 3592            Henchman_idle_against_wall_2226.hop
+		Size 3564            Henchman_idle_sitting_asleep_2301.hop
+		Size 14092           Henchman_idle_sitting_asleep_wakeup_2302.hop
+		Size 1764            Henchman_Idle_Sitting_Desk_2300.hop
+		Size 8520            Henchman_Idle_Smoking_2296.hop
+		Size 10880           Henchman_Idle_Smoking_Turn_Round_2297.ANM
+		Size 7940            Henchman_Idle_Smoking_Turn_Round_2298.hop
+		Size 20216           Henchman_Jump_Over_Crate_2303.hop
+		Size 6532            Henchman_Kick_Door_2229.hop
+		Size 3596            Henchman_Kneel_2203.hop
+		Size 5308            Henchman_Kneel_aim_to_stand_2281.ANM
+		Size 1304            Henchman_Kneel_Idle_2204.hop
+		Size 3676            Henchman_Kneel_Stand_2205.hop
+		Size 15460           Henchman_pacing_2249.hop
+		Size 4620            Henchman_Push_button_2402.hop
+		Size 7040            Henchman_Run_2201.hop
+		Size 5492            Henchman_Sidestep_Left_2207.hop
+		Size 6744            Henchman_Sidestep_Right_2208.hop
+		Size 23548           Henchman_Slide_Down_Ladder_2305.hop
+		Size 5084            henchman_solo_arrested_2240.hop
+		Size 1940            Henchman_solo_arrested_idle_2241.hop
+		Size 4512            Henchman_Strafe_Backward_2209.hop
+		Size 4956            Henchman_Strafe_Forward_2210.hop
+		Size 5072            Henchman_Strafe_Left_2211.hop
+		Size 5088            Henchman_Strafe_Right_2212.hop
+		Size 2556            Henchman_Straffe_idle_2304.hop
+		Size 5340            Henchman_Straffe_idle_2307.ANM
+		Size 8116            Henchman_Turn_2403.hop
+		Size 11660           Henchman_Turn_Desk_Over_Into_Duck_2299.hop
+		Size 3440            Henchman_Upperbody_Aim_Rifle_2253.ANM
+		Size 3540            Henchman_Upperbody_Aim_Shotgun_2260.ANM
+		Size 1864            Henchman_Upperbody_Aim_Uzi_2215.ANM
+		Size 5888            Henchman_Upperbody_Damage_2264.ANM
+		Size 3272            Henchman_Upperbody_equip_2400.ANM
+		Size 1732            henchman_upperbody_Fire_Rifle_2252.ANM
+		Size 2688            Henchman_Upperbody_Fire_Shotgun_2261.ANM
+		Size 1832            Henchman_Upperbody_Fire_Uzi_2213.ANM
+		Size 4092            Henchman_Upperbody_Hold_Rifle_2259.ANM
+		Size 3308            Henchman_Upperbody_Hold_Shotgun_2263.ANM
+		Size 1864            Henchman_Upperbody_Hold_Uzi_2256.ANM
+		Size 6876            Henchman_Upperbody_look_2221.ANM
+		Size 6876            Henchman_Upperbody_look_2231.ANM
+		Size 11816           Henchman_Upperbody_Reload_Rifle_2251.ANM
+		Size 7840            Henchman_Upperbody_Reload_Shotgun_2262.ANM
+		Size 8744            Henchman_Upperbody_Reload_Uzi_2214.ANM
+		Size 3616            Henchman_Upperbody_ukequip_2401.ANM
+		Size 10792           Henchman_Walk_2202.ANM
+
+		Total Anim Size:    (1377 k) (1410808 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (1 k) (1824 bytes)
+			Hull: Storage:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 13: (2 k) (2548 bytes)
+				Bone, Morph, AnimInstance Data 1: (44 k) (45120 bytes)
+
+				TotalSize: (46 k) (47888 bytes)
+
+			Hull: Dockside:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 1: (0 k) (172 bytes)
+
+				TotalSize: (0 k) (516 bytes)
+
+			Hull: TruckRoom:
+				Asset Tree: nLeaves 44, nBranches 31: (7 k) (7520 bytes)
+				StaticInstances 319: (39 k) (40832 bytes)
+				DynamicInstances 6: (1 k) (1176 bytes)
+				Bone, Morph, AnimInstance Data 319: (22 k) (22560 bytes)
+				StaticAABBTriggers 3: (0 k) (156 bytes)
+				DynamicAABBTriggers 2: (0 k) (152 bytes)
+				StaticLights 9: (0 k) (432 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 6: (1 k) (1032 bytes)
+
+				TotalSize: (72 k) (73916 bytes)
+
+			Hull: Corridoor_TruckRoom:
+				Asset Tree: nLeaves 3, nBranches 3: (0 k) (612 bytes)
+				StaticInstances 38: (4 k) (4864 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 38: (0 k) (0 bytes)
+				StaticLights 1: (0 k) (48 bytes)
+				FXInstances 1: (0 k) (172 bytes)
+
+				TotalSize: (5 k) (5696 bytes)
+
+			Hull: 08_hanger51int:
+				Asset Tree: nLeaves 10, nBranches 7: (1 k) (1704 bytes)
+				StaticInstances 72: (9 k) (9216 bytes)
+				DynamicInstances 2: (0 k) (392 bytes)
+				Bone, Morph, AnimInstance Data 72: (0 k) (0 bytes)
+				StaticLights 5: (0 k) (240 bytes)
+				FXInstances 3: (0 k) (516 bytes)
+
+				TotalSize: (11 k) (12068 bytes)
+
+			Hull: Middleroom_shelfWindows0:
+				Asset Tree: nLeaves 28, nBranches 21: (4 k) (4928 bytes)
+				StaticInstances 212: (26 k) (27136 bytes)
+				DynamicInstances 32: (6 k) (6272 bytes)
+				Bone, Morph, AnimInstance Data 212: (52 k) (54144 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 3: (0 k) (228 bytes)
+				StaticLights 18: (0 k) (864 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 9: (1 k) (1548 bytes)
+
+				TotalSize: (92 k) (95176 bytes)
+
+			Hull: 09_hanger5b:
+				Asset Tree: nLeaves 34, nBranches 27: (6 k) (6152 bytes)
+				StaticInstances 297: (37 k) (38016 bytes)
+				DynamicInstances 25: (4 k) (4900 bytes)
+				Bone, Morph, AnimInstance Data 297: (70 k) (72192 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 6: (0 k) (456 bytes)
+				StaticLights 14: (0 k) (672 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 10: (1 k) (1720 bytes)
+
+				TotalSize: (121 k) (124164 bytes)
+
+			Hull: 10_hanger6:
+				Asset Tree: nLeaves 41, nBranches 28: (6 k) (6908 bytes)
+				StaticInstances 269: (33 k) (34432 bytes)
+				DynamicInstances 7: (1 k) (1372 bytes)
+				Bone, Morph, AnimInstance Data 269: (26 k) (27072 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 5: (0 k) (380 bytes)
+				StaticLights 14: (0 k) (672 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 23: (3 k) (3956 bytes)
+
+				TotalSize: (73 k) (74848 bytes)
+
+			Hull: skydome:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 2: (0 k) (256 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 2: (0 k) (0 bytes)
+				FXInstances 1: (0 k) (172 bytes)
+
+				TotalSize: (0 k) (520 bytes)
+
+		Size Of Asset Tree                     data (424      k) (434792       bytes) - Save Game (6        k) (6420        bytes)
+		Size Of Points And Point Group         data (5        k) (5264         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (7        k) (8144         bytes) - Save Game (0        k) (220         bytes)
+		Size Of Process Object                 data (3        k) (3744         bytes) - Save Game (0        k) (416         bytes)
+		Size Of Portal Data                    data (1        k) (1080         bytes) - Save Game (0        k) (40          bytes)
+		Size Of Nav Mesh                       data (44       k) (45508        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (3        k) (3968         bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (6        k) (6732         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (7        k) (7232         bytes) - Save Game (4        k) (4652        bytes)
+		Size Of Animation Banks                data (31       k) (32196        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		117 User Data elements
+		25 User Data Pointer Fixups
+		Sizeof user data (6 k) (6664 bytes)
+
+
+		Total size in PUB (544 k) (557376 bytes)
+
+
+		Editor Assets Save Game Size (11 k) (11748 bytes)
+		User Data Save Game Size (0 k) (888 bytes)
+		Save Game Total size (12 k) (12636 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: 10_hanger6
+			Texture: floor1
+			Texture: wallbrick
+			Texture: wall2
+			Texture: galvroof
+			Texture: glass2
+
+		Geometry: 11_hanger7
+			Texture: floor1
+			Texture: metal
+			Texture: wallplain
+			Texture: galvroof
+			Texture: metal_pipe
+			Texture: concreteslab1
+
+		Geometry: Juan_Henchman_01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody01
+			Texture: mv_gs_generic_trou02
+			Texture: mv_gs_gen_suitarm01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gsuitvest02
+
+		Geometry: key
+			Texture: key
+
+		Geometry: 1-1-1_box
+			Texture: as_black_railgallery
+
+		Geometry: 08_hanger53_int
+			Texture: wall2
+			Texture: wallbrick
+			Texture: floor1
+
+		Geometry: 08_hanger5_int
+			Texture: wall2
+			Texture: wallbrick
+			Texture: floor1
+
+		Geometry: 08_hanger51_int
+			Texture: wallbrick
+			Texture: floor1
+
+		Geometry: 06_fence3b
+			Texture: wallbrick
+			Texture: floor1
+			Texture: druggate
+
+		Geometry: 08_hanger52
+			Texture: floor1
+			Texture: wallbrick
+
+		Geometry: 09_hanger5b
+			Texture: galvroof
+			Texture: wallbrick
+			Texture: floor1
+			Texture: windowsnew_alpha
+
+		Geometry: Truck_wheel
+			Texture: wheel
+
+		Geometry: trailer
+			Texture: truck_side
+			Texture: spec2
+			Texture: cratebacklo
+			Texture: as_black_railgallery
+			Texture: docks_ground
+
+		Geometry: Truck_Cab
+			Texture: truck_side
+			Texture: spec2
+			Texture: cratebacklo
+			Texture: truck_window
+			Texture: spec2
+			Texture: as_black_railgallery
+			Texture: floor1
+			Texture: spec2
+			Texture: docks_ground
+			Texture: grille1
+			Texture: spec2
+
+		Geometry: metalstep
+			Texture: metal1
+			Texture: metal_pipe
+
+		Geometry: metal_pillar
+			Texture: metal_pipe
+
+		Geometry: metal_support
+			Texture: metal_pipe
+
+		Geometry: metal_walkway_sml
+			Texture: metal1
+			Texture: metal_pipe
+
+		Geometry: metalcorner
+			Texture: metal1
+			Texture: metal_pipe
+
+		Geometry: metalrail
+			Texture: metal_pipe
+
+		Geometry: metalrail_sml
+			Texture: metal_pipe
+
+		Geometry: metal_walkway_noside
+			Texture: metal1
+			Texture: metal_pipe
+
+		Geometry: orange_light
+			Texture: warning_light_orange
+			Texture: warning_light_orange
+			Texture: as_black_railgallery
+
+		Geometry: Lamp_post
+			Texture: whitebits
+			Texture: floor1
+
+		Geometry: StripLight_hung
+			Texture: floor1
+			Texture: wire
+			Texture: whitealpha8x8
+			Texture: as_light_cover
+
+		Geometry: Grill
+			Texture: grill
+
+		Geometry: Donotenter_sign
+			Texture: donotenter
+
+		Geometry: cardboard_box
+			Texture: cardboard
+
+		Geometry: Docklights
+			Texture: wallplain
+			Texture: addlight
+
+		Geometry: crate_wood1m
+			Texture: crate1
+
+		Geometry: AirCon3
+			Texture: air_con3
+
+		Geometry: dirt
+			Texture: dirt
+
+		Geometry: Drug_crusher
+			Texture: coveyor
+			Texture: coveyorend
+			Texture: conveyor_crusher
+
+		Geometry: Door_Docks
+			Texture: docks_door
+
+		Geometry: exhaust_pipe_bend
+			Texture: metal_pipe
+
+		Geometry: exhaust_pipe_long
+			Texture: metal_pipe
+
+		Geometry: Barrel2
+			Texture: barrel
+
+		Geometry: Poster_health
+			Texture: poster1
+
+		Geometry: Drugs_table
+			Texture: silvertable
+			Texture: table_env
+
+		Geometry: Drug_Vial
+			Texture: silvertable
+
+		Geometry: card_smallbox_closed
+			Texture: cardboard
+
+		Geometry: Card_smallbox_open
+			Texture: cardboard
+
+		Geometry: Card_tube
+			Texture: cardboard
+
+		Geometry: Drug_bowl
+			Texture: silvertable
+
+		Geometry: Drug_powder
+			Texture: drug_powder
+
+		Geometry: Mopbucket
+			Texture: wallplainbot
+			Texture: wood_plank2
+
+		Geometry: Manhole
+			Texture: manhole_quater
+
+		Geometry: PC_case
+			Texture: ibm
+
+		Geometry: 5_disk
+			Texture: disk
+
+		Geometry: PC_keyboard
+			Texture: ibm
+
+		Geometry: PC_monitor
+			Texture: ibm
+
+		Geometry: chevron_yellow
+			Texture: chevron_yellow
+
+		Geometry: shadow_generic
+			Texture: shadow2
+
+		Geometry: trailer_storage
+			Texture: truck_side
+			Texture: cratebacklo
+			Texture: as_black_railgallery
+
+		Geometry: plain_chair
+			Texture: brief_chair
+
+		Geometry: Crate_canvas
+			Texture: crate_canvas1
+			Texture: crate_canvastop1
+
+		Geometry: Crate_canvas2
+			Texture: crate_canvas2
+			Texture: crate_canvastop1
+
+		Geometry: Girder2
+			Texture: scaffold1
+
+		Geometry: doorframe1x2
+			Texture: floor1
+
+		Geometry: doorframe2x2
+			Texture: floor1
+
+		Geometry: cup
+			Texture: cup
+
+		Geometry: crateopen_drugs
+			Texture: crate_drugs
+			Texture: crate_filler
+
+		Geometry: Crate_drugs
+			Texture: crate_drugs
+
+		Geometry: Block_factory
+			Texture: darkgrey
+
+		Geometry: lightrays
+			Texture: downlight
+
+		Geometry: Assasin02
+			Texture: mv_gs_assasinshirtbody02
+			Texture: reflect_shiny_stripe_mod
+			Texture: eyebl1
+			Texture: lip_spec_01
+			Texture: mv_gs_assasinface01
+			Texture: skin_spec_02
+			Texture: mouth_teeth1
+			Texture: mv_gs_assasinshoe01
+			Texture: mv_gs_assasintrou01
+			Texture: assasin_spec_01
+			Texture: mv_gs_assasinshirtarm02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_assasinshirtbody02
+			Texture: mv_gs_assasinhairalpha
+
+		Geometry: console
+			Texture: control_panel_new
+			Texture: whitebits
+			Texture: control_panel_vent
+
+		Geometry: skydome drugfactory
+			Texture: nightsky
+
+		Geometry: clouds
+			Texture: busy_clouds02
+			Texture: busy_clouds01
+
+		Geometry: squareglare
+			Texture: downlight
+
+		Geometry: Swipe_card
+			Texture: Swipe_card
+
+		Geometry: Juan_Henchman_05
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody04
+			Texture: mv_gs_generic_trou01
+			Texture: mv_gs_gen_suitarm04
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_sleavless04
+
+		Geometry: Juan_Henchman_02
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody02
+			Texture: mv_jbgs_gentrou3
+			Texture: mv_gs_gen_suitarm02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gsuitvesto_04
+
+		Geometry: Juan_Henchman_04
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody05
+			Texture: mv_gs_generic_trou05
+			Texture: mv_gs_gen_suitarm05
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gshirtfront03
+
+		Geometry: Ortegas_henchman_06
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody01
+			Texture: mv_gs_generic_trou01
+			Texture: mv_gs_gen_suitarm01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: mv_gs_default_spec01
+			Texture: mv_gs_gshirtfront03
+
+		Geometry: GM_sleaveless01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_sleavless01
+			Texture: mv_jbgs_gentrou3
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe03
+
+		Geometry: GM_sleaveless02
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_sleavless03
+			Texture: mv_dea_trou
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe03
+			Texture: mv_dea_trou_rip
+
+		Geometry: GM_hawiian_shirt01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gshirtbody02
+			Texture: mv_dea_trou
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe04
+			Texture: mv_gs_gshirtarm02s
+
+		Geometry: mesh_railing
+			Texture: as_mesh_fence_post
+			Texture: railing
+
+		Geometry: mesh_gate
+			Texture: as_mesh_fence_post
+			Texture: railing
+
+		Geometry: Drugs_window
+			Texture: windowsnew_alpha
+
+		Geometry: chop_refuse
+			Texture: osama bin liner
+
+		Geometry: chop_dump
+			Texture: chop_dumpster
+
+		Geometry: chop_dumpLid
+			Texture: chop_dumpster
+
+		Geometry: Keepout_stencil
+			Texture: keepout
+
+		Geometry: Fanvent
+			Texture: fanvent_low
+
+		Geometry: Muck1
+			Texture: muck1
+
+		Geometry: Drug_vat
+			Texture: drugs_vatmat
+			Texture: metalspec
+			Texture: drugs_vatglass
+
+		Geometry: Extractor_fan
+			Texture: grainymetal
+
+		Geometry: Power_box
+			Texture: high_voltagebox
+
+		Geometry: Cabinet_closed
+			Texture: drugs_cabinet
+
+		Geometry: Cabinet_open
+			Texture: drugs_cabinet
+
+		Geometry: Drug_shelf
+			Texture: drugs_cabinet
+
+		Geometry: Drug_container
+			Texture: drug_container
+
+		Geometry: PowerGenerator
+			Texture: powermetal
+			Texture: spec1
+			Texture: drugs_vatmat
+
+		Geometry: waterdamage
+			Texture: waterdamage
+
+		Geometry: PushButton
+			Texture: pushbutton
+
+		Geometry: metal_walkway_nosides
+			Texture: metal1
+			Texture: metal_pipe
+
+		Geometry: number05
+			Texture: alphanumbers
+
+		Geometry: exitlight
+			Texture: whitebits
+			Texture: exit_light
+			Texture: spec2
+			Texture: downlight
+
+		Geometry: Drug_Worker
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_jb_drgw_trou
+			Texture: mv_jb_drgw_jacket
+			Texture: mv_jb_drgw_tshirt
+
+		Geometry: movement_collision_box
+			Texture: as_black_railgallery
+
+		Geometry: Camera_collision_box
+			Texture: as_black_railgallery
+
+		Geometry: metalstep_end
+			Texture: metal1
+			Texture: metal_pipe
+
+		Geometry: metalstep_start
+			Texture: metal1
+			Texture: metal_pipe
+
+		Geometry: Drugs_table_static
+			Texture: silvertable
+			Texture: table_env
+
+		Geometry: chop_pane
+			Texture: beach_fence_black
+			Texture: env1
+
+		Geometry: chop_drain
+			Texture: chop_drain
+
+
+	Texture -> Geometry Association:
+		Texture: smokey
+
+		Texture: Light1
+
+		Texture: sparks
+
+		Texture: moon
+
+		Texture: floor1
+			Geometry: 10_hanger6
+			Geometry: 11_hanger7
+			Geometry: 08_hanger53_int
+			Geometry: 08_hanger5_int
+			Geometry: 08_hanger51_int
+			Geometry: 06_fence3b
+			Geometry: 08_hanger52
+			Geometry: 09_hanger5b
+			Geometry: Truck_Cab
+			Geometry: Lamp_post
+			Geometry: StripLight_hung
+			Geometry: doorframe1x2
+			Geometry: doorframe2x2
+
+		Texture: docks_ground
+			Geometry: trailer
+			Geometry: Truck_Cab
+
+		Texture: spec2
+			Geometry: trailer
+			Geometry: Truck_Cab
+			Geometry: exitlight
+
+		Texture: windowsnew_alpha
+			Geometry: 09_hanger5b
+			Geometry: Drugs_window
+
+		Texture: metal_pipe
+			Geometry: 11_hanger7
+			Geometry: metalstep
+			Geometry: metal_pillar
+			Geometry: metal_support
+			Geometry: metal_walkway_sml
+			Geometry: metalcorner
+			Geometry: metalrail
+			Geometry: metalrail_sml
+			Geometry: metal_walkway_noside
+			Geometry: exhaust_pipe_bend
+			Geometry: exhaust_pipe_long
+			Geometry: metal_walkway_nosides
+			Geometry: metalstep_end
+			Geometry: metalstep_start
+
+		Texture: spec1
+			Geometry: PowerGenerator
+
+		Texture: wallbrick
+			Geometry: 10_hanger6
+			Geometry: 08_hanger53_int
+			Geometry: 08_hanger5_int
+			Geometry: 08_hanger51_int
+			Geometry: 06_fence3b
+			Geometry: 08_hanger52
+			Geometry: 09_hanger5b
+
+		Texture: wall2
+			Geometry: 10_hanger6
+			Geometry: 08_hanger53_int
+			Geometry: 08_hanger5_int
+
+		Texture: galvroof
+			Geometry: 10_hanger6
+			Geometry: 11_hanger7
+			Geometry: 09_hanger5b
+
+		Texture: glass2
+			Geometry: 10_hanger6
+
+		Texture: metal
+			Geometry: 11_hanger7
+
+		Texture: wallplain
+			Geometry: 11_hanger7
+			Geometry: Docklights
+
+		Texture: concreteslab1
+			Geometry: 11_hanger7
+
+		Texture: mv_gs_generic_neck1w
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_04
+			Geometry: Ortegas_henchman_06
+			Geometry: GM_sleaveless01
+			Geometry: GM_sleaveless02
+			Geometry: GM_hawiian_shirt01
+			Geometry: Drug_Worker
+
+		Texture: skin_spec_02
+			Geometry: Juan_Henchman_01
+			Geometry: Assasin02
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_04
+			Geometry: Ortegas_henchman_06
+			Geometry: GM_sleaveless01
+			Geometry: GM_sleaveless02
+			Geometry: GM_hawiian_shirt01
+			Geometry: Drug_Worker
+
+		Texture: mv_gs_gen_suitbody01
+			Geometry: Juan_Henchman_01
+			Geometry: Ortegas_henchman_06
+
+		Texture: mv_gs_generic_trou02
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_gen_suitarm01
+			Geometry: Juan_Henchman_01
+			Geometry: Ortegas_henchman_06
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Juan_Henchman_01
+			Geometry: Assasin02
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_04
+			Geometry: Ortegas_henchman_06
+			Geometry: GM_sleaveless01
+			Geometry: GM_sleaveless02
+			Geometry: GM_hawiian_shirt01
+			Geometry: Drug_Worker
+
+		Texture: mv_gs_genericshoe01
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_04
+			Geometry: Ortegas_henchman_06
+
+		Texture: testshader01
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gsuitvest02
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_default_spec01
+			Geometry: Ortegas_henchman_06
+
+		Texture: mouth_teeth1
+			Geometry: Assasin02
+
+		Texture: key
+			Geometry: key
+
+		Texture: as_black_railgallery
+			Geometry: 1-1-1_box
+			Geometry: trailer
+			Geometry: Truck_Cab
+			Geometry: orange_light
+			Geometry: trailer_storage
+			Geometry: movement_collision_box
+			Geometry: Camera_collision_box
+
+		Texture: druggate
+			Geometry: 06_fence3b
+
+		Texture: wheel
+			Geometry: Truck_wheel
+
+		Texture: truck_side
+			Geometry: trailer
+			Geometry: Truck_Cab
+			Geometry: trailer_storage
+
+		Texture: cratebacklo
+			Geometry: trailer
+			Geometry: Truck_Cab
+			Geometry: trailer_storage
+
+		Texture: truck_window
+			Geometry: Truck_Cab
+
+		Texture: grille1
+			Geometry: Truck_Cab
+
+		Texture: metal1
+			Geometry: metalstep
+			Geometry: metal_walkway_sml
+			Geometry: metalcorner
+			Geometry: metal_walkway_noside
+			Geometry: metal_walkway_nosides
+			Geometry: metalstep_end
+			Geometry: metalstep_start
+
+		Texture: warning_light_orange
+			Geometry: orange_light
+
+		Texture: whitebits
+			Geometry: Lamp_post
+			Geometry: console
+			Geometry: exitlight
+
+		Texture: as_light_cover
+			Geometry: StripLight_hung
+
+		Texture: wire
+			Geometry: StripLight_hung
+
+		Texture: whitealpha8x8
+			Geometry: StripLight_hung
+
+		Texture: grill
+			Geometry: Grill
+
+		Texture: donotenter
+			Geometry: Donotenter_sign
+
+		Texture: cardboard
+			Geometry: cardboard_box
+			Geometry: card_smallbox_closed
+			Geometry: Card_smallbox_open
+			Geometry: Card_tube
+
+		Texture: addlight
+			Geometry: Docklights
+
+		Texture: crate1
+			Geometry: crate_wood1m
+
+		Texture: air_con3
+			Geometry: AirCon3
+
+		Texture: dirt
+			Geometry: dirt
+
+		Texture: coveyor
+			Geometry: Drug_crusher
+
+		Texture: coveyorend
+			Geometry: Drug_crusher
+
+		Texture: conveyor_crusher
+			Geometry: Drug_crusher
+
+		Texture: docks_door
+			Geometry: Door_Docks
+
+		Texture: barrel
+			Geometry: Barrel2
+
+		Texture: poster1
+			Geometry: Poster_health
+
+		Texture: silvertable
+			Geometry: Drugs_table
+			Geometry: Drug_Vial
+			Geometry: Drug_bowl
+			Geometry: Drugs_table_static
+
+		Texture: table_env
+			Geometry: Drugs_table
+			Geometry: Drugs_table_static
+
+		Texture: drug_powder
+			Geometry: Drug_powder
+
+		Texture: wallplainbot
+			Geometry: Mopbucket
+
+		Texture: wood_plank2
+			Geometry: Mopbucket
+
+		Texture: manhole_quater
+			Geometry: Manhole
+
+		Texture: ibm
+			Geometry: PC_case
+			Geometry: PC_keyboard
+			Geometry: PC_monitor
+
+		Texture: disk
+			Geometry: 5_disk
+
+		Texture: chevron_yellow
+			Geometry: chevron_yellow
+
+		Texture: shadow2
+			Geometry: shadow_generic
+
+		Texture: brief_chair
+			Geometry: plain_chair
+
+		Texture: crate_canvas1
+			Geometry: Crate_canvas
+
+		Texture: crate_canvastop1
+			Geometry: Crate_canvas
+			Geometry: Crate_canvas2
+
+		Texture: crate_canvas2
+			Geometry: Crate_canvas2
+
+		Texture: scaffold1
+			Geometry: Girder2
+
+		Texture: cup
+			Geometry: cup
+
+		Texture: crate_drugs
+			Geometry: crateopen_drugs
+			Geometry: Crate_drugs
+
+		Texture: crate_filler
+			Geometry: crateopen_drugs
+
+		Texture: darkgrey
+			Geometry: Block_factory
+
+		Texture: downlight
+			Geometry: lightrays
+			Geometry: squareglare
+			Geometry: exitlight
+
+		Texture: mv_gs_assasinshirtbody02
+			Geometry: Assasin02
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasinshirtarm02
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasintrou01
+			Geometry: Assasin02
+
+		Texture: assasin_spec_01
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasinshoe01
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasinface01
+			Geometry: Assasin02
+
+		Texture: eyebl1
+			Geometry: Assasin02
+
+		Texture: lip_spec_01
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasinhairalpha
+			Geometry: Assasin02
+
+		Texture: mv_jbgs_gentrou3
+			Geometry: Juan_Henchman_02
+			Geometry: GM_sleaveless01
+
+		Texture: mv_gs_generic_full_arm02w
+			Geometry: GM_sleaveless01
+			Geometry: GM_sleaveless02
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_gs_genericshoe03
+			Geometry: GM_sleaveless01
+			Geometry: GM_sleaveless02
+
+		Texture: control_panel_new
+			Geometry: console
+
+		Texture: control_panel_vent
+			Geometry: console
+
+		Texture: nightsky
+			Geometry: skydome drugfactory
+
+		Texture: busy_clouds02
+			Geometry: clouds
+
+		Texture: busy_clouds01
+			Geometry: clouds
+
+		Texture: Swipe_card
+			Geometry: Swipe_card
+
+		Texture: mv_gs_gen_suitbody04
+			Geometry: Juan_Henchman_05
+
+		Texture: mv_gs_generic_trou01
+			Geometry: Juan_Henchman_05
+			Geometry: Ortegas_henchman_06
+
+		Texture: mv_gs_gen_suitarm04
+			Geometry: Juan_Henchman_05
+
+		Texture: mv_gs_sleavless04
+			Geometry: Juan_Henchman_05
+
+		Texture: mv_gs_gen_suitbody02
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_gen_suitarm02
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_gsuitvesto_04
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_gen_suitbody05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_generic_trou05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gen_suitarm05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gshirtfront03
+			Geometry: Juan_Henchman_04
+			Geometry: Ortegas_henchman_06
+
+		Texture: mv_gs_sleavless01
+			Geometry: GM_sleaveless01
+
+		Texture: mv_gs_sleavless03
+			Geometry: GM_sleaveless02
+
+		Texture: mv_dea_trou
+			Geometry: GM_sleaveless02
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_dea_trou_rip
+			Geometry: GM_sleaveless02
+
+		Texture: mv_gs_gshirtbody02
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_gs_genericshoe04
+			Geometry: GM_hawiian_shirt01
+
+		Texture: mv_gs_gshirtarm02s
+			Geometry: GM_hawiian_shirt01
+
+		Texture: as_mesh_fence_post
+			Geometry: mesh_railing
+			Geometry: mesh_gate
+
+		Texture: railing
+			Geometry: mesh_railing
+			Geometry: mesh_gate
+
+		Texture: osama bin liner
+			Geometry: chop_refuse
+
+		Texture: chop_dumpster
+			Geometry: chop_dump
+			Geometry: chop_dumpLid
+
+		Texture: keepout
+			Geometry: Keepout_stencil
+
+		Texture: fanvent_low
+			Geometry: Fanvent
+
+		Texture: muck1
+			Geometry: Muck1
+
+		Texture: drugs_vatmat
+			Geometry: Drug_vat
+			Geometry: PowerGenerator
+
+		Texture: metalspec
+			Geometry: Drug_vat
+
+		Texture: drugs_vatglass
+			Geometry: Drug_vat
+
+		Texture: grainymetal
+			Geometry: Extractor_fan
+
+		Texture: high_voltagebox
+			Geometry: Power_box
+
+		Texture: drugs_cabinet
+			Geometry: Cabinet_closed
+			Geometry: Cabinet_open
+			Geometry: Drug_shelf
+
+		Texture: drug_container
+			Geometry: Drug_container
+
+		Texture: powermetal
+			Geometry: PowerGenerator
+
+		Texture: waterdamage
+			Geometry: waterdamage
+
+		Texture: pushbutton
+			Geometry: PushButton
+
+		Texture: alphanumbers
+			Geometry: number05
+
+		Texture: exit_light
+			Geometry: exitlight
+
+		Texture: mv_jb_drgw_trou
+			Geometry: Drug_Worker
+
+		Texture: mv_jb_drgw_jacket
+			Geometry: Drug_Worker
+
+		Texture: mv_jb_drgw_tshirt
+			Geometry: Drug_Worker
+
+		Texture: beach_fence_black
+			Geometry: chop_pane
+
+		Texture: env1
+			Geometry: chop_pane
+
+		Texture: chop_drain
+			Geometry: chop_drain
+

@@ -1,0 +1,361 @@
+
+	Exporting Textures:
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_jeans01f
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm01w
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   90      8-Bit   skin_spec_02
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand01
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  217      8-Bit   mv_gs_policebelt01
+		Size 2304         Width 32      Height 32     MultiBitAlpha FALSE   nColors   49      8-Bit   lip_spec_01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   13      4-Bit   mv_gs_genericshoe01
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_body01f
+		Size 34048        Width 256     Height 128    MultiBitAlpha FALSE   nColors  255      8-Bit   mv_gs_generic_top11f
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_leg01f
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   14      4-Bit   mv_gs_generic_jeans04f
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_top03f
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_top05f
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericlegwarmers01
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   23      8-Bit   mv_gs_genericbangle01
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_dress01f
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   15      4-Bit   mv_gs_genericdressfrills01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_shoes01f
+		Size 16704        Width 128     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_dress02f
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_generichighheel01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand01b
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_top09f
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_full_arm01b
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_body01fb
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_trou01f
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   14      4-Bit   reflect_shiny_noise_add
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_trou02f
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_bikinitop02f
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_generic_bikinitop01f
+		Size 1344         Width 64      Height 32     MultiBitAlpha FALSE   nColors   10      4-Bit   mv_gs_genericshortsfuzz01
+		Size 66816        Width 256     Height 256    MultiBitAlpha TRUE    nColors  247      8-Bit   as_artfoyer_floor
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   14      4-Bit   reflect_shiny_stripesub_add
+
+		Total Size (444 k) (455296 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 100816   Collision Size 0        Total Size 100864    Crop_Top_girl_01
+		Render Size 100816   Collision Size 0        Total Size 100864    Crop_Top_girl_02
+		Render Size 100304   Collision Size 0        Total Size 100352    Jumper_girl01
+		Render Size 82336    Collision Size 0        Total Size 82384     Dress_girl01
+		Render Size 99536    Collision Size 0        Total Size 99584     Dress_girl02
+		Render Size 99664    Collision Size 0        Total Size 99712     Hooker_PurpleB
+		Render Size 105040   Collision Size 0        Total Size 105088    Red_Hooker
+		Render Size 104528   Collision Size 0        Total Size 104576    Shorts_girl01
+		Render Size 5584     Collision Size 7160     Total Size 12792     Mesh_base
+
+		Total Render Size:    (779 k) (798624 bytes)
+		Total Collision Size: (6 k) (7160 bytes)
+		Total Size:           (786 k) (805784 bytes)
+
+	Exporting Animations:
+		Size 6856            Cower_down_3009.ANM
+		Size 12824           Cower_getup_3011.ANM
+		Size 2880            Cower_idle_3010.ANM
+		Size 13196           Idle_3004.ANM
+		Size 3952            Lie_3006.ANM
+		Size 14264           Lie_getup_3005.ANM
+		Size 10012           Run_3001.ANM
+		Size 2912            Sit_3007.ANM
+		Size 12128           Stand_up_3008.ANM
+		Size 13596           WAlk_3003.ANM
+
+		Total Anim Size:    (90 k) (92620 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 8: (1 k) (1568 bytes)
+				Bone, Morph, AnimInstance Data 1: (38 k) (38912 bytes)
+
+				TotalSize: (39 k) (40700 bytes)
+
+		Size Of Asset Tree                     data (39       k) (40700        bytes) - Save Game (0        k) (352         bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (2        k) (2652         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		8 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (160 bytes)
+
+
+		Total size in PUB (42 k) (44012 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (352 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (352 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Crop_Top_girl_01
+			Texture: mv_gs_generic_jeans01f
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_top11f
+
+		Geometry: Crop_Top_girl_02
+			Texture: mv_gs_generic_jeans04f
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_top03f
+
+		Geometry: Jumper_girl01
+			Texture: mv_gs_generic_top05f
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_jeans04f
+			Texture: mv_gs_genericlegwarmers01
+			Texture: mv_gs_genericbangle01
+
+		Geometry: Dress_girl01
+			Texture: mv_gs_generic_dress01f
+			Texture: mv_gs_generic_shoes01f
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_leg01f
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_genericdressfrills01
+
+		Geometry: Dress_girl02
+			Texture: mv_gs_generic_dress02f
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_leg01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_jb_generichighheel01
+			Texture: skin_spec_02
+
+		Geometry: Hooker_PurpleB
+			Texture: mv_gs_genericwhand01b
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_top09f
+			Texture: mv_gs_generic_full_arm01b
+			Texture: skin_spec_02
+			Texture: mv_gs_policebelt01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_shoes01f
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_body01fb
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_trou01f
+			Texture: reflect_shiny_noise_add
+
+		Geometry: Red_Hooker
+			Texture: mv_gs_policebelt01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_trou02f
+			Texture: reflect_shiny_noise_add
+			Texture: mv_gs_generic_shoes01f
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_bikinitop02f
+			Texture: reflect_shiny_noise_add
+
+		Geometry: Shorts_girl01
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_bikinitop01f
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_jeans01f
+			Texture: mv_gs_genericshoe01
+			Texture: lip_spec_01
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_leg01f
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshortsfuzz01
+
+		Geometry: Mesh_base
+			Texture: as_artfoyer_floor
+			Texture: reflect_shiny_stripesub_add
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_generic_jeans01f
+			Geometry: Crop_Top_girl_01
+			Geometry: Shorts_girl01
+
+		Texture: mv_gs_generic_full_arm01w
+			Geometry: Crop_Top_girl_01
+			Geometry: Crop_Top_girl_02
+			Geometry: Jumper_girl01
+			Geometry: Dress_girl01
+			Geometry: Dress_girl02
+			Geometry: Red_Hooker
+			Geometry: Shorts_girl01
+
+		Texture: skin_spec_02
+			Geometry: Crop_Top_girl_01
+			Geometry: Crop_Top_girl_02
+			Geometry: Jumper_girl01
+			Geometry: Dress_girl01
+			Geometry: Dress_girl02
+			Geometry: Hooker_PurpleB
+			Geometry: Red_Hooker
+			Geometry: Shorts_girl01
+
+		Texture: mv_gs_genericwhand01
+			Geometry: Crop_Top_girl_01
+			Geometry: Crop_Top_girl_02
+			Geometry: Jumper_girl01
+			Geometry: Dress_girl01
+			Geometry: Dress_girl02
+			Geometry: Red_Hooker
+			Geometry: Shorts_girl01
+
+		Texture: mv_gs_policebelt01
+			Geometry: Hooker_PurpleB
+			Geometry: Red_Hooker
+
+		Texture: lip_spec_01
+			Geometry: Crop_Top_girl_01
+			Geometry: Crop_Top_girl_02
+			Geometry: Jumper_girl01
+			Geometry: Dress_girl01
+			Geometry: Hooker_PurpleB
+			Geometry: Red_Hooker
+			Geometry: Shorts_girl01
+
+		Texture: mv_gs_genericshoe01
+			Geometry: Crop_Top_girl_01
+			Geometry: Crop_Top_girl_02
+			Geometry: Jumper_girl01
+			Geometry: Shorts_girl01
+
+		Texture: mv_gs_generic_body01f
+			Geometry: Crop_Top_girl_01
+			Geometry: Crop_Top_girl_02
+			Geometry: Jumper_girl01
+			Geometry: Dress_girl01
+			Geometry: Dress_girl02
+			Geometry: Red_Hooker
+			Geometry: Shorts_girl01
+
+		Texture: mv_gs_generic_top11f
+			Geometry: Crop_Top_girl_01
+
+		Texture: mv_gs_generic_leg01f
+			Geometry: Dress_girl01
+			Geometry: Dress_girl02
+			Geometry: Shorts_girl01
+
+		Texture: mv_gs_generic_jeans04f
+			Geometry: Crop_Top_girl_02
+			Geometry: Jumper_girl01
+
+		Texture: mv_gs_generic_top03f
+			Geometry: Crop_Top_girl_02
+
+		Texture: mv_gs_generic_top05f
+			Geometry: Jumper_girl01
+
+		Texture: mv_gs_genericlegwarmers01
+			Geometry: Jumper_girl01
+
+		Texture: mv_gs_genericbangle01
+			Geometry: Jumper_girl01
+
+		Texture: mv_gs_generic_dress01f
+			Geometry: Dress_girl01
+
+		Texture: mv_gs_genericdressfrills01
+			Geometry: Dress_girl01
+
+		Texture: mv_gs_generic_shoes01f
+			Geometry: Dress_girl01
+			Geometry: Hooker_PurpleB
+			Geometry: Red_Hooker
+
+		Texture: mv_gs_generic_dress02f
+			Geometry: Dress_girl02
+
+		Texture: mv_jb_generichighheel01
+			Geometry: Dress_girl02
+
+		Texture: mv_gs_genericwhand01b
+			Geometry: Hooker_PurpleB
+
+		Texture: mv_gs_generic_top09f
+			Geometry: Hooker_PurpleB
+
+		Texture: mv_gs_generic_full_arm01b
+			Geometry: Hooker_PurpleB
+
+		Texture: mv_gs_generic_body01fb
+			Geometry: Hooker_PurpleB
+
+		Texture: mv_gs_generic_trou01f
+			Geometry: Hooker_PurpleB
+
+		Texture: reflect_shiny_noise_add
+			Geometry: Hooker_PurpleB
+			Geometry: Red_Hooker
+
+		Texture: mv_gs_generic_trou02f
+			Geometry: Red_Hooker
+
+		Texture: mv_gs_generic_bikinitop02f
+			Geometry: Red_Hooker
+
+		Texture: mv_gs_generic_bikinitop01f
+			Geometry: Shorts_girl01
+
+		Texture: mv_gs_genericshortsfuzz01
+			Geometry: Shorts_girl01
+
+		Texture: as_artfoyer_floor
+			Geometry: Mesh_base
+
+		Texture: reflect_shiny_stripesub_add
+			Geometry: Mesh_base
+

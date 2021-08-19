@@ -1,0 +1,141 @@
+
+	Exporting Textures:
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand02
+		Size 16640        Width 64      Height 64     MultiBitAlpha FALSE   nColors  268      32-Bit  skin_spec_02
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  256      8-Bit   mv_jb_manual04
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   30      8-Bit   manuel_tash
+		Size 17664        Width 128     Height 128    MultiBitAlpha FALSE   nColors  256      8-Bit   eyebl
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   68      8-Bit   testshader01
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  253      8-Bit   mv_jb_manushoes
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors   61      8-Bit   crok_vest_spec_01
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_manujacket
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_manutrou
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth
+		Size 832          Width 128     Height 8      MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_manubelt
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors  153      8-Bit   reflect_shiny_stripe_mod
+		Size 66816        Width 256     Height 256    MultiBitAlpha TRUE    nColors  254      8-Bit   as_artfoyer_floor
+		Size 832          Width 32      Height 32     MultiBitAlpha FALSE   nColors   14      4-Bit   reflect_shiny_stripesub_add
+
+		Total Size (305 k) (312448 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 244304   Collision Size 0        Total Size 244352    Ortega
+		Render Size 5584     Collision Size 7160     Total Size 12792     Mesh_base
+
+		Total Render Size:    (244 k) (249888 bytes)
+		Total Collision Size: (6 k) (7160 bytes)
+		Total Size:           (251 k) (257048 bytes)
+
+	Exporting Animations:
+		Size 12500           Idle_5502.ANM
+
+		Total Anim Size:    (12 k) (12500 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 1: (4 k) (4540 bytes)
+
+				TotalSize: (4 k) (4956 bytes)
+
+		Size Of Asset Tree                     data (4        k) (4956         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (68           bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (5 k) (5544 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Ortega
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_jb_manutrou
+			Texture: mv_jb_manujacket
+			Texture: mouth_teeth
+			Texture: mv_jb_manushoes
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_manual04
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: testshader01
+			Texture: mv_jb_manubelt
+			Texture: reflect_shiny_stripe_mod
+			Texture: manuel_tash
+			Texture: skin_spec_02
+
+		Geometry: Mesh_base
+			Texture: as_artfoyer_floor
+			Texture: reflect_shiny_stripesub_add
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_genericwhand02
+			Geometry: Ortega
+
+		Texture: skin_spec_02
+			Geometry: Ortega
+
+		Texture: mv_jb_manual04
+			Geometry: Ortega
+
+		Texture: manuel_tash
+			Geometry: Ortega
+
+		Texture: eyebl
+			Geometry: Ortega
+
+		Texture: testshader01
+			Geometry: Ortega
+
+		Texture: mv_jb_manushoes
+			Geometry: Ortega
+
+		Texture: crok_vest_spec_01
+			Geometry: Ortega
+
+		Texture: mv_jb_manujacket
+			Geometry: Ortega
+
+		Texture: mv_jb_manutrou
+			Geometry: Ortega
+
+		Texture: mouth_teeth
+			Geometry: Ortega
+
+		Texture: mv_jb_manubelt
+			Geometry: Ortega
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Ortega
+
+		Texture: as_artfoyer_floor
+			Geometry: Mesh_base
+
+		Texture: reflect_shiny_stripesub_add
+			Geometry: Mesh_base
+
