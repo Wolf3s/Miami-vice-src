@@ -1,0 +1,112 @@
+
+	Exporting Textures:
+		Size 33088        Width 256     Height 256    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_drug_dealers
+		Size 4416         Width 128     Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_drug_dealer_suitarm01
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_genericwhand02_3k
+		Size 5376         Width 64      Height 64     MultiBitAlpha FALSE   nColors  193      8-Bit   skin_spec_02
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_drugdealershirt02
+		Size 66816        Width 256     Height 256    MultiBitAlpha FALSE   nColors  254      8-Bit   mv_gs_drug_faced
+		Size 8512         Width 128     Height 128    MultiBitAlpha FALSE   nColors   15      4-Bit   mouth_teeth
+		Size 2368         Width 64      Height 64     MultiBitAlpha FALSE   nColors   16      4-Bit   mv_gs_drug_shoes01
+		Size 16704        Width 256     Height 128    MultiBitAlpha FALSE   nColors   16      4-Bit   mv_jb_drugdealertrou02
+		Size 16640        Width 64      Height 64     MultiBitAlpha FALSE   nColors >  1024   32-Bit  eye_green
+		Size 2304         Width 32      Height 32     MultiBitAlpha TRUE    nColors   48      8-Bit   testshader01
+
+		Total Size (163 k) (167104 bytes)
+
+		Total Size Save By Compression (0 k) (0 bytes)
+
+	Exporting Geometry:
+		Render Size 160848   Collision Size 0        Total Size 160896    Drug_DealerD
+
+		Total Render Size:    (157 k) (160848 bytes)
+		Total Collision Size: (0 k) (0 bytes)
+		Total Size:           (157 k) (160848 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (4 k) (4512 bytes)
+
+				TotalSize: (4 k) (4800 bytes)
+
+		Size Of Asset Tree                     data (4        k) (4800         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (5 k) (5320 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Drug_DealerD
+			Texture: mv_gs_drug_dealers
+			Texture: mv_gs_drug_dealer_suitarm01
+			Texture: mv_gs_genericwhand02_3k
+			Texture: skin_spec_02
+			Texture: mv_jb_drugdealershirt02
+			Texture: mv_gs_drug_faced
+			Texture: skin_spec_02
+			Texture: mouth_teeth
+			Texture: mv_gs_drug_shoes01
+			Texture: mv_jb_drugdealertrou02
+			Texture: eye_green
+			Texture: testshader01
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_drug_dealers
+			Geometry: Drug_DealerD
+
+		Texture: mv_gs_drug_dealer_suitarm01
+			Geometry: Drug_DealerD
+
+		Texture: mv_gs_genericwhand02_3k
+			Geometry: Drug_DealerD
+
+		Texture: skin_spec_02
+			Geometry: Drug_DealerD
+
+		Texture: mv_jb_drugdealershirt02
+			Geometry: Drug_DealerD
+
+		Texture: mv_gs_drug_faced
+			Geometry: Drug_DealerD
+
+		Texture: mouth_teeth
+			Geometry: Drug_DealerD
+
+		Texture: mv_gs_drug_shoes01
+			Geometry: Drug_DealerD
+
+		Texture: mv_jb_drugdealertrou02
+			Geometry: Drug_DealerD
+
+		Texture: eye_green
+			Geometry: Drug_DealerD
+
+		Texture: testshader01
+			Geometry: Drug_DealerD
+
