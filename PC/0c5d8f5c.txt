@@ -1,0 +1,2197 @@
+
+	Exporting Animations:
+		Size 7400            Henchman_Aim_Round_Corner_Left_2216.hop
+		Size 1300            Henchman_Aim_Round_Corner_Left_Idle_2222.hop
+		Size 7444            Henchman_Aim_Round_Corner_Left_Stepback_2223.hop
+		Size 8624            Henchman_Aim_Round_Corner_Right_2217.hop
+		Size 1292            Henchman_Aim_Round_Corner_Right_Idle_2224.hop
+		Size 8764            Henchman_Aim_Round_Corner_Right_Stepback_2225.hop
+		Size 1836            Henchman_Aim_Sniper_Kneel_2277.hop
+		Size 1512            Henchman_Aim_Sniper_Standing_2276.hop
+		Size 4460            Henchman_Aim_Stand_to_kneel_2279.anm
+		Size 6956            Henchman_Crouched_Run_2239.hop
+		Size 1436            Henchman_Cuffed_Idle_2238.hop
+		Size 15140           Henchman_damage_explosion_heavy_2282.hop
+		Size 17856           Tubbs_Idle_Look_9098.anm
+		Size 1292            Henchman_damage_explosion_heavy_dead_2286.hop
+		Size 15636           Henchman_damage_explosion_light_2283.hop
+		Size 1292            Henchman_damage_explosion_light_dead_2285.hop
+		Size 17916           Henchman_damage_explosion_light_getup_2284.hop
+		Size 11792           Henchman_Damage_head_2220.hop
+		Size 10248           Henchman_Damage_Low_2270.hop
+		Size 1308            Henchman_Dead_2218.hop
+		Size 1360            Henchman_Dead_2266.hop
+		Size 13204           Henchman_Die_2206.hop
+		Size 12636           Henchman_Die_2265.hop
+		Size 14552           Henchman_die_back_2275.hop
+		Size 19228           Henchman_die_balcony_backward_hit_2287.hop
+		Size 4788            Henchman_die_balcony_forward_fall_2291.hop
+		Size 21888           Henchman_die_balcony_forward_hit_2292.hop
+		Size 5880            Henchman_die_balcony_forward_land_2290.hop
+		Size 3512            Henchman_die_fall_backwards_fall_2294.hop
+		Size 10884           Henchman_die_fall_backwards_hit_2295.hop
+		Size 3560            Henchman_die_fall_backwards_land_2293.hop
+		Size 12480           Henchman_die_fall_forward_2272.hop
+		Size 1300            Henchman_die_fall_forward_fall_2273.hop
+		Size 73876           Crockett_Walk_Run_9081.anm
+		Size 87944           Tubbs_Walk_Run_9082.anm
+		Size 4444            Henchman_die_fall_forward_land_2271.hop
+		Size 11908           Crockett_Idle_Look_9083.anm
+		Size 19384           Henchman_die_fall_to_knees_2274.hop
+		Size 19364           Henchman_dive_roll_left_2228.hop
+		Size 17996           Henchman_dive_roll_right_2227.hop
+		Size 6576            Henchman_extended_idle_2219.hop
+		Size 2380            Henchman_Fire_Sniper_rifle_2278.hop
+		Size 23384           Henchman_getting_cuffed_2234.hop
+		Size 7700            Henchman_Hands_Up_2235.hop
+		Size 2648            Henchman_Hands_Up_Idle_2236.hop
+		Size 7632            Henchman_Hands_Up_Pull_Gun_2237.hop
+		Size 2572            Henchman_Idle_2200.hop
+		Size 3592            Henchman_idle_against_wall_2226.hop
+		Size 6532            Henchman_Kick_Door_2229.hop
+		Size 3596            Henchman_Kneel_2203.hop
+		Size 5308            Henchman_Kneel_aim_to_stand_2281.anm
+		Size 1304            Henchman_Kneel_Idle_2204.hop
+		Size 3676            Henchman_Kneel_Stand_2205.hop
+		Size 7040            Henchman_Run_2201.hop
+		Size 5492            Henchman_Sidestep_Left_2207.hop
+		Size 6744            Henchman_Sidestep_Right_2208.hop
+		Size 5084            henchman_solo_arrested_2240.hop
+		Size 1940            Henchman_solo_arrested_idle_2241.hop
+		Size 4512            Henchman_Strafe_Backward_2209.hop
+		Size 4956            Henchman_Strafe_Forward_2210.hop
+		Size 5072            Henchman_Strafe_Left_2211.hop
+		Size 5088            Henchman_Strafe_Right_2212.hop
+		Size 3440            Henchman_Upperbody_Aim_Rifle_2253.anm
+		Size 3540            Henchman_Upperbody_Aim_Shotgun_2260.anm
+		Size 1864            Henchman_Upperbody_Aim_Uzi_2215.anm
+		Size 5888            Henchman_Upperbody_Damage_2264.anm
+		Size 1732            henchman_upperbody_Fire_Rifle_2252.anm
+		Size 2688            Henchman_Upperbody_Fire_Shotgun_2261.anm
+		Size 1832            Henchman_Upperbody_Fire_Uzi_2213.anm
+		Size 4092            Henchman_Upperbody_Hold_Rifle_2259.anm
+		Size 3308            Henchman_Upperbody_Hold_Shotgun_2263.anm
+		Size 6876            Henchman_Upperbody_look_2221.anm
+		Size 6876            Henchman_Upperbody_look_2231.anm
+		Size 11816           Henchman_Upperbody_Reload_Rifle_2251.anm
+		Size 7840            Henchman_Upperbody_Reload_Shotgun_2262.anm
+		Size 8744            Henchman_Upperbody_Reload_Uzi_2214.anm
+		Size 7140            Henchman_Walk_2202.hop
+		Size 21676           Tubbs_Explosion_9312.anm
+		Size 26640           Crockett_Explosion_9313.anm
+		Size 1864            Henchman_Upperbody_Hold_Uzi_2256.anm
+		Size 33048           Tubbs_getup_9344.anm
+		Size 24708           Crockett_getup_9345.anm
+		Size 38896           Crockett_getout_car_9355.anm
+		Size 34644           Tubbs_9356.anm
+		Size 2804            daytona_9357.anm
+		Size 47032           crockett_open_gate_9358.anm
+		Size 46044           Tubbs_9359.anm
+		Size 8520            Henchman_Idle_Smoking_2296.hop
+		Size 22452           Henchman_Die_Knees_2421.hop
+		Size 1348            Henchman_Die_Knees_Dead_2422.hop
+
+		Total Anim Size:    (990 k) (1013872 bytes)
+
+	Exporting Sound FX:
+		SFX Size 348184      nChannels 1       Frequency 22050       16 Bit          0049.wav
+		SFX Size 199144      nChannels 1       Frequency 22050       16 Bit          0048.wav
+		SFX Size 20044       nChannels 1       Frequency 22050       16 Bit          daytona door open.wav
+		SFX Size 12364       nChannels 1       Frequency 22050       16 Bit          daytona door close.wav
+		SFX Size 46864       nChannels 1       Frequency 22050       16 Bit          corvette door open.wav
+		SFX Size 8344        nChannels 1       Frequency 22050       16 Bit          corvette door close.wav
+		SFX Size 485164      nChannels 1       Frequency 22050       8 Bit           building fire exterior 11sec.wav
+		SFX Size 132304      nChannels 1       Frequency 22050       8 Bit           police siren 3sec.wav
+		SFX Size 264484      nChannels 1       Frequency 22050       8 Bit           phone ring b.wav
+		SFX Size 128524      nChannels 1       Frequency 22050       8 Bit           explosion.wav
+
+		Total Sound Size:    (1606 k) (1645420 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (8 k) (8304 bytes)
+			Hull: Chop_Shop:
+				Asset Tree: nLeaves 13, nBranches 11: (2 k) (2428 bytes)
+				StaticInstances 98: (12 k) (12544 bytes)
+				DynamicInstances 5: (0 k) (980 bytes)
+				Bone, Morph, AnimInstance Data 98: (11 k) (11748 bytes)
+				StaticLights 3: (0 k) (144 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 4: (0 k) (688 bytes)
+
+				TotalSize: (27 k) (28588 bytes)
+
+			Hull: Storage:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 6: (1 k) (1176 bytes)
+				Bone, Morph, AnimInstance Data 0: (26 k) (27072 bytes)
+
+				TotalSize: (27 k) (28340 bytes)
+
+			Hull: apartment entrance:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 15: (1 k) (1920 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 15: (0 k) (0 bytes)
+				StaticLights 2: (0 k) (96 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (2 k) (2368 bytes)
+
+			Hull: road_4_2:
+				Asset Tree: nLeaves 22, nBranches 18: (3 k) (4040 bytes)
+				StaticInstances 205: (25 k) (26240 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 205: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (29 k) (30336 bytes)
+
+			Hull: road_4_3:
+				Asset Tree: nLeaves 6, nBranches 6: (1 k) (1224 bytes)
+				StaticInstances 89: (11 k) (11392 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 89: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 1: (0 k) (172 bytes)
+
+				TotalSize: (12 k) (12844 bytes)
+
+			Hull: road_4:
+				Asset Tree: nLeaves 11, nBranches 9: (1 k) (2020 bytes)
+				StaticInstances 87: (10 k) (11136 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 87: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (12 k) (13212 bytes)
+
+			Hull: apartment main:
+				Asset Tree: nLeaves 32, nBranches 44: (7 k) (7872 bytes)
+				StaticInstances 472: (59 k) (60416 bytes)
+				DynamicInstances 3: (0 k) (588 bytes)
+				Bone, Morph, AnimInstance Data 472: (4 k) (4512 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (71 k) (73444 bytes)
+
+			Hull: road_5_A:
+				Asset Tree: nLeaves 7, nBranches 4: (1 k) (1092 bytes)
+				StaticInstances 61: (7 k) (7808 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 61: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (8 k) (8956 bytes)
+
+			Hull: lounge2:
+				Asset Tree: nLeaves 10, nBranches 11: (2 k) (2152 bytes)
+				StaticInstances 102: (12 k) (13056 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 102: (0 k) (0 bytes)
+				StaticLights 2: (0 k) (96 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (15 k) (15360 bytes)
+
+			Hull: lounge3:
+				Asset Tree: nLeaves 11, nBranches 16: (2 k) (2804 bytes)
+				StaticInstances 113: (14 k) (14464 bytes)
+				DynamicInstances 2: (0 k) (392 bytes)
+				Bone, Morph, AnimInstance Data 113: (4 k) (4512 bytes)
+				StaticLights 2: (0 k) (96 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (21 k) (22324 bytes)
+
+			Hull: apartment_balcony:
+				Asset Tree: nLeaves 7, nBranches 7: (1 k) (1428 bytes)
+				StaticInstances 78: (9 k) (9984 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 78: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (11 k) (11544 bytes)
+
+			Hull: road 6:
+				Asset Tree: nLeaves 46, nBranches 31: (7 k) (7704 bytes)
+				StaticInstances 409: (51 k) (52352 bytes)
+				DynamicInstances 3: (0 k) (588 bytes)
+				Bone, Morph, AnimInstance Data 409: (12 k) (12476 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 2: (0 k) (152 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 1: (0 k) (172 bytes)
+				DynamicSFX 4: (0 k) (544 bytes)
+
+				TotalSize: (72 k) (74608 bytes)
+
+			Hull: road 7:
+				Asset Tree: nLeaves 14, nBranches 10: (2 k) (2408 bytes)
+				StaticInstances 155: (19 k) (19840 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 155: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (21 k) (22304 bytes)
+
+			Hull: parking lott:
+				Asset Tree: nLeaves 23, nBranches 19: (4 k) (4244 bytes)
+				StaticInstances 218: (27 k) (27904 bytes)
+				DynamicInstances 5: (0 k) (980 bytes)
+				Bone, Morph, AnimInstance Data 218: (11 k) (11748 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 17: (2 k) (2924 bytes)
+				DynamicSFX 1: (0 k) (136 bytes)
+
+				TotalSize: (46 k) (48068 bytes)
+
+			Hull: garage:
+				Asset Tree: nLeaves 18, nBranches 14: (3 k) (3224 bytes)
+				StaticInstances 140: (17 k) (17920 bytes)
+				DynamicInstances 4: (0 k) (784 bytes)
+				Bone, Morph, AnimInstance Data 140: (15 k) (16260 bytes)
+				StaticLights 2: (0 k) (96 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 2: (0 k) (344 bytes)
+
+				TotalSize: (37 k) (38684 bytes)
+
+			Hull: road front corner:
+				Asset Tree: nLeaves 17, nBranches 11: (2 k) (2796 bytes)
+				StaticInstances 127: (15 k) (16256 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 127: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (18 k) (19108 bytes)
+
+			Hull: road 23:
+				Asset Tree: nLeaves 27, nBranches 16: (4 k) (4276 bytes)
+				StaticInstances 228: (28 k) (29184 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 228: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (32 k) (33516 bytes)
+
+			Hull: garage2:
+				Asset Tree: nLeaves 2, nBranches 3: (0 k) (520 bytes)
+				StaticInstances 25: (3 k) (3200 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 25: (0 k) (0 bytes)
+				StaticLights 1: (0 k) (48 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (3 k) (3824 bytes)
+
+			Hull: garage3:
+				Asset Tree: nLeaves 23, nBranches 22: (4 k) (4580 bytes)
+				StaticInstances 219: (27 k) (28032 bytes)
+				DynamicInstances 3: (0 k) (588 bytes)
+				Bone, Morph, AnimInstance Data 219: (8 k) (9024 bytes)
+				StaticLights 3: (0 k) (144 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 2: (0 k) (344 bytes)
+
+				TotalSize: (41 k) (42768 bytes)
+
+			Hull: garage4:
+				Asset Tree: nLeaves 11, nBranches 8: (1 k) (1908 bytes)
+				StaticInstances 93: (11 k) (11904 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 93: (0 k) (0 bytes)
+				StaticLights 2: (0 k) (96 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 2: (0 k) (344 bytes)
+
+				TotalSize: (13 k) (14308 bytes)
+
+			Hull: parking view:
+				Asset Tree: nLeaves 1, nBranches 2: (0 k) (316 bytes)
+				StaticInstances 13: (1 k) (1664 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 13: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (1 k) (2036 bytes)
+
+			Hull: garage office22:
+				Asset Tree: nLeaves 3, nBranches 4: (0 k) (724 bytes)
+				StaticInstances 13: (1 k) (1664 bytes)
+				DynamicInstances 8: (1 k) (1568 bytes)
+				Bone, Morph, AnimInstance Data 13: (11 k) (11748 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 2: (0 k) (152 bytes)
+				StaticLights 1: (0 k) (48 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 6: (1 k) (1032 bytes)
+				DynamicSFX 1: (0 k) (136 bytes)
+
+				TotalSize: (18 k) (19300 bytes)
+
+			Hull: road only middlefront:
+				Asset Tree: nLeaves 14, nBranches 20: (3 k) (3528 bytes)
+				StaticInstances 185: (23 k) (23680 bytes)
+				DynamicInstances 2: (0 k) (392 bytes)
+				Bone, Morph, AnimInstance Data 185: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (27 k) (27656 bytes)
+
+			Hull: beach Hull:
+				Asset Tree: nLeaves 14, nBranches 16: (3 k) (3080 bytes)
+				StaticInstances 338: (42 k) (43264 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 338: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (45 k) (46400 bytes)
+
+			Hull: skydome Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 2: (0 k) (256 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 2: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (0 k) (404 bytes)
+
+			Hull: carpark_Hull:
+				Asset Tree: nLeaves 5, nBranches 5: (0 k) (1020 bytes)
+				StaticInstances 46: (5 k) (5888 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 46: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				DynamicSFX 1: (0 k) (136 bytes)
+
+				TotalSize: (6 k) (7100 bytes)
+
+			Hull: side_street:
+				Asset Tree: nLeaves 7, nBranches 6: (1 k) (1316 bytes)
+				StaticInstances 76: (9 k) (9728 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 76: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (10 k) (11100 bytes)
+
+			Hull: Street End Hull:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 12: (1 k) (1536 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 12: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (1 k) (1888 bytes)
+
+			Hull: apartment pool:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 12: (1 k) (1536 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 12: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (1 k) (1888 bytes)
+
+			Hull: Apart Minor A Hull:
+				Asset Tree: nLeaves 1, nBranches 1: (0 k) (204 bytes)
+				StaticInstances 10: (1 k) (1280 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 10: (0 k) (0 bytes)
+
+				TotalSize: (1 k) (1484 bytes)
+
+			Hull: Apart Minor B Hull:
+				Asset Tree: nLeaves 1, nBranches 2: (0 k) (316 bytes)
+				StaticInstances 11: (1 k) (1408 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 11: (0 k) (0 bytes)
+
+				TotalSize: (1 k) (1724 bytes)
+
+			Hull: Apart Minor C Hull:
+				Asset Tree: nLeaves 1, nBranches 1: (0 k) (204 bytes)
+				StaticInstances 10: (1 k) (1280 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 10: (0 k) (0 bytes)
+
+				TotalSize: (1 k) (1484 bytes)
+
+			Hull: Apart Minor D Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 5: (0 k) (640 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 5: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (732 bytes)
+
+			Hull: Apart Minor E Hull:
+				Asset Tree: nLeaves 1, nBranches 2: (0 k) (316 bytes)
+				StaticInstances 10: (1 k) (1280 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 10: (0 k) (0 bytes)
+
+				TotalSize: (1 k) (1596 bytes)
+
+			Hull: office inner Hull:
+				Asset Tree: nLeaves 21, nBranches 25: (4 k) (4732 bytes)
+				StaticInstances 221: (27 k) (28288 bytes)
+				DynamicInstances 5: (0 k) (980 bytes)
+				Bone, Morph, AnimInstance Data 221: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+				StaticLights 6: (0 k) (288 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (33 k) (34420 bytes)
+
+			Hull: garage_shaft:
+				Asset Tree: nLeaves 9, nBranches 7: (1 k) (1612 bytes)
+				StaticInstances 72: (9 k) (9216 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 72: (0 k) (0 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 3: (0 k) (204 bytes)
+				StaticAABBTriggers 1: (0 k) (52 bytes)
+				DynamicAABBTriggers 6: (0 k) (456 bytes)
+				StaticLights 2: (0 k) (96 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 2: (0 k) (344 bytes)
+
+				TotalSize: (11 k) (12036 bytes)
+
+			Hull: Chop_Shop B:
+				Asset Tree: nLeaves 17, nBranches 21: (3 k) (3916 bytes)
+				StaticInstances 101: (12 k) (12928 bytes)
+				DynamicInstances 5: (0 k) (980 bytes)
+				Bone, Morph, AnimInstance Data 101: (11 k) (11748 bytes)
+				StaticAABBTriggers 1: (0 k) (52 bytes)
+				DynamicAABBTriggers 9: (0 k) (684 bytes)
+				StaticLights 3: (0 k) (144 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 76: (12 k) (13072 bytes)
+				StaticSFX 5: (0 k) (540 bytes)
+
+				TotalSize: (43 k) (44120 bytes)
+
+			Hull: garage_shaft B:
+				Asset Tree: nLeaves 9, nBranches 10: (1 k) (1948 bytes)
+				StaticInstances 74: (9 k) (9472 bytes)
+				DynamicInstances 2: (0 k) (392 bytes)
+				Bone, Morph, AnimInstance Data 74: (8 k) (9024 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 3: (0 k) (204 bytes)
+				StaticAABBTriggers 2: (0 k) (104 bytes)
+				DynamicAABBTriggers 9: (0 k) (684 bytes)
+				StaticLights 2: (0 k) (96 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 15: (2 k) (2580 bytes)
+				StaticSFX 1: (0 k) (108 bytes)
+
+				TotalSize: (24 k) (24668 bytes)
+
+			Hull: garage office22 B:
+				Asset Tree: nLeaves 3, nBranches 5: (0 k) (836 bytes)
+				StaticInstances 16: (2 k) (2048 bytes)
+				DynamicInstances 2: (0 k) (392 bytes)
+				Bone, Morph, AnimInstance Data 16: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+				StaticLights 1: (0 k) (48 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 12: (2 k) (2064 bytes)
+				DynamicSFX 2: (0 k) (272 bytes)
+
+				TotalSize: (5 k) (5792 bytes)
+
+			Hull: garage B:
+				Asset Tree: nLeaves 17, nBranches 26: (4 k) (4476 bytes)
+				StaticInstances 143: (17 k) (18304 bytes)
+				DynamicInstances 6: (1 k) (1176 bytes)
+				Bone, Morph, AnimInstance Data 143: (20 k) (20772 bytes)
+				StaticAABBTriggers 1: (0 k) (52 bytes)
+				DynamicAABBTriggers 5: (0 k) (380 bytes)
+				StaticLights 3: (0 k) (144 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 49: (8 k) (8428 bytes)
+				StaticSFX 6: (0 k) (648 bytes)
+
+				TotalSize: (62 k) (63764 bytes)
+
+			Hull: garage4 B:
+				Asset Tree: nLeaves 11, nBranches 13: (2 k) (2468 bytes)
+				StaticInstances 96: (12 k) (12288 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 96: (4 k) (4512 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 3: (0 k) (228 bytes)
+				StaticLights 2: (0 k) (96 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 29: (4 k) (4988 bytes)
+
+				TotalSize: (27 k) (28368 bytes)
+
+			Hull: office inner Hull B:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 7: (0 k) (896 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 7: (0 k) (0 bytes)
+				StaticLights 6: (0 k) (288 bytes)
+
+				TotalSize: (1 k) (1276 bytes)
+
+			Hull: garage3 B:
+				Asset Tree: nLeaves 25, nBranches 31: (5 k) (5772 bytes)
+				StaticInstances 216: (27 k) (27648 bytes)
+				DynamicInstances 4: (0 k) (784 bytes)
+				Bone, Morph, AnimInstance Data 216: (13 k) (13536 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 3: (0 k) (228 bytes)
+				StaticLights 4: (0 k) (192 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 33: (5 k) (5676 bytes)
+				StaticSFX 3: (0 k) (324 bytes)
+
+				TotalSize: (52 k) (54216 bytes)
+
+			Hull: garage2 B:
+				Asset Tree: nLeaves 4, nBranches 7: (1 k) (1152 bytes)
+				StaticInstances 26: (3 k) (3328 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 26: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+				StaticLights 1: (0 k) (48 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 9: (1 k) (1548 bytes)
+				StaticSFX 1: (0 k) (108 bytes)
+
+				TotalSize: (6 k) (6316 bytes)
+
+			Hull: parking lott B:
+				Asset Tree: nLeaves 22, nBranches 18: (3 k) (4040 bytes)
+				StaticInstances 218: (27 k) (27904 bytes)
+				DynamicInstances 8: (1 k) (1568 bytes)
+				Bone, Morph, AnimInstance Data 218: (26 k) (27072 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (59 k) (60716 bytes)
+
+		Size Of Asset Tree                     data (981      k) (1004988      bytes) - Save Game (15       k) (15892       bytes)
+		Size Of Points And Point Group         data (0        k) (840          bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (30       k) (31148        bytes) - Save Game (0        k) (220         bytes)
+		Size Of Process Object                 data (10       k) (10440        bytes) - Save Game (1        k) (1160        bytes)
+		Size Of Portal Data                    data (11       k) (11484        bytes) - Save Game (0        k) (424         bytes)
+		Size Of Nav Mesh                       data (163      k) (167516       bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (1        k) (1792         bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (18       k) (19084        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (7        k) (7704         bytes) - Save Game (5        k) (5568        bytes)
+		Size Of Animation Banks                data (14       k) (15332        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		120 User Data elements
+		23 User Data Pointer Fixups
+		Sizeof user data (4 k) (4960 bytes)
+
+
+		Total size in PUB (1253 k) (1283812 bytes)
+
+
+		Editor Assets Save Game Size (22 k) (23264 bytes)
+		User Data Save Game Size (0 k) (704 bytes)
+		Save Game Total size (23 k) (23968 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: 02_apartment
+			Texture: beach_wall_cream
+			Texture: mv_herring_brick
+			Texture: chop_apartdoor
+
+		Geometry: 03_apartment_lounge
+			Texture: beach_wall_cream
+
+		Geometry: 03_garage_A
+			Texture: beach_wall_cream
+			Texture: floor1
+
+		Geometry: 03_garage_B
+			Texture: beach_wall_cream
+			Texture: floor1
+
+		Geometry: 04_road
+			Texture: beach_wall_cream
+			Texture: chop_road02
+			Texture: chop_paving
+			Texture: mv_herring_brick
+			Texture: chop_wall_cream
+
+		Geometry: 05_road_A
+			Texture: beach_wall_cream
+			Texture: chop_road02
+			Texture: chop_paving
+
+		Geometry: 06_road
+			Texture: beach_wall_cream
+			Texture: chop_road02
+			Texture: chop_paving
+
+		Geometry: 07_parking
+			Texture: beach_wall_cream
+			Texture: chop_road02
+			Texture: chop_wall_cream
+
+		Geometry: 08_street_out
+			Texture: beach_wall_cream
+			Texture: chop_road02
+			Texture: chop_paving
+
+		Geometry: Juan_Henchman_01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody01
+			Texture: mv_gs_generic_trou02
+			Texture: mv_gs_gen_suitarm01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gsuitvest02
+
+		Geometry: key
+			Texture: key
+
+		Geometry: 02_apartment_entrance
+			Texture: beach_wall_cream
+			Texture: mv_herring_brick
+
+		Geometry: 04_3road
+			Texture: beach_wall_cream
+			Texture: chop_road02
+			Texture: chop_paving
+
+		Geometry: 04_2road
+			Texture: beach_wall_cream
+			Texture: chop_road02
+			Texture: chop_wall_cream
+			Texture: chop_paving
+
+		Geometry: 03_apartment_lounge2
+			Texture: beach_wall_cream
+			Texture: blue_carp
+			Texture: chop_apartdoor
+
+		Geometry: 03_apartment_lounge3
+			Texture: beach_wall_cream
+			Texture: pink_carp
+			Texture: chop_apartdoor
+
+		Geometry: PalmTree_base
+			Texture: gal_palmbark
+			Texture: gal_palmtop
+
+		Geometry: 05_road_A3
+			Texture: beach_wall_cream
+			Texture: chop_road02
+			Texture: chop_paving
+
+		Geometry: 05_road_A2
+			Texture: beach_wall_cream
+			Texture: chop_road02
+			Texture: chop_paving
+
+		Geometry: 05_road_A23
+			Texture: beach_wall_cream
+			Texture: chop_road02
+			Texture: chop_paving
+
+		Geometry: 03_garage_A4
+			Texture: beach_wall_cream
+			Texture: floor1
+
+		Geometry: 03_garage_A2
+			Texture: beach_wall_cream
+			Texture: floor1
+
+		Geometry: 03_garage_A3
+			Texture: beach_wall_cream
+			Texture: floor1
+
+		Geometry: 03_garage_B22
+			Texture: beach_wall_cream
+			Texture: floor1
+
+		Geometry: Tubbs_Body5
+			Texture: separatetrou
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod2
+			Texture: mv_gs_tubbs_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbshand01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbs_chest01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbsface04
+			Texture: mv_gs_tubbs_shirt01
+			Texture: testshader01
+			Texture: newshoe
+			Texture: testshader01
+			Texture: mv_gs_tubbsface04
+			Texture: skin_spec_02
+			Texture: tubbs_mouth_teeth
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: mv_gs_tubbs_shirt01
+			Texture: mv_gs_tubbs_new_alha_e3
+
+		Geometry: chevron_white
+			Texture: chevron_white
+
+		Geometry: beach_beach
+			Texture: beach_sand
+			Texture: beach_grass
+			Texture: mv_beach_cliff03
+
+		Geometry: chop_beach path
+			Texture: chop_paving
+
+		Geometry: chop sea
+			Texture: chop_sea
+
+		Geometry: chop foam
+			Texture: sea_foam
+
+		Geometry: skydome chopshop
+			Texture: skydome
+
+		Geometry: choplampost
+			Texture: chop_lampost
+
+		Geometry: chop_carpark
+			Texture: beach_wall_cream
+			Texture: chop_road02
+
+		Geometry: chop_barrier
+			Texture: chop_barrier
+
+		Geometry: chop_palm
+			Texture: chop_palm
+
+		Geometry: saloon_body
+			Texture: whitebits
+			Texture: spec2
+
+		Geometry: saloon_chrome
+			Texture: whitebits
+			Texture: spec2pale
+
+		Geometry: saloon_glassunder
+			Texture: as_black_railgallery
+			Texture: licenseplate
+			Texture: grille1
+			Texture: spec2
+			Texture: whitebits
+			Texture: lights
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_windows
+			Texture: spec2pale
+
+		Geometry: wheel
+			Texture: wheel
+
+		Geometry: chop_poster
+			Texture: chop_poster
+
+		Geometry: chop_cafewindow
+			Texture: chop_cafewindow
+
+		Geometry: chop_awning
+			Texture: chop_awning
+
+		Geometry: chop_parasol
+			Texture: chop_parasol
+
+		Geometry: chop_parapole
+			Texture: chop_parasol
+
+		Geometry: chop_chair
+			Texture: chop_noisegrad
+			Texture: chop_slats
+
+		Geometry: chop_table
+			Texture: chop_noisegrad
+			Texture: chop_parasol
+			Texture: chop_slats
+
+		Geometry: Crockett_skin_2
+			Texture: mv_jb_crockhandsb
+			Texture: skin_spec_02
+			Texture: mv_jb_crockshoe02
+			Texture: mv_jb_crockarm02
+			Texture: skin_spec_02
+			Texture: eyebl1
+			Texture: testshader01
+			Texture: mv_jb_crockshoe02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_jb_crockt02b
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_crocktrews2b
+			Texture: subtlespec
+			Texture: mv_jb_crockholster
+			Texture: reflect_shiny_stripe_add
+			Texture: crock15b
+			Texture: skin_spec_02
+			Texture: mouth_teeth1
+			Texture: mv_jb_crockholster
+			Texture: spec2
+			Texture: mv_jb_crockglassb1
+			Texture: crock_hairb
+			Texture: skin_spec_02
+			Texture: crock_hairb
+			Texture: mv_jb_crockglassb1
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: chop_lowerwall
+			Texture: beach_wall_cream
+
+		Geometry: chop_balcL
+			Texture: beach_wall_cream
+			Texture: chop_wind01
+
+		Geometry: chop_balcR
+			Texture: beach_wall_cream
+			Texture: chop_wind01
+
+		Geometry: chop_cent
+			Texture: beach_wall_cream
+
+		Geometry: chop_roofB
+			Texture: beach_wall_cream
+
+		Geometry: Chop_sidestreet
+			Texture: chop_road02
+			Texture: chop_paving
+
+		Geometry: chop_shopsA
+			Texture: chop_shops
+
+		Geometry: chop_shopsB
+			Texture: chop_shops
+
+		Geometry: chop_shopsC
+			Texture: chop_shops
+
+		Geometry: 09_road
+			Texture: beach_wall_cream
+			Texture: chop_road02
+
+		Geometry: chop_flatwindow
+			Texture: beach_wall_cream
+			Texture: pink_carp
+
+		Geometry: chop_pool
+			Texture: beach_wall_cream
+			Texture: chop_pooltiles
+			Texture: chop_wall_cream
+			Texture: mv_herring_brick
+
+		Geometry: Chop_hotel sign
+			Texture: beach_wall_cream
+			Texture: chop_neon01
+
+		Geometry: chop_lowerwallsh
+			Texture: beach_wall_cream
+
+		Geometry: chop_upperwallC
+			Texture: beach_wall_cream
+			Texture: chop_wind01
+
+		Geometry: chop_upperwallB
+			Texture: beach_wall_cream
+
+		Geometry: Chop_Hfacade
+			Texture: beach_wall_cream
+
+		Geometry: chop_upperwallD
+			Texture: beach_wall_cream
+			Texture: chop_wind04
+
+		Geometry: chop_railing
+			Texture: beach_wall_cream
+
+		Geometry: chop_steps
+			Texture: beach_wall_cream
+
+		Geometry: chop_beds
+			Texture: white_noise_dirt
+			Texture: mv_beach_cliff03
+
+		Geometry: chop_cheese
+			Texture: chop_cheese
+			Texture: chop_cheese
+
+		Geometry: chop_neon01
+			Texture: chop_neon011
+
+		Geometry: chop_neon02
+			Texture: chop_neon011
+
+		Geometry: chop_neon03
+			Texture: chop_neon011
+
+		Geometry: chop_neon04
+			Texture: chop_neon011
+
+		Geometry: chop_neon05
+			Texture: chop_neon011
+
+		Geometry: chop_neon06
+			Texture: chop_neon011
+
+		Geometry: chop_neon07
+			Texture: chop_neon011
+
+		Geometry: chop_dump
+			Texture: chop_dumpster
+
+		Geometry: chop_dumpLid
+			Texture: chop_dumpster
+
+		Geometry: Card_smallbox_open
+			Texture: cardboard
+
+		Geometry: card_smallbox_closed
+			Texture: cardboard
+
+		Geometry: chop_refuse
+			Texture: osama bin liner
+
+		Geometry: mesh_railing
+			Texture: as_mesh_fence_post
+			Texture: railing
+
+		Geometry: chop_neonstrip
+			Texture: chop_neon02
+
+		Geometry: chop_door01
+			Texture: chop_wind03
+
+		Geometry: chop_upperwallE
+			Texture: beach_wall_cream
+			Texture: chop_wind05
+
+		Geometry: chop_lowwind
+			Texture: chop_wind06
+
+		Geometry: chop_neon13
+			Texture: chop_neon03
+
+		Geometry: chop_neon08
+			Texture: chop_neon03
+
+		Geometry: chop_neon09
+			Texture: chop_neon03
+
+		Geometry: chop_neon10
+			Texture: chop_neon03
+
+		Geometry: chop_neon11
+			Texture: chop_neon03
+
+		Geometry: chop_neon12
+			Texture: chop_neon03
+
+		Geometry: chop_varibrick
+			Texture: chop_wall_cream
+
+		Geometry: gmc_black_solid
+			Texture: bdoor
+			Texture: spec1
+			Texture: bside
+			Texture: spec1
+			Texture: bbonnet
+			Texture: spec1
+			Texture: wheels
+			Texture: bfront_n_rear_inset
+			Texture: spec1
+			Texture: bmiddle_inset
+			Texture: spec1
+			Texture: bfront_side_wing
+			Texture: spec1
+			Texture: broofs
+			Texture: spec1
+			Texture: bwheel_arches
+			Texture: spec1
+			Texture: almost_black
+			Texture: grille
+			Texture: light_top
+			Texture: light_bottom
+			Texture: spec1
+			Texture: grillmount22
+			Texture: bumper
+			Texture: brear_lights
+			Texture: spec1
+			Texture: bside
+			Texture: spec1
+			Texture: 00_ld_mv_daytona_windows
+			Texture: chop_winref
+
+		Geometry: mesh_gate
+			Texture: as_mesh_fence_post
+			Texture: railing
+
+		Geometry: Manhole
+			Texture: manhole_quater
+
+		Geometry: metal_walkway_noside
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: metalcorner
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: metalstep
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: Esprit
+			Texture: 32x_generic
+			Texture: spec2
+
+		Geometry: Esprit_trim
+			Texture: grille1
+			Texture: spec2
+			Texture: red_lights
+			Texture: spec2
+			Texture: as_black_railgallery
+			Texture: as_duct_greyleft_basement
+			Texture: 00_ld_mv_daytona_chrome
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_windows
+			Texture: chop_winref
+
+		Geometry: mustang
+			Texture: 32x_generic
+			Texture: spec2
+
+		Geometry: mustang_trim
+			Texture: grille1
+			Texture: spec2
+			Texture: red_lights
+			Texture: spec2
+			Texture: as_black_railgallery
+			Texture: as_duct_greyleft_basement
+			Texture: 00_ld_mv_daytona_chrome
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_windows
+			Texture: chop_winref
+
+		Geometry: Porsche911
+			Texture: 32x_generic
+			Texture: spec2
+
+		Geometry: Porsche_trim
+			Texture: grille1
+			Texture: spec2
+			Texture: red_lights
+			Texture: spec2
+			Texture: as_black_railgallery
+			Texture: as_duct_greyleft_basement
+			Texture: 00_ld_mv_daytona_chrome
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_windows
+			Texture: spec2pale
+
+		Geometry: sports_wheel
+			Texture: wheelporsche
+			Texture: wheel
+
+		Geometry: metal_support
+			Texture: metal_pipe
+
+		Geometry: shadow_generic
+			Texture: shadow2
+
+		Geometry: chop_autoramp
+			Texture: metal
+
+		Geometry: Metal_Post
+			Texture: metal_pipe
+
+		Geometry: Tool_chest
+			Texture: toolchest
+
+		Geometry: chop_Garwin01
+			Texture: beach_wall_cream
+
+		Geometry: orange_light
+			Texture: warning_light_orange
+			Texture: warning_light_orange
+			Texture: as_black_railgallery
+
+		Geometry: StripLight_hung
+			Texture: floor1
+			Texture: wire
+			Texture: whitealpha8x8
+			Texture: as_light_cover
+
+		Geometry: lightrays
+			Texture: downlight
+
+		Geometry: dirt
+			Texture: dirt
+
+		Geometry: exhaust_pipe_bend
+			Texture: metal_pipe
+
+		Geometry: exhaust_pipe_long
+			Texture: metal_pipe
+
+		Geometry: metal_walkway
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: metalrail
+			Texture: metal_pipe
+
+		Geometry: Desk_DarkWood
+			Texture: deskwood2
+
+		Geometry: Leather_chair
+			Texture: leather_office
+
+		Geometry: filing_cabinet_large
+			Texture: filing_cabinet
+
+		Geometry: Cabinet_drawer
+			Texture: filing_cabinet
+
+		Geometry: ledger_green
+			Texture: filing_cabinet
+
+		Geometry: ledger_brown
+			Texture: filing_cabinet
+
+		Geometry: Toilet
+			Texture: toilet
+
+		Geometry: Mopbucket
+			Texture: metal_horiz_tile
+			Texture: as_black_railgallery1
+			Texture: tin_metal
+			Texture: gal_soil_dry01
+
+		Geometry: melamine_panel
+			Texture: container
+			Texture: doorlock2
+
+		Geometry: panel_foot
+			Texture: container
+
+		Geometry: Chop_officeInner
+			Texture: beach_wall_cream
+			Texture: floor1
+			Texture: blue_carp
+
+		Geometry: chop_patchB
+			Texture: chop_patchb
+
+		Geometry: chop_drain
+			Texture: chop_drain
+
+		Geometry: chop_patchA
+			Texture: chop_patcha
+
+		Geometry: AirCon2
+			Texture: air_con2
+
+		Geometry: Couch_2seater
+			Texture: leather1
+
+		Geometry: Bed_White
+			Texture: redwood
+			Texture: bedwhite1
+
+		Geometry: chop_blinds
+			Texture: beach_wall_cream
+
+		Geometry: BigTV
+			Texture: tv_carcass
+			Texture: tv_screen
+			Texture: spec2
+
+		Geometry: chop_pane
+			Texture: beach_white_rail
+			Texture: chop_winref
+
+		Geometry: tool_board
+			Texture: tool_board
+
+		Geometry: oxy_gauge
+			Texture: oxygauge
+
+		Geometry: oxy_tank
+			Texture: oxytank
+			Texture: spec2
+
+		Geometry: Uplighter
+			Texture: uplighter_metal
+			Texture: uplighter_glass
+
+		Geometry: glass_table
+			Texture: glasstable
+
+		Geometry: chop_lilly
+			Texture: chop_lilly
+
+		Geometry: chop_skirting
+			Texture: beach_wall_cream
+
+		Geometry: chop_sepiaB
+			Texture: chop_sepia
+
+		Geometry: chop_sepiaA
+			Texture: chop_sepia
+
+		Geometry: plain_chair
+			Texture: brief_chair
+
+		Geometry: Door_chopApart
+			Texture: chop_apartdoor
+			Texture: chop_plate
+
+		Geometry: chop_shaft
+			Texture: beach_wall_cream
+			Texture: floor1
+
+		Geometry: Door_chopApartB
+			Texture: chop_apartdoorb
+			Texture: chop_plate
+
+		Geometry: Phone_Main
+			Texture: phone_black
+
+		Geometry: Phone_handset
+			Texture: phone_black
+
+		Geometry: chop_wires
+			Texture: chop_road02
+
+		Geometry: chevron_curve
+			Texture: chevron_white
+
+		Geometry: Door_chopGate
+			Texture: chop_gate
+
+		Geometry: BScorch1
+			Texture: scorch1
+
+		Geometry: Cargo_ship_worker02
+			Texture: mv_gs_boiler_suit_trou
+			Texture: mv_gs_genericshoe03
+			Texture: mv_gs_boiler_suit_glove
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_full_arm03w
+			Texture: skin_spec_02
+			Texture: mv_gs_boiler_suit_sleave
+			Texture: mv_gs_boiler_suit_body
+			Texture: mv_gs_tshirt
+
+		Geometry: Juan_Henchman_05
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody04
+			Texture: mv_gs_generic_trou01
+			Texture: mv_gs_gen_suitarm04
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_sleavless04
+
+		Geometry: Juan_Henchman_02
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody02
+			Texture: mv_jbgs_gentrou3
+			Texture: mv_gs_gen_suitarm02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gsuitvesto_04
+
+		Geometry: Juan_Henchman_03
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gshirtbody09
+			Texture: mv_jbgs_gentrou4
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+
+		Geometry: Juan_Henchman_04
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody05
+			Texture: mv_gs_generic_trou05
+			Texture: mv_gs_gen_suitarm05
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gshirtfront03
+
+		Geometry: daytona
+			Texture: 00_ld_mv_daytona_body
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_wheels
+			Texture: 00_ld_mv_daytona_interiortan
+			Texture: 00_ld_mv_daytona_lights2
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_black_leather
+			Texture: 00_ld_mv_daytona_lights
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_chrome
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_windows
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_spokes
+
+		Geometry: hanger_main_door
+			Texture: hanger_door
+
+		Geometry: waterdamage
+			Texture: waterdamage
+
+		Geometry: movement_collision_box
+			Texture: as_black_railgallery
+
+		Geometry: Camera_collision_box
+			Texture: as_black_railgallery
+
+		Geometry: metalstep_end
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: metalstep_start
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: FirstAid
+			Texture: FAB
+
+		Geometry: CBcable
+			Texture: cbcable
+
+
+	Texture -> Geometry Association:
+		Texture: smokey
+
+		Texture: foam_particle
+
+		Texture: smoke1
+
+		Texture: flame3
+
+		Texture: Light1
+
+		Texture: beach_wall_cream
+			Geometry: 02_apartment
+			Geometry: 03_apartment_lounge
+			Geometry: 03_garage_A
+			Geometry: 03_garage_B
+			Geometry: 04_road
+			Geometry: 05_road_A
+			Geometry: 06_road
+			Geometry: 07_parking
+			Geometry: 08_street_out
+			Geometry: 02_apartment_entrance
+			Geometry: 04_3road
+			Geometry: 04_2road
+			Geometry: 03_apartment_lounge2
+			Geometry: 03_apartment_lounge3
+			Geometry: 05_road_A3
+			Geometry: 05_road_A2
+			Geometry: 05_road_A23
+			Geometry: 03_garage_A4
+			Geometry: 03_garage_A2
+			Geometry: 03_garage_A3
+			Geometry: 03_garage_B22
+			Geometry: chop_carpark
+			Geometry: chop_lowerwall
+			Geometry: chop_balcL
+			Geometry: chop_balcR
+			Geometry: chop_cent
+			Geometry: chop_roofB
+			Geometry: 09_road
+			Geometry: chop_flatwindow
+			Geometry: chop_pool
+			Geometry: Chop_hotel sign
+			Geometry: chop_lowerwallsh
+			Geometry: chop_upperwallC
+			Geometry: chop_upperwallB
+			Geometry: Chop_Hfacade
+			Geometry: chop_upperwallD
+			Geometry: chop_railing
+			Geometry: chop_steps
+			Geometry: chop_upperwallE
+			Geometry: chop_Garwin01
+			Geometry: Chop_officeInner
+			Geometry: chop_blinds
+			Geometry: chop_skirting
+			Geometry: chop_shaft
+
+		Texture: mv_herring_brick
+			Geometry: 02_apartment
+			Geometry: 04_road
+			Geometry: 02_apartment_entrance
+			Geometry: chop_pool
+
+		Texture: chop_apartdoor
+			Geometry: 02_apartment
+			Geometry: 03_apartment_lounge2
+			Geometry: 03_apartment_lounge3
+			Geometry: Door_chopApart
+
+		Texture: floor1
+			Geometry: 03_garage_A
+			Geometry: 03_garage_B
+			Geometry: 03_garage_A4
+			Geometry: 03_garage_A2
+			Geometry: 03_garage_A3
+			Geometry: 03_garage_B22
+			Geometry: StripLight_hung
+			Geometry: Chop_officeInner
+			Geometry: chop_shaft
+
+		Texture: chop_wall_cream
+			Geometry: 04_road
+			Geometry: 07_parking
+			Geometry: 04_2road
+			Geometry: chop_pool
+			Geometry: chop_varibrick
+
+		Texture: chop_road02
+			Geometry: 04_road
+			Geometry: 05_road_A
+			Geometry: 06_road
+			Geometry: 07_parking
+			Geometry: 08_street_out
+			Geometry: 04_3road
+			Geometry: 04_2road
+			Geometry: 05_road_A3
+			Geometry: 05_road_A2
+			Geometry: 05_road_A23
+			Geometry: chop_carpark
+			Geometry: Chop_sidestreet
+			Geometry: 09_road
+			Geometry: chop_wires
+
+		Texture: chop_paving
+			Geometry: 04_road
+			Geometry: 05_road_A
+			Geometry: 06_road
+			Geometry: 08_street_out
+			Geometry: 04_3road
+			Geometry: 04_2road
+			Geometry: 05_road_A3
+			Geometry: 05_road_A2
+			Geometry: 05_road_A23
+			Geometry: chop_beach path
+			Geometry: Chop_sidestreet
+
+		Texture: mv_gs_generic_neck1w
+			Geometry: Juan_Henchman_01
+			Geometry: Cargo_ship_worker02
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_03
+			Geometry: Juan_Henchman_04
+
+		Texture: skin_spec_02
+			Geometry: Juan_Henchman_01
+			Geometry: Tubbs_Body5
+			Geometry: Crockett_skin_2
+			Geometry: Cargo_ship_worker02
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_03
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gen_suitbody01
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_generic_trou02
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_gen_suitarm01
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_03
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_genericshoe01
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_03
+			Geometry: Juan_Henchman_04
+
+		Texture: testshader01
+			Geometry: Juan_Henchman_01
+			Geometry: Tubbs_Body5
+			Geometry: Crockett_skin_2
+			Geometry: Juan_Henchman_05
+			Geometry: Juan_Henchman_02
+			Geometry: Juan_Henchman_03
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gsuitvest02
+			Geometry: Juan_Henchman_01
+
+		Texture: key
+			Geometry: key
+
+		Texture: blue_carp
+			Geometry: 03_apartment_lounge2
+			Geometry: Chop_officeInner
+
+		Texture: pink_carp
+			Geometry: 03_apartment_lounge3
+			Geometry: chop_flatwindow
+
+		Texture: gal_palmbark
+			Geometry: PalmTree_base
+
+		Texture: gal_palmtop
+			Geometry: PalmTree_base
+
+		Texture: separatetrou
+			Geometry: Tubbs_Body5
+
+		Texture: crok_vest_spec_01
+			Geometry: Tubbs_Body5
+			Geometry: Crockett_skin_2
+
+		Texture: mv_gs_tubbsface04
+			Geometry: Tubbs_Body5
+
+		Texture: tubbs_mouth_teeth
+			Geometry: Tubbs_Body5
+
+		Texture: eye_dkbrown
+			Geometry: Tubbs_Body5
+
+		Texture: newshoe
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_new_alha_e3
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_shirt01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chest01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chain01
+			Geometry: Tubbs_Body5
+
+		Texture: reflect_shiny_stripe_mod2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitbody01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitarm01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbshand01
+			Geometry: Tubbs_Body5
+
+		Texture: spec1
+			Geometry: gmc_black_solid
+
+		Texture: mouth_teeth1
+			Geometry: Crockett_skin_2
+
+		Texture: spec2
+			Geometry: saloon_body
+			Geometry: saloon_glassunder
+			Geometry: Crockett_skin_2
+			Geometry: Esprit
+			Geometry: Esprit_trim
+			Geometry: mustang
+			Geometry: mustang_trim
+			Geometry: Porsche911
+			Geometry: Porsche_trim
+			Geometry: BigTV
+			Geometry: oxy_tank
+			Geometry: daytona
+
+		Texture: chevron_white
+			Geometry: chevron_white
+			Geometry: chevron_curve
+
+		Texture: beach_sand
+			Geometry: beach_beach
+
+		Texture: beach_grass
+			Geometry: beach_beach
+
+		Texture: mv_beach_cliff03
+			Geometry: beach_beach
+			Geometry: chop_beds
+
+		Texture: chop_sea
+			Geometry: chop sea
+
+		Texture: sea_foam
+			Geometry: chop foam
+
+		Texture: skydome
+			Geometry: skydome chopshop
+
+		Texture: chop_lampost
+			Geometry: choplampost
+
+		Texture: chop_barrier
+			Geometry: chop_barrier
+
+		Texture: chop_palm
+			Geometry: chop_palm
+
+		Texture: whitebits
+			Geometry: saloon_body
+			Geometry: saloon_chrome
+			Geometry: saloon_glassunder
+
+		Texture: spec2pale
+			Geometry: saloon_chrome
+			Geometry: saloon_glassunder
+			Geometry: Porsche_trim
+
+		Texture: as_black_railgallery
+			Geometry: saloon_glassunder
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+			Geometry: Porsche_trim
+			Geometry: orange_light
+			Geometry: movement_collision_box
+			Geometry: Camera_collision_box
+
+		Texture: lights
+			Geometry: saloon_glassunder
+
+		Texture: 00_ld_mv_daytona_windows
+			Geometry: saloon_glassunder
+			Geometry: gmc_black_solid
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+			Geometry: Porsche_trim
+			Geometry: daytona
+
+		Texture: licenseplate
+			Geometry: saloon_glassunder
+
+		Texture: grille1
+			Geometry: saloon_glassunder
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+			Geometry: Porsche_trim
+
+		Texture: wheel
+			Geometry: wheel
+			Geometry: sports_wheel
+
+		Texture: chop_poster
+			Geometry: chop_poster
+
+		Texture: chop_cafewindow
+			Geometry: chop_cafewindow
+
+		Texture: chop_awning
+			Geometry: chop_awning
+
+		Texture: chop_parasol
+			Geometry: chop_parasol
+			Geometry: chop_parapole
+			Geometry: chop_table
+
+		Texture: chop_noisegrad
+			Geometry: chop_chair
+			Geometry: chop_table
+
+		Texture: chop_slats
+			Geometry: chop_chair
+			Geometry: chop_table
+
+		Texture: mv_jb_crockhandsb
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockholster
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockglassb1
+			Geometry: Crockett_skin_2
+
+		Texture: crock_hairb
+			Geometry: Crockett_skin_2
+
+		Texture: crock15b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crocktrews2b
+			Geometry: Crockett_skin_2
+
+		Texture: subtlespec
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockt02b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockarm02
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockshoe02
+			Geometry: Crockett_skin_2
+
+		Texture: eyebl1
+			Geometry: Crockett_skin_2
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Crockett_skin_2
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Crockett_skin_2
+
+		Texture: chop_wind01
+			Geometry: chop_balcL
+			Geometry: chop_balcR
+			Geometry: chop_upperwallC
+
+		Texture: chop_shops
+			Geometry: chop_shopsA
+			Geometry: chop_shopsB
+			Geometry: chop_shopsC
+
+		Texture: chop_pooltiles
+			Geometry: chop_pool
+
+		Texture: chop_neon01
+			Geometry: Chop_hotel sign
+
+		Texture: chop_wind04
+			Geometry: chop_upperwallD
+
+		Texture: white_noise_dirt
+			Geometry: chop_beds
+
+		Texture: chop_cheese
+			Geometry: chop_cheese
+
+		Texture: chop_neon011
+			Geometry: chop_neon01
+			Geometry: chop_neon02
+			Geometry: chop_neon03
+			Geometry: chop_neon04
+			Geometry: chop_neon05
+			Geometry: chop_neon06
+			Geometry: chop_neon07
+
+		Texture: chop_dumpster
+			Geometry: chop_dump
+			Geometry: chop_dumpLid
+
+		Texture: cardboard
+			Geometry: Card_smallbox_open
+			Geometry: card_smallbox_closed
+
+		Texture: osama bin liner
+			Geometry: chop_refuse
+
+		Texture: as_mesh_fence_post
+			Geometry: mesh_railing
+			Geometry: mesh_gate
+
+		Texture: railing
+			Geometry: mesh_railing
+			Geometry: mesh_gate
+
+		Texture: chop_neon02
+			Geometry: chop_neonstrip
+
+		Texture: chop_wind03
+			Geometry: chop_door01
+
+		Texture: chop_wind05
+			Geometry: chop_upperwallE
+
+		Texture: chop_wind06
+			Geometry: chop_lowwind
+
+		Texture: chop_neon03
+			Geometry: chop_neon13
+			Geometry: chop_neon08
+			Geometry: chop_neon09
+			Geometry: chop_neon10
+			Geometry: chop_neon11
+			Geometry: chop_neon12
+
+		Texture: bdoor
+			Geometry: gmc_black_solid
+
+		Texture: bside
+			Geometry: gmc_black_solid
+
+		Texture: bbonnet
+			Geometry: gmc_black_solid
+
+		Texture: wheels
+			Geometry: gmc_black_solid
+
+		Texture: bfront_n_rear_inset
+			Geometry: gmc_black_solid
+
+		Texture: bmiddle_inset
+			Geometry: gmc_black_solid
+
+		Texture: bfront_side_wing
+			Geometry: gmc_black_solid
+
+		Texture: broofs
+			Geometry: gmc_black_solid
+
+		Texture: bwheel_arches
+			Geometry: gmc_black_solid
+
+		Texture: almost_black
+			Geometry: gmc_black_solid
+
+		Texture: grille
+			Geometry: gmc_black_solid
+
+		Texture: light_top
+			Geometry: gmc_black_solid
+
+		Texture: light_bottom
+			Geometry: gmc_black_solid
+
+		Texture: grillmount22
+			Geometry: gmc_black_solid
+
+		Texture: bumper
+			Geometry: gmc_black_solid
+
+		Texture: brear_lights
+			Geometry: gmc_black_solid
+
+		Texture: chop_winref
+			Geometry: gmc_black_solid
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+			Geometry: chop_pane
+
+		Texture: manhole_quater
+			Geometry: Manhole
+
+		Texture: metal
+			Geometry: metal_walkway_noside
+			Geometry: metalcorner
+			Geometry: metalstep
+			Geometry: chop_autoramp
+			Geometry: metal_walkway
+			Geometry: metalstep_end
+			Geometry: metalstep_start
+
+		Texture: metal_pipe
+			Geometry: metal_walkway_noside
+			Geometry: metalcorner
+			Geometry: metalstep
+			Geometry: metal_support
+			Geometry: Metal_Post
+			Geometry: exhaust_pipe_bend
+			Geometry: exhaust_pipe_long
+			Geometry: metal_walkway
+			Geometry: metalrail
+			Geometry: metalstep_end
+			Geometry: metalstep_start
+
+		Texture: 32x_generic
+			Geometry: Esprit
+			Geometry: mustang
+			Geometry: Porsche911
+
+		Texture: 00_ld_mv_daytona_chrome
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+			Geometry: Porsche_trim
+			Geometry: daytona
+
+		Texture: red_lights
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+			Geometry: Porsche_trim
+
+		Texture: as_duct_greyleft_basement
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+			Geometry: Porsche_trim
+
+		Texture: wheelporsche
+			Geometry: sports_wheel
+
+		Texture: shadow2
+			Geometry: shadow_generic
+
+		Texture: toolchest
+			Geometry: Tool_chest
+
+		Texture: warning_light_orange
+			Geometry: orange_light
+
+		Texture: as_light_cover
+			Geometry: StripLight_hung
+
+		Texture: wire
+			Geometry: StripLight_hung
+
+		Texture: whitealpha8x8
+			Geometry: StripLight_hung
+
+		Texture: downlight
+			Geometry: lightrays
+
+		Texture: dirt
+			Geometry: dirt
+
+		Texture: deskwood2
+			Geometry: Desk_DarkWood
+
+		Texture: leather_office
+			Geometry: Leather_chair
+
+		Texture: filing_cabinet
+			Geometry: filing_cabinet_large
+			Geometry: Cabinet_drawer
+			Geometry: ledger_green
+			Geometry: ledger_brown
+
+		Texture: toilet
+			Geometry: Toilet
+
+		Texture: metal_horiz_tile
+			Geometry: Mopbucket
+
+		Texture: as_black_railgallery1
+			Geometry: Mopbucket
+
+		Texture: tin_metal
+			Geometry: Mopbucket
+
+		Texture: gal_soil_dry01
+			Geometry: Mopbucket
+
+		Texture: container
+			Geometry: melamine_panel
+			Geometry: panel_foot
+
+		Texture: doorlock2
+			Geometry: melamine_panel
+
+		Texture: chop_patchb
+			Geometry: chop_patchB
+
+		Texture: chop_drain
+			Geometry: chop_drain
+
+		Texture: chop_patcha
+			Geometry: chop_patchA
+
+		Texture: air_con2
+			Geometry: AirCon2
+
+		Texture: leather1
+			Geometry: Couch_2seater
+
+		Texture: redwood
+			Geometry: Bed_White
+
+		Texture: bedwhite1
+			Geometry: Bed_White
+
+		Texture: tv_carcass
+			Geometry: BigTV
+
+		Texture: tv_screen
+			Geometry: BigTV
+
+		Texture: beach_white_rail
+			Geometry: chop_pane
+
+		Texture: tool_board
+			Geometry: tool_board
+
+		Texture: oxygauge
+			Geometry: oxy_gauge
+
+		Texture: oxytank
+			Geometry: oxy_tank
+
+		Texture: uplighter_glass
+			Geometry: Uplighter
+
+		Texture: uplighter_metal
+			Geometry: Uplighter
+
+		Texture: glasstable
+			Geometry: glass_table
+
+		Texture: chop_lilly
+			Geometry: chop_lilly
+
+		Texture: chop_sepia
+			Geometry: chop_sepiaB
+			Geometry: chop_sepiaA
+
+		Texture: brief_chair
+			Geometry: plain_chair
+
+		Texture: chop_plate
+			Geometry: Door_chopApart
+			Geometry: Door_chopApartB
+
+		Texture: chop_apartdoorb
+			Geometry: Door_chopApartB
+
+		Texture: phone_black
+			Geometry: Phone_Main
+			Geometry: Phone_handset
+
+		Texture: chop_gate
+			Geometry: Door_chopGate
+
+		Texture: scorch1
+			Geometry: BScorch1
+
+		Texture: mv_gs_boiler_suit_trou
+			Geometry: Cargo_ship_worker02
+
+		Texture: mv_gs_genericshoe03
+			Geometry: Cargo_ship_worker02
+
+		Texture: mv_gs_boiler_suit_glove
+			Geometry: Cargo_ship_worker02
+
+		Texture: mv_gs_generic_full_arm03w
+			Geometry: Cargo_ship_worker02
+
+		Texture: mv_gs_boiler_suit_sleave
+			Geometry: Cargo_ship_worker02
+
+		Texture: mv_gs_boiler_suit_body
+			Geometry: Cargo_ship_worker02
+
+		Texture: mv_gs_tshirt
+			Geometry: Cargo_ship_worker02
+
+		Texture: mv_gs_gen_suitbody04
+			Geometry: Juan_Henchman_05
+
+		Texture: mv_gs_generic_trou01
+			Geometry: Juan_Henchman_05
+
+		Texture: mv_gs_gen_suitarm04
+			Geometry: Juan_Henchman_05
+
+		Texture: mv_gs_sleavless04
+			Geometry: Juan_Henchman_05
+
+		Texture: mv_gs_gen_suitbody02
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_jbgs_gentrou3
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_gen_suitarm02
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_gsuitvesto_04
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_gshirtbody09
+			Geometry: Juan_Henchman_03
+
+		Texture: mv_jbgs_gentrou4
+			Geometry: Juan_Henchman_03
+
+		Texture: mv_gs_generic_full_arm02w
+			Geometry: Juan_Henchman_03
+
+		Texture: mv_gs_gen_suitbody05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_generic_trou05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gen_suitarm05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gshirtfront03
+			Geometry: Juan_Henchman_04
+
+		Texture: 00_ld_mv_daytona_body
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_black_leather
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_lights
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_lights2
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_interiortan
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_wheels
+			Geometry: daytona
+
+		Texture: 00_ld_mv_daytona_spokes
+			Geometry: daytona
+
+		Texture: hanger_door
+			Geometry: hanger_main_door
+
+		Texture: waterdamage
+			Geometry: waterdamage
+
+		Texture: FAB
+			Geometry: FirstAid
+
+		Texture: cbcable
+			Geometry: CBcable
+

@@ -1,0 +1,93 @@
+
+	Exporting Animations:
+		Size 6856            Cower_down_3009.anm
+		Size 12824           Cower_getup_3011.anm
+		Size 2880            Cower_idle_3010.anm
+		Size 13196           Idle_3004.anm
+		Size 3952            Lie_3006.anm
+		Size 10676           Lie_getup_3005.anm
+		Size 10012           Run_3001.anm
+		Size 2912            Sit_3007.anm
+		Size 12128           Stand_up_3008.anm
+		Size 13596           WAlk_3003.anm
+
+		Total Anim Size:    (86 k) (89032 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (4 k) (4864 bytes)
+
+				TotalSize: (5 k) (5152 bytes)
+
+		Size Of Asset Tree                     data (5        k) (5152         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (356          bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (5 k) (6028 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Bikini_red01
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_bikinitop02f
+			Texture: reflect_shiny_stripeh_add
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_leg01f
+			Texture: skin_spec_02
+			Texture: bikini_briefs01
+			Texture: reflect_shiny_stripeh_add
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_genericwhand01
+			Geometry: Bikini_red01
+
+		Texture: skin_spec_02
+			Geometry: Bikini_red01
+
+		Texture: mv_gs_generic_bikinitop02f
+			Geometry: Bikini_red01
+
+		Texture: reflect_shiny_stripeh_add
+			Geometry: Bikini_red01
+
+		Texture: mv_gs_generic_full_arm01w
+			Geometry: Bikini_red01
+
+		Texture: mv_gs_generic_body01f
+			Geometry: Bikini_red01
+
+		Texture: mv_gs_generic_leg01f
+			Geometry: Bikini_red01
+
+		Texture: bikini_briefs01
+			Geometry: Bikini_red01
+

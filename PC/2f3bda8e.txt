@@ -1,0 +1,254 @@
+
+	Exporting Animations:
+		Size 6856            Cower_down_3009.anm
+		Size 12824           Cower_getup_3011.anm
+		Size 2880            Cower_idle_3010.anm
+		Size 13196           Idle_3004.anm
+		Size 3952            Lie_3006.anm
+		Size 10676           Lie_getup_3005.anm
+		Size 10012           Run_3001.anm
+		Size 2912            Sit_3007.anm
+		Size 12128           Stand_up_3008.anm
+		Size 13596           WAlk_3003.anm
+
+		Total Anim Size:    (86 k) (89032 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 6: (1 k) (1176 bytes)
+				Bone, Morph, AnimInstance Data 1: (28 k) (29184 bytes)
+
+				TotalSize: (29 k) (30580 bytes)
+
+		Size Of Asset Tree                     data (29       k) (30580        bytes) - Save Game (0        k) (264         bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (1        k) (1996         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		6 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (120 bytes)
+
+
+		Total size in PUB (32 k) (33196 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (264 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (264 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Bikini_Yellow01
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_bikinitop05f
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_foot01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_leg01f
+			Texture: skin_spec_02
+			Texture: bikini_briefs06
+			Texture: crok_vest_spec_01
+
+		Geometry: Bikini_Green01B
+			Texture: mv_gs_genericwhand01b
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_bikinitop04f
+			Texture: assasin_spec_01
+			Texture: mv_gs_generic_full_arm01b
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_foot01fb
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_body01fb
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_leg01fb
+			Texture: skin_spec_02
+			Texture: bikini_briefs04
+			Texture: assasin_spec_01
+
+		Geometry: Bikini_red01
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_bikinitop02f
+			Texture: reflect_shiny_stripeh_add
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_leg01f
+			Texture: skin_spec_02
+			Texture: bikini_briefs01
+			Texture: reflect_shiny_stripeh_add
+
+		Geometry: Bikini_Tiger01B
+			Texture: mv_gs_genericwhand01b
+			Texture: skin_spec_02
+			Texture: bikini_briefs05
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_generic_full_arm01b
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_foot01fb
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_body01fb
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_leg01fb
+			Texture: skin_spec_02
+
+		Geometry: Bikini_tiger
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: bikini_briefs03
+			Texture: assasin_spec_01
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_foot01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_leg01f
+			Texture: skin_spec_02
+
+		Geometry: Bikini_Turquoise01
+			Texture: mv_gs_genericwhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_bikinitop03f
+			Texture: assasin_spec_01
+			Texture: mv_gs_generic_full_arm01w
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_foot01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_body01f
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_leg01f
+			Texture: skin_spec_02
+			Texture: bikini_briefs02
+			Texture: assasin_spec_01
+
+		Geometry: Mesh_base
+			Texture: as_artfoyer_floor
+			Texture: reflect_shiny_stripesub_add
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_genericwhand01
+			Geometry: Bikini_Yellow01
+			Geometry: Bikini_red01
+			Geometry: Bikini_tiger
+			Geometry: Bikini_Turquoise01
+
+		Texture: skin_spec_02
+			Geometry: Bikini_Yellow01
+			Geometry: Bikini_Green01B
+			Geometry: Bikini_red01
+			Geometry: Bikini_Tiger01B
+			Geometry: Bikini_tiger
+			Geometry: Bikini_Turquoise01
+
+		Texture: mv_gs_generic_bikinitop05f
+			Geometry: Bikini_Yellow01
+
+		Texture: crok_vest_spec_01
+			Geometry: Bikini_Yellow01
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_generic_full_arm01w
+			Geometry: Bikini_Yellow01
+			Geometry: Bikini_red01
+			Geometry: Bikini_tiger
+			Geometry: Bikini_Turquoise01
+
+		Texture: mv_gs_generic_foot01f
+			Geometry: Bikini_Yellow01
+			Geometry: Bikini_tiger
+			Geometry: Bikini_Turquoise01
+
+		Texture: mv_gs_generic_body01f
+			Geometry: Bikini_Yellow01
+			Geometry: Bikini_red01
+			Geometry: Bikini_tiger
+			Geometry: Bikini_Turquoise01
+
+		Texture: mv_gs_generic_leg01f
+			Geometry: Bikini_Yellow01
+			Geometry: Bikini_red01
+			Geometry: Bikini_tiger
+			Geometry: Bikini_Turquoise01
+
+		Texture: bikini_briefs06
+			Geometry: Bikini_Yellow01
+
+		Texture: mv_gs_generic_bikinitop03f
+			Geometry: Bikini_Turquoise01
+
+		Texture: bikini_briefs02
+			Geometry: Bikini_Turquoise01
+
+		Texture: mv_gs_genericwhand01b
+			Geometry: Bikini_Green01B
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_generic_bikinitop04f
+			Geometry: Bikini_Green01B
+
+		Texture: assasin_spec_01
+			Geometry: Bikini_Green01B
+			Geometry: Bikini_tiger
+			Geometry: Bikini_Turquoise01
+
+		Texture: mv_gs_generic_full_arm01b
+			Geometry: Bikini_Green01B
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_generic_foot01fb
+			Geometry: Bikini_Green01B
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_generic_body01fb
+			Geometry: Bikini_Green01B
+			Geometry: Bikini_Tiger01B
+
+		Texture: mv_gs_generic_leg01fb
+			Geometry: Bikini_Green01B
+			Geometry: Bikini_Tiger01B
+
+		Texture: bikini_briefs04
+			Geometry: Bikini_Green01B
+
+		Texture: mv_gs_generic_bikinitop02f
+			Geometry: Bikini_red01
+
+		Texture: reflect_shiny_stripeh_add
+			Geometry: Bikini_red01
+
+		Texture: bikini_briefs01
+			Geometry: Bikini_red01
+
+		Texture: bikini_briefs05
+			Geometry: Bikini_Tiger01B
+
+		Texture: bikini_briefs03
+			Geometry: Bikini_tiger
+
+		Texture: as_artfoyer_floor
+			Geometry: Mesh_base
+
+		Texture: reflect_shiny_stripesub_add
+			Geometry: Mesh_base
+
