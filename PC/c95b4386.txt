@@ -1,0 +1,247 @@
+
+	Exporting Animations:
+		Size 7400            Henchman_Aim_Round_Corner_Left_2216.hop
+		Size 1300            Henchman_Aim_Round_Corner_Left_Idle_2222.hop
+		Size 7444            Henchman_Aim_Round_Corner_Left_Stepback_2223.hop
+		Size 8624            Henchman_Aim_Round_Corner_Right_2217.hop
+		Size 1292            Henchman_Aim_Round_Corner_Right_Idle_2224.hop
+		Size 8764            Henchman_Aim_Round_Corner_Right_Stepback_2225.hop
+		Size 1836            Henchman_Aim_Sniper_Kneel_2277.hop
+		Size 1512            Henchman_Aim_Sniper_Standing_2276.hop
+		Size 4460            Henchman_Aim_Stand_to_kneel_2279.anm
+		Size 6956            Henchman_Crouched_Run_2239.hop
+		Size 1436            Henchman_Cuffed_Idle_2238.hop
+		Size 15140           Henchman_damage_explosion_heavy_2282.hop
+		Size 1292            Henchman_damage_explosion_heavy_dead_2286.hop
+		Size 15636           Henchman_damage_explosion_light_2283.hop
+		Size 1292            Henchman_damage_explosion_light_dead_2285.hop
+		Size 17916           Henchman_damage_explosion_light_getup_2284.hop
+		Size 11792           Henchman_Damage_head_2220.hop
+		Size 10248           Henchman_Damage_Low_2270.hop
+		Size 1308            Henchman_Dead_2218.hop
+		Size 1360            Henchman_Dead_2266.hop
+		Size 13204           Henchman_Die_2206.hop
+		Size 12636           Henchman_Die_2265.hop
+		Size 14552           Henchman_die_back_2275.hop
+		Size 5060            Henchman_die_balcony_backward_fall_2288.hop
+		Size 19228           Henchman_die_balcony_backward_hit_2287.hop
+		Size 7356            Henchman_die_balcony_backward_land_2289.hop
+		Size 4788            Henchman_die_balcony_forward_fall_2291.hop
+		Size 21888           Henchman_die_balcony_forward_hit_2292.hop
+		Size 5880            Henchman_die_balcony_forward_land_2290.hop
+		Size 3512            Henchman_die_fall_backwards_fall_2294.hop
+		Size 10884           Henchman_die_fall_backwards_hit_2295.hop
+		Size 3560            Henchman_die_fall_backwards_land_2293.hop
+		Size 12480           Henchman_die_fall_forward_2272.hop
+		Size 1300            Henchman_die_fall_forward_fall_2273.hop
+		Size 4444            Henchman_die_fall_forward_land_2271.hop
+		Size 19384           Henchman_die_fall_to_knees_2274.hop
+		Size 18336           Henchman_Dive_For_Cover_2304.hop
+		Size 19364           Henchman_dive_roll_left_2228.hop
+		Size 17996           Henchman_dive_roll_right_2227.hop
+		Size 6576            Henchman_extended_idle_2219.hop
+		Size 2380            Henchman_Fire_Sniper_rifle_2278.hop
+		Size 23384           Henchman_getting_cuffed_2234.hop
+		Size 7700            Henchman_Hands_Up_2235.hop
+		Size 2648            Henchman_Hands_Up_Idle_2236.hop
+		Size 7632            Henchman_Hands_Up_Pull_Gun_2237.hop
+		Size 2572            Henchman_Idle_2200.hop
+		Size 3592            Henchman_idle_against_wall_2226.hop
+		Size 3564            Henchman_idle_sitting_asleep_2301.hop
+		Size 14092           Henchman_idle_sitting_asleep_wakeup_2302.hop
+		Size 1764            Henchman_Idle_Sitting_Desk_2300.hop
+		Size 8520            Henchman_Idle_Smoking_2296.hop
+		Size 10880           Henchman_Idle_Smoking_Turn_Round_2297.anm
+		Size 20216           Henchman_Jump_Over_Crate_2303.hop
+		Size 6532            Henchman_Kick_Door_2229.hop
+		Size 3596            Henchman_Kneel_2203.hop
+		Size 5308            Henchman_Kneel_aim_to_stand_2281.anm
+		Size 1304            Henchman_Kneel_Idle_2204.hop
+		Size 3676            Henchman_Kneel_Stand_2205.hop
+		Size 7040            Henchman_Run_2201.hop
+		Size 5492            Henchman_Sidestep_Left_2207.hop
+		Size 6744            Henchman_Sidestep_Right_2208.hop
+		Size 23548           Henchman_Slide_Down_Ladder_2305.hop
+		Size 5084            henchman_solo_arrested_2240.hop
+		Size 1940            Henchman_solo_arrested_idle_2241.hop
+		Size 4512            Henchman_Strafe_Backward_2209.hop
+		Size 4956            Henchman_Strafe_Forward_2210.hop
+		Size 5072            Henchman_Strafe_Left_2211.hop
+		Size 5088            Henchman_Strafe_Right_2212.hop
+		Size 5340            Henchman_Straffe_idle_2307.anm
+		Size 11660           Henchman_Turn_Desk_Over_Into_Duck_2299.hop
+		Size 3440            Henchman_Upperbody_Aim_Rifle_2253.anm
+		Size 3540            Henchman_Upperbody_Aim_Shotgun_2260.anm
+		Size 1864            Henchman_Upperbody_Aim_Uzi_2215.anm
+		Size 5888            Henchman_Upperbody_Damage_2264.anm
+		Size 3272            Henchman_Upperbody_equip_2400.anm
+		Size 1732            henchman_upperbody_Fire_Rifle_2252.anm
+		Size 2688            Henchman_Upperbody_Fire_Shotgun_2261.anm
+		Size 1832            Henchman_Upperbody_Fire_Uzi_2213.anm
+		Size 4092            Henchman_Upperbody_Hold_Rifle_2259.anm
+		Size 3308            Henchman_Upperbody_Hold_Shotgun_2263.anm
+		Size 1864            Henchman_Upperbody_Hold_Uzi_2256.anm
+		Size 6876            Henchman_Upperbody_look_2221.anm
+		Size 6876            Henchman_Upperbody_look_2231.anm
+		Size 11816           Henchman_Upperbody_Reload_Rifle_2251.anm
+		Size 7840            Henchman_Upperbody_Reload_Shotgun_2262.anm
+		Size 8744            Henchman_Upperbody_Reload_Uzi_2214.anm
+		Size 3616            Henchman_Upperbody_ukequip_2401.anm
+		Size 7140            Henchman_Walk_2202.hop
+
+		Total Anim Size:    (636 k) (651700 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 2: (0 k) (392 bytes)
+				Bone, Morph, AnimInstance Data 1: (8 k) (9024 bytes)
+
+				TotalSize: (9 k) (9636 bytes)
+
+		Size Of Asset Tree                     data (9        k) (9636         bytes) - Save Game (0        k) (88          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (5        k) (5676         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		2 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (40 bytes)
+
+
+		Total size in PUB (15 k) (15852 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (88 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (88 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Assasin02
+			Texture: mv_gs_assasinshirtbody02
+			Texture: reflect_shiny_stripe_mod
+			Texture: eyebl
+			Texture: lip_spec_01
+			Texture: mv_gs_assasinface01
+			Texture: skin_spec_02
+			Texture: mouth_teeth
+			Texture: mv_gs_assasinshoe01
+			Texture: mv_gs_assasintrou01
+			Texture: assasin_spec_01
+			Texture: mv_gs_assasinshirtarm02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_assasinshirtbody02
+			Texture: mv_gs_assasinhairalpha
+
+		Geometry: Assasin01
+			Texture: mv_gs_assasinshirtbody01
+			Texture: mouth_teeth
+			Texture: eyebl
+			Texture: mv_gs_assasinface01
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02_3k
+			Texture: skin_spec_02
+			Texture: mv_gs_assasinshoe01
+			Texture: mv_gs_genericwarm01
+			Texture: skin_spec_02
+			Texture: mv_gs_assasintrou01
+			Texture: assasin_spec_01
+			Texture: mv_gs_assasinshirtarm01
+			Texture: mv_gs_assasinhairalpha
+			Texture: mv_gs_assasinglasses
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_gs_assasinglasses
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: Mesh_base
+			Texture: as_artfoyer_floor
+			Texture: reflect_shiny_stripesub_add
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_assasinshirtbody02
+			Geometry: Assasin02
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Assasin02
+			Geometry: Assasin01
+
+		Texture: mv_gs_assasinshirtarm02
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasintrou01
+			Geometry: Assasin02
+			Geometry: Assasin01
+
+		Texture: assasin_spec_01
+			Geometry: Assasin02
+			Geometry: Assasin01
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Assasin02
+
+		Texture: skin_spec_02
+			Geometry: Assasin02
+			Geometry: Assasin01
+
+		Texture: mv_gs_assasinshoe01
+			Geometry: Assasin02
+			Geometry: Assasin01
+
+		Texture: mv_gs_assasinface01
+			Geometry: Assasin02
+			Geometry: Assasin01
+
+		Texture: eyebl
+			Geometry: Assasin02
+			Geometry: Assasin01
+
+		Texture: lip_spec_01
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasinhairalpha
+			Geometry: Assasin02
+			Geometry: Assasin01
+
+		Texture: mouth_teeth
+			Geometry: Assasin02
+			Geometry: Assasin01
+
+		Texture: mv_gs_assasinshirtbody01
+			Geometry: Assasin01
+
+		Texture: mv_gs_assasinshirtarm01
+			Geometry: Assasin01
+
+		Texture: mv_gs_genericwarm01
+			Geometry: Assasin01
+
+		Texture: mv_gs_genericwhand02_3k
+			Geometry: Assasin01
+
+		Texture: mv_gs_assasinglasses
+			Geometry: Assasin01
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Assasin01
+
+		Texture: as_artfoyer_floor
+			Geometry: Mesh_base
+
+		Texture: reflect_shiny_stripesub_add
+			Geometry: Mesh_base
+

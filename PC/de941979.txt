@@ -1,0 +1,227 @@
+
+	Exporting Animations:
+		Size 15096           crockett_1meterclimb0008.hop
+		Size 18904           crockett_2meterclimb0009.hop
+		Size 6976            Crockett_Aim_Round_Corner_Left_0090.hop
+		Size 1976            Crockett_Aim_Round_Corner_Left_Idle_0091.hop
+		Size 10496           Crockett_Aim_Round_Corner_Left_Turnback_0092.hop
+		Size 6680            Crockett_Aim_Round_Corner_Right_0093.hop
+		Size 1684            Crockett_Aim_Round_Corner_Right_Idle_0094.hop
+		Size 7816            Crockett_Aim_Round_Corner_Right_Turnback_0095.hop
+		Size 19592           Crockett_being_grabbed_0121.hop
+		Size 2808            crockett_callforhelp0018.hop
+		Size 10408           Crockett_Climb_Down_Ladder_0103.hop
+		Size 10080           Crockett_Climb_Ladder_0100.hop
+		Size 6644            Crockett_Crouched_Walk_0145.hop
+		Size 5824            Crockett_Crouched_Walk_Backward_0153.hop
+		Size 16856           Crockett_die_0152.hop
+		Size 14156           Crockett_Dismount_Ladder_0101.hop
+		Size 9332            Crockett_Dismount_Ladder_bottom_0112.hop
+		Size 9204            Crockett_Extended_Idle_0113.hop
+		Size 2884            crockett_fall0007.hop
+		Size 12436           Crockett_getup_0125.hop
+		Size 10284           Crockett_Give_Item_0126.hop
+		Size 12216           Crockett_Heal_0124.hop
+		Size 11992           crockett_heavylanding0011.hop
+		Size 21380           crockett_Hit0019.anm
+		Size 3044            crockett_Idle0005.hop
+		Size 6064            Crockett_Idle_Against_Wall_0031.anm
+		Size 6580            crockett_jump0014.anm
+		Size 5580            Crockett_Kneel_Down_0050.hop
+		Size 1932            Crockett_Kneel_Fire_Uzi_0154.hop
+		Size 5512            Crockett_Kneel_Get_Up_0052.hop
+		Size 2204            Crockett_Kneel_Idle_0051.hop
+		Size 2028            Crockett_Kneel_Upperbody_fire_pistol_0156.hop
+		Size 2036            Crockett_Kneel_Upperbody_fire_rifle_0157.hop
+		Size 1928            Crockett_Kneel_Upperbody_fire_Uzi_0158.hop
+		Size 9480            crockett_lightlanding0010.hop
+		Size 36440           Crockett_Long_Jump_0039.hop
+		Size 3500            Crockett_Look_Round_Corner_Left_0027.hop
+		Size 4264            Crockett_Look_Round_Corner_Left_Idle_0028.hop
+		Size 3416            Crockett_Look_Round_Corner_Left_Turn_back_0029.hop
+		Size 4164            Crockett_Look_Round_Corner_Right_0024.hop
+		Size 3192            Crockett_Look_Round_Corner_Right_Idle_0025.hop
+		Size 4132            Crockett_Look_Round_Corner_Right_Turn_Back_0026.hop
+		Size 12924           Crockett_Manipulate_switch_0130.anm
+		Size 9148            Crockett_Mount_Ladder_0102.hop
+		Size 16104           Crockett_Mount_Ladder_Top_0110.hop
+		Size 16328           Crockett_Normal_Jump_0038.hop
+		Size 8444            crockett_open_door_0120.hop
+		Size 12016           Crockett_Open_Door_Silent_Away_0127.hop
+		Size 26448           Crockett_Open_Door_Silent_Toward_0128.hop
+		Size 12996           crockett_open_door_toward_0129.hop
+		Size 4480            Crockett_Pickup_0140.hop
+		Size 3688            Crockett_Pickup_Table_Down_1042.hop
+		Size 3884            Crockett_Pickup_Table_Up_1043.hop
+		Size 7980            Crockett_Pickup_Up_0144.hop
+		Size 8816            Crockett_Released_0123.anm
+		Size 11024           crockett_run0004.hop
+		Size 4948            Crockett_Shimmy_To_Idle_0030.hop
+		Size 1684            Crockett_Slide_ladder_0105.hop
+		Size 6712            Crockett_Slide_ladder_dismount_0107.hop
+		Size 24440           Crockett_sneaking_solo_arrest_0131.hop
+		Size 6576            Crockett_Stepdown_0013.hop
+		Size 8136            crockett_stepup0012.hop
+		Size 6216            Crockett_Strafe_Backward_0042.hop
+		Size 5860            Crockett_Strafe_Forward_0043.hop
+		Size 2280            Crockett_Strafe_Idle_0044.hop
+		Size 5084            Crockett_Strafe_Left_0040.hop
+		Size 6416            Crockett_Strafe_Right_0041.hop
+		Size 5860            Crockett_Straffe_Left_Against_Wall_0022.hop
+		Size 5396            Crockett_Straffe_Right_Against_Wall_0021.hop
+		Size 14496           Crockett_Struggle_0122.anm
+		Size 8380            Crockett_Turn_To_Wall_0020.hop
+		Size 11108           Crockett_Unarmed_Sneak_0106.hop
+		Size 2264            Crockett_Upperbody_Aim_0072.anm
+		Size 4172            Crockett_Upperbody_Aim_Rifle_0147.anm
+		Size 3400            Crockett_Upperbody_Aim_Uzi_0074.anm
+		Size 5932            Crockett_Upperbody_Damage_0141.anm
+		Size 2092            Crockett_Upperbody_Fire_0070.anm
+		Size 1844            Crockett_Upperbody_Fire_Rifle_0148.anm
+		Size 1844            Crockett_Upperbody_Fire_Uzi_0075.anm
+		Size 2464            Crockett_Upperbody_Hold_Pistol_0078.anm
+		Size 3348            Crockett_Upperbody_Hold_Rifle_0149.anm
+		Size 2104            Crockett_Upperbody_Hold_Two_Handed_0079.anm
+		Size 7052            Crockett_Upperbody_Holster_0076.anm
+		Size 5056            Crockett_Upperbody_Holster_Rifle_0155.anm
+		Size 8640            Crockett_Upperbody_Reload_0071.anm
+		Size 9820            Crockett_Upperbody_Reload_Rifle_0150.anm
+		Size 9100            Crockett_Upperbody_Reload_Uzi_0073.anm
+		Size 7024            Crockett_Upperbody_Unholster_Pistol_0146.anm
+		Size 4824            Crockett_Upperbody_Unholster_Rifle_0154.anm
+		Size 8012            crockett_walk0001.hop
+
+		Total Anim Size:    (701 k) (718084 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 1: (5 k) (5600 bytes)
+
+				TotalSize: (5 k) (6016 bytes)
+
+		Size Of Asset Tree                     data (5        k) (6016         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (5        k) (5740         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (11 k) (12276 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Crockett_skin_2
+			Texture: mv_jb_crockhandsb
+			Texture: skin_spec_02
+			Texture: mv_jb_crockshoe02
+			Texture: mv_jb_crockarm02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: testshader01
+			Texture: mv_jb_crockshoe02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_jb_crockt02b
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_crocktrews2b
+			Texture: subtlespec
+			Texture: mv_jb_crockholster
+			Texture: reflect_shiny_stripe_add
+			Texture: crock15b
+			Texture: skin_spec_02
+			Texture: mouth_teeth
+			Texture: mv_jb_crockholster
+			Texture: spec2
+			Texture: mv_jb_crockglassb
+			Texture: crock_hairb
+			Texture: skin_spec_02
+			Texture: crock_hairb
+			Texture: mv_jb_crockglassb
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: Mesh_base
+			Texture: as_artfoyer_floor
+			Texture: reflect_shiny_stripesub_add
+
+
+	Texture -> Geometry Association:
+		Texture: mv_jb_crockhandsb
+			Geometry: Crockett_skin_2
+
+		Texture: skin_spec_02
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockholster
+			Geometry: Crockett_skin_2
+
+		Texture: spec2
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockglassb
+			Geometry: Crockett_skin_2
+
+		Texture: crock_hairb
+			Geometry: Crockett_skin_2
+
+		Texture: mouth_teeth
+			Geometry: Crockett_skin_2
+
+		Texture: crock15b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crocktrews2b
+			Geometry: Crockett_skin_2
+
+		Texture: subtlespec
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockt02b
+			Geometry: Crockett_skin_2
+
+		Texture: crok_vest_spec_01
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockarm02
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockshoe02
+			Geometry: Crockett_skin_2
+
+		Texture: eyebl
+			Geometry: Crockett_skin_2
+
+		Texture: testshader01
+			Geometry: Crockett_skin_2
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Crockett_skin_2
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Crockett_skin_2
+
+		Texture: as_artfoyer_floor
+			Geometry: Mesh_base
+
+		Texture: reflect_shiny_stripesub_add
+			Geometry: Mesh_base
+
