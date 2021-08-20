@@ -1,0 +1,161 @@
+
+	Exporting Animations:
+		Size 3804            juan_aim_idle_2032.anm
+		Size 9892            Juan_Crouch_Aim_To_Down_2015.anm
+		Size 12172           Juan_Crouch_Down_2010.anm
+		Size 5704            Juan_crouch_fire_2014.anm
+		Size 10764           Juan_Crouch_Idle_2011.anm
+		Size 10176           Juan_crouch_to_aim_2013.anm
+		Size 11772           Juan_Crouch_up_2012.anm
+		Size 25372           Juan_Damage_Heavy_2027.anm
+		Size 20636           Juan_Damage_Light_2008.anm
+		Size 3048            Juan_Fire_2016.anm
+		Size 25588           Juan_Getup_2033.anm
+		Size 8700            Juan_Idle2002.anm
+		Size 6840            Juan_Idle_Damaged_2018.anm
+		Size 7088            Juan_Left_Aim_Round_Corner_2020.anm
+		Size 7980            Juan_Left_Aim_Round_Corner_Back_2021.anm
+		Size 2688            Juan_Left_Aim_Round_Corner_Fire_2023.anm
+		Size 2148            Juan_Left_Aim_Round_Corner_Idle_2022.anm
+		Size 11656           Juan_Reload_2019.anm
+		Size 8888            Juan_Right_Aim_Round_Corner_2024.anm
+		Size 9012            Juan_Right_Aim_Round_Corner_Back_2025.anm
+		Size 2440            Juan_Right_Aim_Round_Corner_Fire_2026.anm
+		Size 10580           Juan_Run_2028.anm
+		Size 11036           Juan_sidestep_left_2029.anm
+		Size 12980           Juan_sidestep_right_2030.anm
+		Size 23556           Juan_Summon_Henchman_2031.anm
+		Size 18564           Juan_Taunt_2009.anm
+		Size 17904           Juan_Turn_To_Wall_2017.anm
+		Size 11088           Juan_walk2000.anm
+		Size 7192            Juan_Straffe_Backward_2038.anm
+		Size 8412            Juan_Straffe_Forward_2037.anm
+		Size 7392            Juan_Straffe_Left_2036.anm
+		Size 8376            Juan_Straffe_Right_2035.anm
+
+		Total Anim Size:    (335 k) (343448 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: JuanHull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (6 k) (6588 bytes)
+
+				TotalSize: (6 k) (6876 bytes)
+
+		Size Of Asset Tree                     data (6        k) (6876         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (1        k) (1096         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (8 k) (8492 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Juan
+			Texture: mv_gs_juan_shirt01
+			Texture: testshader01
+			Texture: mv_gs_juan_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juan_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juanhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_juanface
+			Texture: mv_gs_juan_suittrou01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juan_chest01
+			Texture: skin_spec_02
+			Texture: eyegreenl
+			Texture: lip_spec_01
+			Texture: mv_gs_juanhair01
+			Texture: mv_gs_juanshoe01
+			Texture: lip_spec_01
+			Texture: mv_gs_juancross01
+			Texture: reflect_shiny_stripe_mod
+			Texture: mouth_teeth
+			Texture: mv_gs_juanface
+			Texture: skin_spec_02
+			Texture: mv_gs_juanhair_alpha01
+			Texture: mv_gs_juanhair_alpha02
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_juan_shirt01
+			Geometry: Juan
+
+		Texture: testshader01
+			Geometry: Juan
+
+		Texture: mv_gs_juanshoe01
+			Geometry: Juan
+
+		Texture: lip_spec_01
+			Geometry: Juan
+
+		Texture: mouth_teeth
+			Geometry: Juan
+
+		Texture: mv_gs_juancross01
+			Geometry: Juan
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Juan
+
+		Texture: mv_gs_juanface
+			Geometry: Juan
+
+		Texture: skin_spec_02
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair_alpha01
+			Geometry: Juan
+
+		Texture: eyegreenl
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suitbody01
+			Geometry: Juan
+
+		Texture: crok_vest_spec_01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suitarm01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhand01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suittrou01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_chest01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair_alpha02
+			Geometry: Juan
+

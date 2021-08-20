@@ -1,0 +1,75 @@
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 0: (4 k) (4512 bytes)
+
+				TotalSize: (4 k) (4800 bytes)
+
+		Size Of Asset Tree                     data (4        k) (4800         bytes) - Save Game (0        k) (44          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		1 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (20 bytes)
+
+
+		Total size in PUB (5 k) (5320 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (44 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (44 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: GM_white_shirt01
+			Texture: mv_gs_generic_neck1w
+			Texture: mv_gs_gshirtbody04
+			Texture: mv_jbgs_gentrou4
+			Texture: mv_gs_generic_full_arm02w
+			Texture: mv_gs_genericwhand02
+			Texture: mv_gs_genericshoe01
+			Texture: lip_spec_01
+			Texture: mv_gs_gshirtarm04s
+
+
+	Texture -> Geometry Association:
+		Texture: mv_gs_generic_neck1w
+			Geometry: GM_white_shirt01
+
+		Texture: mv_gs_gshirtbody04
+			Geometry: GM_white_shirt01
+
+		Texture: mv_jbgs_gentrou4
+			Geometry: GM_white_shirt01
+
+		Texture: mv_gs_generic_full_arm02w
+			Geometry: GM_white_shirt01
+
+		Texture: mv_gs_genericwhand02
+			Geometry: GM_white_shirt01
+
+		Texture: mv_gs_genericshoe01
+			Geometry: GM_white_shirt01
+
+		Texture: lip_spec_01
+			Geometry: GM_white_shirt01
+
+		Texture: mv_gs_gshirtarm04s
+			Geometry: GM_white_shirt01
+

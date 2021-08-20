@@ -1,0 +1,1919 @@
+
+	Exporting Animations:
+		Size 8012            Crockett_Walk0001.hop
+		Size 9316            tubbs_walk1001.hop
+		Size 22524           Tubbs_Aiming_9200.anm
+		Size 3044            Crockett_Idle0005.hop
+		Size 1740            tubbs_strafe_idle_1054.hop
+		Size 3572            tubbs_idle1005.hop
+		Size 7400            Henchman_Aim_Round_Corner_Left_2216.hop
+		Size 1300            Henchman_Aim_Round_Corner_Left_Idle_2222.hop
+		Size 7444            Henchman_Aim_Round_Corner_Left_Stepback_2223.hop
+		Size 8624            Henchman_Aim_Round_Corner_Right_2217.hop
+		Size 1292            Henchman_Aim_Round_Corner_Right_Idle_2224.hop
+		Size 8764            Henchman_Aim_Round_Corner_Right_Stepback_2225.hop
+		Size 28172           Tubbs_jump_down_9391.anm
+		Size 20236           Crockett_jump_down_9392.anm
+		Size 16032           Assasin_9393.anm
+		Size 6956            Henchman_Crouched_Run_2239.hop
+		Size 1436            Henchman_Cuffed_Idle_2238.hop
+		Size 15140           Henchman_damage_explosion_heavy_2282.hop
+		Size 1292            Henchman_damage_explosion_heavy_dead_2286.hop
+		Size 15636           Henchman_damage_explosion_light_2283.hop
+		Size 1292            Henchman_damage_explosion_light_dead_2285.hop
+		Size 17916           Henchman_damage_explosion_light_getup_2284.hop
+		Size 11792           Henchman_Damage_head_2220.hop
+		Size 10248           Henchman_Damage_Low_2270.hop
+		Size 1308            Henchman_Dead_2218.hop
+		Size 1360            Henchman_Dead_2266.hop
+		Size 13204           Henchman_Die_2206.hop
+		Size 12636           Henchman_Die_2265.hop
+		Size 14552           Henchman_die_back_2275.hop
+		Size 19228           Henchman_die_balcony_backward_hit_2287.hop
+		Size 4788            Henchman_die_balcony_forward_fall_2291.hop
+		Size 21888           Henchman_die_balcony_forward_hit_2292.hop
+		Size 5880            Henchman_die_balcony_forward_land_2290.hop
+		Size 1928            Assasin_Fire_9397.anm
+		Size 3592            Henchman_idle_against_wall_2226.hop
+		Size 4460            Henchman_Aim_Stand_to_kneel_2279.anm
+		Size 22452           Henchman_Die_Knees_2421.hop
+		Size 1348            Henchman_Die_Knees_Dead_2422.hop
+		Size 18336           Henchman_Dive_For_Cover_2304.hop
+		Size 19364           Henchman_dive_roll_left_2228.hop
+		Size 17996           Henchman_dive_roll_right_2227.hop
+		Size 6576            Henchman_extended_idle_2219.hop
+		Size 23384           Henchman_getting_cuffed_2234.hop
+		Size 150688          Sylvia_being_held_9016.anm
+		Size 126556          Ortega_holding_sylvia_9017.anm
+		Size 25028           Ortega_Die_9062.anm
+		Size 32408           Sylvia_Being_Held_9063.anm
+		Size 11272           Crockett_Check_Pulse_9061.anm
+		Size 7700            Henchman_Hands_Up_2235.hop
+		Size 2648            Henchman_Hands_Up_Idle_2236.hop
+		Size 7632            Henchman_Hands_Up_Pull_Gun_2237.hop
+		Size 2572            Henchman_Idle_2200.hop
+		Size 8520            Henchman_Idle_Smoking_2296.hop
+		Size 3596            Henchman_Kneel_2203.hop
+		Size 5308            Henchman_Kneel_aim_to_stand_2281.anm
+		Size 1304            Henchman_Kneel_Idle_2204.hop
+		Size 3676            Henchman_Kneel_Stand_2205.hop
+		Size 7040            Henchman_Run_2201.hop
+		Size 5492            Henchman_Sidestep_Left_2207.hop
+		Size 6744            Henchman_Sidestep_Right_2208.hop
+		Size 5084            henchman_solo_arrested_2240.hop
+		Size 1940            Henchman_solo_arrested_idle_2241.hop
+		Size 4512            Henchman_Strafe_Backward_2209.hop
+		Size 4956            Henchman_Strafe_Forward_2210.hop
+		Size 5072            Henchman_Strafe_Left_2211.hop
+		Size 5088            Henchman_Strafe_Right_2212.hop
+		Size 5340            Henchman_Straffe_idle_2307.anm
+		Size 3440            Henchman_Upperbody_Aim_Rifle_2253.anm
+		Size 3540            Henchman_Upperbody_Aim_Shotgun_2260.anm
+		Size 1864            Henchman_Upperbody_Aim_Uzi_2215.anm
+		Size 5888            Henchman_Upperbody_Damage_2264.anm
+		Size 1732            henchman_upperbody_Fire_Rifle_2252.anm
+		Size 2688            Henchman_Upperbody_Fire_Shotgun_2261.anm
+		Size 1832            Henchman_Upperbody_Fire_Uzi_2213.anm
+		Size 4092            Henchman_Upperbody_Hold_Rifle_2259.anm
+		Size 3308            Henchman_Upperbody_Hold_Shotgun_2263.anm
+		Size 1864            Henchman_Upperbody_Hold_Uzi_2256.anm
+		Size 6876            Henchman_Upperbody_look_2221.anm
+		Size 6580            Crockett_Jump0014.anm
+		Size 7576            tubbs_jump1014.anm
+		Size 6876            Henchman_Upperbody_look_2231.anm
+		Size 11816           Henchman_Upperbody_Reload_Rifle_2251.anm
+		Size 7840            Henchman_Upperbody_Reload_Shotgun_2262.anm
+		Size 8744            Henchman_Upperbody_Reload_Uzi_2214.anm
+		Size 7140            Henchman_Walk_2202.hop
+		Size 12064           Tubbs_Pull_Gun_9310.anm
+		Size 43904           Tubbs_Check_Pulse_9311.anm
+		Size 4132            Ortega_Talking_9318.VNM
+		Size 12984           Captain_9341.anm
+		Size 25288           Crockett_Jump_Railing_9346.anm
+		Size 32108           Tubbs_Jump_Railing_9347.anm
+		Size 7824            aim_5511.anm
+		Size 8216            aim_over_crate_down_5515.anm
+		Size 4672            aim_over_crate_fire_5514.anm
+		Size 7496            aim_over_crate_up_5513.anm
+		Size 12332           Aim_round_corner_left_5519.anm
+		Size 11360           Aim_round_corner_left_back_5520.anm
+		Size 3596            Aim_round_corner_left_fire_5521.anm
+		Size 11748           Aim_round_corner_right_5522.anm
+		Size 14884           Aim_round_corner_right_back_5524.anm
+		Size 1976            Aim_round_corner_right_fire_5523.anm
+		Size 10228           crouch_down_5503.anm
+		Size 12296           crouch_idle_5505.anm
+		Size 11252           crouch_up_5506.anm
+		Size 22472           damage_heavy_5508.anm
+		Size 17104           damage_light_5509.anm
+		Size 4972            fire_5507.anm
+		Size 22936           getup_5510.anm
+		Size 12500           Idle_5502.anm
+		Size 9024            idle_damaged_5512.anm
+		Size 15260           reload_5504.anm
+		Size 11480           Run_5501.anm
+		Size 10048           sidestep_left_5517.anm
+		Size 12196           sidestep_Right_5518.anm
+		Size 15196           turn_to_wall_5516.anm
+		Size 12740           Walk_5500.anm
+		Size 1240            Crockett_Talking_9356.VNM
+
+		Total Anim Size:    (1360 k) (1392860 bytes)
+
+	Exporting Sound FX:
+		SFX Size 145924      nChannels 1       Frequency 22050       16 Bit          0021.wav
+		SFX Size 104344      nChannels 1       Frequency 22050       16 Bit          0094.wav
+		SFX Size 118804      nChannels 1       Frequency 22050       16 Bit          0095.wav
+		SFX Size 65104       nChannels 1       Frequency 22050       16 Bit          0026.wav
+		SFX Size 85564       nChannels 1       Frequency 22050       16 Bit          0036.wav
+		SFX Size 35644       nChannels 1       Frequency 22050       16 Bit          0020.wav
+		SFX Size 61444       nChannels 1       Frequency 22050       16 Bit          0093.wav
+		SFX Size 212944      nChannels 1       Frequency 22050       16 Bit          0111.wav
+		SFX Size 30544       nChannels 1       Frequency 22050       16 Bit          0014.wav
+		SFX Size 30604       nChannels 1       Frequency 22050       16 Bit          0019.wav
+		SFX Size 99304       nChannels 1       Frequency 22050       16 Bit          0025.wav
+		SFX Size 44104       nChannels 1       Frequency 22050       16 Bit          crockett lands on floor.wav
+		SFX Size 42364       nChannels 1       Frequency 22050       16 Bit          tubbs lands on floor.wav
+		SFX Size 10144       nChannels 1       Frequency 22050       16 Bit          bullet impact c.wav
+		SFX Size 33844       nChannels 1       Frequency 22050       16 Bit          body fall on metal floor.wav
+		SFX Size 28384       nChannels 1       Frequency 22050       16 Bit          Ortega_Incidental_0002.wav
+		SFX Size 99304       nChannels 1       Frequency 22050       8 Bit           0025.wav
+		SFX Size 260104      nChannels 1       Frequency 22050       8 Bit           0045.wav
+
+		Total Sound Size:    (1473 k) (1508472 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (3 k) (3084 bytes)
+			Hull: interior1:
+				Asset Tree: nLeaves 18, nBranches 17: (3 k) (3560 bytes)
+				StaticInstances 112: (14 k) (14336 bytes)
+				DynamicInstances 20: (3 k) (3920 bytes)
+				Bone, Morph, AnimInstance Data 112: (26 k) (27072 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 1: (0 k) (68 bytes)
+				StaticAABBTriggers 4: (0 k) (208 bytes)
+				DynamicAABBTriggers 8: (0 k) (608 bytes)
+				StaticLights 13: (0 k) (624 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 12: (2 k) (2064 bytes)
+
+				TotalSize: (51 k) (52748 bytes)
+
+			Hull: interior2:
+				Asset Tree: nLeaves 13, nBranches 15: (2 k) (2876 bytes)
+				StaticInstances 82: (10 k) (10496 bytes)
+				DynamicInstances 3: (0 k) (588 bytes)
+				Bone, Morph, AnimInstance Data 82: (8 k) (9024 bytes)
+				StaticAABBTriggers 5: (0 k) (260 bytes)
+				DynamicAABBTriggers 9: (0 k) (684 bytes)
+				StaticLights 16: (0 k) (768 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 10: (1 k) (1720 bytes)
+
+				TotalSize: (25 k) (26472 bytes)
+
+			Hull: interior3:
+				Asset Tree: nLeaves 17, nBranches 14: (3 k) (3132 bytes)
+				StaticInstances 99: (12 k) (12672 bytes)
+				DynamicInstances 6: (1 k) (1176 bytes)
+				Bone, Morph, AnimInstance Data 99: (8 k) (9024 bytes)
+				StaticAABBTriggers 2: (0 k) (104 bytes)
+				DynamicAABBTriggers 10: (0 k) (760 bytes)
+				StaticLights 7: (0 k) (336 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 8: (1 k) (1376 bytes)
+				DynamicSFX 1: (0 k) (136 bytes)
+
+				TotalSize: (28 k) (28772 bytes)
+
+			Hull: interior4:
+				Asset Tree: nLeaves 23, nBranches 22: (4 k) (4580 bytes)
+				StaticInstances 158: (19 k) (20224 bytes)
+				DynamicInstances 10: (1 k) (1960 bytes)
+				Bone, Morph, AnimInstance Data 158: (24 k) (25284 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 2: (0 k) (136 bytes)
+				StaticAABBTriggers 7: (0 k) (364 bytes)
+				DynamicAABBTriggers 9: (0 k) (684 bytes)
+				StaticLights 19: (0 k) (912 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 15: (2 k) (2580 bytes)
+				DynamicSFX 1: (0 k) (136 bytes)
+
+				TotalSize: (55 k) (56916 bytes)
+
+			Hull: exterior3:
+				Asset Tree: nLeaves 7, nBranches 10: (1 k) (1764 bytes)
+				StaticInstances 72: (9 k) (9216 bytes)
+				DynamicInstances 2: (0 k) (392 bytes)
+				Bone, Morph, AnimInstance Data 72: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 1: (0 k) (172 bytes)
+
+				TotalSize: (11 k) (11600 bytes)
+
+			Hull: controldeck_exterior:
+				Asset Tree: nLeaves 36, nBranches 37: (7 k) (7456 bytes)
+				StaticInstances 273: (34 k) (34944 bytes)
+				DynamicInstances 27: (5 k) (5292 bytes)
+				Bone, Morph, AnimInstance Data 273: (97 k) (100076 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 2: (0 k) (136 bytes)
+				StaticAABBTriggers 1: (0 k) (52 bytes)
+				DynamicAABBTriggers 5: (0 k) (380 bytes)
+				StaticLights 14: (0 k) (672 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 12: (2 k) (2064 bytes)
+				DynamicSFX 3: (0 k) (408 bytes)
+
+				TotalSize: (150 k) (153624 bytes)
+
+			Hull: controldeck_interior:
+				Asset Tree: nLeaves 64, nBranches 44: (10 k) (10816 bytes)
+				StaticInstances 621: (77 k) (79488 bytes)
+				DynamicInstances 13: (2 k) (2548 bytes)
+				Bone, Morph, AnimInstance Data 621: (39 k) (40608 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 13: (0 k) (884 bytes)
+				StaticAABBTriggers 3: (0 k) (156 bytes)
+				DynamicAABBTriggers 24: (1 k) (1824 bytes)
+				StaticLights 19: (0 k) (912 bytes)
+				FXInstances 2: (0 k) (344 bytes)
+
+				TotalSize: (134 k) (137580 bytes)
+
+			Hull: engine_room:
+				Asset Tree: nLeaves 108, nBranches 77: (18 k) (18560 bytes)
+				StaticInstances 817: (102 k) (104576 bytes)
+				DynamicInstances 37: (7 k) (7252 bytes)
+				Bone, Morph, AnimInstance Data 817: (35 k) (36096 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 2: (0 k) (136 bytes)
+				StaticAABBTriggers 1: (0 k) (52 bytes)
+				DynamicAABBTriggers 9: (0 k) (684 bytes)
+				StaticLights 32: (1 k) (1536 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 48: (8 k) (8256 bytes)
+				DynamicSFX 16: (2 k) (2176 bytes)
+
+				TotalSize: (175 k) (179380 bytes)
+
+			Hull: skydome:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 8: (1 k) (1024 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 8: (0 k) (0 bytes)
+
+				TotalSize: (1 k) (1116 bytes)
+
+			Hull: top_4:
+				Asset Tree: nLeaves 7, nBranches 10: (1 k) (1764 bytes)
+				StaticInstances 48: (6 k) (6144 bytes)
+				DynamicInstances 10: (1 k) (1960 bytes)
+				Bone, Morph, AnimInstance Data 48: (20 k) (20772 bytes)
+				StaticAABBTriggers 1: (0 k) (52 bytes)
+				DynamicAABBTriggers 5: (0 k) (380 bytes)
+				StaticLights 3: (0 k) (144 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				DynamicSFX 3: (0 k) (408 bytes)
+
+				TotalSize: (30 k) (31680 bytes)
+
+			Hull: top_3:
+				Asset Tree: nLeaves 13, nBranches 15: (2 k) (2876 bytes)
+				StaticInstances 104: (13 k) (13312 bytes)
+				DynamicInstances 12: (2 k) (2352 bytes)
+				Bone, Morph, AnimInstance Data 104: (8 k) (9024 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 3: (0 k) (228 bytes)
+				StaticLights 3: (0 k) (144 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 2: (0 k) (344 bytes)
+				DynamicSFX 1: (0 k) (136 bytes)
+
+				TotalSize: (27 k) (28472 bytes)
+
+			Hull: top_2:
+				Asset Tree: nLeaves 18, nBranches 15: (3 k) (3336 bytes)
+				StaticInstances 153: (19 k) (19584 bytes)
+				DynamicInstances 9: (1 k) (1764 bytes)
+				Bone, Morph, AnimInstance Data 153: (13 k) (13536 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 5: (0 k) (380 bytes)
+				StaticLights 5: (0 k) (240 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 3: (0 k) (516 bytes)
+				DynamicSFX 1: (0 k) (136 bytes)
+
+				TotalSize: (38 k) (39548 bytes)
+
+			Hull: top_1:
+				Asset Tree: nLeaves 5, nBranches 4: (0 k) (908 bytes)
+				StaticInstances 44: (5 k) (5632 bytes)
+				DynamicInstances 2: (0 k) (392 bytes)
+				Bone, Morph, AnimInstance Data 44: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 1: (0 k) (172 bytes)
+				DynamicSFX 5: (0 k) (680 bytes)
+
+				TotalSize: (7 k) (7840 bytes)
+
+			Hull: seafret:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				FXInstances 3: (0 k) (516 bytes)
+
+				TotalSize: (0 k) (608 bytes)
+
+			Hull: Storage:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 10: (1 k) (1960 bytes)
+				Bone, Morph, AnimInstance Data 0: (44 k) (45148 bytes)
+
+				TotalSize: (46 k) (47200 bytes)
+
+			Hull: dockside Hull:
+				Asset Tree: nLeaves 46, nBranches 30: (7 k) (7592 bytes)
+				StaticInstances 316: (39 k) (40448 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 316: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (46 k) (48096 bytes)
+
+		Size Of Asset Tree                     data (831      k) (851652       bytes) - Save Game (15       k) (16108       bytes)
+		Size Of Points And Point Group         data (3        k) (3512         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (36       k) (36888        bytes) - Save Game (0        k) (440         bytes)
+		Size Of Process Object                 data (6        k) (6624         bytes) - Save Game (0        k) (736         bytes)
+		Size Of Portal Data                    data (6        k) (6216         bytes) - Save Game (0        k) (232         bytes)
+		Size Of Nav Mesh                       data (61       k) (63060        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (4        k) (4864         bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (4        k) (4280         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (13       k) (14280        bytes) - Save Game (9        k) (9320        bytes)
+		Size Of Animation Banks                data (21       k) (21704        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		254 User Data elements
+		90 User Data Pointer Fixups
+		Sizeof user data (10 k) (10872 bytes)
+
+
+		Total size in PUB (1003 k) (1027524 bytes)
+
+
+		Editor Assets Save Game Size (26 k) (26836 bytes)
+		User Data Save Game Size (1 k) (1760 bytes)
+		Save Game Total size (27 k) (28596 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: 01_cargoship
+			Texture: cship_int_walls_4
+			Texture: shipdeck2
+
+		Geometry: key
+			Texture: key
+
+		Geometry: Container_closed
+			Texture: container
+
+		Geometry: Container_Hollow
+			Texture: container
+
+		Geometry: crate_wood1m
+			Texture: crate1
+
+		Geometry: 3x3crate_Metal
+			Texture: container
+
+		Geometry: 1x1crate_Wood
+			Texture: crate1
+
+		Geometry: Tubbs_Body5
+			Texture: separatetrou
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod2
+			Texture: mv_gs_tubbs_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbshand01
+			Texture: mv_gs_tubbs_chest01
+			Texture: mv_gs_tubbsface04
+			Texture: mv_gs_tubbs_shirt01
+			Texture: testshader01
+			Texture: newshoe
+			Texture: testshader01
+			Texture: mv_gs_tubbsface04
+			Texture: tubbs_mouth_teeth
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: mv_gs_tubbs_shirt01
+			Texture: mv_gs_tubbs_new_alha_e3
+
+		Geometry: Sylvia_mesh
+			Texture: mv_gs_sylvia_suit_skirt
+			Texture: mv_gs_sylvia_suit_arms
+			Texture: silvia_suit_spec01
+			Texture: eyebrownl
+			Texture: testshader01
+			Texture: mv_gs_sylvia_suit_hairbun
+			Texture: mv_gs_sylvia_suit_pants
+			Texture: mv_jbgs_sylvia_face02
+			Texture: skin_spec_02
+			Texture: mouth_teeth1
+			Texture: mv_gs_sylvia_suit_boots
+			Texture: testshader01
+			Texture: mv_gs_sylvia_suit_skin
+			Texture: skin_spec_02
+			Texture: mv_jb_sylvia_suit_hand
+			Texture: skin_spec_02
+			Texture: mv_jbgs_sylvia_face02
+			Texture: lip_spec_01
+			Texture: mv_gs_sylvia_suit_top
+			Texture: silvia_suit_spec01
+			Texture: mv_jb_sylviahair
+
+		Geometry: Cont_D_left
+			Texture: container
+
+		Geometry: Cont_D_Right
+			Texture: container
+
+		Geometry: Door_button
+			Texture: door_but
+
+		Geometry: crane_body
+			Texture: yellow_metal
+
+		Geometry: metalstep
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: metalrail
+			Texture: metal_pipe
+
+		Geometry: metalrail_sml
+			Texture: metal_pipe
+
+		Geometry: metalcorner
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: metal_pillar
+			Texture: metal_pipe
+
+		Geometry: metal_support
+			Texture: metal_pipe
+
+		Geometry: 01_cargoship_side_rear
+			Texture: cship_int_walls_4
+			Texture: whitebits
+			Texture: cship_cargodeck
+			Texture: metal
+			Texture: cargo_panel
+
+		Geometry: 01_cargoship_side_front
+			Texture: cship_int_walls_4
+			Texture: cargo_panel
+
+		Geometry: container_runners
+			Texture: shipdeck
+
+		Geometry: RSJ_Girder
+			Texture: metal_pipe
+
+		Geometry: 01_cargoship_1
+			Texture: cship_int_walls_1
+			Texture: cship_int_walls_2
+			Texture: shipdeck3
+			Texture: cship_cargodeck
+			Texture: cship_int_walls_3
+			Texture: shipdeck2
+			Texture: shipdeck
+			Texture: cship_int_walls_2b
+
+		Geometry: 01_cargoship_2
+			Texture: cship_int_walls_1
+			Texture: cship_int_walls_2
+			Texture: shipdeck3
+			Texture: cship_cargodeck
+			Texture: cship_int_walls_3
+			Texture: shipdeck2
+			Texture: shipdeck
+			Texture: cship_int_walls_2b
+
+		Geometry: 01_cargoship_3
+			Texture: cship_int_walls_1
+			Texture: cship_int_walls_2
+			Texture: shipdeck3
+			Texture: cship_cargodeck
+			Texture: cship_int_walls_3
+			Texture: shipdeck2
+			Texture: shipdeck
+			Texture: cship_int_walls_2b
+
+		Geometry: 01_cargoship_4
+			Texture: cship_int_walls_1
+			Texture: cship_int_walls_2
+			Texture: cship_cargodeck
+			Texture: shipdeck2
+			Texture: cship_int_walls_2b
+			Texture: cship_int_walls_4
+
+		Geometry: 01_cargoship_6
+			Texture: cship_int_walls_1
+			Texture: metal
+			Texture: cship_int_walls_2
+			Texture: cship_int_walls_4
+			Texture: cship_cargodeck
+			Texture: cship_int_walls_3
+			Texture: shipdeck2
+			Texture: cship_int_walls_2b
+
+		Geometry: 01_cargoship_exteriora
+			Texture: cship_int_walls_4
+			Texture: cship_int_walls_3
+			Texture: whitebits
+
+		Geometry: 01_cargoship_exteriorb
+			Texture: cship_int_walls_4
+			Texture: cship_int_walls_3
+			Texture: whitebits
+			Texture: cship_cargodeck
+
+		Geometry: 01_cargoship_front_inside
+			Texture: cship_int_walls_4
+			Texture: control_panel
+			Texture: control_panel_vent
+
+		Geometry: 01_cargoship_front_window_glass
+			Texture: beach_white_rail
+			Texture: chop_winref
+
+		Geometry: Metal_Post
+			Texture: metal_pipe
+
+		Geometry: 01_cargoship_reardeck
+			Texture: cship_int_walls_4
+			Texture: shipdeck
+			Texture: cargo_panel
+
+		Geometry: 01_cargoship_4top
+			Texture: cship_int_walls_4
+			Texture: shipdeck
+			Texture: shipdeck2
+			Texture: cargo_panel
+
+		Geometry: 01_cargoship_1top
+			Texture: cship_int_walls_4
+			Texture: shipdeck
+			Texture: shipdeck2
+			Texture: cargo_panel
+
+		Geometry: 01_cargoship_2top
+			Texture: cship_int_walls_4
+			Texture: shipdeck
+			Texture: shipdeck2
+			Texture: cargo_panel
+
+		Geometry: 01_cargoship_3top
+			Texture: cship_int_walls_4
+			Texture: shipdeck
+			Texture: shipdeck2
+			Texture: cargo_panel
+
+		Geometry: metal_ladder
+			Texture: metal_pipe
+			Texture: spec2
+
+		Geometry: Crane
+			Texture: yellow_metal3
+			Texture: metal
+
+		Geometry: crane_control
+			Texture: yellow_metal
+			Texture: yellow_metal2
+			Texture: cship_int_walls_4
+
+		Geometry: water_in_hanger
+			Texture: water2
+
+		Geometry: metalwire
+			Texture: wire
+
+		Geometry: ladder_secure_frame
+			Texture: metal_pipe
+
+		Geometry: Wooden_palette_high
+			Texture: crate11
+
+		Geometry: Barrel
+			Texture: barrel_bl
+
+		Geometry: Barrel_Groupx4
+			Texture: barrel_bl
+
+		Geometry: fireEx
+			Texture: fireexting
+			Texture: spec2pale
+
+		Geometry: mesh_gate
+			Texture: as_mesh_fence_post
+			Texture: railing
+
+		Geometry: mesh_railing
+			Texture: as_mesh_fence_post
+			Texture: railing
+
+		Geometry: orange_light
+			Texture: warning_light_orange
+			Texture: warning_light_orange
+			Texture: as_black_railgallery
+
+		Geometry: engine_stack
+			Texture: metal_pipe
+			Texture: shipdeck2
+
+		Geometry: engine_base
+			Texture: metal
+			Texture: cship_cargodeck
+			Texture: cship_int_walls_4
+
+		Geometry: engine_rail
+			Texture: shipdeck2
+
+		Geometry: metal_walkway
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: hook
+			Texture: metal_pipe
+			Texture: wire
+
+		Geometry: Bunk
+			Texture: bunk_cover_bot
+			Texture: bunk_cover_top
+			Texture: metal_tile
+
+		Geometry: StripLight
+			Texture: floor1
+			Texture: whitealpha8x8
+			Texture: as_light_cover
+
+		Geometry: dirt
+			Texture: dirt
+
+		Geometry: exhaust_pipe_tee
+			Texture: metal_pipe
+
+		Geometry: exhaust_pipe_bend
+			Texture: metal_pipe
+
+		Geometry: exhaust_pipe_long
+			Texture: metal_pipe
+
+		Geometry: exhaust_pipe_short
+			Texture: metal_pipe
+
+		Geometry: exhaust_pipe_start
+			Texture: metal_pipe
+
+		Geometry: exhaust_thin_to_thick
+			Texture: metal_pipe
+
+		Geometry: PLANK
+			Texture: wood_plank
+
+		Geometry: engine_stack_end
+			Texture: shipdeck2
+
+		Geometry: engine_stack_ring
+			Texture: shipdeck2
+
+		Geometry: floating_ceiling
+			Texture: shipdeck2
+			Texture: railing
+
+		Geometry: officefront_door
+			Texture: whitebits
+
+		Geometry: officefront
+			Texture: whitebits
+
+		Geometry: chevron_white
+			Texture: chevron_white
+
+		Geometry: PLANK2
+			Texture: wood_plank2
+
+		Geometry: skydome_Dockside
+			Texture: docks_sky_night
+
+		Geometry: clouds
+			Texture: busy_clouds01
+			Texture: busy_clouds02
+
+		Geometry: doorlock
+			Texture: cargo_panel
+
+		Geometry: doorlock_srnd
+			Texture: cargo_panel
+			Texture: cship_int_walls_4
+
+		Geometry: ship_pillar
+			Texture: cargo_panel
+
+		Geometry: Toilet_open
+			Texture: toilet
+
+		Geometry: Locker
+			Texture: locker
+
+		Geometry: newspaper
+			Texture: newspaper
+
+		Geometry: pillow
+			Texture: bunk_cover_top
+
+		Geometry: forklift
+			Texture: cship_int_walls_3
+			Texture: black_metal2
+			Texture: cargoservices2
+			Texture: yellow_metal2
+			Texture: metal
+			Texture: railing
+
+		Geometry: Truck_wheel
+			Texture: wheel
+
+		Geometry: shadow_generic
+			Texture: shadow2
+
+		Geometry: pinup1
+			Texture: pinup1
+
+		Geometry: pinup2
+			Texture: pinup2
+
+		Geometry: panel_foot
+			Texture: container
+
+		Geometry: melamine_panel
+			Texture: container
+			Texture: doorlock2
+
+		Geometry: telly
+			Texture: control_panel
+
+		Geometry: radarmonitor
+			Texture: control_panel
+			Texture: whitebits
+
+		Geometry: Leather_chair
+			Texture: leather_office
+
+		Geometry: Winebottle
+			Texture: winebottle
+
+		Geometry: Winebottle2
+			Texture: winebottle
+
+		Geometry: Chopping_board
+			Texture: cupboards
+
+		Geometry: Pan1
+			Texture: toilet
+
+		Geometry: cup
+			Texture: whitebits
+			Texture: as_black_railgallery
+
+		Geometry: Crockett_skin_2
+			Texture: mv_jb_crockhandsb
+			Texture: skin_spec_021
+			Texture: mv_jb_crockshoe02
+			Texture: mv_jb_crockarm02
+			Texture: skin_spec_021
+			Texture: eyebl1
+			Texture: testshader01
+			Texture: mv_jb_crockshoe02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_jb_crockt02b
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_crocktrews2b
+			Texture: subtlespec
+			Texture: mv_jb_crockholster
+			Texture: reflect_shiny_stripe_add
+			Texture: crock15b
+			Texture: skin_spec_021
+			Texture: mouth_teeth1
+			Texture: mv_jb_crockholster
+			Texture: spec2
+			Texture: mv_jb_crockglassb1
+			Texture: crock_hairb
+			Texture: skin_spec_021
+			Texture: crock_hairb
+			Texture: mv_jb_crockglassb1
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: bren 
+			Texture: brenten2
+
+		Geometry: shotgun
+			Texture: shgun
+
+		Geometry: magnum440
+			Texture: magnum440
+
+		Geometry: shipcover
+			Texture: container
+
+		Geometry: Kitchen_sink008
+			Texture: sink
+			Texture: kcupboards
+
+		Geometry: Kitchen_counter11
+			Texture: kcupboards
+			Texture: container
+
+		Geometry: Kitchen_counter21
+			Texture: kcupboards
+			Texture: container
+
+		Geometry: Kitchen_counter31
+			Texture: kcupboards
+			Texture: container
+
+		Geometry: Door_dock
+			Texture: doordocks
+
+		Geometry: lightrays
+			Texture: downlight
+
+		Geometry: squareglare
+			Texture: downlight
+
+		Geometry: Ortega
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_jb_manutrou
+			Texture: mv_jb_manujacket
+			Texture: mouth_teeth1
+			Texture: mv_jb_manushoes
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_manual04
+			Texture: skin_spec_02
+			Texture: eyebl1
+			Texture: testshader01
+			Texture: mv_jb_manubelt
+			Texture: reflect_shiny_stripe_mod
+			Texture: manuel_tash
+			Texture: skin_spec_02
+
+		Geometry: Cargo_ship_worker02
+			Texture: mv_gs_boiler_suit_trou
+			Texture: mv_gs_genericshoe03
+			Texture: mv_gs_boiler_suit_glove
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_full_arm03w
+			Texture: skin_spec_02
+			Texture: mv_gs_boiler_suit_sleave
+			Texture: mv_gs_boiler_suit_body
+			Texture: mv_gs_tshirt
+
+		Geometry: Cargo_ship_worker01
+			Texture: mv_gs_boiler_suit_trou
+			Texture: mv_gs_genericshoe03
+			Texture: mv_gs_boiler_suit_glove
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_generic_full_arm03w
+			Texture: skin_spec_02
+			Texture: mv_gs_boiler_suit_sleave
+			Texture: mv_gs_boiler_suit_body
+			Texture: mv_gs_tshirt
+			Texture: mv_gs_boiler_suit_waistcoat
+
+		Geometry: Ortegas_henchman_06
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody01
+			Texture: mv_gs_generic_trou01
+			Texture: mv_gs_gen_suitarm01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: mv_gs_default_spec01
+			Texture: mv_gs_gshirtfront03
+
+		Geometry: Ortegas_henchman_01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody02
+			Texture: mv_gs_generic_trou02
+			Texture: mv_gs_gen_suitarm02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: mv_gs_default_spec01
+			Texture: mv_gs_gshirtfront01
+			Texture: mv_gs_generic_tie01
+			Texture: mv_gs_default_spec01
+
+		Geometry: Ortegas_henchman_02
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gshirtbody01
+			Texture: mv_gs_generic_trou01
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_01
+			Texture: mv_gs_genericshoe01
+			Texture: assasin_spec_01
+			Texture: mv_gs_gshirtarm01s
+
+		Geometry: Ortegas_henchman_03
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gshirtbody02
+			Texture: mv_gs_generic_trou02
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: assasin_spec_01
+			Texture: mv_gs_gshirtarm02s
+
+		Geometry: Ortegas_henchman_04
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gshirtbody03
+			Texture: mv_gs_generic_trou03
+			Texture: mv_gs_generic_full_arm02w
+			Texture: skin_spec_02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe04
+			Texture: mv_gs_gshirtarm03s
+
+		Geometry: container_ship_captain
+			Texture: mv_gs_cargoco_jacket
+			Texture: mv_gs_cargoco_head
+			Texture: skin_spec_02
+			Texture: mouth_teeth1
+			Texture: eyebl1
+			Texture: skin_spec_02
+			Texture: mv_gs_cargoco_hand
+			Texture: skin_spec_02
+			Texture: mv_gs_cargoco_hat
+			Texture: mv_jbgs_gentrou2
+			Texture: mv_gs_genericshoe04
+			Texture: mv_gs_generic_shirt_front01
+			Texture: mv_gs_cargoco_hat
+			Texture: testshader01
+			Texture: mv_gs_cargoco_jacket
+			Texture: testshader01
+
+		Geometry: cargo_winch
+			Texture: cargo_chainwinch
+
+		Geometry: cargo_chain
+			Texture: cargo_chainwinch
+
+		Geometry: capstan
+			Texture: metal_pipe
+
+		Geometry: safetylight
+			Texture: black_metal2
+			Texture: brickwall
+			Texture: whitealpha8x8
+			Texture: downlight
+
+		Geometry: Juan_Henchman_04
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody05
+			Texture: mv_gs_generic_trou05
+			Texture: mv_gs_gen_suitarm05
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gshirtfront03
+
+		Geometry: dock_chair
+			Texture: black_metal2
+			Texture: floor1
+
+		Geometry: metal_walkway_noside
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: safetycone
+			Texture: warning_light_grey
+			Texture: warning_light_grey
+			Texture: as_black_railgallery
+
+		Geometry: squareglaretext
+			Texture: downlight
+			Texture: comptexts
+
+		Geometry: engine_console
+			Texture: engine_console
+			Texture: engine_green
+
+		Geometry: Container_crane
+			Texture: container
+			Texture: wire1
+			Texture: cship_cargodeck
+
+		Geometry: Camera_collision_box
+			Texture: as_black_railgallery
+
+		Geometry: movement_collision_box
+			Texture: as_black_railgallery
+
+		Geometry: metalstepNR
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: dock_lowA
+			Texture: floor1
+
+		Geometry: dock_lowB
+			Texture: floor1
+
+		Geometry: dock_warehouse
+			Texture: floor1
+
+		Geometry: dock_ground
+			Texture: floor1
+
+		Geometry: Buildings
+			Texture: skyline
+
+		Geometry: Lamp_post
+			Texture: whitebits
+			Texture: floor1
+
+		Geometry: Drugs
+			Texture: drugs_bag
+
+			Texture: drugs_bag
+		Geometry: m16
+			Texture: m16
+
+		Geometry: ledger_brown
+			Texture: filing_cabinet
+
+		Geometry: SmithWes01
+			Texture: swes2
+
+		Geometry: waterdamage
+			Texture: waterdamage
+
+		Geometry: Muck1
+			Texture: muck1
+
+		Geometry: Assasin02
+			Texture: mv_gs_assasinshirtbody02
+			Texture: reflect_shiny_stripe_mod
+			Texture: eyebl1
+			Texture: lip_spec_01
+			Texture: mv_gs_assasinface01
+			Texture: skin_spec_02
+			Texture: mouth_teeth1
+			Texture: mv_gs_assasinshoe01
+			Texture: mv_gs_assasintrou01
+			Texture: assasin_spec_01
+			Texture: mv_gs_assasinshirtarm02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_assasinshirtbody02
+			Texture: mv_gs_assasinhairalpha
+
+		Geometry: PSG1
+			Texture: psg
+
+		Geometry: crate_wood_OPEN_pln
+			Texture: crate1
+
+		Geometry: metalstep_start
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: metalstep_end
+			Texture: metal
+			Texture: metal_pipe
+
+		Geometry: Drugs_table
+			Texture: silvertable
+			Texture: table_env
+
+		Geometry: camera_collision_curve
+			Texture: as_black_railgallery
+
+		Geometry: FirstAid
+			Texture: FAB
+
+		Geometry: movement_collision_curve
+			Texture: as_black_railgallery
+
+		Geometry: chop_pane
+			Texture: beach_white_rail
+			Texture: chop_winref
+
+
+	Texture -> Geometry Association:
+		Texture: smoke1
+
+		Texture: Light1
+
+		Texture: Blood
+
+		Texture: cship_int_walls_4
+			Geometry: 01_cargoship
+			Geometry: 01_cargoship_side_rear
+			Geometry: 01_cargoship_side_front
+			Geometry: 01_cargoship_4
+			Geometry: 01_cargoship_6
+			Geometry: 01_cargoship_exteriora
+			Geometry: 01_cargoship_exteriorb
+			Geometry: 01_cargoship_front_inside
+			Geometry: 01_cargoship_reardeck
+			Geometry: 01_cargoship_4top
+			Geometry: 01_cargoship_1top
+			Geometry: 01_cargoship_2top
+			Geometry: 01_cargoship_3top
+			Geometry: crane_control
+			Geometry: engine_base
+			Geometry: doorlock_srnd
+
+		Texture: shipdeck
+			Geometry: container_runners
+			Geometry: 01_cargoship_1
+			Geometry: 01_cargoship_2
+			Geometry: 01_cargoship_3
+			Geometry: 01_cargoship_reardeck
+			Geometry: 01_cargoship_4top
+			Geometry: 01_cargoship_1top
+			Geometry: 01_cargoship_2top
+			Geometry: 01_cargoship_3top
+
+		Texture: shipdeck2
+			Geometry: 01_cargoship
+			Geometry: 01_cargoship_1
+			Geometry: 01_cargoship_2
+			Geometry: 01_cargoship_3
+			Geometry: 01_cargoship_4
+			Geometry: 01_cargoship_6
+			Geometry: 01_cargoship_4top
+			Geometry: 01_cargoship_1top
+			Geometry: 01_cargoship_2top
+			Geometry: 01_cargoship_3top
+			Geometry: engine_stack
+			Geometry: engine_rail
+			Geometry: engine_stack_end
+			Geometry: engine_stack_ring
+			Geometry: floating_ceiling
+
+		Texture: key
+			Geometry: key
+
+		Texture: container
+			Geometry: Container_closed
+			Geometry: Container_Hollow
+			Geometry: 3x3crate_Metal
+			Geometry: Cont_D_left
+			Geometry: Cont_D_Right
+			Geometry: panel_foot
+			Geometry: melamine_panel
+			Geometry: shipcover
+			Geometry: Kitchen_counter11
+			Geometry: Kitchen_counter21
+			Geometry: Kitchen_counter31
+			Geometry: Container_crane
+
+		Texture: crate1
+			Geometry: crate_wood1m
+			Geometry: 1x1crate_Wood
+			Geometry: crate_wood_OPEN_pln
+
+		Texture: separatetrou
+			Geometry: Tubbs_Body5
+
+		Texture: crok_vest_spec_01
+			Geometry: Tubbs_Body5
+			Geometry: Crockett_skin_2
+			Geometry: Ortega
+
+		Texture: mv_gs_tubbsface04
+			Geometry: Tubbs_Body5
+
+		Texture: skin_spec_02
+			Geometry: Sylvia_mesh
+			Geometry: Ortega
+			Geometry: Cargo_ship_worker02
+			Geometry: Cargo_ship_worker01
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_01
+			Geometry: Ortegas_henchman_02
+			Geometry: Ortegas_henchman_03
+			Geometry: Ortegas_henchman_04
+			Geometry: container_ship_captain
+			Geometry: Juan_Henchman_04
+			Geometry: Assasin02
+
+		Texture: tubbs_mouth_teeth
+			Geometry: Tubbs_Body5
+
+		Texture: eye_dkbrown
+			Geometry: Tubbs_Body5
+
+		Texture: testshader01
+			Geometry: Tubbs_Body5
+			Geometry: Sylvia_mesh
+			Geometry: Crockett_skin_2
+			Geometry: Ortega
+			Geometry: container_ship_captain
+			Geometry: Juan_Henchman_04
+
+		Texture: newshoe
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_new_alha_e3
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_shirt01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chest01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chain01
+			Geometry: Tubbs_Body5
+
+		Texture: reflect_shiny_stripe_mod2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitbody01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitarm01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbshand01
+			Geometry: Tubbs_Body5
+
+		Texture: mouth_teeth1
+			Geometry: Sylvia_mesh
+			Geometry: Crockett_skin_2
+			Geometry: Ortega
+			Geometry: container_ship_captain
+			Geometry: Assasin02
+
+		Texture: spec2
+			Geometry: metal_ladder
+			Geometry: Crockett_skin_2
+
+		Texture: lip_spec_01
+			Geometry: Sylvia_mesh
+			Geometry: Assasin02
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Crockett_skin_2
+			Geometry: Ortega
+			Geometry: Assasin02
+
+		Texture: skin_spec_021
+			Geometry: Crockett_skin_2
+
+		Texture: mv_gs_sylvia_suit_skirt
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_skin
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_boots
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_top
+			Geometry: Sylvia_mesh
+
+		Texture: silvia_suit_spec01
+			Geometry: Sylvia_mesh
+
+		Texture: mv_jb_sylvia_suit_hand
+			Geometry: Sylvia_mesh
+
+		Texture: mv_jbgs_sylvia_face02
+			Geometry: Sylvia_mesh
+
+		Texture: mv_jb_sylviahair
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_hairbun
+			Geometry: Sylvia_mesh
+
+		Texture: eyebrownl
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_arms
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_pants
+			Geometry: Sylvia_mesh
+
+		Texture: door_but
+			Geometry: Door_button
+
+		Texture: yellow_metal
+			Geometry: crane_body
+			Geometry: crane_control
+
+		Texture: metal
+			Geometry: metalstep
+			Geometry: metalcorner
+			Geometry: 01_cargoship_side_rear
+			Geometry: 01_cargoship_6
+			Geometry: Crane
+			Geometry: engine_base
+			Geometry: metal_walkway
+			Geometry: forklift
+			Geometry: metal_walkway_noside
+			Geometry: metalstepNR
+			Geometry: metalstep_start
+			Geometry: metalstep_end
+
+		Texture: metal_pipe
+			Geometry: metalstep
+			Geometry: metalrail
+			Geometry: metalrail_sml
+			Geometry: metalcorner
+			Geometry: metal_pillar
+			Geometry: metal_support
+			Geometry: RSJ_Girder
+			Geometry: Metal_Post
+			Geometry: metal_ladder
+			Geometry: ladder_secure_frame
+			Geometry: engine_stack
+			Geometry: metal_walkway
+			Geometry: hook
+			Geometry: exhaust_pipe_tee
+			Geometry: exhaust_pipe_bend
+			Geometry: exhaust_pipe_long
+			Geometry: exhaust_pipe_short
+			Geometry: exhaust_pipe_start
+			Geometry: exhaust_thin_to_thick
+			Geometry: capstan
+			Geometry: metal_walkway_noside
+			Geometry: metalstepNR
+			Geometry: metalstep_start
+			Geometry: metalstep_end
+
+		Texture: whitebits
+			Geometry: 01_cargoship_side_rear
+			Geometry: 01_cargoship_exteriora
+			Geometry: 01_cargoship_exteriorb
+			Geometry: officefront_door
+			Geometry: officefront
+			Geometry: radarmonitor
+			Geometry: cup
+			Geometry: Lamp_post
+
+		Texture: cship_cargodeck
+			Geometry: 01_cargoship_side_rear
+			Geometry: 01_cargoship_1
+			Geometry: 01_cargoship_2
+			Geometry: 01_cargoship_3
+			Geometry: 01_cargoship_4
+			Geometry: 01_cargoship_6
+			Geometry: 01_cargoship_exteriorb
+			Geometry: engine_base
+			Geometry: Container_crane
+
+		Texture: cargo_panel
+			Geometry: 01_cargoship_side_rear
+			Geometry: 01_cargoship_side_front
+			Geometry: 01_cargoship_reardeck
+			Geometry: 01_cargoship_4top
+			Geometry: 01_cargoship_1top
+			Geometry: 01_cargoship_2top
+			Geometry: 01_cargoship_3top
+			Geometry: doorlock
+			Geometry: doorlock_srnd
+			Geometry: ship_pillar
+
+		Texture: cship_int_walls_1
+			Geometry: 01_cargoship_1
+			Geometry: 01_cargoship_2
+			Geometry: 01_cargoship_3
+			Geometry: 01_cargoship_4
+			Geometry: 01_cargoship_6
+
+		Texture: cship_int_walls_2
+			Geometry: 01_cargoship_1
+			Geometry: 01_cargoship_2
+			Geometry: 01_cargoship_3
+			Geometry: 01_cargoship_4
+			Geometry: 01_cargoship_6
+
+		Texture: shipdeck3
+			Geometry: 01_cargoship_1
+			Geometry: 01_cargoship_2
+			Geometry: 01_cargoship_3
+
+		Texture: cship_int_walls_3
+			Geometry: 01_cargoship_1
+			Geometry: 01_cargoship_2
+			Geometry: 01_cargoship_3
+			Geometry: 01_cargoship_6
+			Geometry: 01_cargoship_exteriora
+			Geometry: 01_cargoship_exteriorb
+			Geometry: forklift
+
+		Texture: cship_int_walls_2b
+			Geometry: 01_cargoship_1
+			Geometry: 01_cargoship_2
+			Geometry: 01_cargoship_3
+			Geometry: 01_cargoship_4
+			Geometry: 01_cargoship_6
+
+		Texture: control_panel
+			Geometry: 01_cargoship_front_inside
+			Geometry: telly
+			Geometry: radarmonitor
+
+		Texture: control_panel_vent
+			Geometry: 01_cargoship_front_inside
+
+		Texture: beach_white_rail
+			Geometry: 01_cargoship_front_window_glass
+			Geometry: chop_pane
+
+		Texture: chop_winref
+			Geometry: 01_cargoship_front_window_glass
+			Geometry: chop_pane
+
+		Texture: yellow_metal3
+			Geometry: Crane
+
+		Texture: yellow_metal2
+			Geometry: crane_control
+			Geometry: forklift
+
+		Texture: water2
+			Geometry: water_in_hanger
+
+		Texture: wire
+			Geometry: metalwire
+			Geometry: hook
+
+		Texture: crate11
+			Geometry: Wooden_palette_high
+
+		Texture: barrel_bl
+			Geometry: Barrel
+			Geometry: Barrel_Groupx4
+
+		Texture: fireexting
+			Geometry: fireEx
+
+		Texture: spec2pale
+			Geometry: fireEx
+
+		Texture: as_mesh_fence_post
+			Geometry: mesh_gate
+			Geometry: mesh_railing
+
+		Texture: railing
+			Geometry: mesh_gate
+			Geometry: mesh_railing
+			Geometry: floating_ceiling
+			Geometry: forklift
+
+		Texture: warning_light_orange
+			Geometry: orange_light
+
+		Texture: as_black_railgallery
+			Geometry: orange_light
+			Geometry: cup
+			Geometry: safetycone
+			Geometry: Camera_collision_box
+			Geometry: movement_collision_box
+			Geometry: camera_collision_curve
+			Geometry: movement_collision_curve
+
+		Texture: bunk_cover_bot
+			Geometry: Bunk
+
+		Texture: bunk_cover_top
+			Geometry: Bunk
+			Geometry: pillow
+
+		Texture: metal_tile
+			Geometry: Bunk
+
+		Texture: floor1
+			Geometry: StripLight
+			Geometry: dock_chair
+			Geometry: dock_lowA
+			Geometry: dock_lowB
+			Geometry: dock_warehouse
+			Geometry: dock_ground
+			Geometry: Lamp_post
+
+		Texture: as_light_cover
+			Geometry: StripLight
+
+		Texture: whitealpha8x8
+			Geometry: StripLight
+			Geometry: safetylight
+
+		Texture: dirt
+			Geometry: dirt
+
+		Texture: wood_plank
+			Geometry: PLANK
+
+		Texture: chevron_white
+			Geometry: chevron_white
+
+		Texture: wood_plank2
+			Geometry: PLANK2
+
+		Texture: docks_sky_night
+			Geometry: skydome_Dockside
+
+		Texture: busy_clouds01
+			Geometry: clouds
+
+		Texture: busy_clouds02
+			Geometry: clouds
+
+		Texture: cupboards
+			Geometry: Chopping_board
+
+		Texture: toilet
+			Geometry: Toilet_open
+			Geometry: Pan1
+
+		Texture: sink
+			Geometry: Kitchen_sink008
+
+		Texture: locker
+			Geometry: Locker
+
+		Texture: newspaper
+			Geometry: newspaper
+
+		Texture: cargoservices2
+			Geometry: forklift
+
+		Texture: black_metal2
+			Geometry: forklift
+			Geometry: safetylight
+			Geometry: dock_chair
+
+		Texture: wheel
+			Geometry: Truck_wheel
+
+		Texture: shadow2
+			Geometry: shadow_generic
+
+		Texture: pinup1
+			Geometry: pinup1
+
+		Texture: pinup2
+			Geometry: pinup2
+
+		Texture: doorlock2
+			Geometry: melamine_panel
+
+		Texture: leather_office
+			Geometry: Leather_chair
+
+		Texture: winebottle
+			Geometry: Winebottle
+			Geometry: Winebottle2
+
+		Texture: mv_jb_crockhandsb
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockholster
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockglassb1
+			Geometry: Crockett_skin_2
+
+		Texture: crock_hairb
+			Geometry: Crockett_skin_2
+
+		Texture: crock15b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crocktrews2b
+			Geometry: Crockett_skin_2
+
+		Texture: subtlespec
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockt02b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockarm02
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockshoe02
+			Geometry: Crockett_skin_2
+
+		Texture: eyebl1
+			Geometry: Crockett_skin_2
+			Geometry: Ortega
+			Geometry: container_ship_captain
+			Geometry: Assasin02
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Crockett_skin_2
+
+		Texture: brenten2
+			Geometry: bren 
+
+		Texture: shgun
+			Geometry: shotgun
+
+		Texture: magnum440
+			Geometry: magnum440
+
+		Texture: kcupboards
+			Geometry: Kitchen_sink008
+			Geometry: Kitchen_counter11
+			Geometry: Kitchen_counter21
+			Geometry: Kitchen_counter31
+
+		Texture: doordocks
+			Geometry: Door_dock
+
+		Texture: downlight
+			Geometry: lightrays
+			Geometry: squareglare
+			Geometry: safetylight
+			Geometry: squareglaretext
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Ortega
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_01
+			Geometry: Ortegas_henchman_02
+			Geometry: Ortegas_henchman_03
+			Geometry: Ortegas_henchman_04
+			Geometry: Juan_Henchman_04
+			Geometry: Assasin02
+
+		Texture: mv_jb_manual04
+			Geometry: Ortega
+
+		Texture: manuel_tash
+			Geometry: Ortega
+
+		Texture: mv_jb_manushoes
+			Geometry: Ortega
+
+		Texture: mv_jb_manujacket
+			Geometry: Ortega
+
+		Texture: mv_jb_manutrou
+			Geometry: Ortega
+
+		Texture: mv_jb_manubelt
+			Geometry: Ortega
+
+		Texture: mv_gs_boiler_suit_trou
+			Geometry: Cargo_ship_worker02
+			Geometry: Cargo_ship_worker01
+
+		Texture: mv_gs_genericshoe03
+			Geometry: Cargo_ship_worker02
+			Geometry: Cargo_ship_worker01
+
+		Texture: mv_gs_boiler_suit_glove
+			Geometry: Cargo_ship_worker02
+			Geometry: Cargo_ship_worker01
+
+		Texture: mv_gs_generic_neck1w
+			Geometry: Cargo_ship_worker02
+			Geometry: Cargo_ship_worker01
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_01
+			Geometry: Ortegas_henchman_02
+			Geometry: Ortegas_henchman_03
+			Geometry: Ortegas_henchman_04
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_generic_full_arm03w
+			Geometry: Cargo_ship_worker02
+			Geometry: Cargo_ship_worker01
+
+		Texture: mv_gs_boiler_suit_sleave
+			Geometry: Cargo_ship_worker02
+			Geometry: Cargo_ship_worker01
+
+		Texture: mv_gs_boiler_suit_body
+			Geometry: Cargo_ship_worker02
+			Geometry: Cargo_ship_worker01
+
+		Texture: mv_gs_tshirt
+			Geometry: Cargo_ship_worker02
+			Geometry: Cargo_ship_worker01
+
+		Texture: mv_gs_boiler_suit_waistcoat
+			Geometry: Cargo_ship_worker01
+
+		Texture: mv_gs_gen_suitbody01
+			Geometry: Ortegas_henchman_06
+
+		Texture: mv_gs_generic_trou01
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_02
+
+		Texture: mv_gs_gen_suitarm01
+			Geometry: Ortegas_henchman_06
+
+		Texture: mv_gs_genericshoe01
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_01
+			Geometry: Ortegas_henchman_02
+			Geometry: Ortegas_henchman_03
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_default_spec01
+			Geometry: Ortegas_henchman_06
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_gs_gshirtfront03
+			Geometry: Ortegas_henchman_06
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gen_suitbody02
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_gs_generic_trou02
+			Geometry: Ortegas_henchman_01
+			Geometry: Ortegas_henchman_03
+
+		Texture: mv_gs_gen_suitarm02
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_gs_gshirtfront01
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_gs_generic_tie01
+			Geometry: Ortegas_henchman_01
+
+		Texture: mv_gs_gshirtbody01
+			Geometry: Ortegas_henchman_02
+
+		Texture: mv_gs_generic_full_arm02w
+			Geometry: Ortegas_henchman_02
+			Geometry: Ortegas_henchman_03
+			Geometry: Ortegas_henchman_04
+
+		Texture: skin_spec_01
+			Geometry: Ortegas_henchman_02
+
+		Texture: assasin_spec_01
+			Geometry: Ortegas_henchman_02
+			Geometry: Ortegas_henchman_03
+			Geometry: Assasin02
+
+		Texture: mv_gs_gshirtarm01s
+			Geometry: Ortegas_henchman_02
+
+		Texture: mv_gs_gshirtbody02
+			Geometry: Ortegas_henchman_03
+
+		Texture: mv_gs_gshirtarm02s
+			Geometry: Ortegas_henchman_03
+
+		Texture: mv_gs_gshirtbody03
+			Geometry: Ortegas_henchman_04
+
+		Texture: mv_gs_generic_trou03
+			Geometry: Ortegas_henchman_04
+
+		Texture: mv_gs_genericshoe04
+			Geometry: Ortegas_henchman_04
+			Geometry: container_ship_captain
+
+		Texture: mv_gs_gshirtarm03s
+			Geometry: Ortegas_henchman_04
+
+		Texture: mv_gs_cargoco_jacket
+			Geometry: container_ship_captain
+
+		Texture: mv_gs_cargoco_head
+			Geometry: container_ship_captain
+
+		Texture: mv_gs_cargoco_hand
+			Geometry: container_ship_captain
+
+		Texture: mv_gs_cargoco_hat
+			Geometry: container_ship_captain
+
+		Texture: mv_jbgs_gentrou2
+			Geometry: container_ship_captain
+
+		Texture: mv_gs_generic_shirt_front01
+			Geometry: container_ship_captain
+
+		Texture: cargo_chainwinch
+			Geometry: cargo_winch
+			Geometry: cargo_chain
+
+		Texture: brickwall
+			Geometry: safetylight
+
+		Texture: mv_gs_gen_suitbody05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_generic_trou05
+			Geometry: Juan_Henchman_04
+
+		Texture: mv_gs_gen_suitarm05
+			Geometry: Juan_Henchman_04
+
+		Texture: warning_light_grey
+			Geometry: safetycone
+
+		Texture: comptexts
+			Geometry: squareglaretext
+
+		Texture: engine_console
+			Geometry: engine_console
+
+		Texture: engine_green
+			Geometry: engine_console
+
+		Texture: wire1
+			Geometry: Container_crane
+
+		Texture: skyline
+			Geometry: Buildings
+
+		Texture: drugs_bag
+			Geometry: Drugs
+			Geometry: Drugs
+
+		Texture: m16
+			Geometry: m16
+
+		Texture: filing_cabinet
+			Geometry: ledger_brown
+
+		Texture: swes2
+			Geometry: SmithWes01
+
+		Texture: waterdamage
+			Geometry: waterdamage
+
+		Texture: muck1
+			Geometry: Muck1
+
+		Texture: mv_gs_assasinshirtbody02
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasinshirtarm02
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasintrou01
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasinshoe01
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasinface01
+			Geometry: Assasin02
+
+		Texture: mv_gs_assasinhairalpha
+			Geometry: Assasin02
+
+		Texture: psg
+			Geometry: PSG1
+
+		Texture: silvertable
+			Geometry: Drugs_table
+
+		Texture: table_env
+			Geometry: Drugs_table
+
+		Texture: FAB
+			Geometry: FirstAid
+

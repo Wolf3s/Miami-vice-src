@@ -1,0 +1,67 @@
+
+	Exporting Sound FX:
+		SFX Size 79624       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0030a.wav
+		SFX Size 40984       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0001a.wav
+		SFX Size 28444       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0002a.wav
+		SFX Size 69904       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0003a.wav
+		SFX Size 32944       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0004a.wav
+		SFX Size 29224       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0005a.wav
+		SFX Size 13444       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0006a.wav
+		SFX Size 48184       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0007a.wav
+		SFX Size 47284       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0008a.wav
+		SFX Size 61864       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0009a.wav
+		SFX Size 97324       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0010a.wav
+		SFX Size 115204      nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0011a.wav
+		SFX Size 88084       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0012a.wav
+		SFX Size 84784       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0013a.wav
+		SFX Size 76984       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0014a.wav
+		SFX Size 59524       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0015a.wav
+		SFX Size 85564       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0016a.wav
+		SFX Size 93484       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0017a.wav
+		SFX Size 98104       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0018a.wav
+		SFX Size 149044      nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0019a.wav
+		SFX Size 94624       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0020a.wav
+		SFX Size 98824       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0021a.wav
+		SFX Size 313384      nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0022a.wav
+		SFX Size 139324      nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0023a.wav
+		SFX Size 71044       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0024a.wav
+		SFX Size 35644       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0025a.wav
+		SFX Size 42424       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0026a.wav
+		SFX Size 91444       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0027a.wav
+		SFX Size 89644       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0028a.wav
+		SFX Size 48784       nChannels 1       Frequency 22050       16 Bit          Crockett_Incidental_G0029a.wav
+
+		Total Sound Size:    (2368 k) (2425140 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (192 bytes)
+		Size Of Asset Tree                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		0 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (0 bytes)
+
+
+		Total size in PUB (0 k) (320 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (0 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (0 bytes)
+
+
+	Geometry -> Texture Association:
+
+	Texture -> Geometry Association:
