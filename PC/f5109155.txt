@@ -1,0 +1,220 @@
+
+	Exporting Animations:
+		Size 4184            Aim_Idle_5004.anm
+		Size 7616            aim_over_crate_fire_5023.anm
+		Size 9392            aim_over_crate_to_crouch_5024.anm
+		Size 8088            Aim_Round_Corner_5007.anm
+		Size 6624            Aim_Round_Corner_left_back_5009.anm
+		Size 9980            Aim_Round_Corner_Right_5008.anm
+		Size 5940            Aim_Round_Corner_right_back_5010.anm
+		Size 8712            crouch_down_5026.anm
+		Size 8628            Crouch_Idle_5020.anm
+		Size 10704           crouch_to_aim_over_crate_5022.anm
+		Size 9056            crouch_up_5025.anm
+		Size 20872           Getup_5019.anm
+		Size 22680           heavy_damage_5018.anm
+		Size 10492           Idle_5002.anm
+		Size 8124            Idle_Exhausted_5005.anm
+		Size 17196           light_damage_5017.anm
+		Size 13840           Run_5001.anm
+		Size 10640           Sidestep_left_5012.anm
+		Size 12472           sidestep_right_5013.anm
+		Size 20236           summon_henchman_5015.anm
+		Size 40736           Taunt_5006.anm
+		Size 18780           Turn_To_Wall_5003.anm
+		Size 16428           Walk_5000.anm
+
+		Total Anim Size:    (294 k) (301420 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (372 bytes)
+			Hull: Hull:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 2: (0 k) (392 bytes)
+				Bone, Morph, AnimInstance Data 1: (13 k) (13344 bytes)
+
+				TotalSize: (13 k) (13956 bytes)
+
+		Size Of Asset Tree                     data (13       k) (13956        bytes) - Save Game (0        k) (88          bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (1        k) (1516         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		2 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (40 bytes)
+
+
+		Total size in PUB (15 k) (16012 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (88 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (88 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: Sylvia_coat
+			Texture: coat_bum
+			Texture: silvia_coat_spec01
+			Texture: mv_gs_sylvia_suit_pants
+			Texture: coat_sleave
+			Texture: silvia_coat_spec01
+			Texture: mv_jbgs_sylvia_face02
+			Texture: lip_spec_01
+			Texture: coat_belt
+			Texture: lip_spec_01
+			Texture: furbits
+			Texture: eyebrownl
+			Texture: testshader01
+			Texture: mv_gs_sylvia_suit_hairbun
+			Texture: coat_top
+			Texture: silvia_coat_spec01
+			Texture: mv_gs_sylvia_suit_skin
+			Texture: skin_spec_02
+			Texture: mv_gs_sylvia_suit_boots
+			Texture: testshader01
+			Texture: mv_jb_sylvia_suit_hand
+			Texture: skin_spec_02
+			Texture: coat_buckle
+			Texture: spec3
+			Texture: mv_jbgs_sylvia_face02
+			Texture: skin_spec_02
+			Texture: mouth_teeth
+			Texture: mv_jb_sylviahair
+			Texture: fur_alpha
+
+		Geometry: Sylvia_mesh
+			Texture: mv_gs_sylvia_suit_skirt
+			Texture: mv_gs_sylvia_suit_arms
+			Texture: silvia_suit_spec01
+			Texture: eyebrownl
+			Texture: testshader01
+			Texture: mv_gs_sylvia_suit_hairbun
+			Texture: mv_gs_sylvia_suit_pants
+			Texture: mv_jbgs_sylvia_face02
+			Texture: skin_spec_02
+			Texture: mouth_teeth
+			Texture: mv_gs_sylvia_suit_boots
+			Texture: testshader01
+			Texture: mv_gs_sylvia_suit_skin1
+			Texture: skin_spec_02
+			Texture: mv_jb_sylvia_suit_hand
+			Texture: skin_spec_02
+			Texture: mv_jbgs_sylvia_face02
+			Texture: lip_spec_01
+			Texture: mv_gs_sylvia_suit_top
+			Texture: silvia_suit_spec01
+			Texture: mv_jb_sylviahair
+
+		Geometry: Mesh_base
+			Texture: as_artfoyer_floor
+			Texture: reflect_shiny_stripesub_add
+
+
+	Texture -> Geometry Association:
+		Texture: coat_bum
+			Geometry: Sylvia_coat
+
+		Texture: silvia_coat_spec01
+			Geometry: Sylvia_coat
+
+		Texture: mv_gs_sylvia_suit_skin
+			Geometry: Sylvia_coat
+
+		Texture: skin_spec_02
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_boots
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: testshader01
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: coat_top
+			Geometry: Sylvia_coat
+
+		Texture: mv_jb_sylvia_suit_hand
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: mv_jbgs_sylvia_face02
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: mouth_teeth
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: mv_jb_sylviahair
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_hairbun
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: eyebrownl
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: coat_sleave
+			Geometry: Sylvia_coat
+
+		Texture: mv_gs_sylvia_suit_pants
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: lip_spec_01
+			Geometry: Sylvia_coat
+			Geometry: Sylvia_mesh
+
+		Texture: furbits
+			Geometry: Sylvia_coat
+
+		Texture: coat_belt
+			Geometry: Sylvia_coat
+
+		Texture: fur_alpha
+			Geometry: Sylvia_coat
+
+		Texture: coat_buckle
+			Geometry: Sylvia_coat
+
+		Texture: spec3
+			Geometry: Sylvia_coat
+
+		Texture: mv_gs_sylvia_suit_skirt
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_skin1
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_top
+			Geometry: Sylvia_mesh
+
+		Texture: silvia_suit_spec01
+			Geometry: Sylvia_mesh
+
+		Texture: mv_gs_sylvia_suit_arms
+			Geometry: Sylvia_mesh
+
+		Texture: as_artfoyer_floor
+			Geometry: Mesh_base
+
+		Texture: reflect_shiny_stripesub_add
+			Geometry: Mesh_base
+

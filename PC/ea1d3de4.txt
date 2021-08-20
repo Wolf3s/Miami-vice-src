@@ -1,0 +1,493 @@
+
+	Exporting Animations:
+		Size 244676          Crockett_Interrogate_9314.anm
+		Size 295780          Sylvia_Interrogated_9315.anm
+		Size 10064           Sylvia_Talking_9321.VNM
+		Size 8012            Crockett_Walk0001.hop
+		Size 61632           Tubbs_Interrogate_9239.anm
+		Size 57876           Gina_9340.anm
+		Size 109280          Crokcett_9b_9341.anm
+		Size 112844          Castillio_9349.anm
+		Size 166756          crockett_9348.anm
+		Size 103740          tubbs_9347.anm
+		Size 2268            Castillio_9354.VNM
+		Size 1608            crockett_talking_9356.VNM
+		Size 2784            sit_6003.anm
+
+		Total Anim Size:    (1149 k) (1177320 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (564 bytes)
+			Hull: Hull01:
+				Asset Tree: nLeaves 4, nBranches 9: (1 k) (1376 bytes)
+				StaticInstances 53: (6 k) (6784 bytes)
+				DynamicInstances 5: (0 k) (980 bytes)
+				Bone, Morph, AnimInstance Data 53: (22 k) (22656 bytes)
+				StaticLights 7: (0 k) (336 bytes)
+
+				TotalSize: (31 k) (32132 bytes)
+
+			Hull: sky:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (220 bytes)
+
+		Size Of Asset Tree                     data (31       k) (32352        bytes) - Save Game (0        k) (220         bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (3        k) (4000         bytes) - Save Game (0        k) (20          bytes)
+		Size Of Process Object                 data (0        k) (36           bytes) - Save Game (0        k) (4           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (600          bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		0 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (0 bytes)
+
+
+		Total size in PUB (36 k) (37680 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (244 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (244 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: plain_chair
+			Texture: brief_chair1
+
+		Geometry: filing_cabinet_large
+			Texture: filing_cabinet
+
+		Geometry: Crockett_skin_2
+			Texture: mv_jb_crockhandsb
+			Texture: skin_spec_02
+			Texture: mv_jb_crockshoe02
+			Texture: mv_jb_crockarm02
+			Texture: skin_spec_02
+			Texture: eyebl
+			Texture: testshader01
+			Texture: mv_jb_crockshoe02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_jb_crockt02b
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_crocktrews2b
+			Texture: subtlespec
+			Texture: mv_jb_crockholster
+			Texture: reflect_shiny_stripe_add
+			Texture: crock15b
+			Texture: skin_spec_02
+			Texture: mouth_teeth
+			Texture: mv_jb_crockholster
+			Texture: spec2
+			Texture: mv_jb_crockglassb
+			Texture: crock_hairb
+			Texture: skin_spec_02
+			Texture: crock_hairb
+			Texture: mv_jb_crockglassb
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: Tubbs_Body5
+			Texture: separatetrou
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod2
+			Texture: mv_gs_tubbs_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbshand01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbs_chest01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbsface04
+			Texture: mv_gs_tubbs_shirt01
+			Texture: testshader01
+			Texture: newshoe
+			Texture: testshader01
+			Texture: mv_gs_tubbsface04
+			Texture: skin_spec_02
+			Texture: tubbs_mouth_teeth
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: mv_gs_tubbs_shirt01
+			Texture: mv_gs_tubbs_new_alha_e3
+
+		Geometry: Cabinet_drawer
+			Texture: filing_cabinet
+
+		Geometry: skydome beachhouse
+			Texture: beach_sunset_blue
+
+		Geometry: poster
+			Texture: photo
+
+		Geometry: poster2
+			Texture: photo3
+
+		Geometry: poster3
+			Texture: photo2
+
+		Geometry: poster4
+			Texture: poster1
+
+		Geometry: police_table
+			Texture: table
+
+		Geometry: blind_closed
+			Texture: blinds
+
+		Geometry: chevron_yellow
+			Texture: chevron_yellow
+
+		Geometry: plant
+			Texture: lecorbusierhotel
+			Texture: plant_leaf01
+
+		Geometry: cup
+			Texture: cup
+
+		Geometry: ashtray
+			Texture: creamwall
+
+		Geometry: ciggy
+			Texture: ciggy
+
+		Geometry: printer
+			Texture: matrix_printer
+
+		Geometry: Printout
+			Texture: printout
+
+		Geometry: interview_room
+			Texture: walltop
+			Texture: wallbot
+			Texture: floor
+			Texture: skirting_black
+			Texture: lightstrip
+			Texture: pin_board
+			Texture: map_small
+			Texture: window1
+
+		Geometry: sideroom
+			Texture: walltop
+			Texture: wallbot
+			Texture: floor
+			Texture: skirting_black
+			Texture: pin_board
+			Texture: window1
+
+		Geometry: Castillio01
+			Texture: mv_gs_cstilloface02
+			Texture: skin_spec_02
+			Texture: mv_gs_castillo_tie
+			Texture: subtlespec
+			Texture: mv_gs_cstilloshoes01
+			Texture: testshader01
+			Texture: mv_gs_cstillobelt01
+			Texture: testshader01
+			Texture: mv_gs_hand_front01
+			Texture: skin_spec_02
+			Texture: mv_gs_cstilloshirt01
+			Texture: mv_gs_castillo_trou01
+			Texture: subtlespec
+			Texture: mv_gs_castillo_suitarm01
+			Texture: subtlespec
+			Texture: mouth_teeth
+			Texture: mv_gs_cstillo_hair01
+			Texture: skin_spec_02
+			Texture: mv_gs_castillo_suitbody01
+			Texture: subtlespec
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: hair2
+			Texture: mv_gs_tachea01
+
+		Geometry: Gallery_manager
+			Texture: mv_gs_gallery01_shirbody02
+			Texture: mv_gs_gallery_face01
+			Texture: skin_spec_02
+			Texture: mv_gs_gallery01_shirback01
+			Texture: shinyback
+			Texture: mv_gs_gallery_shoe01
+			Texture: testshader01
+			Texture: eyebl
+			Texture: testshader01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_gallery_trousers01
+			Texture: mv_gs_gallery_shirtarm02
+			Texture: mouth_teeth
+			Texture: mv_gs_gallery01_hairalpha01
+			Texture: skin_spec_02
+
+		Geometry: windowreflection
+			Texture: windowhq
+			Texture: spec2
+
+
+	Texture -> Geometry Association:
+		Texture: brief_chair1
+			Geometry: plain_chair
+
+		Texture: filing_cabinet
+			Geometry: filing_cabinet_large
+			Geometry: Cabinet_drawer
+
+		Texture: mv_jb_crockhandsb
+			Geometry: Crockett_skin_2
+
+		Texture: skin_spec_02
+			Geometry: Crockett_skin_2
+			Geometry: Tubbs_Body5
+			Geometry: Castillio01
+			Geometry: Gallery_manager
+
+		Texture: mv_jb_crockholster
+			Geometry: Crockett_skin_2
+
+		Texture: spec2
+			Geometry: Crockett_skin_2
+			Geometry: windowreflection
+
+		Texture: mv_jb_crockglassb
+			Geometry: Crockett_skin_2
+
+		Texture: crock_hairb
+			Geometry: Crockett_skin_2
+
+		Texture: mouth_teeth
+			Geometry: Crockett_skin_2
+			Geometry: Castillio01
+			Geometry: Gallery_manager
+
+		Texture: crock15b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crocktrews2b
+			Geometry: Crockett_skin_2
+
+		Texture: subtlespec
+			Geometry: Crockett_skin_2
+			Geometry: Castillio01
+
+		Texture: mv_jb_crockt02b
+			Geometry: Crockett_skin_2
+
+		Texture: crok_vest_spec_01
+			Geometry: Crockett_skin_2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_jb_crockarm02
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockshoe02
+			Geometry: Crockett_skin_2
+
+		Texture: eyebl
+			Geometry: Crockett_skin_2
+			Geometry: Gallery_manager
+
+		Texture: testshader01
+			Geometry: Crockett_skin_2
+			Geometry: Tubbs_Body5
+			Geometry: Castillio01
+			Geometry: Gallery_manager
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Crockett_skin_2
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Crockett_skin_2
+
+		Texture: separatetrou
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbsface04
+			Geometry: Tubbs_Body5
+
+		Texture: tubbs_mouth_teeth
+			Geometry: Tubbs_Body5
+
+		Texture: eye_dkbrown
+			Geometry: Tubbs_Body5
+			Geometry: Castillio01
+
+		Texture: newshoe
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_new_alha_e3
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_shirt01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chest01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chain01
+			Geometry: Tubbs_Body5
+
+		Texture: reflect_shiny_stripe_mod2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitbody01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitarm01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbshand01
+			Geometry: Tubbs_Body5
+
+		Texture: walltop
+			Geometry: interview_room
+			Geometry: sideroom
+
+		Texture: wallbot
+			Geometry: interview_room
+			Geometry: sideroom
+
+		Texture: skirting_black
+			Geometry: interview_room
+			Geometry: sideroom
+
+		Texture: floor
+			Geometry: interview_room
+			Geometry: sideroom
+
+		Texture: window1
+			Geometry: interview_room
+			Geometry: sideroom
+
+		Texture: map_small
+			Geometry: interview_room
+
+		Texture: pin_board
+			Geometry: interview_room
+			Geometry: sideroom
+
+		Texture: lightstrip
+			Geometry: interview_room
+
+		Texture: beach_sunset_blue
+			Geometry: skydome beachhouse
+
+		Texture: photo
+			Geometry: poster
+
+		Texture: photo3
+			Geometry: poster2
+
+		Texture: photo2
+			Geometry: poster3
+
+		Texture: poster1
+			Geometry: poster4
+
+		Texture: table
+			Geometry: police_table
+
+		Texture: blinds
+			Geometry: blind_closed
+
+		Texture: chevron_yellow
+			Geometry: chevron_yellow
+
+		Texture: plant_leaf01
+			Geometry: plant
+
+		Texture: lecorbusierhotel
+			Geometry: plant
+
+		Texture: cup
+			Geometry: cup
+
+		Texture: ciggy
+			Geometry: ciggy
+
+		Texture: creamwall
+			Geometry: ashtray
+
+		Texture: matrix_printer
+			Geometry: printer
+
+		Texture: printout
+			Geometry: Printout
+
+		Texture: mv_gs_cstilloface02
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstillo_hair01
+			Geometry: Castillio01
+
+		Texture: mv_gs_tachea01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_suitbody01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_suitarm01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_trou01
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstilloshirt01
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstilloshoes01
+			Geometry: Castillio01
+
+		Texture: mv_gs_castillo_tie
+			Geometry: Castillio01
+
+		Texture: mv_gs_cstillobelt01
+			Geometry: Castillio01
+
+		Texture: mv_gs_hand_front01
+			Geometry: Castillio01
+
+		Texture: hair2
+			Geometry: Castillio01
+
+		Texture: mv_gs_gallery01_shirbody02
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery_shirtarm02
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery_trousers01
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery01_hairalpha01
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery_shoe01
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery01_shirback01
+			Geometry: Gallery_manager
+
+		Texture: shinyback
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery_face01
+			Geometry: Gallery_manager
+
+		Texture: windowhq
+			Geometry: windowreflection
+

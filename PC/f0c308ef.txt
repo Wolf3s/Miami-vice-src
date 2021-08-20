@@ -1,0 +1,808 @@
+
+	Exporting Animations:
+		Size 9024            Henchman_Aim_Round_Corner_Left_2216.ANM
+		Size 1504            Henchman_Aim_Round_Corner_Left_Idle_2222.ANM
+		Size 9104            Henchman_Aim_Round_Corner_Left_Stepback_2223.ANM
+		Size 10528           Henchman_Aim_Round_Corner_Right_2217.ANM
+		Size 1504            Henchman_Aim_Round_Corner_Right_Idle_2224.ANM
+		Size 10448           Henchman_Aim_Round_Corner_Right_Stepback_2225.ANM
+		Size 6256            Henchman_Aim_Sniper_Kneel_2277.ANM
+		Size 9424            Henchman_Aim_Sniper_Standing_2276.ANM
+		Size 4460            Henchman_Aim_Stand_to_kneel_2279.ANM
+		Size 10236           Henchman_Crouched_Run_2239.ANM
+		Size 2736            Henchman_Cuffed_Idle_2238.ANM
+		Size 18536           Henchman_damage_explosion_heavy_2282.ANM
+		Size 1504            Henchman_damage_explosion_heavy_dead_2286.ANM
+		Size 19764           Henchman_damage_explosion_light_2283.ANM
+		Size 1504            Henchman_damage_explosion_light_dead_2285.ANM
+		Size 23288           Henchman_damage_explosion_light_getup_2284.ANM
+		Size 15660           Henchman_Damage_head_2220.ANM
+		Size 10144           Henchman_Damage_Low_2270.ANM
+		Size 1504            Henchman_Dead_2218.ANM
+		Size 2032            Henchman_Dead_2266.ANM
+		Size 14524           Henchman_Die_2206.ANM
+		Size 16264           Henchman_Die_2265.ANM
+		Size 18188           Henchman_die_back_2275.ANM
+		Size 6668            Henchman_die_balcony_backward_fall_2288.ANM
+		Size 24140           Henchman_die_balcony_backward_hit_2287.ANM
+		Size 9724            Henchman_die_balcony_backward_land_2289.ANM
+		Size 5528            Henchman_die_balcony_forward_fall_2291.ANM
+		Size 26920           Henchman_die_balcony_forward_hit_2292.ANM
+		Size 7360            Henchman_die_balcony_forward_land_2290.ANM
+		Size 17956           Henchman_Die_Chest_2423.ANM
+		Size 1708            Henchman_Die_Chest_Dead_2424.ANM
+		Size 5404            Henchman_die_fall_backwards_fall_2294.ANM
+		Size 13668           Henchman_die_fall_backwards_hit_2295.ANM
+		Size 4724            Henchman_die_fall_backwards_land_2293.ANM
+		Size 16684           Henchman_die_fall_forward_2272.ANM
+		Size 1504            Henchman_die_fall_forward_fall_2273.ANM
+		Size 5732            Henchman_die_fall_forward_land_2271.ANM
+		Size 25444           Henchman_die_fall_to_knees_2274.ANM
+		Size 28516           Henchman_Die_Knees_2421.ANM
+		Size 1712            Henchman_Die_Knees_Dead_2422.ANM
+		Size 24064           Henchman_Dive_For_Cover_2304.ANM
+		Size 24320           Henchman_dive_roll_left_2228.ANM
+		Size 23336           Henchman_dive_roll_right_2227.ANM
+		Size 15768           Henchman_extended_idle_2219.ANM
+		Size 7340            Henchman_Fire_Grenade_2420.ANM
+		Size 2868            Henchman_Fire_Sniper_rifle_2278.ANM
+		Size 28716           Henchman_getting_cuffed_2234.ANM
+		Size 9052            Henchman_Hands_Up_2235.ANM
+		Size 7044            Henchman_Hands_Up_Idle_2236.ANM
+		Size 9564            Henchman_Hands_Up_Pull_Gun_2237.ANM
+		Size 6548            Henchman_Idle_2200.ANM
+		Size 6368            Henchman_idle_against_wall_2226.ANM
+		Size 14804           Henchman_idle_sitting_asleep_2301.ANM
+		Size 20848           Henchman_idle_sitting_asleep_wakeup_2302.ANM
+		Size 11280           Henchman_Idle_Sitting_Desk_2300.ANM
+		Size 30112           Henchman_Idle_Smoking_2296.ANM
+		Size 10880           Henchman_Idle_Smoking_Turn_Round_2297.ANM
+		Size 25680           Henchman_Jump_Over_Crate_2303.ANM
+		Size 8612            Henchman_Kick_Door_2229.ANM
+		Size 4716            Henchman_Kneel_2203.ANM
+		Size 5308            Henchman_Kneel_aim_to_stand_2281.ANM
+		Size 1504            Henchman_Kneel_Idle_2204.ANM
+		Size 4452            Henchman_Kneel_Stand_2205.ANM
+		Size 7716            Henchman_Push_button_2402.ANM
+		Size 9700            Henchman_Run_2201.ANM
+		Size 8208            Henchman_Sidestep_Left_2207.ANM
+		Size 11608           Henchman_Sidestep_Right_2208.ANM
+		Size 29828           Henchman_Slide_Down_Ladder_2305.ANM
+		Size 6936            henchman_solo_arrested_2240.ANM
+		Size 3336            Henchman_solo_arrested_idle_2241.ANM
+		Size 6552            Henchman_Strafe_Backward_2209.ANM
+		Size 8376            Henchman_Strafe_Forward_2210.ANM
+		Size 6872            Henchman_Strafe_Left_2211.ANM
+		Size 7828            Henchman_Strafe_Right_2212.ANM
+		Size 5340            Henchman_Straffe_idle_2307.ANM
+		Size 10232           Henchman_Turn_2403.ANM
+		Size 16028           Henchman_Turn_Desk_Over_Into_Duck_2299.ANM
+		Size 3440            Henchman_Upperbody_Aim_Rifle_2253.ANM
+		Size 3540            Henchman_Upperbody_Aim_Shotgun_2260.ANM
+		Size 1864            Henchman_Upperbody_Aim_Uzi_2215.ANM
+		Size 5888            Henchman_Upperbody_Damage_2264.ANM
+		Size 3272            Henchman_Upperbody_equip_2400.ANM
+		Size 1732            henchman_upperbody_Fire_Rifle_2252.ANM
+		Size 2688            Henchman_Upperbody_Fire_Shotgun_2261.ANM
+		Size 1832            Henchman_Upperbody_Fire_Uzi_2213.ANM
+		Size 4092            Henchman_Upperbody_Hold_Rifle_2259.ANM
+		Size 3804            juan_aim_idle_2032.ANM
+		Size 9892            Juan_Crouch_Aim_To_Down_2015.ANM
+		Size 12172           Juan_Crouch_Down_2010.ANM
+		Size 5704            Juan_crouch_fire_2014.ANM
+		Size 10764           Juan_Crouch_Idle_2011.ANM
+		Size 10176           Juan_crouch_to_aim_2013.ANM
+		Size 11772           Juan_Crouch_up_2012.ANM
+		Size 25372           Juan_Damage_Heavy_2027.ANM
+		Size 20636           Juan_Damage_Light_2008.ANM
+		Size 3048            Juan_Fire_2016.ANM
+		Size 25588           Juan_Getup_2033.ANM
+		Size 8700            Juan_Idle2002.ANM
+		Size 6840            Juan_Idle_Damaged_2018.ANM
+		Size 7088            Juan_Left_Aim_Round_Corner_2020.ANM
+		Size 7980            Juan_Left_Aim_Round_Corner_Back_2021.ANM
+		Size 2688            Juan_Left_Aim_Round_Corner_Fire_2023.ANM
+		Size 2148            Juan_Left_Aim_Round_Corner_Idle_2022.ANM
+		Size 11656           Juan_Reload_2019.ANM
+		Size 8888            Juan_Right_Aim_Round_Corner_2024.ANM
+		Size 9012            Juan_Right_Aim_Round_Corner_Back_2025.ANM
+		Size 2440            Juan_Right_Aim_Round_Corner_Fire_2026.ANM
+		Size 10580           Juan_Run_2028.ANM
+		Size 11036           Juan_sidestep_left_2029.ANM
+		Size 12980           Juan_sidestep_right_2030.ANM
+		Size 23556           Juan_Summon_Henchman_2031.ANM
+		Size 18564           Juan_Taunt_2009.ANM
+		Size 17904           Juan_Turn_To_Wall_2017.ANM
+		Size 11088           Juan_walk2000.ANM
+		Size 3308            Henchman_Upperbody_Hold_Shotgun_2263.ANM
+		Size 1864            Henchman_Upperbody_Hold_Uzi_2256.ANM
+		Size 6876            Henchman_Upperbody_look_2221.ANM
+		Size 6876            Henchman_Upperbody_look_2231.ANM
+		Size 11816           Henchman_Upperbody_Reload_Rifle_2251.ANM
+		Size 7840            Henchman_Upperbody_Reload_Shotgun_2262.ANM
+		Size 8744            Henchman_Upperbody_Reload_Uzi_2214.ANM
+		Size 3616            Henchman_Upperbody_ukequip_2401.ANM
+		Size 10792           Henchman_Walk_2202.ANM
+
+		Total Anim Size:    (1235 k) (1265428 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (2 k) (2712 bytes)
+			Hull: Hull_00:
+				Asset Tree: nLeaves 4, nBranches 2: (0 k) (592 bytes)
+				StaticInstances 8: (1 k) (1024 bytes)
+				DynamicInstances 16: (3 k) (3136 bytes)
+				Bone, Morph, AnimInstance Data 8: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 4: (0 k) (304 bytes)
+
+				TotalSize: (4 k) (5056 bytes)
+
+			Hull: PickUpRoom:
+				Asset Tree: nLeaves 17, nBranches 10: (2 k) (2684 bytes)
+				StaticInstances 19: (2 k) (2432 bytes)
+				DynamicInstances 102: (19 k) (19992 bytes)
+				Bone, Morph, AnimInstance Data 19: (17 k) (17688 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 2: (0 k) (136 bytes)
+
+				TotalSize: (41 k) (42932 bytes)
+
+			Hull: PickUpCorridor:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 11: (1 k) (1408 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 11: (0 k) (0 bytes)
+
+				TotalSize: (1 k) (1704 bytes)
+
+			Hull: StaircaseRoom:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 9: (1 k) (1152 bytes)
+				DynamicInstances 4: (0 k) (784 bytes)
+				Bone, Morph, AnimInstance Data 9: (0 k) (0 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 4: (0 k) (272 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+
+				TotalSize: (2 k) (2580 bytes)
+
+			Hull: StaircaseCorridor:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+
+				TotalSize: (0 k) (492 bytes)
+
+			Hull: WaterBox:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 1: (0 k) (196 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (416 bytes)
+
+			Hull: PoolRoom:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 9: (1 k) (1152 bytes)
+				DynamicInstances 35: (6 k) (6860 bytes)
+				Bone, Morph, AnimInstance Data 9: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 2: (0 k) (152 bytes)
+
+				TotalSize: (8 k) (8460 bytes)
+
+			Hull: PoolEntrance:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (220 bytes)
+
+			Hull: PoolCorridor:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (220 bytes)
+
+			Hull: ClimbRoom:
+				Asset Tree: nLeaves 4, nBranches 2: (0 k) (592 bytes)
+				StaticInstances 4: (0 k) (512 bytes)
+				DynamicInstances 14: (2 k) (2744 bytes)
+				Bone, Morph, AnimInstance Data 4: (0 k) (0 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 2: (0 k) (136 bytes)
+				StaticAABBTriggers 3: (0 k) (156 bytes)
+				DynamicAABBTriggers 0: (0 k) (0 bytes)
+				FXInstances 1: (0 k) (172 bytes)
+
+				TotalSize: (4 k) (4312 bytes)
+
+			Hull: ClimbRoomCorridor:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 2: (0 k) (152 bytes)
+
+				TotalSize: (0 k) (372 bytes)
+
+			Hull: BLOCK ROOM:
+				Asset Tree: nLeaves 2, nBranches 1: (0 k) (296 bytes)
+				StaticInstances 5: (0 k) (640 bytes)
+				DynamicInstances 5: (0 k) (980 bytes)
+				Bone, Morph, AnimInstance Data 5: (0 k) (0 bytes)
+
+				TotalSize: (1 k) (1916 bytes)
+
+			Hull: Additional_Left:
+				Asset Tree: nLeaves 6, nBranches 3: (0 k) (888 bytes)
+				StaticInstances 15: (1 k) (1920 bytes)
+				DynamicInstances 4: (0 k) (784 bytes)
+				Bone, Morph, AnimInstance Data 15: (17 k) (18048 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 12: (0 k) (912 bytes)
+
+				TotalSize: (22 k) (22552 bytes)
+
+			Hull: Additional_Right:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 2: (0 k) (256 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 2: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (348 bytes)
+
+		Size Of Asset Tree                     data (89       k) (91580        bytes) - Save Game (8        k) (8940        bytes)
+		Size Of Points And Point Group         data (0        k) (280          bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (216          bytes) - Save Game (0        k) (24          bytes)
+		Size Of Portal Data                    data (4        k) (4472         bytes) - Save Game (0        k) (168         bytes)
+		Size Of Nav Mesh                       data (8        k) (8192         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (576          bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (3        k) (3592         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (168          bytes) - Save Game (0        k) (88          bytes)
+		Size Of Animation Banks                data (3        k) (4008         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		96 User Data elements
+		116 User Data Pointer Fixups
+		Sizeof user data (4 k) (4700 bytes)
+
+
+		Total size in PUB (118 k) (121088 bytes)
+
+
+		Editor Assets Save Game Size (9 k) (9220 bytes)
+		User Data Save Game Size (0 k) (328 bytes)
+		Save Game Total size (9 k) (9548 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: water
+			Texture: water
+
+		Geometry: srairs00
+			Texture: marble_tile~b
+
+		Geometry: stairs03
+			Texture: marble_tile~b
+
+		Geometry: srairs02
+			Texture: marble_tile~b
+
+		Geometry: stairs01
+			Texture: marble_tile~b
+
+		Geometry: room4a
+			Texture: marble_tile~b
+
+		Geometry: Floor
+			Texture: marble_tile~b
+
+		Geometry: Pool
+			Texture: marble_tile~b
+
+		Geometry: Doorway
+			Texture: marble_tile~b
+
+		Geometry: Back Wall
+			Texture: marble_tile~b
+
+		Geometry: room2
+			Texture: marble_tile~b
+			Texture: faceflag1
+
+		Geometry: room1
+			Texture: marble_tile~b
+
+		Geometry: corridor4
+			Texture: marble_tile~b
+
+		Geometry: corridor3
+			Texture: marble_tile~b
+
+		Geometry: corridor2
+			Texture: marble_tile~b
+
+		Geometry: corridor1
+			Texture: marble_tile~b
+
+		Geometry: centralroom
+			Texture: marble_tile~b
+
+		Geometry: centralroom02
+			Texture: marble_tile~b
+
+		Geometry: centralroom01
+			Texture: marble_tile~b
+
+		Geometry: centralroom03
+			Texture: marble_tile~b
+
+		Geometry: room5
+			Texture: marble_tile~b
+
+		Geometry: FirstAid
+			Texture: FAB
+
+		Geometry: Gunclip
+			Texture: gunclip
+
+		Geometry: key
+			Texture: key
+
+		Geometry: ouzi
+			Texture: m10
+
+		Geometry: SmithWes01
+			Texture: swes2
+
+		Geometry: PSG1
+			Texture: psg
+
+		Geometry: berrettasd
+			Texture: beretta92
+
+		Geometry: shotgun
+			Texture: shgun
+
+		Geometry: remington
+			Texture: 12gauge
+
+		Geometry: magnum440
+			Texture: magnum440
+
+		Geometry: mac10
+			Texture: m10
+
+		Geometry: swat
+			Texture: m16
+
+		Geometry: m16
+			Texture: m16
+
+		Geometry: m79b
+			Texture: m79
+
+		Geometry: bren 
+			Texture: brenten2
+
+		Geometry: berretta
+			Texture: beretta92
+
+		Geometry: sculpt2
+			Texture: gal_artblk_8
+			Texture: spec2
+
+		Geometry: sculpt2_D1
+			Texture: gal_artblk_81
+			Texture: gal_spec_8
+
+		Geometry: sculpt2_D2
+			Texture: gal_artblk_81
+			Texture: gal_spec_8
+
+		Geometry: sculpt2_D3
+			Texture: gal_artblk_81
+			Texture: gal_spec_8
+
+		Geometry: sculpt2_D4
+			Texture: gal_artblk_81
+			Texture: gal_spec_8
+
+		Geometry: sculpt2_D5
+			Texture: gal_artblk_81
+			Texture: gal_spec_8
+
+		Geometry: sculpt2_D6
+			Texture: gal_artblk_81
+			Texture: gal_spec_8
+
+		Geometry: M60
+			Texture: m60
+
+		Geometry: Juan_Henchman_01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody01
+			Texture: mv_gs_generic_trou02
+			Texture: mv_gs_gen_suitarm01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gsuitvest02
+
+		Geometry: Door_Cabin
+			Texture: door_cabin
+
+		Geometry: 1-1-1_box
+			Texture: as_black_railgallery
+
+		Geometry: metal_ladder
+			Texture: metal_pipe
+
+		Geometry: GlassPane
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard01
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard02
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard03
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard04
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard05
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard06
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard07
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard08
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard09
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard10
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard11
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard12
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard13
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard14
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard15
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard16
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard17
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard18
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard19
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard20
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard21
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard22
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard23
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard24
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard25
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard26
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard27
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard28
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard29
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard30
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard31
+			Texture: beach_glass_windows
+
+		Geometry: GlassShard32
+			Texture: beach_glass_windows
+
+		Geometry: Uzi_9mm
+			Texture: uzi
+
+		Geometry: Juan
+			Texture: mv_gs_juan_shirt01
+			Texture: testshader01
+			Texture: mv_gs_juan_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juan_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juanhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_juanface
+			Texture: mv_gs_juan_suittrou01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juan_chest01
+			Texture: skin_spec_02
+			Texture: eyegreenl
+			Texture: lip_spec_01
+			Texture: mv_gs_juanhair01
+			Texture: mv_gs_juanshoe01
+			Texture: lip_spec_01
+			Texture: mv_gs_juancross01
+			Texture: reflect_shiny_stripe_mod
+			Texture: mouth_teeth
+			Texture: mv_gs_juanface
+			Texture: skin_spec_02
+			Texture: mv_gs_juanhair_alpha01
+			Texture: mv_gs_juanhair_alpha02
+
+
+	Texture -> Geometry Association:
+		Texture: water
+			Geometry: water
+
+		Texture: marble_tile~b
+			Geometry: srairs00
+			Geometry: stairs03
+			Geometry: srairs02
+			Geometry: stairs01
+			Geometry: room4a
+			Geometry: Floor
+			Geometry: Pool
+			Geometry: Doorway
+			Geometry: Back Wall
+			Geometry: room2
+			Geometry: room1
+			Geometry: corridor4
+			Geometry: corridor3
+			Geometry: corridor2
+			Geometry: corridor1
+			Geometry: centralroom
+			Geometry: centralroom02
+			Geometry: centralroom01
+			Geometry: centralroom03
+			Geometry: room5
+
+		Texture: faceflag1
+			Geometry: room2
+
+		Texture: FAB
+			Geometry: FirstAid
+
+		Texture: gunclip
+			Geometry: Gunclip
+
+		Texture: key
+			Geometry: key
+
+		Texture: m10
+			Geometry: ouzi
+			Geometry: mac10
+
+		Texture: swes2
+			Geometry: SmithWes01
+
+		Texture: psg
+			Geometry: PSG1
+
+		Texture: beretta92
+			Geometry: berrettasd
+			Geometry: berretta
+
+		Texture: shgun
+			Geometry: shotgun
+
+		Texture: 12gauge
+			Geometry: remington
+
+		Texture: magnum440
+			Geometry: magnum440
+
+		Texture: m16
+			Geometry: swat
+			Geometry: m16
+
+		Texture: m79
+			Geometry: m79b
+
+		Texture: brenten2
+			Geometry: bren 
+
+		Texture: gal_artblk_8
+			Geometry: sculpt2
+
+		Texture: spec2
+			Geometry: sculpt2
+
+		Texture: gal_spec_8
+			Geometry: sculpt2_D1
+			Geometry: sculpt2_D2
+			Geometry: sculpt2_D3
+			Geometry: sculpt2_D4
+			Geometry: sculpt2_D5
+			Geometry: sculpt2_D6
+
+		Texture: gal_artblk_81
+			Geometry: sculpt2_D1
+			Geometry: sculpt2_D2
+			Geometry: sculpt2_D3
+			Geometry: sculpt2_D4
+			Geometry: sculpt2_D5
+			Geometry: sculpt2_D6
+
+		Texture: m60
+			Geometry: M60
+
+		Texture: mv_gs_generic_neck1w
+			Geometry: Juan_Henchman_01
+
+		Texture: skin_spec_02
+			Geometry: Juan_Henchman_01
+			Geometry: Juan
+
+		Texture: mv_gs_gen_suitbody01
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_generic_trou02
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_gen_suitarm01
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_genericshoe01
+			Geometry: Juan_Henchman_01
+
+		Texture: testshader01
+			Geometry: Juan_Henchman_01
+			Geometry: Juan
+
+		Texture: mv_gs_gsuitvest02
+			Geometry: Juan_Henchman_01
+
+		Texture: door_cabin
+			Geometry: Door_Cabin
+
+		Texture: as_black_railgallery
+			Geometry: 1-1-1_box
+
+		Texture: metal_pipe
+			Geometry: metal_ladder
+
+		Texture: beach_glass_windows
+			Geometry: GlassPane
+			Geometry: GlassShard01
+			Geometry: GlassShard02
+			Geometry: GlassShard03
+			Geometry: GlassShard04
+			Geometry: GlassShard05
+			Geometry: GlassShard06
+			Geometry: GlassShard07
+			Geometry: GlassShard08
+			Geometry: GlassShard09
+			Geometry: GlassShard10
+			Geometry: GlassShard11
+			Geometry: GlassShard12
+			Geometry: GlassShard13
+			Geometry: GlassShard14
+			Geometry: GlassShard15
+			Geometry: GlassShard16
+			Geometry: GlassShard17
+			Geometry: GlassShard18
+			Geometry: GlassShard19
+			Geometry: GlassShard20
+			Geometry: GlassShard21
+			Geometry: GlassShard22
+			Geometry: GlassShard23
+			Geometry: GlassShard24
+			Geometry: GlassShard25
+			Geometry: GlassShard26
+			Geometry: GlassShard27
+			Geometry: GlassShard28
+			Geometry: GlassShard29
+			Geometry: GlassShard30
+			Geometry: GlassShard31
+			Geometry: GlassShard32
+
+		Texture: uzi
+			Geometry: Uzi_9mm
+
+		Texture: mv_gs_juan_shirt01
+			Geometry: Juan
+
+		Texture: mv_gs_juanshoe01
+			Geometry: Juan
+
+		Texture: lip_spec_01
+			Geometry: Juan
+
+		Texture: mouth_teeth
+			Geometry: Juan
+
+		Texture: mv_gs_juancross01
+			Geometry: Juan
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Juan
+
+		Texture: mv_gs_juanface
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair_alpha01
+			Geometry: Juan
+
+		Texture: eyegreenl
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suitbody01
+			Geometry: Juan
+
+		Texture: crok_vest_spec_01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suitarm01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhand01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suittrou01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_chest01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair_alpha02
+			Geometry: Juan
+

@@ -1,0 +1,1712 @@
+
+	Exporting Animations:
+		Size 7400            Henchman_Aim_Round_Corner_Left_2216.hop
+		Size 1300            Henchman_Aim_Round_Corner_Left_Idle_2222.hop
+		Size 7444            Henchman_Aim_Round_Corner_Left_Stepback_2223.hop
+		Size 5500            tubbs_strafe_forward_1050.hop
+		Size 5860            Crockett_Strafe_Forward_0043.hop
+		Size 8012            Crockett_Walk0001.hop
+		Size 9316            tubbs_walk1001.hop
+		Size 8624            Henchman_Aim_Round_Corner_Right_2217.hop
+		Size 3044            Crockett_Idle0005.hop
+		Size 8444            crockett_open_door_0120.hop
+		Size 3572            tubbs_idle1005.hop
+		Size 1292            Henchman_Aim_Round_Corner_Right_Idle_2224.hop
+		Size 8764            Henchman_Aim_Round_Corner_Right_Stepback_2225.hop
+		Size 1836            Henchman_Aim_Sniper_Kneel_2277.hop
+		Size 1512            Henchman_Aim_Sniper_Standing_2276.hop
+		Size 4460            Henchman_Aim_Stand_to_kneel_2279.anm
+		Size 6956            Henchman_Crouched_Run_2239.hop
+		Size 1436            Henchman_Cuffed_Idle_2238.hop
+		Size 15140           Henchman_damage_explosion_heavy_2282.hop
+		Size 1292            Henchman_damage_explosion_heavy_dead_2286.hop
+		Size 15636           Henchman_damage_explosion_light_2283.hop
+		Size 1292            Henchman_damage_explosion_light_dead_2285.hop
+		Size 17916           Henchman_damage_explosion_light_getup_2284.hop
+		Size 11792           Henchman_Damage_head_2220.hop
+		Size 10248           Henchman_Damage_Low_2270.hop
+		Size 1308            Henchman_Dead_2218.hop
+		Size 1360            Henchman_Dead_2266.hop
+		Size 13204           Henchman_Die_2206.hop
+		Size 12636           Henchman_Die_2265.hop
+		Size 14552           Henchman_die_back_2275.hop
+		Size 19228           Henchman_die_balcony_backward_hit_2287.hop
+		Size 4788            Henchman_die_balcony_forward_fall_2291.hop
+		Size 21888           Henchman_die_balcony_forward_hit_2292.hop
+		Size 5880            Henchman_die_balcony_forward_land_2290.hop
+		Size 3512            Henchman_die_fall_backwards_fall_2294.hop
+		Size 10884           Henchman_die_fall_backwards_hit_2295.hop
+		Size 3560            Henchman_die_fall_backwards_land_2293.hop
+		Size 12480           Henchman_die_fall_forward_2272.hop
+		Size 1300            Henchman_die_fall_forward_fall_2273.hop
+		Size 4444            Henchman_die_fall_forward_land_2271.hop
+		Size 19384           Henchman_die_fall_to_knees_2274.hop
+		Size 18336           Henchman_Dive_For_Cover_2304.hop
+		Size 19364           Henchman_dive_roll_left_2228.hop
+		Size 17996           Henchman_dive_roll_right_2227.hop
+		Size 6576            Henchman_extended_idle_2219.hop
+		Size 2380            Henchman_Fire_Sniper_rifle_2278.hop
+		Size 23384           Henchman_getting_cuffed_2234.hop
+		Size 7700            Henchman_Hands_Up_2235.hop
+		Size 2648            Henchman_Hands_Up_Idle_2236.hop
+		Size 7632            Henchman_Hands_Up_Pull_Gun_2237.hop
+		Size 2572            Henchman_Idle_2200.hop
+		Size 3592            Henchman_idle_against_wall_2226.hop
+		Size 88392           Assasin_aim_hit_9027.anm
+		Size 3564            Henchman_idle_sitting_asleep_2301.hop
+		Size 14092           Henchman_idle_sitting_asleep_wakeup_2302.hop
+		Size 1764            Henchman_Idle_Sitting_Desk_2300.hop
+		Size 8520            Henchman_Idle_Smoking_2296.hop
+		Size 10880           Henchman_Idle_Smoking_Turn_Round_2297.anm
+		Size 20216           Henchman_Jump_Over_Crate_2303.hop
+		Size 6532            Henchman_Kick_Door_2229.hop
+		Size 3596            Henchman_Kneel_2203.hop
+		Size 5308            Henchman_Kneel_aim_to_stand_2281.anm
+		Size 1304            Henchman_Kneel_Idle_2204.hop
+		Size 3676            Henchman_Kneel_Stand_2205.hop
+		Size 7040            Henchman_Run_2201.hop
+		Size 5492            Henchman_Sidestep_Left_2207.hop
+		Size 6744            Henchman_Sidestep_Right_2208.hop
+		Size 23548           Henchman_Slide_Down_Ladder_2305.hop
+		Size 5084            henchman_solo_arrested_2240.hop
+		Size 1940            Henchman_solo_arrested_idle_2241.hop
+		Size 4512            Henchman_Strafe_Backward_2209.hop
+		Size 4956            Henchman_Strafe_Forward_2210.hop
+		Size 5072            Henchman_Strafe_Left_2211.hop
+		Size 5088            Henchman_Strafe_Right_2212.hop
+		Size 5340            Henchman_Straffe_idle_2307.anm
+		Size 11660           Henchman_Turn_Desk_Over_Into_Duck_2299.hop
+		Size 3440            Henchman_Upperbody_Aim_Rifle_2253.anm
+		Size 3540            Henchman_Upperbody_Aim_Shotgun_2260.anm
+		Size 1864            Henchman_Upperbody_Aim_Uzi_2215.anm
+		Size 5888            Henchman_Upperbody_Damage_2264.anm
+		Size 1732            henchman_upperbody_Fire_Rifle_2252.anm
+		Size 2688            Henchman_Upperbody_Fire_Shotgun_2261.anm
+		Size 1832            Henchman_Upperbody_Fire_Uzi_2213.anm
+		Size 4092            Henchman_Upperbody_Hold_Rifle_2259.anm
+		Size 3308            Henchman_Upperbody_Hold_Shotgun_2263.anm
+		Size 1864            Henchman_Upperbody_Hold_Uzi_2256.anm
+		Size 6876            Henchman_Upperbody_look_2221.anm
+		Size 44736           Assasin_9293.anm
+		Size 6876            Henchman_Upperbody_look_2231.anm
+		Size 11816           Henchman_Upperbody_Reload_Rifle_2251.anm
+		Size 7840            Henchman_Upperbody_Reload_Shotgun_2262.anm
+		Size 8744            Henchman_Upperbody_Reload_Uzi_2214.anm
+		Size 7140            Henchman_Walk_2202.hop
+		Size 86508           henchman_Smash_Statue_9033.anm
+		Size 18384           Crockett_Open_Door_9316.anm
+		Size 5776            Tubbs_Shimmy_idle_9034.anm
+		Size 14992           Dealer_Idle_9090.anm
+		Size 37588           Juan_Idle_9317.anm
+		Size 3256            Idle_6000.anm
+		Size 13424           Run_6001.anm
+		Size 15096           Crockett_1meterclimb0008.hop
+		Size 18904           Crockett_2meterclimb0009.hop
+		Size 6976            Crockett_Aim_Round_Corner_Left_0090.hop
+		Size 1976            Crockett_Aim_Round_Corner_Left_Idle_0091.hop
+		Size 10496           Crockett_Aim_Round_Corner_Left_Turnback_0092.hop
+		Size 6680            Crockett_Aim_Round_Corner_Right_0093.hop
+		Size 1684            Crockett_Aim_Round_Corner_Right_Idle_0094.hop
+		Size 7816            Crockett_Aim_Round_Corner_Right_Turnback_0095.hop
+		Size 19592           Crockett_being_grabbed_0121.hop
+		Size 2808            Crockett_Callforhelp0018.hop
+		Size 10408           Crockett_Climb_Down_Ladder_0103.hop
+		Size 10080           Crockett_Climb_Ladder_0100.hop
+		Size 14156           Crockett_Dismount_Ladder_0101.hop
+		Size 9332            Crockett_Dismount_Ladder_bottom_0112.hop
+		Size 9204            Crockett_Extended_Idle_0113.hop
+		Size 2884            Crockett_Fall0007.hop
+		Size 12436           Crockett_getup_0125.hop
+		Size 10284           Crockett_Give_Item_0126.hop
+		Size 12216           Crockett_Heal_0124.hop
+		Size 11992           Crockett_Heavylanding0011.hop
+		Size 21380           Crockett_Hit0019.anm
+		Size 6064            Crockett_Idle_Against_Wall_0031.anm
+		Size 6580            Crockett_Jump0014.anm
+		Size 5580            Crockett_Kneel_Down_0050.hop
+		Size 5512            Crockett_Kneel_Get_Up_0052.hop
+		Size 2204            Crockett_Kneel_Idle_0051.hop
+		Size 9480            Crockett_Lightlanding0010.hop
+		Size 36440           Crockett_Long_Jump_0039.hop
+		Size 3500            Crockett_Look_Round_Corner_Left_0027.hop
+		Size 4264            Crockett_Look_Round_Corner_Left_Idle_0028.hop
+		Size 3416            Crockett_Look_Round_Corner_Left_Turn_back_0029.hop
+		Size 4164            Crockett_Look_Round_Corner_Right_0024.hop
+		Size 3192            Crockett_Look_Round_Corner_Right_Idle_0025.hop
+		Size 4132            Crockett_Look_Round_Corner_Right_Turn_Back_0026.hop
+		Size 12924           Crockett_Manipulate_switch_0130.anm
+		Size 9148            Crockett_Mount_Ladder_0102.hop
+		Size 16104           Crockett_Mount_Ladder_Top_0110.hop
+		Size 16328           Crockett_Normal_Jump_0038.hop
+		Size 12016           Crockett_Open_Door_Silent_Away_0127.hop
+		Size 26448           Crockett_Open_Door_Silent_Toward_0128.hop
+		Size 12996           crockett_open_door_toward_0129.hop
+		Size 4480            Crockett_Pickup_0140.hop
+		Size 8816            Crockett_Released_0123.anm
+		Size 11024           Crockett_Run0004.hop
+		Size 4948            Crockett_Shimmy_To_Idle_0030.hop
+		Size 1684            Crockett_Slide_ladder_0105.hop
+		Size 6712            Crockett_Slide_ladder_dismount_0107.hop
+		Size 24440           Crockett_sneaking_solo_arrest_0131.hop
+		Size 6576            Crockett_Stepdown_0013.hop
+		Size 8136            Crockett_Stepup0012.hop
+		Size 6216            Crockett_Strafe_Backward_0042.hop
+		Size 2280            Crockett_Strafe_Idle_0044.hop
+		Size 5084            Crockett_Strafe_Left_0040.hop
+		Size 6416            Crockett_Strafe_Right_0041.hop
+		Size 5860            Crockett_Straffe_Left_Against_Wall_0022.hop
+		Size 5396            Crockett_Straffe_Right_Against_Wall_0021.hop
+		Size 14496           Crockett_Struggle_0122.anm
+		Size 8380            Crockett_Turn_To_Wall_0020.hop
+		Size 11108           Crockett_Unarmed_Sneak_0106.hop
+		Size 2264            Crockett_Upperbody_Aim_0072.anm
+		Size 3400            Crockett_Upperbody_Aim_Uzi_0074.anm
+		Size 2092            Crockett_Upperbody_Fire_0070.anm
+		Size 1844            Crockett_Upperbody_Fire_Uzi_0075.anm
+		Size 2464            Crockett_Upperbody_Hold_Pistol_0078.anm
+		Size 2104            Crockett_Upperbody_Hold_Two_Handed_0079.anm
+		Size 7052            Crockett_Upperbody_Holster_0076.anm
+		Size 8640            Crockett_Upperbody_Reload_0071.anm
+		Size 9100            Crockett_Upperbody_Reload_Uzi_0073.anm
+		Size 13788           tubbs_1meterclimb1008.hop
+		Size 14248           tubbs_2meterclimb1009.hop
+		Size 25332           tubbs_Backward_Dive_1043.hop
+		Size 2920            tubbs_callforhelp1020.hop
+		Size 11080           tubbs_climb_down_1072.hop
+		Size 10612           tubbs_climb_up_1070.hop
+		Size 12528           tubbs_disarm_1048.hop
+		Size 9392            tubbs_dismount_bottom_1075.hop
+		Size 15532           tubbs_dismount_top_1077.hop
+		Size 14520           tubbs_extended_idle_1061.hop
+		Size 1740            tubbs_fall1007.hop
+		Size 21184           tubbs_Forward_Dive_1040.hop
+		Size 10756           tubbs_free_1067.anm
+		Size 12672           tubbs_Getup_1065.hop
+		Size 13540           tubbs_give_item_1066.hop
+		Size 12388           tubbs_heal_partner_1064.hop
+		Size 11488           tubbs_heavylanding1011.hop
+		Size 19896           tubbs_hit1019.anm
+		Size 7576            tubbs_jump1014.anm
+		Size 13264           tubbs_Kickdoor_1030.hop
+		Size 3912            tubbs_Kneel_Down_1046.hop
+		Size 2324            tubbs_Kneel_Idle_1045.hop
+		Size 6496            tubbs_Kneel_Stand_1047.hop
+		Size 24964           tubbs_Left_Dive_1042.hop
+		Size 6940            tubbs_lightlanding1010.hop
+		Size 9236            tubbs_mount_ladder_bottom_1071.hop
+		Size 16184           tubbs_mount_ladder_top_1076.hop
+		Size 12772           tubbs_normal_jump_1038.hop
+		Size 8016            tubbs_open_door_away_1068.hop
+		Size 19316           tubbs_open_door_toward_1069.anm
+		Size 5852            Tubbs_pickup_1085.anm
+		Size 20144           tubbs_Right_Dive_1041.hop
+		Size 17100           tubbs_roll_left_1062.hop
+		Size 11972           tubbs_roll_right_1063.hop
+		Size 12776           tubbs_run_unarmed_1060.hop
+		Size 2024            tubbs_slide_1073.hop
+		Size 7952            tubbs_slide_dismount_1074.hop
+		Size 7996            tubbs_sneak1006.hop
+		Size 6616            tubbs_stepdown_1013.hop
+		Size 7964            tubbs_stepup1012.hop
+		Size 5800            tubbs_strafe_Backward_1051.hop
+		Size 1740            tubbs_strafe_idle_1054.hop
+		Size 5420            tubbs_strafe_left_1052.hop
+		Size 5400            tubbs_strafe_Right_1053.hop
+		Size 4244            tubbs_upperbody_aim_shotgun_1080.anm
+		Size 2792            tubbs_upperbody_fire_shotgun_1079.anm
+		Size 3732            tubbs_upperbody_hold_shotgun_1084.anm
+		Size 10416           tubbs_upperbody_holster_shotgun_1083.anm
+		Size 8768            tubbs_upperbody_reload_shotgun_1081.anm
+		Size 8268            tubbs_upperbody_unholster_shotgun_1082.anm
+		Size 16116           Taunt_6002.anm
+		Size 19468           Henchman_turn_fire_9402.anm
+		Size 10580           Juan_Run_2028.anm
+		Size 24708           Crockett_getup_9345.anm
+		Size 33048           Tubbs_getup_9344.anm
+		Size 22452           Henchman_Die_Knees_2421.hop
+		Size 1348            Henchman_Die_Knees_Dead_2422.hop
+
+		Total Anim Size:    (2184 k) (2236416 bytes)
+
+	Exporting Sound FX:
+		SFX Size 141304      nChannels 1       Frequency 22050       16 Bit          Gallery_Manager_Incidental_0005.wav
+		SFX Size 213304      nChannels 1       Frequency 22050       16 Bit          Gallery_Manager_Incidental_0004.wav
+		SFX Size 20764       nChannels 1       Frequency 22050       16 Bit          Gallery_Manager_Incidental_0003.wav
+		SFX Size 129124      nChannels 1       Frequency 22050       16 Bit          Gallery_Manager_Incidental_0006.wav
+		SFX Size 28624       nChannels 1       Frequency 22050       16 Bit          0071.wav
+
+		Total Sound Size:    (520 k) (533120 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (2 k) (2364 bytes)
+			Hull: 25_foyer_b:
+				Asset Tree: nLeaves 80, nBranches 71: (14 k) (15312 bytes)
+				StaticInstances 838: (104 k) (107264 bytes)
+				DynamicInstances 67: (12 k) (13132 bytes)
+				Bone, Morph, AnimInstance Data 838: (62 k) (63568 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 20: (1 k) (1520 bytes)
+				StaticLights 11: (0 k) (528 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				FXInstances 1: (0 k) (172 bytes)
+				DynamicSFX 2: (0 k) (272 bytes)
+
+				TotalSize: (197 k) (201824 bytes)
+
+			Hull: sylvia_office_b:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 1: (0 k) (128 bytes)
+				DynamicInstances 4: (0 k) (784 bytes)
+				Bone, Morph, AnimInstance Data 1: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (1004 bytes)
+
+			Hull: 23_boss_b:
+				Asset Tree: nLeaves 6, nBranches 6: (1 k) (1224 bytes)
+				StaticInstances 42: (5 k) (5376 bytes)
+				DynamicInstances 11: (2 k) (2156 bytes)
+				Bone, Morph, AnimInstance Data 42: (15 k) (16260 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+				StaticLights 3: (0 k) (144 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (24 k) (25292 bytes)
+
+			Hull: sylvia_office_b2:
+				Asset Tree: nLeaves 13, nBranches 15: (2 k) (2876 bytes)
+				StaticInstances 131: (16 k) (16768 bytes)
+				DynamicInstances 5: (0 k) (980 bytes)
+				Bone, Morph, AnimInstance Data 131: (0 k) (0 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 2: (0 k) (152 bytes)
+				StaticLights 1: (0 k) (48 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (20 k) (20880 bytes)
+
+			Hull: sylvia_office_b3:
+				Asset Tree: nLeaves 23, nBranches 22: (4 k) (4580 bytes)
+				StaticInstances 216: (27 k) (27648 bytes)
+				DynamicInstances 11: (2 k) (2156 bytes)
+				Bone, Morph, AnimInstance Data 216: (15 k) (16260 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 1: (0 k) (68 bytes)
+				StaticAABBTriggers 0: (0 k) (0 bytes)
+				DynamicAABBTriggers 1: (0 k) (76 bytes)
+				StaticLights 1: (0 k) (48 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+				DynamicSFX 3: (0 k) (408 bytes)
+
+				TotalSize: (50 k) (51300 bytes)
+
+			Hull: skydome:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 5: (0 k) (640 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 5: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (0 k) (788 bytes)
+
+			Hull: exterior:
+				Asset Tree: nLeaves 78, nBranches 63: (13 k) (14232 bytes)
+				StaticInstances 955: (119 k) (122240 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 955: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (133 k) (136528 bytes)
+
+			Hull: exterior facade:
+				Asset Tree: nLeaves 21, nBranches 14: (3 k) (3500 bytes)
+				StaticInstances 179: (22 k) (22912 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 179: (0 k) (0 bytes)
+				DynamicLights 1: (0 k) (56 bytes)
+
+				TotalSize: (25 k) (26468 bytes)
+
+			Hull: storage:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 0: (0 k) (0 bytes)
+				DynamicInstances 4: (0 k) (784 bytes)
+				Bone, Morph, AnimInstance Data 0: (17 k) (18048 bytes)
+
+				TotalSize: (18 k) (18924 bytes)
+
+			Hull: GARDEN ROOF TOP:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 2: (0 k) (256 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 2: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (348 bytes)
+
+			Hull: foyer reflection:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticInstances 4: (0 k) (512 bytes)
+				DynamicInstances 0: (0 k) (0 bytes)
+				Bone, Morph, AnimInstance Data 4: (0 k) (0 bytes)
+
+				TotalSize: (0 k) (604 bytes)
+
+			Hull: lift:
+				Asset Tree: nLeaves 1, nBranches 0: (0 k) (92 bytes)
+				StaticSphereTriggers 0: (0 k) (0 bytes)
+				DynamicSphereTriggers 1: (0 k) (68 bytes)
+
+				TotalSize: (0 k) (160 bytes)
+
+		Size Of Asset Tree                     data (472      k) (484120       bytes) - Save Game (5        k) (5772        bytes)
+		Size Of Points And Point Group         data (0        k) (336          bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (31       k) (32584        bytes) - Save Game (0        k) (160         bytes)
+		Size Of Process Object                 data (0        k) (540          bytes) - Save Game (0        k) (60          bytes)
+		Size Of Portal Data                    data (1        k) (1720         bytes) - Save Game (0        k) (64          bytes)
+		Size Of Nav Mesh                       data (14       k) (14620        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (2        k) (2048         bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (1        k) (1992         bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (8        k) (8316         bytes) - Save Game (5        k) (5728        bytes)
+		Size Of Animation Banks                data (15       k) (16316        bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		111 User Data elements
+		14 User Data Pointer Fixups
+		Sizeof user data (5 k) (5344 bytes)
+
+
+		Total size in PUB (557 k) (570484 bytes)
+
+
+		Editor Assets Save Game Size (11 k) (11784 bytes)
+		User Data Save Game Size (0 k) (808 bytes)
+		Save Game Total size (12 k) (12592 bytes)
+
+
+	Geometry -> Texture Association:
+		Geometry: 23_boss_B
+			Texture: as_white_dull_artgallery
+			Texture: gal_wall_base03
+			Texture: gal_wall_white2
+			Texture: gal_white_floor
+
+		Geometry: 23_boss_room
+			Texture: gal_wall_white2
+			Texture: gal_wall_base03
+			Texture: gal_garden_floortile
+
+		Geometry: 25_foyer_B
+			Texture: as_black_railgallery
+			Texture: gal_wall_base03
+			Texture: gal_wall_white2
+			Texture: gal_whitebrick2
+			Texture: as_white_artgallery
+			Texture: as_artfoyer_floor
+
+		Geometry: 25_window_column
+			Texture: gal_wall_white2
+			Texture: gal_wall_base03
+
+		Geometry: round window
+			Texture: as_white_artgallery
+			Texture: gal_wall_base03
+			Texture: gal_wall_white2
+
+		Geometry: podium
+			Texture: as_black_railgallery
+
+		Geometry: 21_sylvia0ffice_B3
+			Texture: gal_pink_carpet
+			Texture: gal_pink_walls
+			Texture: gal_wall_white2
+
+		Geometry: 21_sylvia0ffice_B2
+			Texture: gal_wall_white2
+			Texture: as_black_railgallery
+			Texture: gal_white_floor
+
+		Geometry: window_foyer
+			Texture: beach_glass_windows
+			Texture: chop_winref
+
+		Geometry: column_detail01
+			Texture: as_white_artgallery
+
+		Geometry: window_latt_foyer
+			Texture: as_white_artgallery
+
+		Geometry: railing_post
+			Texture: as_black_railgallery
+
+		Geometry: PICTURE_black
+			Texture: as_black_railgallery11
+
+		Geometry: gallery_picture02
+			Texture: as_large_paintings
+
+		Geometry: gallery_picture03
+			Texture: as_large_paintings
+
+		Geometry: gallery_picture04
+			Texture: as_large_paintings
+
+		Geometry: gallery_picture05
+			Texture: as_large_paintings
+
+		Geometry: gallery_picture07
+			Texture: as_large_paintings
+
+		Geometry: gallery_picture08
+			Texture: as_large_paintings
+
+		Geometry: gallery_picture09
+			Texture: as_large_paintings
+
+		Geometry: gallery_picture10
+			Texture: as_large_paintings
+
+		Geometry: gallery_picture11
+			Texture: as_large_paintings
+
+		Geometry: gallery_picture12
+			Texture: as_large_paintings
+
+		Geometry: gallery_pictureBIG01
+			Texture: as_large_paintings
+
+		Geometry: gallery_pictureBIG02
+			Texture: as_large_paintings
+
+		Geometry: gallery_pictureBIG03
+			Texture: as_large_paintings
+
+		Geometry: skydome_gallery
+			Texture: gal_blue_sky
+
+		Geometry: stair_foyer
+			Texture: gal_wall_base03
+
+		Geometry: plant_leaf_bright
+			Texture: as_fern_leaf01
+
+		Geometry: sculpt2
+			Texture: gal_artblk_8
+			Texture: spec2
+
+		Geometry: sculpt3
+			Texture: gal_artblk_8
+			Texture: spec2
+
+		Geometry: sculpt5
+			Texture: gal_artblk_8
+			Texture: spec2
+			Texture: gal_artgld_81
+			Texture: spec2
+
+		Geometry: plaque
+			Texture: gal_plaque_8
+
+		Geometry: sculpt7
+			Texture: gal_artblk_8
+			Texture: spec2
+			Texture: gal_artgrn_81
+			Texture: spec2
+
+		Geometry: awning_gallery
+			Texture: gal_pink_canvas
+
+		Geometry: stairside_exterior
+			Texture: as_white_dull_artgallery
+
+		Geometry: garden_wall_white
+			Texture: as_white_dull_artgallery1
+
+		Geometry: PalmTree_base
+			Texture: gal_palmbark
+			Texture: gal_palmtop
+
+		Geometry: flower_orange
+			Texture: gal_flower_orange
+
+		Geometry: Le_corbusier
+			Texture: lecorbusier
+			Texture: chair_chrome
+			Texture: reflect_shiny_stripe_mod
+
+		Geometry: plant_leaf_tall
+			Texture: Gal_leaf_tall
+
+		Geometry: Le_corbusier_long
+			Texture: lecorbusier1
+			Texture: chair_chrome1
+
+		Geometry: roadside
+			Texture: gal_garden_floortile
+			Texture: gal_soil_dry01
+			Texture: gal_road
+
+		Geometry: podium_exterior
+			Texture: gal_wall_base03
+
+		Geometry: soil
+			Texture: gal_soil_dry01
+
+		Geometry: Juan_Henchman_01
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody01
+			Texture: mv_gs_generic_trou02
+			Texture: mv_gs_gen_suitarm01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gsuitvest02
+
+		Geometry: Tubbs_Body5
+			Texture: separatetrou
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbs_chain01
+			Texture: reflect_shiny_stripe_mod2
+			Texture: mv_gs_tubbs_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_tubbshand01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbs_chest01
+			Texture: skin_spec_02
+			Texture: mv_gs_tubbsface04
+			Texture: mv_gs_tubbs_shirt01
+			Texture: testshader01
+			Texture: newshoe
+			Texture: testshader01
+			Texture: mv_gs_tubbsface04
+			Texture: skin_spec_02
+			Texture: tubbs_mouth_teeth
+			Texture: eye_dkbrown
+			Texture: testshader01
+			Texture: mv_gs_tubbs_shirt01
+			Texture: mv_gs_tubbs_new_alha_e3
+
+		Geometry: Door_Cabin
+			Texture: door_cabin
+
+		Geometry: twist_Sculpture3
+			Texture: mesh
+
+		Geometry: 1-1-1_box
+			Texture: as_black_railgallery
+
+		Geometry: 25_foyer_B_reflec
+			Texture: as_black_railgallery
+
+		Geometry: 25_FOYER_OVERHANG
+			Texture: as_white_artgallery1
+
+		Geometry: 25_foyer_B_REFLECWALL
+			Texture: gal_wall_base0311
+			Texture: as_white_artgallery1
+			Texture: as_white_dull_artgallery1
+
+		Geometry: 25_foyer_B_ceiling
+			Texture: as_white_dull_artgallery1
+
+		Geometry: 25_foyer_Bfloor1
+			Texture: gal_garden_floortile11
+			Texture: gal_wall_base0311
+
+		Geometry: 23_boss_B2
+			Texture: as_white_dull_artgallery
+			Texture: gal_wall_base03
+			Texture: gal_wall_white2
+
+		Geometry: 23_boss_B2reflect
+			Texture: as_white_dull_artgallery1
+			Texture: gal_wall_white21
+			Texture: gal_wall_base031
+
+		Geometry: lift_left_door
+			Texture: lift_panelside
+			Texture: lift_door_edge
+
+		Geometry: lift_main
+			Texture: buttons
+			Texture: lift_top
+			Texture: lift_bottom
+			Texture: floor_bot
+			Texture: floor_forward
+			Texture: lift_panelside
+			Texture: fusebox
+
+		Geometry: building
+			Texture: as_artfoyer_whitewalls
+			Texture: gal_pink_walls
+			Texture: gal_building_wall
+			Texture: gal_blue_building
+
+		Geometry: roadbend
+			Texture: gal_garden_floortile
+			Texture: gal_soil_dry01
+			Texture: gal_road
+
+		Geometry: plain_chair
+			Texture: brief_chair
+
+		Geometry: Leather_chair
+			Texture: leather_office
+
+		Geometry: Waste_paper_bin
+			Texture: bin
+
+		Geometry: GalleryDoor
+			Texture: gallery_door
+
+		Geometry: Gallery_table
+			Texture: gallery_table
+
+		Geometry: Gallery_desk1
+			Texture: gallery_desk
+
+		Geometry: Book_small_red
+			Texture: bookred
+
+		Geometry: Gallery_Bookshelf
+			Texture: galcase_ends
+			Texture: galcase_side
+			Texture: galcase_shelf
+
+		Geometry: PC_case
+			Texture: ibm
+
+		Geometry: PC_keyboard
+			Texture: ibm
+
+		Geometry: PC_monitor
+			Texture: ibm
+
+		Geometry: filing_cabinet_small
+			Texture: filing_cabinet
+
+		Geometry: Cabinet_drawer
+			Texture: filing_cabinet
+
+		Geometry: ledger_green
+			Texture: filing_cabinet
+
+		Geometry: ledger_brown
+			Texture: filing_cabinet
+
+		Geometry: Beta_tape
+			Texture: tape
+
+		Geometry: Video_recorder
+			Texture: betamax
+
+		Geometry: 5_disk
+			Texture: disk
+
+		Geometry: fireEx
+			Texture: fireexting
+			Texture: spec2pale
+
+		Geometry: wallvent
+			Texture: grill
+
+		Geometry: Corkboard
+			Texture: corkboard
+
+		Geometry: FirstAid
+			Texture: FAB
+
+		Geometry: gallery_pictureBIG05
+			Texture: as_large_paintings
+
+		Geometry: vent_corner
+			Texture: airvents
+
+		Geometry: vent_smlbase
+			Texture: airvents
+
+		Geometry: vent_straight
+			Texture: airvents
+			Texture: control_panel_vent
+
+		Geometry: Crockett_skin_2
+			Texture: mv_jb_crockhandsb
+			Texture: skin_spec_02
+			Texture: mv_jb_crockshoe02
+			Texture: mv_jb_crockarm02
+			Texture: skin_spec_02
+			Texture: eyebl1
+			Texture: testshader01
+			Texture: mv_jb_crockshoe02
+			Texture: reflect_shiny_stripe_mod
+			Texture: mv_jb_crockt02b
+			Texture: crok_vest_spec_01
+			Texture: mv_jb_crocktrews2b
+			Texture: subtlespec
+			Texture: mv_jb_crockholster
+			Texture: reflect_shiny_stripe_add
+			Texture: crock15b
+			Texture: skin_spec_02
+			Texture: mouth_teeth1
+			Texture: mv_jb_crockholster
+			Texture: spec2
+			Texture: mv_jb_crockglassb1
+			Texture: crock_hairb
+			Texture: skin_spec_02
+			Texture: crock_hairb
+			Texture: mv_jb_crockglassb1
+			Texture: reflect_shiny_stripe_add
+
+		Geometry: cloud02
+			Texture: busy_clouds01
+
+		Geometry: cloud01
+			Texture: busy_clouds02
+			Texture: busy_clouds01
+
+		Geometry: crash_barrier
+			Texture: grass
+			Texture: gal_garden_floortile
+			Texture: crash_barrier
+
+		Geometry: sculpt2_D5
+			Texture: gal_artblk_81
+			Texture: gal_spec_8
+
+		Geometry: sculpt2_D6
+			Texture: gal_artblk_81
+			Texture: gal_spec_8
+
+		Geometry: large_green_row
+			Texture: book
+
+		Geometry: doorfront_main
+			Texture: as_black_railgallery1
+			Texture: as_white_dull_artgallery
+			Texture: as_glass_foyer
+			Texture: chop_winref
+
+		Geometry: GAL_soil_garden
+			Texture: gal_soil_dry01
+
+		Geometry: Wall_uplight
+			Texture: tin_metal
+
+		Geometry: StripLight
+			Texture: floor1
+			Texture: whitealpha8x8
+			Texture: as_light_cover
+
+		Geometry: shadow_box
+			Texture: shadow
+
+		Geometry: shadow_generic
+			Texture: shadow2
+
+		Geometry: bren 
+			Texture: brenten2
+
+		Geometry: Generic_Head02
+			Texture: mv_gs_mathew01
+			Texture: skin_spec_02
+			Texture: mv_gs_mathew_hair01
+			Texture: eyebl1
+			Texture: lip_spec_01
+			Texture: mv_gs_mathew_alpha01
+
+		Geometry: CardReader
+			Texture: swipread
+
+		Geometry: StripLight_hung
+			Texture: floor1
+			Texture: wire
+			Texture: whitealpha8x8
+			Texture: as_light_cover
+
+		Geometry: Lightswitch
+			Texture: lightswitch
+
+		Geometry: chop_palm
+			Texture: chop_palm
+
+		Geometry: Juan
+			Texture: mv_gs_juan_shirt01
+			Texture: testshader01
+			Texture: mv_gs_juan_suitarm01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juan_suitbody01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juanhand01
+			Texture: skin_spec_02
+			Texture: mv_gs_juanface
+			Texture: mv_gs_juan_suittrou01
+			Texture: crok_vest_spec_01
+			Texture: mv_gs_juan_chest01
+			Texture: skin_spec_02
+			Texture: eyegreenl
+			Texture: lip_spec_01
+			Texture: mv_gs_juanhair01
+			Texture: mv_gs_juanshoe01
+			Texture: lip_spec_01
+			Texture: mv_gs_juancross01
+			Texture: reflect_shiny_stripe_mod
+			Texture: mouth_teeth1
+			Texture: mv_gs_juanface
+			Texture: skin_spec_02
+			Texture: mv_gs_juanhair_alpha01
+			Texture: mv_gs_juanhair_alpha02
+
+		Geometry: Juan_Henchman_02
+			Texture: mv_gs_generic_neck1w
+			Texture: skin_spec_02
+			Texture: mv_gs_gen_suitbody02
+			Texture: mv_jbgs_gentrou3
+			Texture: mv_gs_gen_suitarm02
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_genericshoe01
+			Texture: testshader01
+			Texture: mv_gs_gsuitvesto_04
+
+		Geometry: Enrico
+			Texture: mv_gs_enrico_suitbody01
+			Texture: enrico_suit_spec01
+			Texture: mouth_teeth1
+			Texture: enrico_head01
+			Texture: skin_spec_02
+			Texture: enrico_head01
+			Texture: testshader01
+			Texture: eyehz
+			Texture: testshader01
+			Texture: mv_jb_enricotrou01
+			Texture: enrico_suit_spec01
+			Texture: mv_gs_enrico_vest01
+			Texture: mv_gs_enrico_shoe01
+			Texture: testshader01
+			Texture: mv_gs_enrico_suitarm01
+			Texture: enrico_suit_spec01
+			Texture: mv_gs_enrico_hand01
+			Texture: skin_spec_02
+			Texture: mv_jb_enricobling01
+			Texture: spec3
+			Texture: mv_gs_enrico_glasses
+			Texture: testshader01
+
+		Geometry: choplampost
+			Texture: chop_lampost
+
+		Geometry: lightrays
+			Texture: downlight
+
+		Geometry: Esprit
+			Texture: 32x_generic
+			Texture: spec2
+
+		Geometry: Esprit_trim
+			Texture: grille1
+			Texture: spec2
+			Texture: red_lights
+			Texture: spec2
+			Texture: as_black_railgallery1
+			Texture: as_duct_greyleft_basement
+			Texture: 00_ld_mv_daytona_chrome1
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_windows1
+			Texture: chop_winref
+
+		Geometry: chop_neonstrip
+			Texture: chop_neon02
+
+		Geometry: chop_neon01
+			Texture: chop_neon01
+
+		Geometry: chop_neon02
+			Texture: chop_neon01
+
+		Geometry: chop_neon04
+			Texture: chop_neon01
+
+		Geometry: chop_neon05
+			Texture: chop_neon01
+
+		Geometry: chop_neon06
+			Texture: chop_neon01
+
+		Geometry: chop_neon07
+			Texture: chop_neon01
+
+		Geometry: chop_neon11
+			Texture: chop_neon03
+
+		Geometry: chop_neon13
+			Texture: chop_neon03
+
+		Geometry: Gallery_manager
+			Texture: mv_gs_gallery01_shirbody02
+			Texture: mv_gs_gallery_face01
+			Texture: skin_spec_02
+			Texture: mv_gs_gallery01_shirback01
+			Texture: shinyback
+			Texture: mv_gs_gallery_shoe01
+			Texture: testshader01
+			Texture: eyebl1
+			Texture: testshader01
+			Texture: mv_gs_genericwhand02
+			Texture: skin_spec_02
+			Texture: mv_gs_gallery_trousers01
+			Texture: mv_gs_gallery_shirtarm02
+			Texture: mouth_teeth1
+			Texture: mv_gs_gallery01_hairalpha01
+			Texture: skin_spec_02
+
+		Geometry: Drugs
+			Texture: drugs_bag
+
+			Texture: drugs_bag
+		Geometry: m79b
+			Texture: m79
+
+		Geometry: Drug_powder
+			Texture: drug_powder
+
+		Geometry: sports_wheel
+			Texture: wheelporsche
+			Texture: wheel
+
+		Geometry: mustang
+			Texture: 32x_generic
+			Texture: spec2
+
+		Geometry: mustang_trim
+			Texture: grille1
+			Texture: spec2
+			Texture: red_lights
+			Texture: spec2
+			Texture: as_black_railgallery1
+			Texture: as_duct_greyleft_basement
+			Texture: 00_ld_mv_daytona_chrome1
+			Texture: spec2
+			Texture: 00_ld_mv_daytona_windows1
+			Texture: chop_winref
+
+		Geometry: Camera_collision_box
+			Texture: as_black_railgallery1
+
+		Geometry: sledge_hammer
+			Texture: gal_palmtop1
+			Texture: chop_patcha
+
+		Geometry: uplight_beam
+			Texture: uplight
+
+		Geometry: movement_collision_box
+			Texture: as_black_railgallery1
+
+
+	Texture -> Geometry Association:
+		Texture: smokey
+
+		Texture: smoke1
+
+		Texture: as_artfoyer_whitewalls
+			Geometry: building
+
+		Texture: as_black_railgallery
+			Geometry: 25_foyer_B
+			Geometry: podium
+			Geometry: 21_sylvia0ffice_B2
+			Geometry: railing_post
+			Geometry: 1-1-1_box
+			Geometry: 25_foyer_B_reflec
+
+		Texture: gal_wall_base03
+			Geometry: 23_boss_B
+			Geometry: 23_boss_room
+			Geometry: 25_foyer_B
+			Geometry: 25_window_column
+			Geometry: round window
+			Geometry: stair_foyer
+			Geometry: podium_exterior
+			Geometry: 23_boss_B2
+
+		Texture: gal_wall_white2
+			Geometry: 23_boss_B
+			Geometry: 23_boss_room
+			Geometry: 25_foyer_B
+			Geometry: 25_window_column
+			Geometry: round window
+			Geometry: 21_sylvia0ffice_B3
+			Geometry: 21_sylvia0ffice_B2
+			Geometry: 23_boss_B2
+
+		Texture: gal_garden_floortile
+			Geometry: 23_boss_room
+			Geometry: roadside
+			Geometry: roadbend
+			Geometry: crash_barrier
+
+		Texture: gal_road
+			Geometry: roadside
+			Geometry: roadbend
+
+		Texture: gal_pink_carpet
+			Geometry: 21_sylvia0ffice_B3
+
+		Texture: gal_pink_walls
+			Geometry: 21_sylvia0ffice_B3
+			Geometry: building
+
+		Texture: gal_soil_dry01
+			Geometry: roadside
+			Geometry: soil
+			Geometry: roadbend
+			Geometry: GAL_soil_garden
+
+		Texture: as_white_dull_artgallery
+			Geometry: 23_boss_B
+			Geometry: stairside_exterior
+			Geometry: 23_boss_B2
+			Geometry: doorfront_main
+
+		Texture: gal_white_floor
+			Geometry: 23_boss_B
+			Geometry: 21_sylvia0ffice_B2
+
+		Texture: as_artfoyer_floor
+			Geometry: 25_foyer_B
+
+		Texture: as_white_artgallery
+			Geometry: 25_foyer_B
+			Geometry: round window
+			Geometry: column_detail01
+			Geometry: window_latt_foyer
+
+		Texture: as_black_railgallery1
+			Geometry: doorfront_main
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+			Geometry: Camera_collision_box
+			Geometry: movement_collision_box
+
+		Texture: gal_whitebrick2
+			Geometry: 25_foyer_B
+
+		Texture: as_white_artgallery1
+			Geometry: 25_FOYER_OVERHANG
+			Geometry: 25_foyer_B_REFLECWALL
+
+		Texture: as_white_dull_artgallery1
+			Geometry: garden_wall_white
+			Geometry: 25_foyer_B_REFLECWALL
+			Geometry: 25_foyer_B_ceiling
+			Geometry: 23_boss_B2reflect
+
+		Texture: beach_glass_windows
+			Geometry: window_foyer
+
+		Texture: chop_winref
+			Geometry: window_foyer
+			Geometry: doorfront_main
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+
+		Texture: as_black_railgallery11
+			Geometry: PICTURE_black
+
+		Texture: as_large_paintings
+			Geometry: gallery_picture02
+			Geometry: gallery_picture03
+			Geometry: gallery_picture04
+			Geometry: gallery_picture05
+			Geometry: gallery_picture07
+			Geometry: gallery_picture08
+			Geometry: gallery_picture09
+			Geometry: gallery_picture10
+			Geometry: gallery_picture11
+			Geometry: gallery_picture12
+			Geometry: gallery_pictureBIG01
+			Geometry: gallery_pictureBIG02
+			Geometry: gallery_pictureBIG03
+			Geometry: gallery_pictureBIG05
+
+		Texture: gal_blue_sky
+			Geometry: skydome_gallery
+
+		Texture: as_fern_leaf01
+			Geometry: plant_leaf_bright
+
+		Texture: gal_artblk_8
+			Geometry: sculpt2
+			Geometry: sculpt3
+			Geometry: sculpt5
+			Geometry: sculpt7
+
+		Texture: spec2
+			Geometry: sculpt2
+			Geometry: sculpt3
+			Geometry: sculpt5
+			Geometry: sculpt7
+			Geometry: Crockett_skin_2
+			Geometry: Esprit
+			Geometry: Esprit_trim
+			Geometry: mustang
+			Geometry: mustang_trim
+
+		Texture: gal_spec_8
+			Geometry: sculpt2_D5
+			Geometry: sculpt2_D6
+
+		Texture: gal_artgld_81
+			Geometry: sculpt5
+
+		Texture: gal_plaque_8
+			Geometry: plaque
+
+		Texture: gal_artblk_81
+			Geometry: sculpt2_D5
+			Geometry: sculpt2_D6
+
+		Texture: gal_artgrn_81
+			Geometry: sculpt7
+
+		Texture: gal_pink_canvas
+			Geometry: awning_gallery
+
+		Texture: gal_palmbark
+			Geometry: PalmTree_base
+
+		Texture: gal_palmtop
+			Geometry: PalmTree_base
+
+		Texture: gal_flower_orange
+			Geometry: flower_orange
+
+		Texture: lecorbusier
+			Geometry: Le_corbusier
+
+		Texture: chair_chrome
+			Geometry: Le_corbusier
+
+		Texture: reflect_shiny_stripe_mod
+			Geometry: Le_corbusier
+			Geometry: Crockett_skin_2
+			Geometry: Juan
+
+		Texture: Gal_leaf_tall
+			Geometry: plant_leaf_tall
+
+		Texture: lecorbusier1
+			Geometry: Le_corbusier_long
+
+		Texture: chair_chrome1
+			Geometry: Le_corbusier_long
+
+		Texture: mv_gs_generic_neck1w
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_02
+
+		Texture: skin_spec_02
+			Geometry: Juan_Henchman_01
+			Geometry: Tubbs_Body5
+			Geometry: Crockett_skin_2
+			Geometry: Generic_Head02
+			Geometry: Juan
+			Geometry: Juan_Henchman_02
+			Geometry: Enrico
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gen_suitbody01
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_generic_trou02
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_gen_suitarm01
+			Geometry: Juan_Henchman_01
+
+		Texture: mv_gs_genericwhand02
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_02
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_genericshoe01
+			Geometry: Juan_Henchman_01
+			Geometry: Juan_Henchman_02
+
+		Texture: testshader01
+			Geometry: Juan_Henchman_01
+			Geometry: Tubbs_Body5
+			Geometry: Crockett_skin_2
+			Geometry: Juan
+			Geometry: Juan_Henchman_02
+			Geometry: Enrico
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gsuitvest02
+			Geometry: Juan_Henchman_01
+
+		Texture: separatetrou
+			Geometry: Tubbs_Body5
+
+		Texture: crok_vest_spec_01
+			Geometry: Tubbs_Body5
+			Geometry: Crockett_skin_2
+			Geometry: Juan
+
+		Texture: mv_gs_tubbsface04
+			Geometry: Tubbs_Body5
+
+		Texture: tubbs_mouth_teeth
+			Geometry: Tubbs_Body5
+
+		Texture: eye_dkbrown
+			Geometry: Tubbs_Body5
+
+		Texture: newshoe
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_new_alha_e3
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_shirt01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chest01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_chain01
+			Geometry: Tubbs_Body5
+
+		Texture: reflect_shiny_stripe_mod2
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitbody01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbs_suitarm01
+			Geometry: Tubbs_Body5
+
+		Texture: mv_gs_tubbshand01
+			Geometry: Tubbs_Body5
+
+		Texture: mouth_teeth1
+			Geometry: Crockett_skin_2
+			Geometry: Juan
+			Geometry: Enrico
+			Geometry: Gallery_manager
+
+		Texture: spec3
+			Geometry: Enrico
+
+		Texture: lip_spec_01
+			Geometry: Generic_Head02
+			Geometry: Juan
+
+		Texture: door_cabin
+			Geometry: Door_Cabin
+
+		Texture: gal_wall_base031
+			Geometry: 23_boss_B2reflect
+
+		Texture: mesh
+			Geometry: twist_Sculpture3
+
+		Texture: gal_wall_base0311
+			Geometry: 25_foyer_B_REFLECWALL
+			Geometry: 25_foyer_Bfloor1
+
+		Texture: gal_garden_floortile11
+			Geometry: 25_foyer_Bfloor1
+
+		Texture: gal_wall_white21
+			Geometry: 23_boss_B2reflect
+
+		Texture: lift_panelside
+			Geometry: lift_left_door
+			Geometry: lift_main
+
+		Texture: lift_door_edge
+			Geometry: lift_left_door
+
+		Texture: buttons
+			Geometry: lift_main
+
+		Texture: lift_top
+			Geometry: lift_main
+
+		Texture: lift_bottom
+			Geometry: lift_main
+
+		Texture: floor_bot
+			Geometry: lift_main
+
+		Texture: floor_forward
+			Geometry: lift_main
+
+		Texture: fusebox
+			Geometry: lift_main
+
+		Texture: gal_building_wall
+			Geometry: building
+
+		Texture: gal_blue_building
+			Geometry: building
+
+		Texture: brief_chair
+			Geometry: plain_chair
+
+		Texture: floor1
+			Geometry: StripLight
+			Geometry: StripLight_hung
+
+		Texture: leather_office
+			Geometry: Leather_chair
+
+		Texture: bin
+			Geometry: Waste_paper_bin
+
+		Texture: gallery_door
+			Geometry: GalleryDoor
+
+		Texture: gallery_table
+			Geometry: Gallery_table
+
+		Texture: gallery_desk
+			Geometry: Gallery_desk1
+
+		Texture: bookred
+			Geometry: Book_small_red
+
+		Texture: galcase_ends
+			Geometry: Gallery_Bookshelf
+
+		Texture: galcase_side
+			Geometry: Gallery_Bookshelf
+
+		Texture: galcase_shelf
+			Geometry: Gallery_Bookshelf
+
+		Texture: ibm
+			Geometry: PC_case
+			Geometry: PC_keyboard
+			Geometry: PC_monitor
+
+		Texture: filing_cabinet
+			Geometry: filing_cabinet_small
+			Geometry: Cabinet_drawer
+			Geometry: ledger_green
+			Geometry: ledger_brown
+
+		Texture: tape
+			Geometry: Beta_tape
+
+		Texture: betamax
+			Geometry: Video_recorder
+
+		Texture: disk
+			Geometry: 5_disk
+
+		Texture: fireexting
+			Geometry: fireEx
+
+		Texture: spec2pale
+			Geometry: fireEx
+
+		Texture: grill
+			Geometry: wallvent
+
+		Texture: corkboard
+			Geometry: Corkboard
+
+		Texture: FAB
+			Geometry: FirstAid
+
+		Texture: as_glass_foyer
+			Geometry: doorfront_main
+
+		Texture: airvents
+			Geometry: vent_corner
+			Geometry: vent_smlbase
+			Geometry: vent_straight
+
+		Texture: control_panel_vent
+			Geometry: vent_straight
+
+		Texture: mv_jb_crockhandsb
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockholster
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockglassb1
+			Geometry: Crockett_skin_2
+
+		Texture: crock_hairb
+			Geometry: Crockett_skin_2
+
+		Texture: crock15b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crocktrews2b
+			Geometry: Crockett_skin_2
+
+		Texture: subtlespec
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockt02b
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockarm02
+			Geometry: Crockett_skin_2
+
+		Texture: mv_jb_crockshoe02
+			Geometry: Crockett_skin_2
+
+		Texture: eyebl1
+			Geometry: Crockett_skin_2
+			Geometry: Generic_Head02
+			Geometry: Gallery_manager
+
+		Texture: reflect_shiny_stripe_add
+			Geometry: Crockett_skin_2
+
+		Texture: busy_clouds02
+			Geometry: cloud01
+
+		Texture: busy_clouds01
+			Geometry: cloud02
+			Geometry: cloud01
+
+		Texture: grass
+			Geometry: crash_barrier
+
+		Texture: crash_barrier
+			Geometry: crash_barrier
+
+		Texture: tin_metal
+			Geometry: Wall_uplight
+
+		Texture: book
+			Geometry: large_green_row
+
+		Texture: as_light_cover
+			Geometry: StripLight
+			Geometry: StripLight_hung
+
+		Texture: whitealpha8x8
+			Geometry: StripLight
+			Geometry: StripLight_hung
+
+		Texture: shadow
+			Geometry: shadow_box
+
+		Texture: shadow2
+			Geometry: shadow_generic
+
+		Texture: brenten2
+			Geometry: bren 
+
+		Texture: mv_gs_mathew01
+			Geometry: Generic_Head02
+
+		Texture: mv_gs_mathew_hair01
+			Geometry: Generic_Head02
+
+		Texture: mv_gs_mathew_alpha01
+			Geometry: Generic_Head02
+
+		Texture: swipread
+			Geometry: CardReader
+
+		Texture: wire
+			Geometry: StripLight_hung
+
+		Texture: lightswitch
+			Geometry: Lightswitch
+
+		Texture: chop_palm
+			Geometry: chop_palm
+
+		Texture: mv_gs_juan_shirt01
+			Geometry: Juan
+
+		Texture: mv_gs_juanshoe01
+			Geometry: Juan
+
+		Texture: mv_gs_juancross01
+			Geometry: Juan
+
+		Texture: mv_gs_juanface
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair_alpha01
+			Geometry: Juan
+
+		Texture: eyegreenl
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suitbody01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suitarm01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhand01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_suittrou01
+			Geometry: Juan
+
+		Texture: mv_gs_juan_chest01
+			Geometry: Juan
+
+		Texture: mv_gs_juanhair_alpha02
+			Geometry: Juan
+
+		Texture: mv_gs_gen_suitbody02
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_jbgs_gentrou3
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_gen_suitarm02
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_gsuitvesto_04
+			Geometry: Juan_Henchman_02
+
+		Texture: mv_gs_enrico_suitbody01
+			Geometry: Enrico
+
+		Texture: enrico_suit_spec01
+			Geometry: Enrico
+
+		Texture: mv_gs_enrico_suitarm01
+			Geometry: Enrico
+
+		Texture: mv_gs_enrico_hand01
+			Geometry: Enrico
+
+		Texture: mv_gs_enrico_vest01
+			Geometry: Enrico
+
+		Texture: mv_gs_enrico_shoe01
+			Geometry: Enrico
+
+		Texture: mv_jb_enricotrou01
+			Geometry: Enrico
+
+		Texture: enrico_head01
+			Geometry: Enrico
+
+		Texture: mv_gs_enrico_glasses
+			Geometry: Enrico
+
+		Texture: eyehz
+			Geometry: Enrico
+
+		Texture: mv_jb_enricobling01
+			Geometry: Enrico
+
+		Texture: chop_lampost
+			Geometry: choplampost
+
+		Texture: downlight
+			Geometry: lightrays
+
+		Texture: 32x_generic
+			Geometry: Esprit
+			Geometry: mustang
+
+		Texture: 00_ld_mv_daytona_chrome1
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+
+		Texture: grille1
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+
+		Texture: red_lights
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+
+		Texture: 00_ld_mv_daytona_windows1
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+
+		Texture: as_duct_greyleft_basement
+			Geometry: Esprit_trim
+			Geometry: mustang_trim
+
+		Texture: chop_neon02
+			Geometry: chop_neonstrip
+
+		Texture: chop_neon01
+			Geometry: chop_neon01
+			Geometry: chop_neon02
+			Geometry: chop_neon04
+			Geometry: chop_neon05
+			Geometry: chop_neon06
+			Geometry: chop_neon07
+
+		Texture: chop_neon03
+			Geometry: chop_neon11
+			Geometry: chop_neon13
+
+		Texture: mv_gs_gallery01_shirbody02
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery_shirtarm02
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery_trousers01
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery01_hairalpha01
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery_shoe01
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery01_shirback01
+			Geometry: Gallery_manager
+
+		Texture: shinyback
+			Geometry: Gallery_manager
+
+		Texture: mv_gs_gallery_face01
+			Geometry: Gallery_manager
+
+		Texture: drugs_bag
+			Geometry: Drugs
+			Geometry: Drugs
+
+		Texture: m79
+			Geometry: m79b
+
+		Texture: drug_powder
+			Geometry: Drug_powder
+
+		Texture: wheelporsche
+			Geometry: sports_wheel
+
+		Texture: wheel
+			Geometry: sports_wheel
+
+		Texture: gal_palmtop1
+			Geometry: sledge_hammer
+
+		Texture: chop_patcha
+			Geometry: sledge_hammer
+
+		Texture: uplight
+			Geometry: uplight_beam
+
