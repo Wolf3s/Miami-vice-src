@@ -1,0 +1,138 @@
+
+	Exporting Sound FX:
+		SFX Size 22864       nChannels 1       Frequency 22050       16 Bit          0134.wav
+		SFX Size 140284      nChannels 1       Frequency 22050       16 Bit          0135.wav
+		SFX Size 2824        nChannels 1       Frequency 22050       16 Bit          0136.wav
+		SFX Size 28804       nChannels 1       Frequency 22050       16 Bit          0137.wav
+		SFX Size 111364      nChannels 1       Frequency 22050       16 Bit          0138.wav
+		SFX Size 3964        nChannels 1       Frequency 22050       16 Bit          0139.wav
+		SFX Size 23284       nChannels 1       Frequency 22050       16 Bit          0140.wav
+		SFX Size 110284      nChannels 1       Frequency 22050       16 Bit          0141.wav
+		SFX Size 6004        nChannels 1       Frequency 22050       16 Bit          0142.wav
+		SFX Size 29044       nChannels 1       Frequency 22050       16 Bit          0143.wav
+		SFX Size 56164       nChannels 1       Frequency 22050       16 Bit          0144.wav
+		SFX Size 12124       nChannels 1       Frequency 22050       16 Bit          0145.wav
+		SFX Size 5884        nChannels 1       Frequency 22050       16 Bit          0146.wav
+		SFX Size 56164       nChannels 1       Frequency 22050       16 Bit          0147.wav
+		SFX Size 12124       nChannels 1       Frequency 22050       16 Bit          0148.wav
+		SFX Size 28744       nChannels 1       Frequency 22050       16 Bit          0149.wav
+		SFX Size 110284      nChannels 1       Frequency 22050       16 Bit          0150.wav
+		SFX Size 5584        nChannels 1       Frequency 22050       16 Bit          0151.wav
+		SFX Size 12784       nChannels 1       Frequency 22050       16 Bit          0152.wav
+		SFX Size 13384       nChannels 1       Frequency 22050       16 Bit          0153.wav
+		SFX Size 67324       nChannels 1       Frequency 22050       16 Bit          0154.wav
+		SFX Size 6904        nChannels 1       Frequency 22050       16 Bit          0155.wav
+		SFX Size 21424       nChannels 1       Frequency 22050       16 Bit          0156.wav
+		SFX Size 23944       nChannels 1       Frequency 22050       16 Bit          0157.wav
+		SFX Size 120544      nChannels 1       Frequency 22050       16 Bit          0158.wav
+		SFX Size 16024       nChannels 1       Frequency 22050       16 Bit          0159.wav
+		SFX Size 17524       nChannels 1       Frequency 22050       16 Bit          0160.wav
+		SFX Size 34324       nChannels 1       Frequency 22050       16 Bit          0161.wav
+		SFX Size 7084        nChannels 1       Frequency 22050       16 Bit          0162.wav
+		SFX Size 14764       nChannels 1       Frequency 22050       16 Bit          0163.wav
+		SFX Size 41464       nChannels 1       Frequency 22050       16 Bit          0164.wav
+		SFX Size 44704       nChannels 1       Frequency 22050       16 Bit          0165.wav
+		SFX Size 28864       nChannels 1       Frequency 22050       16 Bit          0166.wav
+		SFX Size 3964        nChannels 1       Frequency 22050       16 Bit          0167.wav
+		SFX Size 28144       nChannels 1       Frequency 22050       16 Bit          0168.wav
+		SFX Size 36184       nChannels 1       Frequency 22050       16 Bit          0169.wav
+		SFX Size 69304       nChannels 1       Frequency 22050       16 Bit          0170.wav
+		SFX Size 38284       nChannels 1       Frequency 22050       16 Bit          0172.wav
+		SFX Size 85264       nChannels 1       Frequency 22050       16 Bit          0173.wav
+		SFX Size 12124       nChannels 1       Frequency 22050       16 Bit          0174.wav
+		SFX Size 54964       nChannels 1       Frequency 22050       16 Bit          0175.wav
+		SFX Size 59404       nChannels 1       Frequency 22050       16 Bit          0176.wav
+		SFX Size 57124       nChannels 1       Frequency 22050       16 Bit          0177.wav
+		SFX Size 101284      nChannels 1       Frequency 22050       16 Bit          0178.wav
+		SFX Size 2824        nChannels 1       Frequency 22050       16 Bit          0179.wav
+		SFX Size 30244       nChannels 1       Frequency 22050       16 Bit          0180.wav
+		SFX Size 31744       nChannels 1       Frequency 22050       16 Bit          0181.wav
+		SFX Size 58324       nChannels 1       Frequency 22050       16 Bit          0182.wav
+		SFX Size 11764       nChannels 1       Frequency 22050       16 Bit          0183.wav
+		SFX Size 23104       nChannels 1       Frequency 22050       16 Bit          0184.wav
+		SFX Size 32344       nChannels 1       Frequency 22050       16 Bit          0185.wav
+		SFX Size 20464       nChannels 1       Frequency 22050       16 Bit          0186.wav
+		SFX Size 27364       nChannels 1       Frequency 22050       16 Bit          0187.wav
+		SFX Size 47464       nChannels 1       Frequency 22050       16 Bit          0188.wav
+		SFX Size 13744       nChannels 1       Frequency 22050       16 Bit          0189.wav
+		SFX Size 16444       nChannels 1       Frequency 22050       16 Bit          0190.wav
+		SFX Size 22084       nChannels 1       Frequency 22050       16 Bit          0191.wav
+		SFX Size 12004       nChannels 1       Frequency 22050       16 Bit          0192.wav
+		SFX Size 60784       nChannels 1       Frequency 22050       16 Bit          0105.wav
+		SFX Size 5584        nChannels 1       Frequency 22050       16 Bit          0004.wav
+		SFX Size 6784        nChannels 1       Frequency 22050       16 Bit          0012.wav
+		SFX Size 63304       nChannels 1       Frequency 22050       16 Bit          0032.wav
+		SFX Size 109384      nChannels 1       Frequency 22050       16 Bit          0050.wav
+		SFX Size 67624       nChannels 1       Frequency 44100       16 Bit          0061.wav
+		SFX Size 21664       nChannels 1       Frequency 44100       16 Bit          0052.wav
+		SFX Size 20644       nChannels 1       Frequency 44100       16 Bit          0053.wav
+		SFX Size 43504       nChannels 1       Frequency 22050       16 Bit          0054.wav
+		SFX Size 7444        nChannels 1       Frequency 22050       16 Bit          0085.wav
+		SFX Size 77344       nChannels 1       Frequency 22050       16 Bit          Castillo_incidental_0001.wav
+		SFX Size 25624       nChannels 1       Frequency 22050       16 Bit          placeholder_indicdental_0001.wav
+		SFX Size 31324       nChannels 1       Frequency 22050       16 Bit          placeholder_indicdental_0002.wav
+		SFX Size 37804       nChannels 1       Frequency 22050       16 Bit          placeholder_indicdental_0003.wav
+		SFX Size 39064       nChannels 1       Frequency 22050       16 Bit          placeholder_indicdental_0004.wav
+		SFX Size 35764       nChannels 1       Frequency 22050       16 Bit          placeholder_indicdental_0005.wav
+		SFX Size 92824       nChannels 1       Frequency 22050       16 Bit          placeholder_indicdental_0006.wav
+		SFX Size 106384      nChannels 1       Frequency 22050       16 Bit          placeholder_indicdental_0007.wav
+		SFX Size 165964      nChannels 1       Frequency 22050       16 Bit          Castillo_Incidental_G0001a.wav
+		SFX Size 14524       nChannels 1       Frequency 22050       16 Bit          Generic_Incidental_G0001.wav
+		SFX Size 11344       nChannels 1       Frequency 22050       16 Bit          Generic_Incidental_G0002.wav
+		SFX Size 16504       nChannels 1       Frequency 22050       16 Bit          Generic_Incidental_G0003.wav
+		SFX Size 61624       nChannels 1       Frequency 22050       16 Bit          Generic_Incidental_G0004.wav
+		SFX Size 91444       nChannels 1       Frequency 22050       16 Bit          Generic_Incidental_G0005.wav
+		SFX Size 219664      nChannels 1       Frequency 22050       16 Bit          Generic_Incidental_G0006.wav
+		SFX Size 117784      nChannels 1       Frequency 22050       16 Bit          Generic_Incidental_G0007.wav
+		SFX Size 104464      nChannels 1       Frequency 22050       16 Bit          0001.wav
+		SFX Size 12964       nChannels 1       Frequency 22050       16 Bit          0002.wav
+		SFX Size 12964       nChannels 1       Frequency 22050       16 Bit          0003.wav
+		SFX Size 24184       nChannels 1       Frequency 22050       16 Bit          0072.wav
+		SFX Size 28624       nChannels 1       Frequency 22050       16 Bit          0071.wav
+		SFX Size 94984       nChannels 1       Frequency 22050       16 Bit          0080.wav
+		SFX Size 7144        nChannels 1       Frequency 22050       16 Bit          0086.wav
+		SFX Size 30544       nChannels 1       Frequency 22050       16 Bit          0014.wav
+		SFX Size 31384       nChannels 1       Frequency 22050       16 Bit          0077.wav
+		SFX Size 130864      nChannels 1       Frequency 22050       16 Bit          0055.wav
+		SFX Size 30484       nChannels 1       Frequency 44100       16 Bit          0056.wav
+		SFX Size 61084       nChannels 1       Frequency 44100       16 Bit          0057.wav
+		SFX Size 33724       nChannels 1       Frequency 44100       16 Bit          0058.wav
+		SFX Size 57604       nChannels 1       Frequency 11025       8 Bit           0059.wav
+		SFX Size 25024       nChannels 1       Frequency 11025       8 Bit           0060.wav
+		SFX Size 12664       nChannels 1       Frequency 22050       16 Bit          0066.wav
+		SFX Size 10804       nChannels 1       Frequency 22050       16 Bit          0034.wav
+
+		Total Sound Size:    (4291 k) (4394024 bytes)
+
+	Exporting Logic:
+		Sizeof map sections and hulls (0 k) (192 bytes)
+		Size Of Asset Tree                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Points And Point Group         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Timeline And Timeline Instance data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Process Object                 data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Portal Data                    data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Nav Mesh                       data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Player Start Point             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of FX                             data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Events                         data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Animation Banks                data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+		Size Of Light Volume                   data (0        k) (128          bytes) - Save Game (0        k) (0           bytes)
+		Size Of File Table                     data (0        k) (0            bytes) - Save Game (0        k) (0           bytes)
+
+
+		0 User Data elements
+		0 User Data Pointer Fixups
+		Sizeof user data (0 k) (0 bytes)
+
+
+		Total size in PUB (0 k) (320 bytes)
+
+
+		Editor Assets Save Game Size (0 k) (0 bytes)
+		User Data Save Game Size (0 k) (0 bytes)
+		Save Game Total size (0 k) (0 bytes)
+
+
+	Geometry -> Texture Association:
+
+	Texture -> Geometry Association:
